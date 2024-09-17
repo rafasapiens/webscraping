@@ -11,7 +11,7 @@ escritor.writerow(['Id','Nome','Sobrenome','Nascimento','Obito'])
 #Inicio do scrap
 # Número do id a ser buscado do site
 id= 26796
-while id<27061:
+while id<27110:
     id=id+1
     print(' ')
     print(id)
