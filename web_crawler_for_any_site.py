@@ -6,6 +6,8 @@ página web de um dado site:
 
 import requests
 from bs4 import BeautifulSoup
+from urllib.request import urlopen
+
 
 print('Crawler trabalhando...')
 
@@ -39,6 +41,25 @@ class Website:
 
 
 class Crawler:
+    
+    def getPage(url):
+        try:
+            html = urlopen(url)
+        except Exception:
+            return None
+        return BeautifulSoup(html, 'html.parser')
+    def safeGet(bs, selector):
+        """
+    Utility function used to get a content string from a Beautiful Soup
+    object and a selector. Returns an empty string if no object
+    is found for the given selector
+    """
+        selectedElems = bs.select(selector)
+        if selectedElems is not None and len(selectedElems) > 0:
+            return '\n'.join([elem.get_text() for elem in selectedElems])
+        return ''
+
+    '''
     def getPage(self, url):
         try:
             req = requests.get(url)
@@ -69,10 +90,50 @@ class Crawler:
                 content = Content(url, title, body)
                 content.print()
                 print('até o fim veio')
+    '''
 
-
+    def getContent(website, path):
+        """
+ Extract content from a given page URL
+ """
+        url = website.url+path
+        bs = Crawler.getPage(url)
+        if bs is not None:
+            title = Crawler.safeGet(bs, website.titleTag)
+            body = Crawler.safeGet(bs, website.bodyTag)
+            return Content(url, title, body)
+        return Content(url, '', '')
 
 # Eis o código que define os objetos do site e dá início ao processo:
+
+siteData = [
+ ['O\'Reilly', 'https://www.oreilly.com', 'h1', 'div.title-description'],
+ ['Reuters', 'https://www.reuters.com', 'h1', 'div.ArticleBodyWrapper'],
+ ['Brookings', 'https://www.brookings.edu', 'h1', 'div.post-body'],
+ ['CNN', 'https://www.cnn.com', 'h1', 'div.article__content']
+]
+websites = []
+for name, url, title, body in siteData:
+ websites.append(Website(name, url, title, body))
+Crawler.getContent(
+ websites[0],
+ '/library/view/web-scraping-with/9781491910283'
+ ).print()
+Crawler.getContent(
+ websites[1],
+ '/article/us-usa-epa-pruitt-idUSKBN19W2D0'
+ ).print()
+Crawler.getContent(
+ websites[2],
+ '/blog/techtank/2016/03/01/idea-to-retire-old-methods-of-policy-education/'
+ ).print()
+Crawler.getContent(
+ websites[3],
+ '/2023/04/03/investing/dogecoin-elon-musk-twitter/index.html'
+ ).print()
+
+
+'''
 crawler = Crawler()
 siteData = [
 ['O\'Reilly Media', 'http://oreilly.com','h1', 'section#product-description'],
@@ -89,4 +150,4 @@ crawler.parse(websites[1], 'http://www.reuters.com/article/us-usa-epa-pruitt-idU
 crawler.parse(websites[2], 'https://www.brookings.edu/blog/techtank/2016/03/01/idea-to-retire-old-methods-of-policy-education/')
 crawler.parse(websites[3], 'https://www.nytimes.com/2018/01/28/business/energy-environment/oil-boom.html')
 
-
+'''

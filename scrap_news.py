@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from urllib.request import urlopen
 
 class Content:
     def __init__(self, url, title, body):
@@ -7,9 +8,22 @@ class Content:
         self.title = title
         self.body = body
 
+    def print(self):
+        print(f'TITLE: {self.title}')
+        print(f'URL: {self.url}')
+        print(f'BODY: {self.body}')
+
 def getPage(url):
     req = requests.get(url)
     return BeautifulSoup(req.text, 'html.parser')
+
+def scrapeCNN(url):
+    bs = BeautifulSoup(urlopen(url))
+    title = bs.find('h1').text
+    body = bs.find('div', {'class': 'article__content'}).text
+    print('body: ')
+    print(body)
+    return Content(url, title, body)
 
 def scrapeNYTimes(url):
     bs = getPage(url)
@@ -35,3 +49,12 @@ content = scrapeNYTimes(url)
 print('Title: {}'.format(content.title))
 print('URL: {}\n'.format(content.url))
 print(content.body)
+
+
+url = 'https://www.brookings.edu/research/robotic-rulemaking/'
+content = scrapeBrookings(url)
+content.print()
+url = 'https://www.cnn.com/2023/04/03/investing/\
+dogecoin-elon-musk-twitter/index.html'
+content = scrapeCNN(url)
+content.print()
