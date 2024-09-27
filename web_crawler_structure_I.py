@@ -1,5 +1,122 @@
-'''
+# código chatgpt funcional porém sites sem os topicos pesquisados
 
+from bs4 import BeautifulSoup
+from urllib.request import urlopen, Request
+
+class Content:
+    """Classe base comum para todos os artigos/páginas"""
+
+    def __init__(self, topic, url, title, body):
+        self.topic = topic
+        self.url = url
+        self.title = title
+        self.body = body
+
+    def print(self):
+        """Imprime as informações do artigo"""
+        print(f'Novo artigo encontrado para o tópico: {self.topic}')
+        print(f'URL: {self.url}')
+        print(f'TÍTULO: {self.title}')
+        print(f'CORPO:\n{self.body}')
+
+
+class Website:
+    """Armazena informações sobre a estrutura do site"""
+
+    def __init__(self, name, url, searchUrl, resultListing, resultUrl, absoluteUrl, titleTag, bodyTag):
+        self.name = name
+        self.url = url
+        self.searchUrl = searchUrl
+        self.resultListing = resultListing
+        self.resultUrl = resultUrl
+        self.absoluteUrl = absoluteUrl
+        self.titleTag = titleTag
+        self.bodyTag = bodyTag
+
+
+class Crawler:
+    """Realiza o crawling no site especificado"""
+
+    def __init__(self, website):
+        self.site = website
+        self.found = {}
+
+    def getPage(self, url):
+        """Obtém a página da web a partir da URL"""
+        try:
+            # Definindo cabeçalhos para evitar bloqueio por alguns sites
+            req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            html = urlopen(req)
+            return BeautifulSoup(html, 'html.parser')
+        except Exception as e:
+            print(f"Erro ao abrir a página {url}: {e}")
+            return None
+
+    def safeGet(self, bs, selector):
+        """Extrai de forma segura o conteúdo da tag HTML fornecida"""
+        selectedElems = bs.select(selector)
+        if selectedElems and len(selectedElems) > 0:
+            return '\n'.join([elem.get_text().strip() for elem in selectedElems])
+        return ''
+
+    def getContent(self, topic, url):
+        """Extrai o conteúdo de uma página específica"""
+        bs = self.getPage(url)
+        if bs is not None:
+            title = self.safeGet(bs, self.site.titleTag)
+            body = self.safeGet(bs, self.site.bodyTag)
+            return Content(topic, url, title, body)
+        return Content(topic, url, 'Título não encontrado', 'Corpo não encontrado')
+
+    def search(self, topic):
+        """Realiza a busca no site para o tópico fornecido"""
+        searchUrl = self.site.searchUrl + topic
+        bs = self.getPage(searchUrl)
+        if bs is not None:
+            searchResults = bs.select(self.site.resultListing)
+            for result in searchResults:
+                url = result.select(self.site.resultUrl)[0].attrs['href']
+                # Verifica se a URL é relativa ou absoluta
+                url = url if self.site.absoluteUrl else self.site.url + url
+                if url not in self.found:
+                    self.found[url] = self.getContent(topic, url)
+                    self.found[url].print()
+        else:
+            print(f"Não foi possível realizar a busca para o tópico: {topic}")
+
+
+# Dados dos sites para crawling
+siteData = [
+    ['Reuters', 'http://reuters.com',
+     'https://www.reuters.com/search/news?blob=',
+     'div.search-result-indiv', 'h3.search-result-title a',
+     False, 'h1', 'div.ArticleBodyWrapper'],
+    ['Brookings', 'http://www.brookings.edu',
+     'https://www.brookings.edu/search/?s=',
+     'div.article-info', 'h4.title a', True, 'h1', 'div.core-block'],
+    ['Pythonscraping', 'https://pythonscraping.com', 'h1']
+
+]
+
+# Cria uma lista de objetos Website
+sites = [Website(name, url, search, rListing, rUrl, absUrl, tt, bt) for name, url, search, rListing, rUrl, absUrl, tt, bt in siteData]
+
+# Inicializa os crawlers para cada site
+crawlers = [Crawler(site) for site in sites]
+
+# Tópicos de pesquisa
+topics = ['python', 'data science']
+
+# Realiza a pesquisa para cada tópico em cada site
+for topic in topics:
+    print(f"\nPesquisando por: {topic}\n")
+    for crawler in crawlers:
+        crawler.search(topic)
+
+
+
+
+'''
 
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
@@ -109,9 +226,9 @@ for topic in topics:
     for crawler in crawlers:
         crawler.search(topic)
 
-'''
 
-# código chat gpt'
+
+# código chat gpt não funcional'
 
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
@@ -207,7 +324,8 @@ siteData = [
      False, 'h1', 'div.ArticleBodyWrapper'],
     ['Brookings', 'http://www.brookings.edu',
      'https://www.brookings.edu/search/?s=',
-     'div.article-info', 'h4.title a', True, 'h1', 'div.core-block']
+     'div.article-info', 'h4.title a', True, 'h1', 'div.core-block'],
+    ['Pythonscraping', 'https://pythonscraping.com, 'p']
 ]
 
 sites = []
@@ -221,3 +339,4 @@ for topic in topics:
     for crawler in crawlers:
         crawler.search(topic)
 
+'''
