@@ -1,5 +1,6 @@
-
 '''
+
+
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
@@ -107,7 +108,10 @@ topics = ['python', 'data%20science']
 for topic in topics:
     for crawler in crawlers:
         crawler.search(topic)
+
 '''
+
+# código chat gpt'
 
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
