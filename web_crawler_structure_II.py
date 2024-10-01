@@ -6,7 +6,7 @@ when the site’s pages may be disorganized or widely dispersed.
 
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
-
+import re
 
 class Website:
     def __init__(self, name, url, targetPattern, absoluteUrl, titleTag, bodyTag):
