@@ -14,4 +14,9 @@ print(tabela.tail(60))
 # To display types of data
 print(tabela.dtypes)
 
+# To describe data
+print("Describe Data: \n",tabela.describe)
+
+# To info data
+print("Info: \n",tabela.info)
 
