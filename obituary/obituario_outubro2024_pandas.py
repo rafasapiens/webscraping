@@ -1,6 +1,6 @@
 import pandas as pd
 
-tabela = pd.read_csv("obituario_setembro2024.csv", sep=",")
+tabela = pd.read_csv("obituario_outubro2024.csv", sep=",")
 print(tabela)
 
 #display(tabela)
