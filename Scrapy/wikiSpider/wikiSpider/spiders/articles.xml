@@ -26521,4 +26521,1357 @@ Der Begriff wurde vermutlich 1995 von </value><value>Ken Manheimer</value><value
 </value><value>^</value><value> </value><value>"TerminusDB — what's in a name?"</value><value>. TerminusDB. 21 أغسطس 2019. مؤرشف من </value><value>الأصل</value><value> في 2020-06-23</value><value>. اطلع عليه بتاريخ </value><value>2020-05-08</value><value>.</value><value>
 </value><value>
 </value><value>
+</value><value><?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><url>https://en.wikipedia.org/wiki/Benevolent_dictator_for_life</url><title>None</title><text><value>Title given to a small number of open-source software development leaders</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>For the political term, see </value><value>Benevolent dictatorship</value><value>.</value><value>
+</value><value>Benevolent dictator for life</value><value> (</value><value>BDFL</value><value>) is a title given to a small number of </value><value>open-source software development</value><value> leaders, typically project founders who retain the final say in disputes or arguments within the community. The phrase originated in 1995 with reference to </value><value>Guido van Rossum</value><value>, creator of the </value><value>Python programming language</value><value>.</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>
 </value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Shortly after Van Rossum joined the </value><value>Corporation for National Research Initiatives</value><value>, the term appeared in a follow-up mail by Ken Manheimer to a meeting trying to create a semi-formal group that would oversee Python development and workshops; this initial use included an additional joke of naming Van Rossum the "First Interim BDFL". According to Rossum, the title was most likely created by Ken Manheimer or </value><value>Barry Warsaw</value><value>.</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>In July 2018, Van Rossum announced that he would be stepping down as BDFL of Python without appointing a successor, effectively eliminating the title within the Python community structure.</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>
+</value><value>Usage</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>BDFL should not be confused with the more common term for open-source leaders, "benevolent dictator", which was popularized by </value><value>Eric S. Raymond</value><value>'s essay "</value><value>Homesteading the Noosphere</value><value>" (1999).</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>Among other topics related to </value><value>hacker culture</value><value>, Raymond elaborates on how the nature of open source forces the "dictatorship" to keep itself benevolent, since a strong disagreement can lead to the </value><value>forking</value><value> of the project under the rule of new leaders.</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>Referent candidates</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>Key
+</value><value>
+</value><value>
+</value><value>†
+</value><value>
+</value><value>Deceased
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>Name
+</value><value>
+</value><value>Project
+</value><value>
+</value><value>Type
+</value><value>
+</value><value>Reference
+</value><value>
+</value><value>
+</value><value>Sylvain Benner
+</value><value>
+</value><value>Spacemacs</value><value>
+</value><value>
+</value><value>Community-driven </value><value>Emacs</value><value> distribution
+</value><value>
+</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Vitalik Buterin</value><value>
+</value><value>
+</value><value>Ethereum</value><value>
+</value><value>
+</value><value>Blockchain-based cryptocurrency
+</value><value>
+</value><value>[</value><value>6</value><value>]</value><value>[</value><value>better source needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Dries Buytaert</value><value>
+</value><value>
+</value><value>Drupal</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>François Chollet</value><value>
+</value><value>
+</value><value>Keras</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan Czaplicki
+</value><value>
+</value><value>Elm</value><value>
+</value><value>
+</value><value>Front-end web programming language
+</value><value>
+</value><value>[</value><value>9</value><value>]</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Laurent Destailleur
+</value><value>
+</value><value>Dolibarr ERP CRM</value><value>
+</value><value>
+</value><value>Software suite for </value><value>Enterprise Resource Planning</value><value> and </value><value>Customer Relationship Management</value><value>
+</value><value>
+</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>David Heinemeier Hansson</value><value>
+</value><value>
+</value><value>Ruby on Rails</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Rich Hickey</value><value>
+</value><value>
+</value><value>Clojure</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Adrian Holovaty</value><value> </value><value>and Jacob Kaplan-Moss
+</value><value>
+</value><value>Django</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Andrew Kelley
+</value><value>
+</value><value>Zig</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>15</value><value>]</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Xavier Leroy</value><value>
+</value><value>
+</value><value>OCaml</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>17</value><value>]</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Haoyuan Li</value><value>
+</value><value>
+</value><value>Alluxio</value><value>
+</value><value>
+</value><value>Data Orchestration System
+</value><value>
+</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Miles Lubin</value><value>
+</value><value>
+</value><value>JuMP</value><value>
+</value><value>
+</value><value>Mathematical optimization modeling language in Julia
+</value><value>
+</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Yukihiro Matsumoto (Matz)</value><value>
+</value><value>
+</value><value>Ruby</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>21</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Wes McKinney</value><value>
+</value><value>
+</value><value>Pandas</value><value>
+</value><value>
+</value><value>Python data analysis library
+</value><value>
+</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gavin Mendel-Gleason</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>
+</value><value>TerminusDB</value><value>
+</value><value>
+</value><value>Open-source graph database for knowledge graph representation
+</value><value>
+</value><value>[</value><value>23</value><value>]</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Moolenaar</value><value>†
+</value><value>
+</value><value>Vim</value><value>
+</value><value>
+</value><value>Text editor
+</value><value>
+</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Matt Mullenweg</value><value>[</value><value>b</value><value>]</value><value>
+</value><value>
+</value><value>WordPress</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Odersky</value><value>
+</value><value>
+</value><value>Scala</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>27</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Taylor Otwell
+</value><value>
+</value><value>Laravel</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>28</value><value>]</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Theo de Raadt</value><value>
+</value><value>
+</value><value>OpenBSD</value><value>
+</value><value>
+</value><value>A </value><value>Unix-like</value><value> operating system
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Arnold Robbins</value><value>
+</value><value>
+</value><value>Awk</value><value>, Gawk
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Eugen Rochko</value><value>
+</value><value>
+</value><value>Mastodon</value><value>
+</value><value>
+</value><value>Open source, decentralized social network
+</value><value>
+</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ton Roosendaal</value><value>[</value><value>c</value><value>]</value><value>
+</value><value>
+</value><value>Blender</value><value>
+</value><value>
+</value><value>3D computer graphics software
+</value><value>
+</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sébastien Ros
+</value><value>
+</value><value>Orchard Project</value><value>
+</value><value>
+</value><value>Content management system
+</value><value>
+</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Mark Shuttleworth</value><value>[</value><value>d</value><value>]</value><value>
+</value><value>
+</value><value>Ubuntu</value><value>
+</value><value>
+</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Soller
+</value><value>
+</value><value>Redox</value><value>
+</value><value>
+</value><value>Operating system
+</value><value>
+</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Don Syme</value><value>[</value><value>e</value><value>]</value><value>
+</value><value>
+</value><value>F#</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Linus Torvalds</value><value>[</value><value>f</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>
+</value><value>
+</value><value>Operating system kernel
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>[</value><value>37</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>José Valim
+</value><value>
+</value><value>Elixir</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Pauli Virtanen
+</value><value>
+</value><value>SciPy</value><value>
+</value><value>
+</value><value>Python</value><value> library used for scientific and technical computing
+</value><value>
+</value><value>[</value><value>39</value><value>]</value><value>[</value><value>40</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Patrick Volkerding</value><value>
+</value><value>
+</value><value>Slackware</value><value>
+</value><value>
+</value><value>GNU</value><value>/</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Nathan Voxland
+</value><value>
+</value><value>Liquibase</value><value>
+</value><value>
+</value><value>Database schema management
+</value><value>
+</value><value>[</value><value>42</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jimmy Wales</value><value>
+</value><value>
+</value><value>Wikimedia Foundation</value><value>
+</value><value>
+</value><value>Collaborative knowledge project
+</value><value>
+</value><value>[</value><value>43</value><value>]</value><value>[</value><value>i</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Walker
+</value><value>
+</value><value>Exercism</value><value>
+</value><value>
+</value><value>Open-source programming education platform
+</value><value>
+</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Shaun Walker
+</value><value>
+</value><value>DotNetNuke</value><value>
+</value><value>
+</value><value>Web application framework
+</value><value>
+</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Larry Wall</value><value>
+</value><value>
+</value><value>Perl</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan You</value><value>
+</value><value>
+</value><value>Vue.js</value><value>
+</value><value>
+</value><value>JavaScript MVVM framework for building user interfaces and single-page applications.
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Soumith Chintala
+</value><value>
+</value><value>PyTorch</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>47</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Traverso, Dain Sundstrom, David Phillips
+</value><value>
+</value><value>Trino</value><value>
+</value><value>
+</value><value>SQL query engine
+</value><value>
+</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Kohsuke Kawaguchi</value><value>
+</value><value>
+</value><value>Jenkins</value><value>
+</value><value>
+</value><value>Automation server
+</value><value>
+</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gabor de Mooij
+</value><value>
+</value><value>RedBeanPHP</value><value>
+</value><value>
+</value><value>Database object relational mapper
+</value><value>
+</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Cohen</value><value>
+</value><value>
+</value><value>BitTorrent</value><value>
+</value><value>
+</value><value>Peer-to-peer file sharing protocol
+</value><value>
+</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Walter Bright</value><value>
+</value><value>
+</value><value>D (programming language)</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Richie Vink
+</value><value>
+</value><value>Polars
+</value><value>
+</value><value>Data analysis framework
+</value><value>
+</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>William Falcon
+</value><value>
+</value><value>PyTorch Lightning</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Lars Hvam
+</value><value>
+</value><value>abapGit
+</value><value>
+</value><value>Git client for ABAP
+</value><value>
+</value><value>[</value><value>54</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sebastián Ramírez
+</value><value>
+</value><value>FastAPI</value><value>
+</value><value>
+</value><value>Web framework for building APIs with </value><value>Python</value><value>
+</value><value>
+</value><value>[</value><value>55</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bill Hall (gingerBill)
+</value><value>
+</value><value>Odin
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>56</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Damien Elmes (dae)
+</value><value>
+</value><value>Anki</value><value>
+</value><value>
+</value><value>Spaced repetition</value><value> system
+</value><value>
+</value><value>[</value><value>57</value><value>]</value><value>[</value><value>58</value><value>]</value><value>
+</value><value>
+</value><value>Organizational positions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CTO of </value><value>TerminusDB</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Lead Developer at the WordPress Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chairman of the </value><value>Blender Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Until December 2009, CEO of </value><value>Canonical Ltd</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Technical Advisor at the </value><value>F# Software Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Sponsee of the </value><value>Linux Foundation</value><value>. Also holds the trademark for Linux</value><value>
+</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Design by dictator</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Disputed by Wales; </value><value>"I am not the benevolent dictator of anything"</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Guido van Rossum (2008-07-31). </value><value>"Origin of BDFL"</value><value>. Artima.com. </value><value>Archived</value><value> from the original on 2012-07-21</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Python Creator Scripts Inside Google"</value><value>. </value><value>eWeek</value><value>. 2006-03-06. </value><value>Archived</value><value> from the original on 2018-08-09</value><value>. Retrieved </value><value>2008-05-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Van Rossum, Guido (July 12, 2018). </value><value>"Transfer of power"</value><value>. </value><value>mail.python.org</value><value>. </value><value>Archived</value><value> from the original on July 12, 2018</value><value>. Retrieved </value><value>August 9,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric S. (2000). </value><value>"Homesteading the Noosphere § Project Structures and Ownership"</value><value>. </value><value>Eric S. Raymond's Home Page</value><value>. </value><value>Archived</value><value> from the original on 2012-07-01</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Spacemacs COMMUNITY.org"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-08-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Pearson, Jordan (24 April 2017). </value><value>"Ethereum's Boy King Is Thinking About Giving Up the Mantle"</value><value>. </value><value>Vice</value><value>. Retrieved </value><value>5 September</value><value> 2023</value><value>. </value><value>One participant called him a benevolent dictator.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Fay, Randy</value><value>. </value><value>"How Do Open Source Communities Govern Themselves? | RandyFay.comties Govern Themselves?"</value><value>. </value><value>randyfay.com</value><value>. Retrieved </value><value>27 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Keras API Special Interest Group, Leadership"</value><value>. </value><value>GitHub</value><value>. December 21, 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"56: Ember vs. Elm: The Showdown with Philip Poots | The Frontside Podcast"</value><value>. </value><value>The Frontside Podcast</value><value>. Archived from </value><value>the original</value><value> on November 16, 2018</value><value>. Retrieved </value><value>2017-08-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>elm-conf (2016-09-19), </value><value>"Code is the Easy Part" by Evan Czaplicki</value><value>, retrieved </value><value>2017-08-14</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Dolibarr project organization, different roles of actors"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Constine, Josh (December 7, 2012). </value><value>"Dropbox Hires Away Google's Guido Van Rossum, The Father Of Python"</value><value>. TechCrunch</value><value>. Retrieved </value><value>June 1,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure JIRA Workflow"</value><value>. Archived from </value><value>the original</value><value> on November 13, 2015</value><value>. Retrieved </value><value>3 October</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Adrian and Jacob retiring as Django BDFLs"</value><value>. Adrian Holovaty. January 12, 2014</value><value>. Retrieved </value><value>June 14,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal: Create a standard process for proposals"</value><value>. </value><value>GitHub</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Interfacing with Zig, a BDFL-run Project"</value><value>. </value><value>Loris Cro's Blog</value><value>. December 10, 2021</value><value>. Retrieved </value><value>April 14,</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A History of OCaml | OCaml.org"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"OCaml Infrastructure mailing list"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Introducing Alluxio Open Source Project Governance "</value><value>[1]</value><value>"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Governance Structure: JuMP"</value><value>. Retrieved </value><value>2023-09-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A Ruby Design Process"</value><value>. Retrieved </value><value>2016-04-17</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"pandas 0.20.3 documentation: Tutorials"</value><value>. Retrieved </value><value>2017-07-24</value><value>.</value><value> "Wes McKinney's (pandas BDFL) blog"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB, Twitter"</value><value>. May 6, 2020</value><value>. Retrieved </value><value>May 6,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB — what's in a name?"</value><value>. TerminusDB. August 21, 2019</value><value>. Retrieved </value><value>May 8,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Why Neovim is Better than Vim"</value><value>. January 15, 2015</value><value>. Retrieved </value><value>30 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Thesis, Automattic, and WordPress | Post Status"</value><value>. July 24, 2015</value><value>. Retrieved </value><value>2015-07-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Programming in Scala Leaps onto the World Stage!"</value><value>. Retrieved </value><value>2015-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Twitter"</value><value>. Taylor Otwell. October 9, 2014</value><value>. Retrieved </value><value>October 9,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Creator of the Laravel PHP Framework"</value><value>. </value><value>Facebook</value><value>. August 5, 2014</value><value>. Retrieved </value><value>August 5,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Robbins, Arnold (March 2014). </value><value>"The GNU Project and Me: 27 Years with GNU AWK"</value><value> </value><value>(PDF)</value><value>. </value><value>skeeve.com</value><value>. </value><value>Archived</value><value> </value><value>(PDF)</value><value> from the original on October 6, 2014</value><value>. Retrieved </value><value>August 11,</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Mastodon is crumbling—and many blame its creator"</value><value>. </value><value>The Daily Dot</value><value>. January 18, 2019.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Developer Intro/Overview"</value><value>. Retrieved </value><value>20 July</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Orchard Project Steering Committee"</value><value>. Archived from </value><value>the original</value><value> on August 12, 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Ubuntu carves niche in Linux landscape"</value><value>. </value><value>CNET</value><value>. Archived from </value><value>the original</value><value> on 6 November 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"CONTRIBUTING.md · master · redox-os / redox"</value><value>. July 8, 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Contributing to the F# Language and Compiler"</value><value>. Retrieved </value><value>29 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Dee-Ann LeBlanc (31 July 2006). </value><value>Linux For Dummies</value><value> (7th ed.). John Wiley &amp; Sons. p. 15. </value><value>ISBN</value><value> </value><value>978-0-470-04793-4</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Elixir Companies"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-11-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy 1.0.0"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy project governance"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Stories of Linux: A Look at Slackware Linux"</value><value>. </value><value>linux.com</value><value>. Archived from </value><value>the original</value><value> on October 30, 2014</value><value>. Retrieved </value><value>September 21,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"User and Developer Community | Post Status"</value><value>. Retrieved </value><value>2015-08-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chozick, Amy (June 27, 2013). </value><value>"Jimmy Wales is Not an Internet Billionaire"</value><value>. </value><value>The New York Times</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Jeremy Walker on Being the BDFL of Exercism by Humans of Open Source • A podcast on Anchor"</value><value>. </value><value>Anchor</value><value>. Retrieved </value><value>2021-03-26</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Book: Building Websites with DotNetNuke 5, Michael Washington and Ian Lackey, Packt Publishing. Page 14 "The core team comprises individuals invited to join the team by Shaun Walker, whom they affectionately call the "Benevolent Dictator".</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Art of Ballistic Programming"</value><value>. Archived from </value><value>the original</value><value> on June 17, 2013.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"PyTorch Governance | Maintainers — PyTorch 2.0 documentation"</value><value>. </value><value>pytorch.org</value><value>. Retrieved </value><value>2023-03-21</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Trino and the BDFL model </value><value>https://trino.io/blog/2023/04/06/trino-bdfl-focus.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Jenkins Enhancement Proposal #1: BDFL </value><value>https://github.com/jenkinsci/jep/blob/master/jep/1/README.adoc#bdfl</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>RedBeanPHP index page </value><value>https://redbeanphp.com/index.php?p=/welcome#sponsor</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>BitTorrent Enhancement Proposal #1: The BEP Process </value><value>https://www.bittorrent.org/beps/bep_0001.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Polars - About us"</value><value>. 2024-04-07. </value><value>Archived</value><value> from the original on 2024-03-24.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Lightning Governance — PyTorch Lightning 2.3.0dev documentation"</value><value>. </value><value>lightning.ai</value><value>. Retrieved </value><value>2024-04-10</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Addressing the Future of ABAP: The Power of Open Source"</value><value>. 2024-06-06.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GitHub FastAPI"</value><value>. 2024-07-30.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal Process"</value><value>. 2019-03-31.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ankitects Github organization"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki development discussion"</value><value>. </value><value>Reddit</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Benevolent_dictator_for_life&amp;oldid=1245721207</value><value>"</value></text><lastUpdated> 14 September 2024, at 18:01</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Main_Page</url><title>Welcome to </title><text><value>.mw-parser-output .mp-box{border:1px solid #aaa;padding:0 0.5em 0.5em;margin-top:4px}.mw-parser-output .mp-h2,body.skin-timeless .mw-parser-output .mp-h2{border:1px solid #aaa;margin:0.5em 0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;font-family:inherit}.mw-parser-output .mp-later{font-size:85%;font-weight:normal}.mw-parser-output #mp-welcomecount{text-align:center;margin:0.4em}.mw-parser-output #mp-welcome{font-size:162%;padding:0.1em}.mw-parser-output #mp-welcome h1,.mw-parser-output #mp-welcome .mw-heading1{font-size:inherit;font-family:inherit;display:inline;border:none}.mw-parser-output #mp-free{font-size:95%}.mw-parser-output #articlecount{font-size:85%}.mw-parser-output .mp-contains-float::after{content:"";display:block;clear:both}@media(max-width:875px){.mw-parser-output #mp-tfp table,.mw-parser-output #mp-tfp tr,.mw-parser-output #mp-tfp td,.mw-parser-output #mp-tfp tbody{display:block!important;width:100%!important;box-sizing:border-box}.mw-parser-output #mp-tfp tr:first-child td:first-child a.mw-file-description{text-align:center;display:table;margin:0 auto}}@media(min-width:875px){.mw-parser-output #mp-upper{display:flex}.mw-parser-output #mp-left{flex:1 1 55%;margin-right:2px}.mw-parser-output #mp-right{flex:1 1 45%;margin-left:2px}}@media screen{.mw-parser-output #mp-topbanner{background-color:#f9f9f9;border-color:#ddd}.mw-parser-output #mp-banner{background-color:#fffaf5;border-color:#f2e0ce}.mw-parser-output #mp-left{background-color:#f5fffa;border-color:#cef2e0}.mw-parser-output #mp-left .mp-h2{background-color:#cef2e0;border-color:#a3bfb1}.mw-parser-output #mp-right{background-color:#f5faff;border-color:#cedff2}.mw-parser-output #mp-right .mp-h2{background-color:#cedff2;border-color:#a3b0bf}.mw-parser-output #mp-middle{background-color:#fff5fa;border-color:#f2cedd}.mw-parser-output #mp-middle .mp-h2{background-color:#f2cedd;border-color:#bfa3af}.mw-parser-output #mp-lower{background-color:#faf5ff;border-color:#ddcef2}.mw-parser-output #mp-lower .mp-h2{background-color:#ddcef2;border-color:#afa3bf}.mw-parser-output #mp-bottom{border-color:#e2e2e2}.mw-parser-output #mp-bottom .mp-h2{background-color:#eee;border-color:#ddd}html.skin-theme-clientpref-night .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-banner{background-color:#431107;border-color:#663428}html.skin-theme-clientpref-night .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-night .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-night .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-night .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-night .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-night .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-night .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-night .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-banner{background-color:#431107;border-color:#663428}html.skin-theme-clientpref-os .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-os .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-os .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-os .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-os .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-os .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-os .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-os .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}</value><value>
+</value><value>
+</value><value>
+</value><value>Welcome to </value><value>Wikipedia</value><value>,</value><value>
+</value><value>the </value><value>free</value><value> </value><value>encyclopedia</value><value> that </value><value>anyone can edit</value><value>.</value><value>
+</value><value>6,910,911</value><value> articles in </value><value>English</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>From today's featured article</value><value>
+</value><value>
+</value><value>
+</value><value>Section of the trail in Shawangunk, New York</value><value>
+</value><value>
+</value><value>The </value><value>Walden–Wallkill Rail Trail</value><value>, also known as the Jesse McHugh Rail Trail, is a 3.22-mile (5.18 km) </value><value>rail trail</value><value> between the village of </value><value>Walden</value><value> and the hamlet of </value><value>Wallkill</value><value>. The two communities are located in </value><value>Orange County</value><value> and </value><value>Ulster County</value><value>, respectively, in </value><value>upstate New York</value><value>. The trail is part of the former </value><value>Wallkill Valley Railroad</value><value>'s rail corridor. The railway was the first to operate in Ulster County. Passenger service ended in 1937; the opening of the </value><value>New York State Thruway</value><value> and decreased freight traffic caused the line to close in 1957. The land was purchased by the towns of </value><value>Montgomery</value><value> and </value><value>Shawangunk</value><value> in 1985 and converted to a public trail. The portion of the trail in Shawangunk was formally opened in 1993 and named after former town supervisor Jesse McHugh. After seven years of discussion, the route was paved between 2008 and 2009. The trail includes an unofficial, unimproved section to the north of Wallkill, and is bounded by </value><value>NY 52</value><value> and </value><value>NY 208</value><value>. (</value><value>Full article...</value><value>)
+</value><value>
+</value><value>
+Recently featured: </value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>
+</value><value>Costello's</value><value>
+</value><value>Album covers of Blue Note Records</value><value>
+</value><value>Gedling Town F.C.</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>More featured articles</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>Did you know ...</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Reverse of </value><value>History Instructing Youth</value><value>, featuring Martha Washington</value><value>
+</value><value>
+</value><value>... that </value><value>Martha Washington</value><value>'s portrait on the </value><value>1896 US one-dollar silver certificate</value><value> </value><value>(pictured)</value><value> is the most recent time that a woman has been featured on US paper money?</value><value>
+</value><value>... that </value><value>Dalibor Riccardi</value><value>, a head of state of San Marino, has played more than 70 matches in the country's football league?</value><value>
+</value><value>... that at the </value><value>2024 Democratic National Convention</value><value>, vice presidential nominee </value><value>Tim Walz</value><value> was booed for visiting the </value><value>"wrong" Pennsylvanian gas station chain</value><value>?</value><value>
+</value><value>... that </value><value>Eunus</value><value>, a Syrian slave and reputed prophet, led a slave revolt in Sicily against the Roman Republic?</value><value>
+</value><value>... that China was once the "</value><value>Kingdom of Bicycles</value><value>"?</value><value>
+</value><value>... that </value><value>Alan Rosen</value><value> once sold 2,400 </value><value>cheesecakes</value><value> in four minutes to television shoppers?</value><value>
+</value><value>... that </value><value>Checheyigen</value><value>'s</value><value> political acumen ensured that her family became one of the most powerful in the </value><value>Mongol Empire</value><value>?</value><value>
+</value><value>... that the </value><value>Martha Heasley Cox Center for Steinbeck Studies</value><value> houses a </value><value>John Steinbeck</value><value> archive of more than 50,000 items?</value><value>
+</value><value>... that "</value><value>Buy Cash</value><value>" is the speaker of the </value><value>House of Assembly of Eswatini</value><value>?</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>Start a new article</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>In the news</value><value>
+</value><value>.mw-parser-output .itn-img{float:right;margin-left:0.5em;margin-top:0.2em}</value><value>
+</value><value>
+</value><value>Justin Welby</value><value>
+</value><value>
+</value><value>Archbishop of Canterbury</value><value> </value><value>Justin Welby</value><value> (</value><value>pictured</value><value>) announces his resignation as a result of the </value><value>John Smyth</value><value> abuse scandal in the </value><value>Church of England</value><value>.</value><value>
+</value><value>In </value><value>Zhuhai</value><value>, China, 35 people are killed in </value><value>a vehicle-ramming attack</value><value>.</value><value>
+</value><value>Alliance for Change</value><value>, led by </value><value>Navin Ramgoolam</value><value>, wins </value><value>the Mauritian general election</value><value>.</value><value>
+</value><value>A suicide bombing</value><value>  by the </value><value>Balochistan Liberation Army</value><value> at the </value><value>Quetta railway station</value><value>, Pakistan, kills 32 people.</value><value>
+</value><value>The German ruling coalition</value><value> </value><value>collapses</value><value> over disagreements on </value><value>economic policies</value><value>.</value><value>
+</value><value>
+</value><value>Ongoing</value><value>: </value><value>
+</value><value>Israel–Hamas war</value><value>
+</value><value>Israeli invasion of Lebanon</value><value>
+</value><value>Russian invasion of Ukraine</value><value>
+</value><value>timeline</value><value>
+</value><value>Sudanese civil war</value><value>
+</value><value>timeline</value><value>
+</value><value>Recent deaths</value><value>: </value><value>
+</value><value>Daim Zainuddin</value><value>
+</value><value>Jürgen Becker</value><value>
+</value><value>Christine Görner</value><value>
+</value><value>Timothy West</value><value>
+</value><value>Barbara Aland</value><value>
+</value><value>Johannes Beutler</value><value>
+</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>On this day</value><value>
+</value><value>Wikimedia template</value><value>
+</value><value>November 15</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Deodoro da Fonseca</value><value>
+</value><value>
+</value><value>1760</value><value> – The chapel of the newly constructed </value><value>Castellania</value><value> in </value><value>Valletta</value><value>, Malta, was consecrated.</value><value>
+</value><value>1859</value><value> – Sponsored by Greek businessman </value><value>Evangelos Zappas</value><value>, the </value><value>first modern revival</value><value> of the </value><value>Olympic Games</value><value> took place in Athens.</value><value>
+</value><value>1889</value><value> – Brazilian emperor </value><value>Pedro II</value><value> </value><value>was overthrown</value><value> in a coup led by </value><value>Deodoro da Fonseca</value><value> </value><value>(pictured)</value><value>, while the country was proclaimed </value><value>a republic</value><value>.</value><value>
+</value><value>1922</value><value> – During </value><value>a general strike</value><value> in </value><value>Guayaquil</value><value>, Ecuador, police and military fired into a crowd, killing at least 300 people.</value><value>
+</value><value>1959</value><value> – Two men </value><value>murdered a family</value><value> in </value><value>Holcomb, Kansas</value><value>; the events became the subject of </value><value>Truman Capote</value><value>'s non-fiction novel </value><value>In Cold Blood</value><value>, a pioneering work of the </value><value>true crime</value><value> genre.</value><value>
+</value><value>Madeleine de Scudéry</value><value>  (</value><value>b.</value><value> 1607)</value><value>Sara Josephine Baker</value><value>  (</value><value>b.</value><value> 1873)</value><value>Charles Thomson Rees Wilson</value><value>  (</value><value>d.</value><value> 1959)</value><value>Margaret Mead</value><value>  (</value><value>d.</value><value> 1978)</value><value>
+</value><value>
+More anniversaries: </value><value>
+</value><value>November 14</value><value>
+</value><value>November 15</value><value>
+</value><value>November 16</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>List of days of the year</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>From today's featured list</value><value>
+</value><value>
+</value><value>BTS received the award for five consecutive years from </value><value>2017</value><value> to </value><value>2021</value><value>.</value><value>
+</value><value>
+</value><value>The </value><value>Mnet Asian Music Award for Best Music Video</value><value> is an award presented annually by </value><value>CJ E&amp;M</value><value> (</value><value>Mnet</value><value>) at the </value><value>Mnet Asian Music Awards</value><value>. The event was launched in </value><value>1999</value><value> as the Mnet Video Music Awards and was primarily a </value><value>music video</value><value>–centered awards ceremony, modeled after the </value><value>MTV Video Music Awards</value><value>. In 1999, the inaugural Mnet Asian Music Award for Best Music Video was presented to </value><value>Lee Seung-hwan</value><value> for the video "A Request". Among artists who have received the accolade more than once, </value><value>BTS</value><value> </value><value>(pictured)</value><value> holds the distinction for the most wins in the category, winning for five consecutive years between 2017 and 2021. Four artists have won the award twice: </value><value>BigBang</value><value>, </value><value>Psy</value><value>, </value><value>2NE1</value><value>, and </value><value>Blackpink</value><value>. BTS, in addition, has received the most nominations in the category with six. (</value><value>Full list...</value><value>)
+</value><value>
+</value><value>
+Recently featured: </value><value>
+</value><value>Emperors of the Yuan dynasty</value><value>
+</value><value>Accolades received by </value><value>Interstellar</value><value>
+</value><value>Current United States governors</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>More featured lists</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Today's featured picture</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Sherman's March to the Sea</value><value> was a military campaign of the </value><value>American Civil War</value><value> conducted through </value><value>Georgia</value><value> by Major General </value><value>William Tecumseh Sherman</value><value> of the </value><value>Union Army</value><value>. The campaign began on November 15, 1864, with Sherman's troops leaving </value><value>Atlanta</value><value>, recently </value><value>taken by Union forces</value><value>, and ended with the capture of the port of </value><value>Savannah</value><value> on December 21. His forces followed a "</value><value>scorched earth</value><value>" policy, destroying military targets as well as industry, infrastructure, and civilian property, disrupting the </value><value>Confederacy's economy and transportation networks</value><value>. The operation debilitated the Confederacy and helped lead to its eventual surrender. This picture shows an engraving by </value><value>Alexander Hay Ritchie</value><value> depicting Sherman's March to the Sea.
+</value><value>
+</value><value>Engraving. credit: </value><value>Alexander Hay Ritchie</value><value>; restored by </value><value>Adam Cuerden</value><value>
+</value><value>
+Recently featured: </value><value>
+</value><value>Percy Grainger</value><value>
+</value><value>Réunion stonechat</value><value>
+</value><value>Climate change</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>More featured pictures</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Other areas of Wikipedia</value><value>
+</value><value>
+</value><value>Community portal</value><value> – The central hub for editors, with resources, links, tasks, and announcements.</value><value>
+</value><value>Village pump</value><value> – Forum for discussions about Wikipedia itself, including policies and technical issues.</value><value>
+</value><value>Site news</value><value> – Sources of news about Wikipedia and the broader Wikimedia movement.</value><value>
+</value><value>Teahouse</value><value> – Ask basic questions about using or editing Wikipedia.</value><value>
+</value><value>Help desk</value><value> – Ask questions about using or editing Wikipedia.</value><value>
+</value><value>Reference desk</value><value> – Ask research questions about encyclopedic topics.</value><value>
+</value><value>Content portals</value><value> – A unique way to navigate the encyclopedia.</value><value>
+</value><value>
+</value><value>Wikipedia's sister projects</value><value>
+</value><value>.mw-parser-output #sister-projects-list{display:flex;flex-wrap:wrap}.mw-parser-output #sister-projects-list li{display:inline-block}.mw-parser-output #sister-projects-list li span{font-weight:bold}.mw-parser-output #sister-projects-list li&gt;div{display:inline-block;vertical-align:middle;padding:6px 4px}.mw-parser-output #sister-projects-list li&gt;div:first-child{text-align:center}@media screen{.mw-parser-output .sister-projects-wikt-icon-dark,html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-light{display:none}html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-light{display:none}}@media(min-width:360px){.mw-parser-output #sister-projects-list li{width:33%;min-width:20em;white-space:nowrap;flex:1 0 25%}.mw-parser-output #sister-projects-list li&gt;div:first-child{min-width:50px}}</value><value>
+</value><value>Wikipedia is written by volunteer editors and hosted by the </value><value>Wikimedia Foundation</value><value>, a non-profit organization that also hosts a range of other volunteer </value><value>projects</value><value>:
+</value><value>
+</value><value>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Commons</value><value>Free media repository</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>MediaWiki</value><value>Wiki software development</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Meta-Wiki</value><value>Wikimedia project coordination</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikibooks</value><value>Free textbooks and manuals</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikidata</value><value>Free knowledge base</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikinews</value><value>Free-content news</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiquote</value><value>Collection of quotations</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikisource</value><value>Free-content library</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikispecies</value><value>Directory of species</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiversity</value><value>Free learning tools</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikivoyage</value><value>Free travel guide</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wiktionary</value><value>Dictionary and thesaurus</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Wikipedia languages</value><value>
+</value><value>.mw-parser-output .wikipedia-languages-complete{font-weight:bold}.mw-parser-output .wikipedia-languages ul{margin-left:0}.mw-parser-output .wikipedia-languages ul a{white-space:nowrap}.mw-parser-output .wikipedia-languages&gt;ul{list-style:none;text-align:center;clear:both}.mw-parser-output .wikipedia-languages-count-container{width:90%;display:flex;justify-content:center;padding-top:1em;margin:0 auto}.mw-parser-output .wikipedia-languages-prettybars{width:100%;height:1px;margin:0.5em 0;background-color:#c8ccd1;flex-shrink:1;align-self:center}.mw-parser-output .wikipedia-languages-count{padding:0 1em;white-space:nowrap}</value><value>
+</value><value>
+</value><value>This Wikipedia is written in </value><value>English</value><value>. Many </value><value>other Wikipedias are available</value><value>; some of the largest are listed below.
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>1,000,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>العربية</value><value>
+</value><value>Deutsch</value><value>
+</value><value>Español</value><value>
+</value><value>فارسی</value><value>‎</value><value>
+</value><value>Français</value><value>
+</value><value>Italiano</value><value>
+</value><value>Nederlands</value><value>
+</value><value>日本語</value><value>
+</value><value>Polski</value><value>
+</value><value>Português</value><value>
+</value><value>Русский</value><value>
+</value><value>Svenska</value><value>
+</value><value>Українська</value><value>
+</value><value>Tiếng Việt</value><value>
+</value><value>中文</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>250,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Bahasa Indonesia</value><value>
+</value><value>Bahasa Melayu</value><value>
+</value><value>閩南語</value><value>
+</value><value>Български</value><value>
+</value><value>Català</value><value>
+</value><value>Čeština</value><value>
+</value><value>Dansk</value><value>
+</value><value>Esperanto</value><value>
+</value><value>Euskara</value><value>
+</value><value>עברית</value><value>
+</value><value>Հայերեն</value><value>
+</value><value>한국어</value><value>
+</value><value>Magyar</value><value>
+</value><value>Norsk bokmål</value><value>
+</value><value>Română</value><value>
+</value><value>Simple English</value><value>
+</value><value>Srpski</value><value>
+</value><value>Srpskohrvatski</value><value>
+</value><value>Suomi</value><value>
+</value><value>Türkçe</value><value>
+</value><value>Oʻzbekcha</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>50,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Asturianu</value><value>
+</value><value>Azərbaycanca</value><value>
+</value><value>বাংলা</value><value>
+</value><value>Bosanski</value><value>
+</value><value>کوردی</value><value>
+</value><value>Eesti</value><value>
+</value><value>Ελληνικά</value><value>
+</value><value>Frysk</value><value>
+</value><value>Gaeilge</value><value>
+</value><value>Galego</value><value>
+</value><value>Hrvatski</value><value>
+</value><value>ქართული</value><value>
+</value><value>Kurdî</value><value>
+</value><value>Latviešu</value><value>
+</value><value>Lietuvių</value><value>
+</value><value>മലയാളം</value><value>
+</value><value>Македонски</value><value>
+</value><value>မြန်မာဘာသာ</value><value>
+</value><value>Norsk nynorsk</value><value>
+</value><value>ਪੰਜਾਬੀ</value><value>
+</value><value>Shqip</value><value>
+</value><value>Slovenčina</value><value>
+</value><value>Slovenščina</value><value>
+</value><value>ไทย</value><value>
+</value><value>తెలుగు</value><value>
+</value><value>اردو</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>                                                
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1225315602</value><value>"</value></text><lastUpdated> 23 May 2024, at 17:32</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/The_Daily_Dot</url><title>None</title><text><value>American digital media company covering internet culture</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>"The Kernel" redirects here. For the brewery, see </value><value>The Kernel Brewery</value><value>.</value><value>
+</value><value>
+
+</value><value>
+</value><value>.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table&gt;caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table&gt;tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</value><value>The Daily Dot</value><value>.mw-parser-output .hidden-begin{box-sizing:border-box;width:100%;padding:5px;border:none;font-size:95%}.mw-parser-output .hidden-title{font-weight:bold;line-height:1.6;text-align:left}.mw-parser-output .hidden-content{text-align:left}@media all and (max-width:500px){.mw-parser-output .hidden-begin{width:auto!important;clear:none!important;float:none!important}}</value><value>Screenshot</value><value>
+</value><value>Type of site</value><value>News</value><value>Available in</value><value>English</value><value>Created by</value><value>Nicholas White</value><value>Editor</value><value>Whitney Jefferson</value><value>[</value><value>1</value><value>]</value><value>URL</value><value>dailydot</value><value>.com</value><value>Commercial</value><value>Yes</value><value>Launched</value><value>August 23, 2011</value><value>; 13 years ago</value><value> (</value><value>2011-08-23</value><value>)</value><value>
+</value><value>The Daily Dot</value><value> is a </value><value>digital media</value><value> company covering </value><value>the culture of the Internet</value><value> and the </value><value>World Wide Web</value><value>. It was founded by Nicholas White in 2011, and is headquartered in </value><value>Austin, Texas</value><value>.</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>The site, conceived as the Internet's "hometown newspaper",</value><value>[</value><value>3</value><value>]</value><value> focuses on topics such as streaming entertainment, geek culture, </value><value>memes</value><value>, </value><value>gadgets</value><value> and social issues, such as </value><value>LGBT</value><value>, </value><value>gender</value><value> and </value><value>race</value><value>. In addition, an e-commerce arm produces branded video for advertisers and sells items from an online marketplace.</value><value>[</value><value>3</value><value>]</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The Daily Dot</value><value> was established in 2011 by Nicholas White, whose goal was to cover Internet communities such as </value><value>Reddit</value><value> and </value><value>Tumblr</value><value> in the same manner as hometown newspapers cover their own communities. White's family has been in the newspaper business since buying the </value><value>Sandusky Register</value><value> in Ohio in 1869, and White was a reporter and executive with the family's media company before establishing the site.</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>White launched </value><value>The Daily Dot</value><value> with $600,000 and a handful of full-time reporters. Many of the site's early stories were filed to a </value><value>Google Doc</value><value> and reported on </value><value>Facebook</value><value> and </value><value>Twitter</value><value>. After establishing a headquarters in </value><value>Austin, Texas</value><value>, the company added other offices but many staff worked remotely from other locations.</value><value>[</value><value>5</value><value>]</value><value>  It raised a $10 million private investment to add staff, produce digital content and develop its internal creative agency in 2015, ramping up its output to 50–70 stories a day.</value><value>[</value><value>2</value><value>]</value><value>[</value><value>6</value><value>]</value><value> Its coverage has focused on "under-reported"</value><value>[</value><value>5</value><value>]</value><value> areas while emphasizing progressive issues such as </value><value>body positivity</value><value> and feminism. White has also highlighted the need to diversify his staff. "Journalism has been dominated by a few select types of voices. We have an opportunity to break from that cycle" he has said.</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>The Daily Dot</value><value> has pursued several content strategies while building its online presence. In 2012, it was one of the first major sites to launch dedicated </value><value>esports</value><value> coverage. In 2016, the company sold that section, Dot Esports, to </value><value>Gamurs</value><value>, an Australian esports multimedia operation.</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>In 2014, it purchased </value><value>The Kernel</value><value>, a competing website, and turned it into a weekly Sunday edition featuring long-form editorial built around a single theme. </value><value>The Kernel</value><value> founder and editor-in-chief </value><value>Milo Yiannopoulos</value><value> stepped down following the acquisition.</value><value>[</value><value>8</value><value>]</value><value> The Kernel ceased regular publication in 2016.</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>It also has collaborated on video projects with partners including </value><value>HLN</value><value>, on a co-branded series called Next Sex;</value><value>[</value><value>10</value><value>]</value><value> the </value><value>U.S. Department of Health and Human Services</value><value>, for which it produced a public service announcement encouraging </value><value>vaccination</value><value> featuring </value><value>Sesame Street</value><value> character </value><value>Elmo</value><value> and former Surgeon General </value><value>Vivek Murthy</value><value>;</value><value>[</value><value>11</value><value>]</value><value> and television cooking personality </value><value>Alton Brown</value><value>, whose review of kitchen gadgets garnered many millions of views on </value><value>YouTube</value><value>.</value><value>[</value><value>12</value><value>]</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>In January 2016, the site launched </value><value>VIP Voices</value><value>, a collection of op-eds from high-profile contributors on Internet issues in public discourse. Contributors include Mayor </value><value>Bill de Blasio</value><value>, Representative </value><value>Ted Lieu</value><value>, and Senator </value><value>Mike Lee</value><value>.</value><value>[</value><value>14</value><value>]</value><value>[</value><value>15</value><value>]</value><value>
+</value><value>In 2018, </value><value>The Daily Dot</value><value> sued the </value><value>New York Police Department</value><value> to access handgun license applications filed by </value><value>Donald Trump</value><value> and two of his sons, </value><value>Donald Trump Jr.</value><value> and </value><value>Eric Trump</value><value>.</value><value>[</value><value>16</value><value>]</value><value> The suit alleges that the NYPD declined a request made by </value><value>The Daily Dot</value><value> under New York's Freedom of Information Law to release the information, citing privacy and safety concerns; the site argues the information should be public.</value><value>[</value><value>17</value><value>]</value><value>
+</value><value>The company had a full-time staff of 76, in addition to 222 freelance contributors, in early 2016</value><value>[</value><value>2</value><value>]</value><value> before laying off 40% of its total staff in September 2016.</value><value>[</value><value>18</value><value>]</value><value> White, who called the layoff a "restructuring", said the move was necessary to refocus resources on growing areas such as video, e-commerce and sales.</value><value>[</value><value>19</value><value>]</value><value> The site's e-commerce videos, produced in conjunction with advertisers, are shared on Facebook and generate revenue by sharing a portion of sales. In addition, the site has built two online storefronts, the Bazaar and The Daily Dot Store, on which it sells items.</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>
+</value><value>Awards</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The site's coverage has been recognized by the following outlets:
+</value><value>
+</value><value>2015 honoree, The Webby Awards, Websites-News.</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>2015 finalist, Digiday Publisher of the Year, for its investigation of a data breach at global intelligence firm </value><value>Stratfor</value><value>.</value><value>[</value><value>21</value><value>]</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>2015 cited among works of outstanding journalism by </value><value>The Atlantic</value><value> for "How to Destroy an American Family", which chronicled the toll of continued cyberattacks on an Illinois family.</value><value>[</value><value>23</value><value>]</value><value>
+</value><value>2016 finalist, </value><value>Digiday</value><value> Publisher of the Year and Best Native Advertising.</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>2016 finalist, The Webby Awards, Best Individual Performance in Online Film and Video (for Alton Brown collaboration).</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>2017, finalist, </value><value>CJ Affiliate</value><value> CJ You Innovator of the Year Award.</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Ahmed, Mariam (April 13, 2023). </value><value>"Daily Dot hires Jefferson as executive editor"</value><value>. </value><value>Talking Biz News</value><value>. Retrieved </value><value>July 9,</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>Gallaga, Omar (January 25, 2016). </value><value>"Austin-based Daily Dot takes new approach to covering the Web"</value><value>. Austin American-Statesman. Archived from </value><value>the original</value><value> on December 20, 2016</value><value>. Retrieved </value><value>March 16,</value><value> 2017</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Ha, Anthony (August 23, 2011). </value><value>"Can The Daily Dot Become Web's 'Hometown Newspaper'?"</value><value>. AdWeek. </value><value>Archived</value><value> from the original on March 17, 2017</value><value>. Retrieved </value><value>March 16,</value><value> 2017</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Willens, Max (April 29, 2017). </value><value>"How the Daily Dot uses Facebook video to sell aquariums and flux capacitors"</value><value>. Digiday. </value><value>Archived</value><value> from the original on June 28, 2018</value><value>. Retrieved </value><value>June 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>Smith IV, Jack (April 28, 2015). </value><value>"The Daily Dot's Island of Misfit Reporters Raises over $10 Million"</value><value>. Observer. </value><value>Archived</value><value> from the original on June 16, 2018</value><value>. Retrieved </value><value>May 26,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Calnan, Christopher (September 19, 2016). </value><value>"Daily Dot restructures, lays off 40% of staff"</value><value>. Austin Business Journal. </value><value>Archived</value><value> from the original on November 4, 2021</value><value>. Retrieved </value><value>May 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Bräutigam, Theo (October 31, 2016). </value><value>"Daily Dot Esports section sold to media network Gamurs"</value><value>. Esports Observer. </value><value>Archived</value><value> from the original on June 16, 2018</value><value>. Retrieved </value><value>May 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Wauters, Robin (January 29, 2014). </value><value>"</value><value>The Kernel</value><value> acquired by </value><value>The Daily Dot</value><value> publisher; founder and editor Milo Yiannopoulos to move on"</value><value>. </value><value>Tech.eu</value><value>. </value><value>Archived</value><value> from the original on February 3, 2014</value><value>. Retrieved </value><value>January 29,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"About the Kernel"</value><value>. The Daily Dot. </value><value>Archived</value><value> from the original on June 16, 2018</value><value>. Retrieved </value><value>May 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"HLN and the Daily Dot partner to provide co-branded content across all screens"</value><value> (Press release). November 18, 2014. </value><value>Archived</value><value> from the original on June 16, 2018</value><value>. Retrieved </value><value>May 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Daily Dot clarifies: Elmo not an anti-vaxxer"</value><value>. April 20, 2015. </value><value>Archived</value><value> from the original on June 16, 2018</value><value>. Retrieved </value><value>June 14,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Alton Brown reviews Amazon's dumbest kitchen gadgets"</value><value>. </value><value>YouTube</value><value>. December 10, 2015. </value><value>Archived</value><value> from the original on June 12, 2018</value><value>. Retrieved </value><value>June 14,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Alton Brown reviews Amazon's dumbest kitchen gadgets"</value><value>. The Webby Awards. </value><value>Archived</value><value> from the original on June 16, 2018</value><value>. Retrieved </value><value>June 14,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Lieu, Ted (April 6, 2016). </value><value>"State encryption laws only undermine our national security"</value><value>. </value><value>The Daily Dot</value><value>. </value><value>Archived</value><value> from the original on October 23, 2021</value><value>. Retrieved </value><value>September 20,</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"vip voices Archives"</value><value>. </value><value>The Daily Dot</value><value>. </value><value>Archived</value><value> from the original on October 15, 2021</value><value>. Retrieved </value><value>September 20,</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Klasfeld, Adam (June 21, 2018). </value><value>"NYPD sued for Trump family handgun records"</value><value>. Courthouse News. </value><value>Archived</value><value> from the original on June 29, 2018</value><value>. Retrieved </value><value>June 29,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Marsh, Julia (June 22, 2018). </value><value>"NYPD sued for not disclosing info on Trump family gun permits"</value><value>. New York Post. </value><value>Archived</value><value> from the original on June 29, 2018</value><value>. Retrieved </value><value>June 29,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Sterne, Peter (September 16, 2016). </value><value>"Daily Dot lays off 30 employees across company"</value><value>. Politico. </value><value>Archived</value><value> from the original on March 17, 2017</value><value>. Retrieved </value><value>March 16,</value><value> 2017</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Gallaga, Omar (September 16, 2016). </value><value>"Layoffs at Austin-based newspaper of the Web, The Daily Dot"</value><value>. Austin American Statesman. </value><value>Archived</value><value> from the original on June 27, 2018</value><value>. Retrieved </value><value>June 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Webby Awards"</value><value>. The Webby Awards. </value><value>Archived</value><value> from the original on June 27, 2018</value><value>. Retrieved </value><value>May 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Atlantic leads Digiday Publisher of the Year finalists"</value><value>. Digiday. February 17, 2015. </value><value>Archived</value><value> from the original on June 27, 2018</value><value>. Retrieved </value><value>June 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Cameron, Dell (June 5, 2014). </value><value>"How an FBI informant orchestrated the Stratfor hack"</value><value>. The Daily Dot. </value><value>Archived</value><value> from the original on June 28, 2018</value><value>. Retrieved </value><value>May 29,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Friedersdorf, conor (August 11, 2016). </value><value>"Slightly more than 100 exceptional works of journalism"</value><value>. The Atlantic. </value><value>Archived</value><value> from the original on June 27, 2018</value><value>. Retrieved </value><value>June 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Vox Media and The Enthusiast Network are top nominees in the Digiday Publishing Awards"</value><value>. Digiday. February 2, 2016. </value><value>Archived</value><value> from the original on June 27, 2018</value><value>. Retrieved </value><value>June 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"CJ Affiliate Announces CJU17 "CJ You Awards" Finalists"</value><value>. CJ Affiliate. </value><value>Archived</value><value> from the original on June 28, 2018</value><value>. Retrieved </value><value>June 27,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>External links</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:1px solid var(--border-color-base,#a2a9b1);padding:0.1em;background:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{clear:left;float:left;margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}</value><value>
+</value><value>Internet portal</value><value>Journalism portal</value><value>
+</value><value>Official website</value><value>
+</value><value>Kernel</value><value>
+</value><value>VIP Voices</value><value>
+</value><value>CEO Nicholas White talks about starting </value><value>The Daily Dot</value><value>: </value><value>"Why I Gave Up the Newspaper to Save Newspapering"</value><value>. </value><value>Media Shift</value><value>. PBS. April 25, 2011. Archived from </value><value>the original</value><value> on May 30, 2012</value><value>. Retrieved </value><value>September 15,</value><value> 2017</value><value>.</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=The_Daily_Dot&amp;oldid=1224639689</value><value>"</value></text><lastUpdated> 19 May 2024, at 15:31</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Alluxio</url><title>None</title><text><value>.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table&gt;caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table&gt;tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</value><value>Alluxio</value><value>Original author(s)</value><value>Haoyuan Li</value><value>Developer(s)</value><value>UC Berkeley</value><value> </value><value>AMPLab</value><value>Initial release</value><value>April 8, 2013</value><value>; 11 years ago</value><value> (</value><value>2013-04-08</value><value>)</value><value>Stable release</value><value>v2.9.3
+   / March 24, 2023</value><value>; 19 months ago</value><value> (</value><value>2023-03-24</value><value>)</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>Repository</value><value>https://github.com/Alluxio/alluxio</value><value>Written in</value><value>Java</value><value>Operating system</value><value>macOS</value><value>, </value><value>Linux</value><value>Available in</value><value>Java</value><value>License</value><value>Apache License</value><value> 2.0</value><value>Website</value><value>www</value><value>.alluxio</value><value>.io</value><value>
+</value><value>Alluxio</value><value> is an </value><value>open-source</value><value> </value><value>virtual</value><value> </value><value>distributed file system</value><value> (VDFS). Initially as research project "Tachyon", Alluxio was created at the </value><value>University of California, Berkeley</value><value>'s </value><value>AMPLab</value><value> as </value><value>Haoyuan Li</value><value>'s Ph.D. Thesis,</value><value>[</value><value>2</value><value>]</value><value> advised by Professor </value><value>Scott Shenker</value><value> &amp; Professor </value><value>Ion Stoica</value><value>. Alluxio sits between computation and storage in the </value><value>big data</value><value> analytics stack. It provides a data abstraction layer for computation frameworks, enabling applications to connect to numerous storage systems through a common interface. The software is published under the </value><value>Apache License</value><value>.
+</value><value>Data Driven Applications, such as Data Analytics, Machine Learning, and AI, use APIs (such as Hadoop HDFS API, S3 API, FUSE API) provided by Alluxio to interact with data from various storage systems at a fast speed. Popular frameworks running on top of Alluxio include </value><value>Apache Spark</value><value>, </value><value>Presto</value><value>, </value><value>TensorFlow</value><value>, </value><value>Trino</value><value>, </value><value>Apache Hive</value><value>, and </value><value>PyTorch</value><value>, etc.
+</value><value>Alluxio can be deployed on-premise, in the cloud (e.g. </value><value>Microsoft Azure</value><value>, </value><value>AWS</value><value>, </value><value>Google Compute Engine</value><value>), or a hybrid cloud environment. It can run on bare-metal or in a containerized environments such as </value><value>Kubernetes</value><value>, </value><value>Docker</value><value>, </value><value>Apache Mesos</value><value>.
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Alluxio was initially started by </value><value>Haoyuan Li</value><value> at UC Berkeley's </value><value>AMPLab</value><value> in 2013, and open sourced in 2014. Alluxio had in excess of 1000 contributors in 2018,</value><value>[</value><value>3</value><value>]</value><value> making it one of the most active projects in the data eco-system.
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>Version
+</value><value>
+</value><value>Original release date
+</value><value>
+</value><value>Latest version
+</value><value>
+</value><value>Release date
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 0.2
+</value><value>
+</value><value>2013-04-08
+</value><value>
+</value><value>0.2.1
+</value><value>
+</value><value>2013-04-25
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 0.3
+</value><value>
+</value><value>2013-10-21
+</value><value>
+</value><value>0.3.0
+</value><value>
+</value><value>2013-10-21
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 0.4
+</value><value>
+</value><value>2014-02-02
+</value><value>
+</value><value>0.4.1
+</value><value>
+</value><value>2014-02-25
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 0.5
+</value><value>
+</value><value>2014-07-20
+</value><value>
+</value><value>0.5.0
+</value><value>
+</value><value>2014-07-20
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 0.6
+</value><value>
+</value><value>2015-03-01
+</value><value>
+</value><value>0.6.4
+</value><value>
+</value><value>2015-04-23
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 0.7
+</value><value>
+</value><value>2015-07-17
+</value><value>
+</value><value>0.7.1
+</value><value>
+</value><value>2015-08-10
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 0.8
+</value><value>
+</value><value>2015-10-21
+</value><value>
+</value><value>0.8.2
+</value><value>
+</value><value>2015-11-10
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 1.0
+</value><value>
+</value><value>2016-02-23
+</value><value>
+</value><value>1.0.1
+</value><value>
+</value><value>2016-03-27
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 1.1
+</value><value>
+</value><value>2016-06-06
+</value><value>
+</value><value>1.1.1
+</value><value>
+</value><value>2016-07-04
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 1.2
+</value><value>
+</value><value>2016-07-17
+</value><value>
+</value><value>1.2.0
+</value><value>
+</value><value>2016-07-17
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 1.3
+</value><value>
+</value><value>2016-10-05
+</value><value>
+</value><value>1.3.0
+</value><value>
+</value><value>2016-10-05
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 1.4
+</value><value>
+</value><value>2017-01-12
+</value><value>
+</value><value>1.4.0
+</value><value>
+</value><value>2017-01-12
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 1.5
+</value><value>
+</value><value>2017-06-11
+</value><value>
+</value><value>1.5.0
+</value><value>
+</value><value>2017-06-11
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 1.6
+</value><value>
+</value><value>2017-09-24
+</value><value>
+</value><value>1.6.1
+</value><value>
+</value><value>2017-11-02
+</value><value>
+</value><value>
+</value><value>Old version, no longer maintained:</value><value> 1.7
+</value><value>
+</value><value>2018-01-14
+</value><value>
+</value><value>1.7.1
+</value><value>
+</value><value>2018-03-26
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 1.8
+</value><value>
+</value><value>2018-07-07
+</value><value>
+</value><value>1.8.2
+</value><value>
+</value><value>2019-08-05
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 2.0
+</value><value>
+</value><value>2019-06-27
+</value><value>
+</value><value>2.0.1
+</value><value>
+</value><value>2019-09-03
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 2.1
+</value><value>
+</value><value>2019-11-06
+</value><value>
+</value><value>2.1.2
+</value><value>
+</value><value>2020-02-04
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 2.2
+</value><value>
+</value><value>2020-03-11
+</value><value>
+</value><value>2.2.2
+</value><value>
+</value><value>2020-06-24
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 2.3
+</value><value>
+</value><value>2020-06-30
+</value><value>
+</value><value>2.3.0
+</value><value>
+</value><value>2020-06-30
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 2.4
+</value><value>
+</value><value>2020-10-19
+</value><value>
+</value><value>2.4.1
+</value><value>
+</value><value>2020-11-20
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 2.5
+</value><value>
+</value><value>2021-03-10
+</value><value>
+</value><value>2.5.0
+</value><value>
+</value><value>2021-03-10
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 2.6
+</value><value>
+</value><value>2021-06-23
+</value><value>
+</value><value>2.6.2
+</value><value>
+</value><value>2021-09-17
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 2.7
+</value><value>
+</value><value>2021-11-16
+</value><value>
+</value><value>2.7.4
+</value><value>
+</value><value>2022-04-19
+</value><value>
+</value><value>
+</value><value>Old version, yet still maintained:</value><value> 2.8
+</value><value>
+</value><value>2022-05-04
+</value><value>
+</value><value>2.8.1
+</value><value>
+</value><value>2022-08-17
+</value><value>
+</value><value>
+</value><value>Current stable version:</value><value> </value><value>2.9</value><value>
+</value><value>
+</value><value>2022-11-16
+</value><value>
+</value><value>2.9.3
+</value><value>
+</value><value>2023-03-27
+</value><value>
+</value><value>
+</value><value>Legend:</value><value>Old version, not maintained</value><value>Old version, still maintained</value><value>Latest version</value><value>Latest preview version</value><value>Future release</value><value>
+</value><value>
+</value><value>Enterprises that use Alluxio</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The following is a list of notable enterprises that have used or are using Alluxio:
+</value><value>
+</value><value>.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</value><value>
+</value><value>Baidu</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>Barclays</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>China Unicom</value><value>[</value><value>6</value><value>]</value><value>
+</value><value>Comcast</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>Cray</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>DiDi Chuxing</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>DBS Bank</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>Esri</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>Huawei</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>IBM</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>Intel</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>JD.com</value><value>[</value><value>15</value><value>]</value><value>
+</value><value>Lenovo</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>Samsung</value><value>[</value><value>17</value><value>]</value><value>
+</value><value>Tencent</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>Vipshop</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>Wells Fargo</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Clustered file system</value><value>
+</value><value>Comparison of distributed file systems</value><value>
+</value><value>Global Namespace</value><value>
+</value><value>List of file systems</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>"Releases · Alluxio/alluxio"</value><value>. </value><value>github.com</value><value>. Retrieved </value><value>2023-03-04</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>
+</value><value>Li, Haoyuan (7 May 2018). </value><value>Alluxio: A Virtual Distributed File System</value><value> (Technical report). EECS Department, University of California, Berkeley. UCB/EECS-2018-29.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Open HUB Alluxio development activity</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"This New Open Source Project Is 100X Faster than Spark SQL In Petabyte-Scale Production"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Making the Impossible Possible with Tachyon: Accelerate Spark Jobs from Hours to Seconds"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"China Unicom's big bet on open source"</value><value>.</value>
