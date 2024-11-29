@@ -10807,4 +10807,1055 @@ The ISBN </value><value>registration group element</value><value> is a 1-to-5-di
 </value><value>Wyola</value><value>
 </value><value>Ghost towns</value><value>
 </value><value>Barbara</value><value>
-</value>
+</value><?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><url>https://en.wikipedia.org/wiki/Benevolent_dictator_for_life</url><title>None</title><text><value>Title given to a small number of open-source software development leaders</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>For the political term, see </value><value>Benevolent dictatorship</value><value>.</value><value>
+</value><value>Benevolent dictator for life</value><value> (</value><value>BDFL</value><value>) is a title given to a small number of </value><value>open-source software development</value><value> leaders, typically project founders who retain the final say in disputes or arguments within the community. The phrase originated in 1995 with reference to </value><value>Guido van Rossum</value><value>, creator of the </value><value>Python programming language</value><value>.</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Shortly after Van Rossum joined the </value><value>Corporation for National Research Initiatives</value><value>, the term appeared in a follow-up mail by Ken Manheimer to a meeting trying to create a semi-formal group that would oversee Python development and workshops; this initial use included an additional joke of naming Van Rossum the "First Interim BDFL". According to Rossum, the title was most likely created by Ken Manheimer or </value><value>Barry Warsaw</value><value>.</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>In July 2018, Van Rossum announced that he would be stepping down as BDFL of Python without appointing a successor, effectively eliminating the title within the Python community structure.</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>
+</value><value>Usage</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>BDFL should not be confused with the more common term for open-source leaders, "benevolent dictator", which was popularized by </value><value>Eric S. Raymond</value><value>'s essay "</value><value>Homesteading the Noosphere</value><value>" (1999).</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>Among other topics related to </value><value>hacker culture</value><value>, Raymond elaborates on how the nature of open source forces the "dictatorship" to keep itself benevolent, since a strong disagreement can lead to the </value><value>forking</value><value> of the project under the rule of new leaders.</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>Referent candidates</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>Key
+</value><value>
+</value><value>
+</value><value>†
+</value><value>
+</value><value>Deceased
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>Name
+</value><value>
+</value><value>Project
+</value><value>
+</value><value>Type
+</value><value>
+</value><value>Reference
+</value><value>
+</value><value>
+</value><value>Sylvain Benner
+</value><value>
+</value><value>Spacemacs</value><value>
+</value><value>
+</value><value>Community-driven </value><value>Emacs</value><value> distribution
+</value><value>
+</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Vitalik Buterin</value><value>
+</value><value>
+</value><value>Ethereum</value><value>
+</value><value>
+</value><value>Blockchain-based cryptocurrency
+</value><value>
+</value><value>[</value><value>6</value><value>]</value><value>[</value><value>better source needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Dries Buytaert</value><value>
+</value><value>
+</value><value>Drupal</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>François Chollet</value><value>
+</value><value>
+</value><value>Keras</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan Czaplicki
+</value><value>
+</value><value>Elm</value><value>
+</value><value>
+</value><value>Front-end web programming language
+</value><value>
+</value><value>[</value><value>9</value><value>]</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Laurent Destailleur
+</value><value>
+</value><value>Dolibarr ERP CRM</value><value>
+</value><value>
+</value><value>Software suite for </value><value>Enterprise Resource Planning</value><value> and </value><value>Customer Relationship Management</value><value>
+</value><value>
+</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>David Heinemeier Hansson</value><value>
+</value><value>
+</value><value>Ruby on Rails</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Rich Hickey</value><value>
+</value><value>
+</value><value>Clojure</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Adrian Holovaty</value><value> </value><value>and Jacob Kaplan-Moss
+</value><value>
+</value><value>Django</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Andrew Kelley
+</value><value>
+</value><value>Zig</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>15</value><value>]</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Xavier Leroy</value><value>
+</value><value>
+</value><value>OCaml</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>17</value><value>]</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Haoyuan Li</value><value>
+</value><value>
+</value><value>Alluxio</value><value>
+</value><value>
+</value><value>Data Orchestration System
+</value><value>
+</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Miles Lubin</value><value>
+</value><value>
+</value><value>JuMP</value><value>
+</value><value>
+</value><value>Mathematical optimization modeling language in Julia
+</value><value>
+</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Yukihiro Matsumoto (Matz)</value><value>
+</value><value>
+</value><value>Ruby</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>21</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Wes McKinney</value><value>
+</value><value>
+</value><value>Pandas</value><value>
+</value><value>
+</value><value>Python data analysis library
+</value><value>
+</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gavin Mendel-Gleason</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>
+</value><value>TerminusDB</value><value>
+</value><value>
+</value><value>Open-source graph database for knowledge graph representation
+</value><value>
+</value><value>[</value><value>23</value><value>]</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Moolenaar</value><value>†
+</value><value>
+</value><value>Vim</value><value>
+</value><value>
+</value><value>Text editor
+</value><value>
+</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Matt Mullenweg</value><value>[</value><value>b</value><value>]</value><value>
+</value><value>
+</value><value>WordPress</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Odersky</value><value>
+</value><value>
+</value><value>Scala</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>27</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Taylor Otwell
+</value><value>
+</value><value>Laravel</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>28</value><value>]</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Theo de Raadt</value><value>
+</value><value>
+</value><value>OpenBSD</value><value>
+</value><value>
+</value><value>A </value><value>Unix-like</value><value> operating system
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Arnold Robbins</value><value>
+</value><value>
+</value><value>Awk</value><value>, Gawk
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Eugen Rochko</value><value>
+</value><value>
+</value><value>Mastodon</value><value>
+</value><value>
+</value><value>Open source, decentralized social network
+</value><value>
+</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ton Roosendaal</value><value>[</value><value>c</value><value>]</value><value>
+</value><value>
+</value><value>Blender</value><value>
+</value><value>
+</value><value>3D computer graphics software
+</value><value>
+</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sébastien Ros
+</value><value>
+</value><value>Orchard Project</value><value>
+</value><value>
+</value><value>Content management system
+</value><value>
+</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Mark Shuttleworth</value><value>[</value><value>d</value><value>]</value><value>
+</value><value>
+</value><value>Ubuntu</value><value>
+</value><value>
+</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Soller
+</value><value>
+</value><value>Redox</value><value>
+</value><value>
+</value><value>Operating system
+</value><value>
+</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Don Syme</value><value>[</value><value>e</value><value>]</value><value>
+</value><value>
+</value><value>F#</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Linus Torvalds</value><value>[</value><value>f</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>
+</value><value>
+</value><value>Operating system kernel
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>[</value><value>37</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>José Valim
+</value><value>
+</value><value>Elixir</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Pauli Virtanen
+</value><value>
+</value><value>SciPy</value><value>
+</value><value>
+</value><value>Python</value><value> library used for scientific and technical computing
+</value><value>
+</value><value>[</value><value>39</value><value>]</value><value>[</value><value>40</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Patrick Volkerding</value><value>
+</value><value>
+</value><value>Slackware</value><value>
+</value><value>
+</value><value>GNU</value><value>/</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Nathan Voxland
+</value><value>
+</value><value>Liquibase</value><value>
+</value><value>
+</value><value>Database schema management
+</value><value>
+</value><value>[</value><value>42</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jimmy Wales</value><value>
+</value><value>
+</value><value>Wikimedia Foundation</value><value>
+</value><value>
+</value><value>Collaborative knowledge project
+</value><value>
+</value><value>[</value><value>43</value><value>]</value><value>[</value><value>i</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Walker
+</value><value>
+</value><value>Exercism</value><value>
+</value><value>
+</value><value>Open-source programming education platform
+</value><value>
+</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Shaun Walker
+</value><value>
+</value><value>DotNetNuke</value><value>
+</value><value>
+</value><value>Web application framework
+</value><value>
+</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Larry Wall</value><value>
+</value><value>
+</value><value>Perl</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan You</value><value>
+</value><value>
+</value><value>Vue.js</value><value>
+</value><value>
+</value><value>JavaScript MVVM framework for building user interfaces and single-page applications.
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Soumith Chintala
+</value><value>
+</value><value>PyTorch</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>47</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Traverso, Dain Sundstrom, David Phillips
+</value><value>
+</value><value>Trino</value><value>
+</value><value>
+</value><value>SQL query engine
+</value><value>
+</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Kohsuke Kawaguchi</value><value>
+</value><value>
+</value><value>Jenkins</value><value>
+</value><value>
+</value><value>Automation server
+</value><value>
+</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gabor de Mooij
+</value><value>
+</value><value>RedBeanPHP</value><value>
+</value><value>
+</value><value>Database object relational mapper
+</value><value>
+</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Cohen</value><value>
+</value><value>
+</value><value>BitTorrent</value><value>
+</value><value>
+</value><value>Peer-to-peer file sharing protocol
+</value><value>
+</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Walter Bright</value><value>
+</value><value>
+</value><value>D (programming language)</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Richie Vink
+</value><value>
+</value><value>Polars
+</value><value>
+</value><value>Data analysis framework
+</value><value>
+</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>William Falcon
+</value><value>
+</value><value>PyTorch Lightning</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Lars Hvam
+</value><value>
+</value><value>abapGit
+</value><value>
+</value><value>Git client for ABAP
+</value><value>
+</value><value>[</value><value>54</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sebastián Ramírez
+</value><value>
+</value><value>FastAPI</value><value>
+</value><value>
+</value><value>Web framework for building APIs with </value><value>Python</value><value>
+</value><value>
+</value><value>[</value><value>55</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bill Hall (gingerBill)
+</value><value>
+</value><value>Odin
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>56</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Damien Elmes (dae)
+</value><value>
+</value><value>Anki</value><value>
+</value><value>
+</value><value>Spaced repetition</value><value> system
+</value><value>
+</value><value>[</value><value>57</value><value>]</value><value>[</value><value>58</value><value>]</value><value>
+</value><value>
+</value><value>Organizational positions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CTO of </value><value>TerminusDB</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Lead Developer at the WordPress Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chairman of the </value><value>Blender Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Until December 2009, CEO of </value><value>Canonical Ltd</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Technical Advisor at the </value><value>F# Software Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Sponsee of the </value><value>Linux Foundation</value><value>. Also holds the trademark for Linux</value><value>
+</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Design by dictator</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Disputed by Wales; </value><value>"I am not the benevolent dictator of anything"</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Guido van Rossum (2008-07-31). </value><value>"Origin of BDFL"</value><value>. Artima.com. </value><value>Archived</value><value> from the original on 2012-07-21</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Python Creator Scripts Inside Google"</value><value>. </value><value>eWeek</value><value>. 2006-03-06. </value><value>Archived</value><value> from the original on 2018-08-09</value><value>. Retrieved </value><value>2008-05-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Van Rossum, Guido (July 12, 2018). </value><value>"Transfer of power"</value><value>. </value><value>mail.python.org</value><value>. </value><value>Archived</value><value> from the original on July 12, 2018</value><value>. Retrieved </value><value>August 9,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric S. (2000). </value><value>"Homesteading the Noosphere § Project Structures and Ownership"</value><value>. </value><value>Eric S. Raymond's Home Page</value><value>. </value><value>Archived</value><value> from the original on 2012-07-01</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Spacemacs COMMUNITY.org"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-08-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Pearson, Jordan (24 April 2017). </value><value>"Ethereum's Boy King Is Thinking About Giving Up the Mantle"</value><value>. </value><value>Vice</value><value>. Retrieved </value><value>5 September</value><value> 2023</value><value>. </value><value>One participant called him a benevolent dictator.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Fay, Randy</value><value>. </value><value>"How Do Open Source Communities Govern Themselves? | RandyFay.comties Govern Themselves?"</value><value>. </value><value>randyfay.com</value><value>. Retrieved </value><value>27 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Keras API Special Interest Group, Leadership"</value><value>. </value><value>GitHub</value><value>. December 21, 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"56: Ember vs. Elm: The Showdown with Philip Poots | The Frontside Podcast"</value><value>. </value><value>The Frontside Podcast</value><value>. Archived from </value><value>the original</value><value> on November 16, 2018</value><value>. Retrieved </value><value>2017-08-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>elm-conf (2016-09-19), </value><value>"Code is the Easy Part" by Evan Czaplicki</value><value>, retrieved </value><value>2017-08-14</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Dolibarr project organization, different roles of actors"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Constine, Josh (December 7, 2012). </value><value>"Dropbox Hires Away Google's Guido Van Rossum, The Father Of Python"</value><value>. TechCrunch</value><value>. Retrieved </value><value>June 1,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure JIRA Workflow"</value><value>. Archived from </value><value>the original</value><value> on November 13, 2015</value><value>. Retrieved </value><value>3 October</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Adrian and Jacob retiring as Django BDFLs"</value><value>. Adrian Holovaty. January 12, 2014</value><value>. Retrieved </value><value>June 14,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal: Create a standard process for proposals"</value><value>. </value><value>GitHub</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Interfacing with Zig, a BDFL-run Project"</value><value>. </value><value>Loris Cro's Blog</value><value>. December 10, 2021</value><value>. Retrieved </value><value>April 14,</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A History of OCaml | OCaml.org"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"OCaml Infrastructure mailing list"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Introducing Alluxio Open Source Project Governance "</value><value>[1]</value><value>"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Governance Structure: JuMP"</value><value>. Retrieved </value><value>2023-09-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A Ruby Design Process"</value><value>. Retrieved </value><value>2016-04-17</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"pandas 0.20.3 documentation: Tutorials"</value><value>. Retrieved </value><value>2017-07-24</value><value>.</value><value> "Wes McKinney's (pandas BDFL) blog"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB, Twitter"</value><value>. May 6, 2020</value><value>. Retrieved </value><value>May 6,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB — what's in a name?"</value><value>. TerminusDB. August 21, 2019</value><value>. Retrieved </value><value>May 8,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Why Neovim is Better than Vim"</value><value>. January 15, 2015</value><value>. Retrieved </value><value>30 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Thesis, Automattic, and WordPress | Post Status"</value><value>. July 24, 2015</value><value>. Retrieved </value><value>2015-07-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Programming in Scala Leaps onto the World Stage!"</value><value>. Retrieved </value><value>2015-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Twitter"</value><value>. Taylor Otwell. October 9, 2014</value><value>. Retrieved </value><value>October 9,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Creator of the Laravel PHP Framework"</value><value>. </value><value>Facebook</value><value>. August 5, 2014</value><value>. Retrieved </value><value>August 5,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Robbins, Arnold (March 2014). </value><value>"The GNU Project and Me: 27 Years with GNU AWK"</value><value> </value><value>(PDF)</value><value>. </value><value>skeeve.com</value><value>. </value><value>Archived</value><value> </value><value>(PDF)</value><value> from the original on October 6, 2014</value><value>. Retrieved </value><value>August 11,</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Mastodon is crumbling—and many blame its creator"</value><value>. </value><value>The Daily Dot</value><value>. January 18, 2019.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Developer Intro/Overview"</value><value>. Retrieved </value><value>20 July</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Orchard Project Steering Committee"</value><value>. Archived from </value><value>the original</value><value> on August 12, 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Ubuntu carves niche in Linux landscape"</value><value>. </value><value>CNET</value><value>. Archived from </value><value>the original</value><value> on 6 November 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"CONTRIBUTING.md · master · redox-os / redox"</value><value>. July 8, 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Contributing to the F# Language and Compiler"</value><value>. Retrieved </value><value>29 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Dee-Ann LeBlanc (31 July 2006). </value><value>Linux For Dummies</value><value> (7th ed.). John Wiley &amp; Sons. p. 15. </value><value>ISBN</value><value> </value><value>978-0-470-04793-4</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Elixir Companies"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-11-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy 1.0.0"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy project governance"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Stories of Linux: A Look at Slackware Linux"</value><value>. </value><value>linux.com</value><value>. Archived from </value><value>the original</value><value> on October 30, 2014</value><value>. Retrieved </value><value>September 21,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"User and Developer Community | Post Status"</value><value>. Retrieved </value><value>2015-08-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chozick, Amy (June 27, 2013). </value><value>"Jimmy Wales is Not an Internet Billionaire"</value><value>. </value><value>The New York Times</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Jeremy Walker on Being the BDFL of Exercism by Humans of Open Source • A podcast on Anchor"</value><value>. </value><value>Anchor</value><value>. Retrieved </value><value>2021-03-26</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Book: Building Websites with DotNetNuke 5, Michael Washington and Ian Lackey, Packt Publishing. Page 14 "The core team comprises individuals invited to join the team by Shaun Walker, whom they affectionately call the "Benevolent Dictator".</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Art of Ballistic Programming"</value><value>. Archived from </value><value>the original</value><value> on June 17, 2013.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"PyTorch Governance | Maintainers — PyTorch 2.0 documentation"</value><value>. </value><value>pytorch.org</value><value>. Retrieved </value><value>2023-03-21</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Trino and the BDFL model </value><value>https://trino.io/blog/2023/04/06/trino-bdfl-focus.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Jenkins Enhancement Proposal #1: BDFL </value><value>https://github.com/jenkinsci/jep/blob/master/jep/1/README.adoc#bdfl</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>RedBeanPHP index page </value><value>https://redbeanphp.com/index.php?p=/welcome#sponsor</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>BitTorrent Enhancement Proposal #1: The BEP Process </value><value>https://www.bittorrent.org/beps/bep_0001.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Polars - About us"</value><value>. 2024-04-07. </value><value>Archived</value><value> from the original on 2024-03-24.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Lightning Governance — PyTorch Lightning 2.3.0dev documentation"</value><value>. </value><value>lightning.ai</value><value>. Retrieved </value><value>2024-04-10</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Addressing the Future of ABAP: The Power of Open Source"</value><value>. 2024-06-06.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GitHub FastAPI"</value><value>. 2024-07-30.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal Process"</value><value>. 2019-03-31.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ankitects Github organization"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki development discussion"</value><value>. </value><value>Reddit</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Benevolent_dictator_for_life&amp;oldid=1245721207</value><value>"</value></text><lastUpdated> 14 September 2024, at 18:01</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Main_Page</url><title>Welcome to </title><text><value>.mw-parser-output .mp-box{border:1px solid #aaa;padding:0 0.5em 0.5em;margin-top:4px}.mw-parser-output .mp-h2,body.skin-timeless .mw-parser-output .mp-h2{border:1px solid #aaa;margin:0.5em 0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;font-family:inherit}.mw-parser-output .mp-later{font-size:85%;font-weight:normal}.mw-parser-output #mp-welcomecount{text-align:center;margin:0.4em}.mw-parser-output #mp-welcome{font-size:162%;padding:0.1em}.mw-parser-output #mp-welcome h1,.mw-parser-output #mp-welcome .mw-heading1{font-size:inherit;font-family:inherit;display:inline;border:none}.mw-parser-output #mp-free{font-size:95%}.mw-parser-output #articlecount{font-size:85%}.mw-parser-output .mp-contains-float::after{content:"";display:block;clear:both}@media(max-width:875px){.mw-parser-output #mp-tfp table,.mw-parser-output #mp-tfp tr,.mw-parser-output #mp-tfp td,.mw-parser-output #mp-tfp tbody{display:block!important;width:100%!important;box-sizing:border-box}.mw-parser-output #mp-tfp tr:first-child td:first-child a.mw-file-description{text-align:center;display:table;margin:0 auto}}@media(min-width:875px){.mw-parser-output #mp-upper{display:flex}.mw-parser-output #mp-left{flex:1 1 55%;margin-right:2px}.mw-parser-output #mp-right{flex:1 1 45%;margin-left:2px}}@media screen{.mw-parser-output #mp-topbanner{background-color:#f9f9f9;border-color:#ddd}.mw-parser-output #mp-banner{background-color:#fffaf5;border-color:#f2e0ce}.mw-parser-output #mp-left{background-color:#f5fffa;border-color:#cef2e0}.mw-parser-output #mp-left .mp-h2{background-color:#cef2e0;border-color:#a3bfb1}.mw-parser-output #mp-right{background-color:#f5faff;border-color:#cedff2}.mw-parser-output #mp-right .mp-h2{background-color:#cedff2;border-color:#a3b0bf}.mw-parser-output #mp-middle{background-color:#fff5fa;border-color:#f2cedd}.mw-parser-output #mp-middle .mp-h2{background-color:#f2cedd;border-color:#bfa3af}.mw-parser-output #mp-lower{background-color:#faf5ff;border-color:#ddcef2}.mw-parser-output #mp-lower .mp-h2{background-color:#ddcef2;border-color:#afa3bf}.mw-parser-output #mp-bottom{border-color:#e2e2e2}.mw-parser-output #mp-bottom .mp-h2{background-color:#eee;border-color:#ddd}html.skin-theme-clientpref-night .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-banner{background-color:#431107;border-color:#663428}html.skin-theme-clientpref-night .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-night .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-night .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-night .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-night .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-night .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-night .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-night .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-banner{background-color:#431107;border-color:#663428}html.skin-theme-clientpref-os .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-os .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-os .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-os .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-os .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-os .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-os .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-os .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}</value><value>
+</value><value>
+</value><value>
+</value><value>Welcome to </value><value>Wikipedia</value><value>,</value><value>
+</value><value>the </value><value>free</value><value> </value><value>encyclopedia</value><value> that </value><value>anyone can edit</value><value>.</value><value>
+</value><value>6,917,271</value><value> articles in </value><value>English</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>From today's featured article</value><value>
+</value><value>
+</value><value>
+</value><value>Santa Cruz entering the field before a game in Belém</value><value>
+</value><value>
+</value><value>The </value><value>Suicidal Tour</value><value> took place when Brazilian professional </value><value>football</value><value> club </value><value>Santa Cruz Futebol Clube</value><value> toured the </value><value>North Region</value><value> of Brazil from 2 January to 29 April 1943. Over almost four months, they played either 26 or 28 </value><value>friendly matches</value><value> in six cities. The tour gained its name due to the misfortunes endured by the club. Looking to recover from a financial crisis, Santa Cruz arranged five matches in </value><value>Belém</value><value>, Pará. Traveling up the </value><value>Amazon River</value><value> for another round of matches, they first started experiencing problems in </value><value>Manaus</value><value>, where two players left to play for other clubs and seven members of the team's delegation caught </value><value>dysentery</value><value>. Two players went on to contract </value><value>typhoid fever</value><value> and died. Unable to return home through the sea, and needing to cover growing costs, Santa Cruz had to return to Recife by land, playing matches along the way to earn money. The return had further problems, including a fake arrest warrant for a player, a trip alongside thieves, and two train derailments. (</value><value>Full article...</value><value>)
+</value><value>
+</value><value>
+Recently featured: </value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>
+</value><value>Battle of Cane Hill</value><value>
+</value><value>Susanna Hoffs</value><value>
+</value><value>Heptamegacanthus</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>More featured articles</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>Did you know ...</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Atrium of The Empire Brunei</value><value>
+</value><value>
+</value><value>... that the opening of </value><value>The Empire Brunei</value><value> </value><value>(pictured)</value><value> was timed to help create hotel capacity in Brunei for an </value><value>APEC</value><value> summit?</value><value>
+</value><value>... that museum administrator </value><value>Herbert Smith</value><value> hired a special train so that civil servants could watch a total solar eclipse in 1927?</value><value>
+</value><value>... that </value><value>Yan Ruisheng</value><value>, China's first full-length feature film, was banned within two years?</value><value>
+</value><value>... that </value><value>Shadia Abu Ghazaleh</value><value> was one of the first women to join the Palestinian resistance to the </value><value>Israeli occupation of the West Bank</value><value>?</value><value>
+</value><value>... that the radio program </value><value>Radio City Music Hall of the Air</value><value> employed approximately 10,000 musicians during the first eight years of its broadcast history?</value><value>
+</value><value>... that </value><value>Stanley Washburn</value><value>'s</value><value> message on November 29, 1941, warning the US Navy not to underestimate the Japanese, failed to reach </value><value>Admiral Kimmel</value><value> before the </value><value>attack on Pearl Harbor</value><value>?</value><value>
+</value><value>... that </value><value>the first standalone street toilets to cater to both men and women</value><value> in </value><value>Auckland</value><value> were converted into a male-only facility during the Second World War?</value><value>
+</value><value>... that </value><value>Taurus 09</value><value> was the largest Royal Navy deployment in more than ten years?</value><value>
+</value><value>... that the name of </value><value>Kim Jong Un's daughter</value><value> has not been publicly disclosed?</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>Start a new article</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>In the news</value><value>
+</value><value>.mw-parser-output .itn-img{float:right;margin-left:0.5em;margin-top:0.2em}</value><value>
+</value><value>
+</value><value>Thierry Neuville</value><value>
+</value><value>
+</value><value>Israel and Lebanon agree to a </value><value>60-day</value><value> ceasefire</value><value> to halt </value><value>the current hostilities</value><value>.</value><value>
+</value><value>In </value><value>motorsport</value><value>, </value><value>Thierry Neuville</value><value> </value><value>(pictured)</value><value> and </value><value>Martijn Wydaeghe</value><value> win </value><value>the World Rally Championship</value><value>.</value><value>
+</value><value>In </value><value>Formula One</value><value>, </value><value>Max Verstappen</value><value> wins </value><value>the World Championship</value><value>.</value><value>
+</value><value>Following </value><value>parliamentary elections</value><value>, the </value><value>Seimas</value><value> elects </value><value>Gintautas Paluckas</value><value> as the </value><value>prime minister of Lithuania</value><value>.</value><value>
+</value><value>
+</value><value>Ongoing</value><value>: </value><value>
+</value><value>Israel–Hamas war</value><value>
+</value><value>Israeli invasion of Lebanon</value><value>
+</value><value>Russian invasion of Ukraine</value><value>
+</value><value>timeline</value><value>
+</value><value>Sudanese civil war</value><value>
+</value><value>timeline</value><value>
+</value><value>Recent deaths</value><value>: </value><value>
+</value><value>Earl Holliman</value><value>
+</value><value>John Tinniswood</value><value>
+</value><value>Mike Hasenfratz</value><value>
+</value><value>Odile Bailleux</value><value>
+</value><value>Nikki Kaye</value><value>
+</value><value>Breyten Breytenbach</value><value>
+</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>On this day</value><value>
+</value><value>
+</value><value>November 29</value><value>: </value><value>Black Friday</value><value> in the United States (2024); </value><value>Liberation Day</value><value> in Albania
+</value><value>
+</value><value>
+</value><value>
+</value><value>Screenshot of a game of </value><value>Pong</value><value>
+</value><value>
+</value><value>1781</value><value> – The crew of the British </value><value>slave ship</value><value> </value><value>Zong</value><value>, running low on water, began the killing of more than 130 </value><value>enslaved African people</value><value> by throwing them into the sea to claim insurance.</value><value>
+</value><value>1810</value><value> – </value><value>Napoleonic Wars</value><value>: British troops rendezvoused at </value><value>Grand Baie</value><value> to launch an </value><value>invasion of Isle de France</value><value>, now known as Mauritius.</value><value>
+</value><value>1924</value><value> – The </value><value>Bronx County Bird Club</value><value> was formed and would go on to lead the Audubon Society's </value><value>Christmas Bird Count</value><value> in the eastern US for three years in a row.</value><value>
+</value><value>1963</value><value> – Five minutes after taking off from </value><value>Montréal–Dorval</value><value>, </value><value>Trans-Canada Air Lines Flight 831</value><value> crashed in bad weather, killing all 118 people on board.</value><value>
+</value><value>1972</value><value> – </value><value>Atari</value><value> announced the release of </value><value>Pong</value><value> </value><value>(screenshot pictured)</value><value>, one of the </value><value>first video games</value><value> to achieve widespread popularity in both the </value><value>arcade</value><value> and </value><value>home-console</value><value> markets.</value><value>
+</value><value>2012</value><value> – In </value><value>resolution 67/19</value><value>, the </value><value>United Nations General Assembly</value><value> voted to accord the status of a </value><value>non-member observer state</value><value> to </value><value>Palestine</value><value>.</value><value>
+</value><value>Christian Doppler</value><value>  (</value><value>b.</value><value> 1803)</value><value>George Brown</value><value>  (</value><value>b.</value><value> 1818)</value><value>Adam Clayton Powell Jr.</value><value>  (</value><value>b.</value><value> 1908)</value><value>Yōichi Masuzoe</value><value>  (</value><value>b.</value><value> 1948)</value><value>
+</value><value>
+More anniversaries: </value><value>
+</value><value>November 28</value><value>
+</value><value>November 29</value><value>
+</value><value>November 30</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>List of days of the year</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>From today's featured list</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>One hundred ten episodes of </value><value>Community</value><value>, an American television sitcom, aired over six seasons. The series premiered on </value><value>NBC</value><value> on September 17, 2009, and ended on June 2, 2015. </value><value>Community</value><value> follows a group of students at a community college in the fictional locale of Greendale, Colorado. The series heavily uses </value><value>meta-humor</value><value> and pop culture references, often parodying film and television clichés and tropes. The series stars </value><value>Joel McHale</value><value>, </value><value>Gillian Jacobs</value><value>, </value><value>Danny Pudi</value><value>, </value><value>Yvette Nicole Brown</value><value>, </value><value>Alison Brie</value><value>, </value><value>Donald Glover</value><value>, </value><value>Ken Jeong</value><value>, and </value><value>Chevy Chase</value><value>, with </value><value>Jim Rash</value><value> being promoted from recurring to series regular in </value><value>season three</value><value>. The </value><value>first season</value><value> of </value><value>Community</value><value> aired from September 17, 2009, through May 20, 2010. After four further seasons, NBC announced that the series had been canceled. </value><value>Yahoo! Screen</value><value> picked it up for a </value><value>sixth and final season</value><value>. (</value><value>Full list...</value><value>)
+</value><value>
+</value><value>
+Recently featured: </value><value>
+</value><value>Suffolk Wildlife Trust</value><value>
+</value><value>World Chess Championships</value><value>
+</value><value>Swiss Nobel laureates</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>More featured lists</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Today's featured picture</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>The Rose of Persia</value><value>; </value><value>or, The Story-Teller and the Slave</value><value>, is a two-act </value><value>comic opera</value><value>, with music by </value><value>Arthur Sullivan</value><value> and a libretto by </value><value>Basil Hood</value><value>. It premiered at the </value><value>Savoy Theatre</value><value> on 29 November 1899, closing on 28 June 1900 after a profitable run of 211 performances. The opera then toured, had a brief run in America and played elsewhere throughout the English-speaking world.
+</value><value>
+</value><value>Painting credit: </value><value>Dudley Hardy</value><value>; restored by </value><value>Adam Cuerden</value><value>
+</value><value>
+Recently featured: </value><value>
+</value><value>Ocellated turkey</value><value>
+</value><value>Mary Jackson</value><value>
+</value><value>Ice eggs</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>More featured pictures</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Other areas of Wikipedia</value><value>
+</value><value>
+</value><value>Community portal</value><value> – The central hub for editors, with resources, links, tasks, and announcements.</value><value>
+</value><value>Village pump</value><value> – Forum for discussions about Wikipedia itself, including policies and technical issues.</value><value>
+</value><value>Site news</value><value> – Sources of news about Wikipedia and the broader Wikimedia movement.</value><value>
+</value><value>Teahouse</value><value> – Ask basic questions about using or editing Wikipedia.</value><value>
+</value><value>Help desk</value><value> – Ask questions about using or editing Wikipedia.</value><value>
+</value><value>Reference desk</value><value> – Ask research questions about encyclopedic topics.</value><value>
+</value><value>Content portals</value><value> – A unique way to navigate the encyclopedia.</value><value>
+</value><value>
+</value><value>Wikipedia's sister projects</value><value>
+</value><value>.mw-parser-output #sister-projects-list{display:flex;flex-wrap:wrap}.mw-parser-output #sister-projects-list li{display:inline-block}.mw-parser-output #sister-projects-list li span{font-weight:bold}.mw-parser-output #sister-projects-list li&gt;div{display:inline-block;vertical-align:middle;padding:6px 4px}.mw-parser-output #sister-projects-list li&gt;div:first-child{text-align:center}@media screen{.mw-parser-output .sister-projects-wikt-icon-dark,html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-light{display:none}html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-light{display:none}}@media(min-width:360px){.mw-parser-output #sister-projects-list li{width:33%;min-width:20em;white-space:nowrap;flex:1 0 25%}.mw-parser-output #sister-projects-list li&gt;div:first-child{min-width:50px}}</value><value>
+</value><value>Wikipedia is written by volunteer editors and hosted by the </value><value>Wikimedia Foundation</value><value>, a non-profit organization that also hosts a range of other volunteer </value><value>projects</value><value>:
+</value><value>
+</value><value>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Commons</value><value>Free media repository</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>MediaWiki</value><value>Wiki software development</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Meta-Wiki</value><value>Wikimedia project coordination</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikibooks</value><value>Free textbooks and manuals</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikidata</value><value>Free knowledge base</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikinews</value><value>Free-content news</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiquote</value><value>Collection of quotations</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikisource</value><value>Free-content library</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikispecies</value><value>Directory of species</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiversity</value><value>Free learning tools</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikivoyage</value><value>Free travel guide</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wiktionary</value><value>Dictionary and thesaurus</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Wikipedia languages</value><value>
+</value><value>.mw-parser-output .wikipedia-languages-complete{font-weight:bold}.mw-parser-output .wikipedia-languages ul{margin-left:0}.mw-parser-output .wikipedia-languages ul a{white-space:nowrap}.mw-parser-output .wikipedia-languages&gt;ul{list-style:none;text-align:center;clear:both}.mw-parser-output .wikipedia-languages-count-container{width:90%;display:flex;justify-content:center;padding-top:1em;margin:0 auto}.mw-parser-output .wikipedia-languages-prettybars{width:100%;height:1px;margin:0.5em 0;background-color:#c8ccd1;flex-shrink:1;align-self:center}.mw-parser-output .wikipedia-languages-count{padding:0 1em;white-space:nowrap}</value><value>
+</value><value>
+</value><value>This Wikipedia is written in </value><value>English</value><value>. Many </value><value>other Wikipedias are available</value><value>; some of the largest are listed below.
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>1,000,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>العربية</value><value>
+</value><value>Deutsch</value><value>
+</value><value>Español</value><value>
+</value><value>فارسی</value><value>‎</value><value>
+</value><value>Français</value><value>
+</value><value>Italiano</value><value>
+</value><value>Nederlands</value><value>
+</value><value>日本語</value><value>
+</value><value>Polski</value><value>
+</value><value>Português</value><value>
+</value><value>Русский</value><value>
+</value><value>Svenska</value><value>
+</value><value>Українська</value><value>
+</value><value>Tiếng Việt</value><value>
+</value><value>中文</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>250,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Bahasa Indonesia</value><value>
+</value><value>Bahasa Melayu</value><value>
+</value><value>閩南語</value><value>
+</value><value>Български</value><value>
+</value><value>Català</value><value>
+</value><value>Čeština</value><value>
+</value><value>Dansk</value><value>
+</value><value>Esperanto</value><value>
+</value><value>Euskara</value><value>
+</value><value>עברית</value><value>
+</value><value>Հայերեն</value><value>
+</value><value>한국어</value><value>
+</value><value>Magyar</value><value>
+</value><value>Norsk bokmål</value><value>
+</value><value>Română</value><value>
+</value><value>Simple English</value><value>
+</value><value>Srpski</value><value>
+</value><value>Srpskohrvatski</value><value>
+</value><value>Suomi</value><value>
+</value><value>Türkçe</value><value>
+</value><value>Oʻzbekcha</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>50,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Asturianu</value><value>
+</value><value>Azərbaycanca</value><value>
+</value><value>বাংলা</value><value>
+</value><value>Bosanski</value><value>
+</value><value>کوردی</value><value>
+</value><value>Eesti</value><value>
+</value><value>Ελληνικά</value><value>
+</value><value>Frysk</value><value>
+</value><value>Gaeilge</value><value>
+</value><value>Galego</value><value>
+</value><value>Hrvatski</value><value>
+</value><value>ქართული</value><value>
+</value><value>Kurdî</value><value>
+</value><value>Latviešu</value><value>
+</value><value>Lietuvių</value><value>
+</value><value>മലയാളം</value><value>
+</value><value>Македонски</value><value>
+</value><value>မြန်မာဘာသာ</value><value>
+</value><value>Norsk nynorsk</value><value>
+</value><value>ਪੰਜਾਬੀ</value><value>
+</value><value>Shqip</value><value>
+</value><value>Slovenčina</value><value>
+</value><value>Slovenščina</value><value>
+</value><value>ไทย</value><value>
+</value><value>తెలుగు</value><value>
+</value><value>اردو</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>                                                
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1225315602</value><value>"</value></text><lastUpdated> 23 May 2024, at 17:32</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Liquibase</url><title>None</title><text><value>Software library to manage database schema changes</value><value>
+</value><value>.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</value><value>This article </value><value>needs additional citations for </value><value>verification</value><value>.</value><value> Please help </value><value>improve this article</value><value> by </value><value>adding citations to reliable sources</value><value>. Unsourced material may be challenged and removed.</value><value>Find sources:</value><value> </value><value>"Liquibase"</value><value> – </value><value>news</value><value> </value><value>·</value><value> </value><value>newspapers</value><value> </value><value>·</value><value> </value><value>books</value><value> </value><value>·</value><value> </value><value>scholar</value><value> </value><value>·</value><value> </value><value>JSTOR</value><value>  </value><value>(</value><value>November 2014</value><value>)</value><value> (</value><value>Learn how and when to remove this message</value><value>)</value><value>
+</value><value>.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table&gt;caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table&gt;tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</value><value>Liquibase</value><value>Developer(s)</value><value>Nathan Voxland</value><value>Stable release</value><value>4.25.0
+   /    November 13, 2023</value><value>; 12 months ago</value><value> (</value><value>2023-11-13</value><value>)</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>Repository</value><value>github</value><value>.com</value><value>/liquibase</value><value>/liquibase</value><value>Written in</value><value>Java</value><value>Operating system</value><value>Cross-platform</value><value>Type</value><value>Software development</value><value>License</value><value>Apache License 2.0</value><value>, </value><value>Freemium</value><value>Website</value><value>www</value><value>.liquibase</value><value>.org</value><value>
+</value><value>Liquibase</value><value> is an </value><value>open-source</value><value> database-independent library for tracking, managing and applying database schema changes.  It was started in 2006 to allow easier tracking of database changes, especially in an </value><value>agile software development</value><value> environment.
+</value><value>
+</value><value>
+</value><value>Overview</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>All changes to the database are stored in text files (</value><value>XML</value><value>, </value><value>YAML</value><value>, </value><value>JSON</value><value> or </value><value>SQL</value><value>) and identified by a combination of an "id" and "author" tag as well as the name of the file itself.  A list of all applied changes is stored in each database which is consulted on all database updates to determine what new changes need to be applied.  As a result, there is no database version number but this approach allows it to work in environments with multiple developers and code branches.
+</value><value>Liquibase automatically creates DatabaseChangeLog Table and DatabaseChangeLogLock Table when you first execute a changeLog File.
+</value><value>
+</value><value>Major functionality</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The following is a list of major features:
+</value><value>
+</value><value>Over 30 built-in </value><value>database refactorings</value><value>
+</value><value>Extensibility to create custom changes</value><value>
+</value><value>Update database to current version</value><value>
+</value><value>Rollback last X changes to database</value><value>
+</value><value>Rollback database changes to particular date/time</value><value>
+</value><value>Rollback database to "tag"</value><value>
+</value><value>SQL for Database Updates and Rollbacks can be saved for manual review</value><value>
+</value><value>Stand-alone IDE and </value><value>Eclipse</value><value> plug-in</value><value>
+</value><value>"Contexts" for including/excluding change sets to execute</value><value>
+</value><value>Database diff report</value><value>
+</value><value>Database diff changelog generation</value><value>
+</value><value>Ability to create changelog to generate an existing database</value><value>
+</value><value>Database change documentation generation</value><value>
+</value><value>DBMS Check, user check, and SQL check preconditions</value><value>
+</value><value>Ability to split change log into multiple files for easier management</value><value>
+</value><value>Executable via command line, </value><value>Apache Ant</value><value>, </value><value>Apache Maven</value><value>, </value><value>servlet container</value><value>, or </value><value>Spring Framework</value><value>.</value><value>
+</value><value>Support for 10 database systems</value><value>
+</value><value>Commercial version</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Liquibase (formerly Datical)</value><value>[</value><value>2</value><value>]</value><value> is both the largest contributor to the Liquibase project and the developer of Liquibase Enterprise </value><value>[</value><value>3</value><value>]</value><value> – a commercial product which provides the core Liquibase functionality plus additional features.
+</value><value>
+</value><value>Change Forecasting: Forecast upcoming changes to be executed before they are run to determine how those changes will impact your data.</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>Rules Engine to enforce Corporate Standards and Policies.</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>Supports database Stored Logic: functions, stored procedures, packages, table spaces, triggers, sequences, user defined types, synonyms, etc.</value><value>
+</value><value>Compare Databases enables you to compare two database schemas to identify change and easily move it to your change log.</value><value>
+</value><value>Change Set Wizard to easily define and capture database changes in a database neutral manner.</value><value>
+</value><value>Deployment Plan Wizard for modeling and managing your logical deployment workflow</value><value>
+</value><value>Plug-ins to </value><value>Jenkins</value><value>, Bamboo, UrbanCode, CA Release Automation (Nolio), Serena Release Automation, BMC Bladelogic, </value><value>Puppet</value><value>, </value><value>Chef</value><value>,</value><value>[</value><value>6</value><value>]</value><value> as well all popular source control systems like </value><value>SVN</value><value>, </value><value>Git</value><value>, TFS, CVS, etc.</value><value>
+</value><value>Liquibase products, including Liquibase Enterprise (formerly known as Datical DB), are used by DBAs, Release Managers, DevOps teams, Application Owners, Architects, and Developers involved in the Application Release process. It manages Database Schema changes together with application code in a programmatic fashion that eliminates errors and delays and enables rapid Agile releases. Liquibase commercial products build upon the Liquibase Data Model Approach for managing data structure specific content across application versions as they advance from Development to Test to Production environments. Datical previews the impact of Schema changes in any environment before deployment thus mitigating risk and resulting in smoother and faster application changes.
+</value><value>Liquibase developer, Nathan Voxland, is an executive at Liquibase (formerly Datical).</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>
+</value><value>Sample Liquibase changelog file</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>&lt;?xml version="1.0" encoding="UTF-8"?&gt;</value><value>
+
+</value><value>&lt;databaseChangeLog</value><value>
+</value><value>        </value><value>xmlns=</value><value>"http://www.liquibase.org/xml/ns/dbchangelog/1.3"</value><value>
+</value><value>        </value><value>xmlns:xsi=</value><value>"http://www.w3.org/2001/XMLSchema-instance"</value><value>
+</value><value>        </value><value>xsi:schemaLocation=</value><value>"http://www.liquibase.org/xml/ns/dbchangelog/1.3</value><value>
+</value><value>        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-1.3.xsd"</value><value>&gt;</value><value>
+</value><value>    </value><value>&lt;preConditions&gt;</value><value>
+</value><value>            </value><value>&lt;dbms</value><value> </value><value>type=</value><value>"oracle"</value><value>/&gt;</value><value>
+</value><value>    </value><value>&lt;/preConditions&gt;</value><value>
+
+</value><value>    </value><value>&lt;changeSet</value><value> </value><value>id=</value><value>"1"</value><value> </value><value>author=</value><value>"author1"</value><value>&gt;</value><value>
+</value><value>        </value><value>&lt;createTable</value><value> </value><value>tableName=</value><value>"persons"</value><value>&gt;</value><value>
+</value><value>            </value><value>&lt;column</value><value> </value><value>name=</value><value>"id"</value><value> </value><value>type=</value><value>"int"</value><value> </value><value>autoIncrement=</value><value>"true"</value><value>&gt;</value><value>
+</value><value>                </value><value>&lt;constraints</value><value> </value><value>primaryKey=</value><value>"true"</value><value> </value><value>nullable=</value><value>"false"</value><value>/&gt;</value><value>
+</value><value>            </value><value>&lt;/column&gt;</value><value>
+</value><value>            </value><value>&lt;column</value><value> </value><value>name=</value><value>"name"</value><value> </value><value>type=</value><value>"varchar(50)"</value><value>/&gt;</value><value>
+</value><value>        </value><value>&lt;/createTable&gt;</value><value>
+</value><value>    </value><value>&lt;/changeSet&gt;</value><value>
+
+</value><value>    </value><value>&lt;changeSet</value><value> </value><value>id=</value><value>"2"</value><value> </value><value>author=</value><value>"author2"</value><value> </value><value>context=</value><value>"test"</value><value>&gt;</value><value>
+</value><value>        </value><value>&lt;insert</value><value> </value><value>tableName=</value><value>"persons"</value><value>&gt;</value><value>
+</value><value>            </value><value>&lt;column</value><value> </value><value>name=</value><value>"id"</value><value> </value><value>value=</value><value>"1"</value><value>/&gt;</value><value>
+</value><value>            </value><value>&lt;column</value><value> </value><value>name=</value><value>"name"</value><value> </value><value>value=</value><value>"Test1"</value><value>/&gt;</value><value>
+</value><value>        </value><value>&lt;/insert&gt;</value><value>
+</value><value>        </value><value>&lt;insert</value><value> </value><value>tableName=</value><value>"persons"</value><value>&gt;</value><value>
+</value><value>            </value><value>&lt;column</value><value> </value><value>name=</value><value>"id"</value><value> </value><value>value=</value><value>"2"</value><value>/&gt;</value><value>
+</value><value>            </value><value>&lt;column</value><value> </value><value>name=</value><value>"name"</value><value> </value><value>value=</value><value>"Test2"</value><value>/&gt;</value><value>
+</value><value>        </value><value>&lt;/insert&gt;</value><value>
+</value><value>    </value><value>&lt;/changeSet&gt;</value><value>
+</value><value>&lt;/databaseChangeLog&gt;</value><value>
+</value><value>
+</value><value>Related tools</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>alembic</value><value>
+</value><value>DBmaestro</value><value>
+</value><value>Flyway</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>"Liquibase Downloads"</value><value>. </value><value>liquibase.com</value><value>. Liquibase</value><value>. Retrieved </value><value>2023-12-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Datical is Now Liquibase; Company Returns to its Open Source Roots with Support from its Community"</value><value>. 19 May 2020.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Liquibase Enterprise"</value><value>. Liquibase</value><value>. Retrieved </value><value>2020-05-29</value><value>.</value><value> </value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Database Forecast Tools for Change Management"</value><value>.</value><value> </value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Liquibase Rules"</value><value>. Liquibase</value><value>. Retrieved </value><value>2020-05-29</value><value>.</value><value> </value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Our partners"</value><value>
