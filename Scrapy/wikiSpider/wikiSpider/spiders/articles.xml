@@ -2717,4 +2717,1048 @@ Recently featured: </value><value>
 </value><value>Right-wing</value><value>
 </value><value>Dominant-party system</value><value>
 </value><value>Illiberal democracy</value><value>
-</value><value>Totalitarian</value>
+</value><value>Totalitarian</value><?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><url>https://en.wikipedia.org/wiki/Benevolent_dictator_for_life</url><title>None</title><text><value>Title given to a small number of open-source software development leaders</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>For the political term, see </value><value>Benevolent dictatorship</value><value>.</value><value>
+</value><value>Benevolent dictator for life</value><value> (</value><value>BDFL</value><value>) is a title given to a small number of </value><value>open-source software development</value><value> leaders, typically project founders who retain the final say in disputes or arguments within the community. The phrase originated in 1995 with reference to </value><value>Guido van Rossum</value><value>, creator of the </value><value>Python programming language</value><value>.</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Shortly after Van Rossum joined the </value><value>Corporation for National Research Initiatives</value><value>, the term appeared in a follow-up mail by Ken Manheimer to a meeting trying to create a semi-formal group that would oversee Python development and workshops; this initial use included an additional joke of naming Van Rossum the "First Interim BDFL". According to Rossum, the title was most likely created by Ken Manheimer or </value><value>Barry Warsaw</value><value>.</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>In July 2018, Van Rossum announced that he would be stepping down as BDFL of Python without appointing a successor, effectively eliminating the title within the Python community structure.</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>
+</value><value>Usage</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>BDFL should not be confused with the more common term for open-source leaders, "benevolent dictator", which was popularized by </value><value>Eric S. Raymond</value><value>'s essay "</value><value>Homesteading the Noosphere</value><value>" (1999).</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>Among other topics related to </value><value>hacker culture</value><value>, Raymond elaborates on how the nature of open source forces the "dictatorship" to keep itself benevolent, since a strong disagreement can lead to the </value><value>forking</value><value> of the project under the rule of new leaders.</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>Referent candidates</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>Key
+</value><value>
+</value><value>
+</value><value>†
+</value><value>
+</value><value>Deceased
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>Name
+</value><value>
+</value><value>Project
+</value><value>
+</value><value>Type
+</value><value>
+</value><value>Reference
+</value><value>
+</value><value>
+</value><value>Sylvain Benner
+</value><value>
+</value><value>Spacemacs</value><value>
+</value><value>
+</value><value>Community-driven </value><value>Emacs</value><value> distribution
+</value><value>
+</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Vitalik Buterin</value><value>
+</value><value>
+</value><value>Ethereum</value><value>
+</value><value>
+</value><value>Blockchain-based cryptocurrency
+</value><value>
+</value><value>[</value><value>6</value><value>]</value><value>[</value><value>better source needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Dries Buytaert</value><value>
+</value><value>
+</value><value>Drupal</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>François Chollet</value><value>
+</value><value>
+</value><value>Keras</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan Czaplicki
+</value><value>
+</value><value>Elm</value><value>
+</value><value>
+</value><value>Front-end web programming language
+</value><value>
+</value><value>[</value><value>9</value><value>]</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Laurent Destailleur
+</value><value>
+</value><value>Dolibarr ERP CRM</value><value>
+</value><value>
+</value><value>Software suite for </value><value>Enterprise Resource Planning</value><value> and </value><value>Customer Relationship Management</value><value>
+</value><value>
+</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>David Heinemeier Hansson</value><value>
+</value><value>
+</value><value>Ruby on Rails</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Rich Hickey</value><value>
+</value><value>
+</value><value>Clojure</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Adrian Holovaty</value><value> </value><value>and Jacob Kaplan-Moss
+</value><value>
+</value><value>Django</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Andrew Kelley
+</value><value>
+</value><value>Zig</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>15</value><value>]</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Xavier Leroy</value><value>
+</value><value>
+</value><value>OCaml</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>17</value><value>]</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Haoyuan Li</value><value>
+</value><value>
+</value><value>Alluxio</value><value>
+</value><value>
+</value><value>Data Orchestration System
+</value><value>
+</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Miles Lubin</value><value>
+</value><value>
+</value><value>JuMP</value><value>
+</value><value>
+</value><value>Mathematical optimization modeling language in Julia
+</value><value>
+</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Yukihiro Matsumoto (Matz)</value><value>
+</value><value>
+</value><value>Ruby</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>21</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Wes McKinney</value><value>
+</value><value>
+</value><value>Pandas</value><value>
+</value><value>
+</value><value>Python data analysis library
+</value><value>
+</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gavin Mendel-Gleason</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>
+</value><value>TerminusDB</value><value>
+</value><value>
+</value><value>Open-source graph database for knowledge graph representation
+</value><value>
+</value><value>[</value><value>23</value><value>]</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Moolenaar</value><value>†
+</value><value>
+</value><value>Vim</value><value>
+</value><value>
+</value><value>Text editor
+</value><value>
+</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Matt Mullenweg</value><value>[</value><value>b</value><value>]</value><value>
+</value><value>
+</value><value>WordPress</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Odersky</value><value>
+</value><value>
+</value><value>Scala</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>27</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Taylor Otwell
+</value><value>
+</value><value>Laravel</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>28</value><value>]</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Theo de Raadt</value><value>
+</value><value>
+</value><value>OpenBSD</value><value>
+</value><value>
+</value><value>A </value><value>Unix-like</value><value> operating system
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Arnold Robbins</value><value>
+</value><value>
+</value><value>Awk</value><value>, Gawk
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Eugen Rochko</value><value>
+</value><value>
+</value><value>Mastodon</value><value>
+</value><value>
+</value><value>Open source, decentralized social network
+</value><value>
+</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ton Roosendaal</value><value>[</value><value>c</value><value>]</value><value>
+</value><value>
+</value><value>Blender</value><value>
+</value><value>
+</value><value>3D computer graphics software
+</value><value>
+</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sébastien Ros
+</value><value>
+</value><value>Orchard Project</value><value>
+</value><value>
+</value><value>Content management system
+</value><value>
+</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Mark Shuttleworth</value><value>[</value><value>d</value><value>]</value><value>
+</value><value>
+</value><value>Ubuntu</value><value>
+</value><value>
+</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Soller
+</value><value>
+</value><value>Redox</value><value>
+</value><value>
+</value><value>Operating system
+</value><value>
+</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Don Syme</value><value>[</value><value>e</value><value>]</value><value>
+</value><value>
+</value><value>F#</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Linus Torvalds</value><value>[</value><value>f</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>
+</value><value>
+</value><value>Operating system kernel
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>[</value><value>37</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>José Valim
+</value><value>
+</value><value>Elixir</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Pauli Virtanen
+</value><value>
+</value><value>SciPy</value><value>
+</value><value>
+</value><value>Python</value><value> library used for scientific and technical computing
+</value><value>
+</value><value>[</value><value>39</value><value>]</value><value>[</value><value>40</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Patrick Volkerding</value><value>
+</value><value>
+</value><value>Slackware</value><value>
+</value><value>
+</value><value>GNU</value><value>/</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Nathan Voxland
+</value><value>
+</value><value>Liquibase</value><value>
+</value><value>
+</value><value>Database schema management
+</value><value>
+</value><value>[</value><value>42</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jimmy Wales</value><value>
+</value><value>
+</value><value>Wikimedia Foundation</value><value>
+</value><value>
+</value><value>Collaborative knowledge project
+</value><value>
+</value><value>[</value><value>43</value><value>]</value><value>[</value><value>i</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Walker
+</value><value>
+</value><value>Exercism</value><value>
+</value><value>
+</value><value>Open-source programming education platform
+</value><value>
+</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Shaun Walker
+</value><value>
+</value><value>DotNetNuke</value><value>
+</value><value>
+</value><value>Web application framework
+</value><value>
+</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Larry Wall</value><value>
+</value><value>
+</value><value>Perl</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan You</value><value>
+</value><value>
+</value><value>Vue.js</value><value>
+</value><value>
+</value><value>JavaScript MVVM framework for building user interfaces and single-page applications.
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Soumith Chintala
+</value><value>
+</value><value>PyTorch</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>47</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Traverso, Dain Sundstrom, David Phillips
+</value><value>
+</value><value>Trino</value><value>
+</value><value>
+</value><value>SQL query engine
+</value><value>
+</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Kohsuke Kawaguchi</value><value>
+</value><value>
+</value><value>Jenkins</value><value>
+</value><value>
+</value><value>Automation server
+</value><value>
+</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gabor de Mooij
+</value><value>
+</value><value>RedBeanPHP</value><value>
+</value><value>
+</value><value>Database object relational mapper
+</value><value>
+</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Cohen</value><value>
+</value><value>
+</value><value>BitTorrent</value><value>
+</value><value>
+</value><value>Peer-to-peer file sharing protocol
+</value><value>
+</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Walter Bright</value><value>
+</value><value>
+</value><value>D (programming language)</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Richie Vink
+</value><value>
+</value><value>Polars
+</value><value>
+</value><value>Data analysis framework
+</value><value>
+</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>William Falcon
+</value><value>
+</value><value>PyTorch Lightning</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Lars Hvam
+</value><value>
+</value><value>abapGit
+</value><value>
+</value><value>Git client for ABAP
+</value><value>
+</value><value>[</value><value>54</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sebastián Ramírez
+</value><value>
+</value><value>FastAPI</value><value>
+</value><value>
+</value><value>Web framework for building APIs with </value><value>Python</value><value>
+</value><value>
+</value><value>[</value><value>55</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bill Hall (gingerBill)
+</value><value>
+</value><value>Odin
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>56</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Damien Elmes (dae)
+</value><value>
+</value><value>Anki</value><value>
+</value><value>
+</value><value>Spaced repetition</value><value> system
+</value><value>
+</value><value>[</value><value>57</value><value>]</value><value>[</value><value>58</value><value>]</value><value>
+</value><value>
+</value><value>Organizational positions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CTO of </value><value>TerminusDB</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Lead Developer at the WordPress Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chairman of the </value><value>Blender Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Until December 2009, CEO of </value><value>Canonical Ltd</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Technical Advisor at the </value><value>F# Software Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Sponsee of the </value><value>Linux Foundation</value><value>. Also holds the trademark for Linux</value><value>
+</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Design by dictator</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Disputed by Wales; </value><value>"I am not the benevolent dictator of anything"</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Guido van Rossum (2008-07-31). </value><value>"Origin of BDFL"</value><value>. Artima.com. </value><value>Archived</value><value> from the original on 2012-07-21</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Python Creator Scripts Inside Google"</value><value>. </value><value>eWeek</value><value>. 2006-03-06. </value><value>Archived</value><value> from the original on 2018-08-09</value><value>. Retrieved </value><value>2008-05-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Van Rossum, Guido (July 12, 2018). </value><value>"Transfer of power"</value><value>. </value><value>mail.python.org</value><value>. </value><value>Archived</value><value> from the original on July 12, 2018</value><value>. Retrieved </value><value>August 9,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric S. (2000). </value><value>"Homesteading the Noosphere § Project Structures and Ownership"</value><value>. </value><value>Eric S. Raymond's Home Page</value><value>. </value><value>Archived</value><value> from the original on 2012-07-01</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Spacemacs COMMUNITY.org"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-08-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Pearson, Jordan (24 April 2017). </value><value>"Ethereum's Boy King Is Thinking About Giving Up the Mantle"</value><value>. </value><value>Vice</value><value>. Retrieved </value><value>5 September</value><value> 2023</value><value>. </value><value>One participant called him a benevolent dictator.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Fay, Randy</value><value>. </value><value>"How Do Open Source Communities Govern Themselves? | RandyFay.comties Govern Themselves?"</value><value>. </value><value>randyfay.com</value><value>. Retrieved </value><value>27 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Keras API Special Interest Group, Leadership"</value><value>. </value><value>GitHub</value><value>. December 21, 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"56: Ember vs. Elm: The Showdown with Philip Poots | The Frontside Podcast"</value><value>. </value><value>The Frontside Podcast</value><value>. Archived from </value><value>the original</value><value> on November 16, 2018</value><value>. Retrieved </value><value>2017-08-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>elm-conf (2016-09-19), </value><value>"Code is the Easy Part" by Evan Czaplicki</value><value>, retrieved </value><value>2017-08-14</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Dolibarr project organization, different roles of actors"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Constine, Josh (December 7, 2012). </value><value>"Dropbox Hires Away Google's Guido Van Rossum, The Father Of Python"</value><value>. TechCrunch</value><value>. Retrieved </value><value>June 1,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure JIRA Workflow"</value><value>. Archived from </value><value>the original</value><value> on November 13, 2015</value><value>. Retrieved </value><value>3 October</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Adrian and Jacob retiring as Django BDFLs"</value><value>. Adrian Holovaty. January 12, 2014</value><value>. Retrieved </value><value>June 14,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal: Create a standard process for proposals"</value><value>. </value><value>GitHub</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Interfacing with Zig, a BDFL-run Project"</value><value>. </value><value>Loris Cro's Blog</value><value>. December 10, 2021</value><value>. Retrieved </value><value>April 14,</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A History of OCaml | OCaml.org"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"OCaml Infrastructure mailing list"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Introducing Alluxio Open Source Project Governance "</value><value>[1]</value><value>"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Governance Structure: JuMP"</value><value>. Retrieved </value><value>2023-09-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A Ruby Design Process"</value><value>. Retrieved </value><value>2016-04-17</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"pandas 0.20.3 documentation: Tutorials"</value><value>. Retrieved </value><value>2017-07-24</value><value>.</value><value> "Wes McKinney's (pandas BDFL) blog"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB, Twitter"</value><value>. May 6, 2020</value><value>. Retrieved </value><value>May 6,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB — what's in a name?"</value><value>. TerminusDB. August 21, 2019</value><value>. Retrieved </value><value>May 8,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Why Neovim is Better than Vim"</value><value>. January 15, 2015</value><value>. Retrieved </value><value>30 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Thesis, Automattic, and WordPress | Post Status"</value><value>. July 24, 2015</value><value>. Retrieved </value><value>2015-07-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Programming in Scala Leaps onto the World Stage!"</value><value>. Retrieved </value><value>2015-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Twitter"</value><value>. Taylor Otwell. October 9, 2014</value><value>. Retrieved </value><value>October 9,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Creator of the Laravel PHP Framework"</value><value>. </value><value>Facebook</value><value>. August 5, 2014</value><value>. Retrieved </value><value>August 5,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Robbins, Arnold (March 2014). </value><value>"The GNU Project and Me: 27 Years with GNU AWK"</value><value> </value><value>(PDF)</value><value>. </value><value>skeeve.com</value><value>. </value><value>Archived</value><value> </value><value>(PDF)</value><value> from the original on October 6, 2014</value><value>. Retrieved </value><value>August 11,</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Mastodon is crumbling—and many blame its creator"</value><value>. </value><value>The Daily Dot</value><value>. January 18, 2019.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Developer Intro/Overview"</value><value>. Retrieved </value><value>20 July</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Orchard Project Steering Committee"</value><value>. Archived from </value><value>the original</value><value> on August 12, 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Ubuntu carves niche in Linux landscape"</value><value>. </value><value>CNET</value><value>. Archived from </value><value>the original</value><value> on 6 November 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"CONTRIBUTING.md · master · redox-os / redox"</value><value>. July 8, 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Contributing to the F# Language and Compiler"</value><value>. Retrieved </value><value>29 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Dee-Ann LeBlanc (31 July 2006). </value><value>Linux For Dummies</value><value> (7th ed.). John Wiley &amp; Sons. p. 15. </value><value>ISBN</value><value> </value><value>978-0-470-04793-4</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Elixir Companies"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-11-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy 1.0.0"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy project governance"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Stories of Linux: A Look at Slackware Linux"</value><value>. </value><value>linux.com</value><value>. Archived from </value><value>the original</value><value> on October 30, 2014</value><value>. Retrieved </value><value>September 21,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"User and Developer Community | Post Status"</value><value>. Retrieved </value><value>2015-08-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chozick, Amy (June 27, 2013). </value><value>"Jimmy Wales is Not an Internet Billionaire"</value><value>. </value><value>The New York Times</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Jeremy Walker on Being the BDFL of Exercism by Humans of Open Source • A podcast on Anchor"</value><value>. </value><value>Anchor</value><value>. Retrieved </value><value>2021-03-26</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Book: Building Websites with DotNetNuke 5, Michael Washington and Ian Lackey, Packt Publishing. Page 14 "The core team comprises individuals invited to join the team by Shaun Walker, whom they affectionately call the "Benevolent Dictator".</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Art of Ballistic Programming"</value><value>. Archived from </value><value>the original</value><value> on June 17, 2013.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"PyTorch Governance | Maintainers — PyTorch 2.0 documentation"</value><value>. </value><value>pytorch.org</value><value>. Retrieved </value><value>2023-03-21</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Trino and the BDFL model </value><value>https://trino.io/blog/2023/04/06/trino-bdfl-focus.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Jenkins Enhancement Proposal #1: BDFL </value><value>https://github.com/jenkinsci/jep/blob/master/jep/1/README.adoc#bdfl</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>RedBeanPHP index page </value><value>https://redbeanphp.com/index.php?p=/welcome#sponsor</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>BitTorrent Enhancement Proposal #1: The BEP Process </value><value>https://www.bittorrent.org/beps/bep_0001.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Polars - About us"</value><value>. 2024-04-07. </value><value>Archived</value><value> from the original on 2024-03-24.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Lightning Governance — PyTorch Lightning 2.3.0dev documentation"</value><value>. </value><value>lightning.ai</value><value>. Retrieved </value><value>2024-04-10</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Addressing the Future of ABAP: The Power of Open Source"</value><value>. 2024-06-06.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GitHub FastAPI"</value><value>. 2024-07-30.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal Process"</value><value>. 2019-03-31.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ankitects Github organization"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki development discussion"</value><value>. </value><value>Reddit</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Benevolent_dictator_for_life&amp;oldid=1245721207</value><value>"</value></text><lastUpdated> 14 September 2024, at 18:01</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Emacs</url><title>None</title><text><value>Family of text editors</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>Not to be confused with </value><value>eMac</value><value> or </value><value>Emacs Lisp</value><value>.</value><value>
+</value><value>This article is about the class of text editors. For the most popular, current implementation, see </value><value>GNU Emacs</value><value>.</value><value>
+</value><value>Emacs</value><value> (</value><value>/</value><value>ˈ</value><value>iː</value><value>m</value><value>æ</value><value>k</value><value>s</value><value>/</value><value> </value><value>ⓘ</value><value>), originally named </value><value>EMACS</value><value> (an acronym for "Editor Macros"),</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>[</value><value>3</value><value>]</value><value> is a family of </value><value>text editors</value><value> that are characterized by their </value><value>extensibility</value><value>.</value><value>[</value><value>4</value><value>]</value><value> The manual for the most widely used variant,</value><value>[</value><value>5</value><value>]</value><value> </value><value>GNU Emacs</value><value>, describes it as "the extensible, customizable, self-documenting, real-time display editor".</value><value>[</value><value>6</value><value>]</value><value> Development of the first Emacs began in the mid-1970s,</value><value>[</value><value>7</value><value>]</value><value>[</value><value>8</value><value>]</value><value> and work on GNU Emacs, directly descended from the original, is ongoing; its latest version is 29.4</value><value>[</value><value>9</value><value>]</value><value> </value><value>, released June 2024.
+</value><value>Emacs has over 10,000 built-in commands and its </value><value>user interface</value><value> allows the user to combine these commands into </value><value>macros</value><value> to automate work. Implementations of Emacs typically feature a </value><value>dialect</value><value> of the </value><value>Lisp</value><value> programming language, allowing users and developers to write new commands and applications for the editor. Extensions have been written to, among other things, manage </value><value>files</value><value>, </value><value>remote access</value><value>,</value><value>[</value><value>10</value><value>]</value><value> </value><value>e-mail</value><value>, </value><value>outlines</value><value>, </value><value>multimedia</value><value>, </value><value>Git</value><value> integration, </value><value>RSS</value><value> feeds,</value><value>[</value><value>11</value><value>]</value><value> and </value><value>collaborative editing</value><value>,</value><value>[</value><value>12</value><value>]</value><value> as well as implementations of </value><value>ELIZA</value><value>, </value><value>Pong</value><value>, </value><value>Conway's Life</value><value>, </value><value>Snake</value><value>, </value><value>Dunnet</value><value>, and </value><value>Tetris</value><value>.</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>The original EMACS was written in 1976 by </value><value>David A. Moon</value><value> and </value><value>Guy L. Steele Jr.</value><value> as a set of macros for the </value><value>TECO</value><value> editor.</value><value>[</value><value>14</value><value>]</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>[</value><value>3</value><value>]</value><value>[</value><value>15</value><value>]</value><value> It was inspired by the ideas of the TECO-macro editors TECMAC and TMACS.</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>The most popular, and most ported, version of Emacs is GNU Emacs, which was created by </value><value>Richard Stallman</value><value> for the </value><value>GNU Project</value><value>.</value><value>[</value><value>17</value><value>]</value><value> </value><value>XEmacs</value><value> is a variant that </value><value>branched</value><value> from GNU Emacs in 1991. GNU Emacs and XEmacs use similar Lisp dialects and are, for the most part, compatible with each other. XEmacs development is inactive.
+</value><value>GNU Emacs</value><value> is, along with </value><value>vi</value><value>, one of the two main contenders in the traditional </value><value>editor wars</value><value> of </value><value>Unix</value><value> culture. GNU Emacs is among the oldest </value><value>free and open source</value><value> projects still under development.</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Emacs was started by </value><value>Guy L. Steele Jr.</value><value> as a project to unify the many divergent </value><value>TECO</value><value> command sets and key bindings at </value><value>MIT</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>David A. Moon</value><value>
+</value><value>Emacs' interface was influenced by the design of the </value><value>space-cadet keyboard</value><value>, which sought to enable users to type as many different kinds of input as possible.</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>Emacs development began during the 1970s at the </value><value>MIT AI Lab</value><value>, whose </value><value>PDP-6</value><value> and </value><value>PDP-10</value><value> computers used the </value><value>Incompatible Timesharing System</value><value> (ITS) </value><value>operating system</value><value> that featured a default </value><value>line editor</value><value> known as </value><value>Tape Editor and Corrector</value><value> (TECO). Unlike most modern text editors, TECO used separate modes in which the user would either add text, edit existing text, or display the document. One could not place characters directly into a document by typing them into TECO, but would instead enter a character ('i') in the TECO command language telling it to switch to input mode, enter the required characters, during which time the edited text was not displayed on the screen, and finally enter a character (&lt;esc&gt;) to switch the editor back to command mode. (A similar technique was used to allow overtyping.) This behavior is similar to that of the program </value><value>ed</value><value>.
+</value><value>By the 1970s, TECO was already an old program, initially released in 1962. </value><value>Richard Stallman</value><value> visited the </value><value>Stanford AI Lab</value><value> in 1976</value><value>[</value><value>20</value><value>]</value><value> and saw the lab's </value><value>E</value><value> editor, written by Fred Wright.</value><value>[</value><value>21</value><value>]</value><value> He was impressed by the editor's intuitive </value><value>WYSIWYG</value><value> (What You See Is What You Get) behavior, which has since become the default behavior of most modern text editors. He returned to MIT where Carl Mikkelsen, a </value><value>hacker</value><value> at the AI Lab, had added to TECO a combined display/editing mode called </value><value>Control-R</value><value> that allowed the screen display to be updated each time the user entered a keystroke. Stallman reimplemented this mode to run efficiently and then added a </value><value>macro</value><value> feature to the TECO display-editing mode that allowed the user to redefine any keystroke to run a TECO program.</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>E had another feature that TECO lacked: random-access editing. TECO was a page-sequential editor that was designed for editing </value><value>paper tape</value><value> on the </value><value>PDP-1</value><value> at a time when computer memory was generally small due to cost, and it was a feature of TECO that allowed editing on only one page at a time sequentially in the order of the pages in the file. Instead of adopting E's approach of structuring the file for page-random access on disk, Stallman modified TECO to handle large buffers more efficiently and changed its file-management method to read, edit, and write the entire file as a single buffer. Almost all modern editors use this approach.
+</value><value>The new version of TECO quickly became popular at the AI Lab and soon accumulated a large collection of custom macros whose names often ended in </value><value>MAC</value><value> or </value><value>MACS</value><value>, which stood for </value><value>macro</value><value>. Two years later, </value><value>Guy Steele</value><value> took on the project of unifying the diverse macros into a single set.</value><value>[</value><value>22</value><value>]</value><value> Steele and Stallman's finished implementation included facilities for extending and documenting the new macro set.</value><value>[</value><value>3</value><value>]</value><value> The resulting system was called EMACS, which stood for </value><value>Editing MACroS</value><value> or, alternatively, </value><value>E with MACroS</value><value>. Stallman picked the name Emacs "because &lt;E&gt; was not in use as an abbreviation on ITS at the time."</value><value>[</value><value>23</value><value>]</value><value> An </value><value>apocryphal</value><value> </value><value>hacker koan</value><value> alleges that the program was named after </value><value>Emack &amp; Bolio's</value><value>, a popular </value><value>Boston</value><value> ice cream store.</value><value>[</value><value>24</value><value>]</value><value> The first operational EMACS system existed in late 1976.</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>Stallman saw a problem in too much customization and </value><value>de facto</value><value> forking and set certain conditions for usage.</value><value>[</value><value>citation needed</value><value>]</value><value> He later wrote:</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 32px}.mw-parser-output .templatequotecite{line-height:1.5em;text-align:left;margin-top:0}@media(min-width:500px){.mw-parser-output .templatequotecite{padding-left:1.6em}}</value><value>EMACS was distributed on a basis of communal sharing, which means all improvements must be given back to me to be incorporated and distributed.</value><value>
+</value><value>The original Emacs, like TECO, ran only on the PDP-10 running ITS. Its behavior was sufficiently different from that of TECO that it could be considered a text editor in its own right, and it quickly became the standard editing program on ITS. Mike McMahon </value><value>ported</value><value> Emacs from ITS to the </value><value>TENEX</value><value> and </value><value>TOPS-20</value><value> operating systems. Other contributors to early versions of Emacs include </value><value>Kent Pitman</value><value>, </value><value>Earl Killian</value><value>, and </value><value>Eugene Ciccarelli</value><value>. By 1979, Emacs was the main editor used in MIT's AI lab and its Laboratory for Computer Science.</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>
+</value><value>Implementations</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Early implementations</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Zmacs</value><value>, an Emacs for </value><value>Lisp machines</value><value>, an evolution of </value><value>EINE and ZWEI</value><value>
+</value><value>James Gosling</value><value> wrote an Emacs-like editor to run on </value><value>Unix</value><value> (</value><value>Gosling Emacs</value><value>) in 1981</value><value>
+</value><value>In the following years, programmers wrote a variety of Emacs-like editors for other computer systems. These included </value><value>EINE</value><value> (</value><value>EINE Is Not EMACS</value><value>) and </value><value>ZWEI</value><value>[</value><value>27</value><value>]</value><value> (</value><value>ZWEI Was EINE Initially</value><value>), which were written for the </value><value>Lisp machine</value><value> by Mike McMahon and </value><value>Daniel Weinreb</value><value>, and Sine (</value><value>Sine Is Not Eine</value><value>),</value><value>[</value><value>28</value><value>]</value><value> which was written by Owen Theodore Anderson. Weinreb's </value><value>EINE</value><value> was the first Emacs written in Lisp. In 1978, </value><value>Bernard Greenberg</value><value> wrote </value><value>Multics Emacs</value><value> almost entirely in Multics Lisp at </value><value>Honeywell</value><value>'s Cambridge Information Systems Lab. Multics Emacs was later maintained by </value><value>Richard Soley</value><value>, who went on to develop the NILE Emacs-like editor for the NIL Project, and by Barry Margolin. Many versions of Emacs, including GNU Emacs, would later adopt Lisp as an extension language.
+</value><value>James Gosling</value><value>, who would later invent </value><value>NeWS</value><value> and the </value><value>Java programming language</value><value>, wrote </value><value>Gosling Emacs</value><value> in 1981. The first Emacs-like editor to run on </value><value>Unix</value><value>[</value><value>citation needed</value><value>]</value><value>, Gosling Emacs was written in </value><value>C</value><value> and used </value><value>Mocklisp</value><value>, a language with Lisp-like syntax, as an extension language.
+</value><value>Early Ads for </value><value>Computer Corporation of America</value><value>'s </value><value>CCA EMACS</value><value> (Steve Zimmerman)</value><value>[</value><value>29</value><value>]</value><value> appeared in 1984.</value><value>[</value><value>30</value><value>]</value><value> 1985 comparisons to GNU Emacs, when it came out, mentioned free vs. $2,400.</value><value>[</value><value>31</value><value>]</value><value>[</value><value>irrelevant citation</value><value>]</value><value>
+</value><value>
+</value><value>GNU Emacs</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Main article: </value><value>GNU Emacs</value><value>
+</value><value>GNU Emacs</value><value> running in a </value><value>text console</value><value> </value><value>
+</value><value>GNU Emacs running on </value><value>Microsoft Windows</value><value> </value><value>
+</value><value>Richard Stallman began work on GNU Emacs in 1984 to produce a </value><value>free software</value><value> alternative to the proprietary Gosling Emacs. GNU Emacs was initially based on Gosling Emacs, but Stallman's replacement of its Mocklisp interpreter with a true Lisp interpreter required that nearly all of its code be rewritten. This became the first program released by the nascent GNU Project. GNU Emacs is written in </value><value>C</value><value> and provides </value><value>Emacs Lisp</value><value>, also implemented in C, as an extension language. Version 13, the first public release, was made on March 20, 1985. The first widely distributed version of GNU Emacs was version 15.34, released later in 1985. Early versions of GNU Emacs were numbered as </value><value>1.x.x</value><value>, with the initial digit denoting the version of the C core. The </value><value>1</value><value> was dropped after version 1.12, as it was thought that the major number would never change, and thus the numbering skipped from </value><value>1</value><value> to </value><value>13</value><value>.</value><value>[</value><value>32</value><value>]</value><value> In September 2014, it was announced on the GNU emacs-devel mailing list that GNU Emacs would adopt a </value><value>rapid release</value><value> strategy and version numbers would increment more quickly in the future.</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>GNU Emacs offered more features than Gosling Emacs, in particular a full-featured Lisp as its extension language, and soon replaced Gosling Emacs as the </value><value>de facto</value><value> Unix Emacs editor. </value><value>Markus Hess</value><value> exploited a security flaw in GNU Emacs' email subsystem in his 1986 cracking spree in which he gained </value><value>superuser</value><value> access to Unix computers.</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>Most of GNU Emacs functionality is implemented through a </value><value>scripting language</value><value> called </value><value>Emacs Lisp</value><value>. Because about 70% of GNU Emacs is written in the Emacs Lisp extension language,</value><value>[</value><value>35</value><value>]</value><value> one only needs to port the C core which implements the Emacs Lisp interpreter. This makes porting Emacs to a new platform considerably less difficult than porting an equivalent project consisting of native code only.
+</value><value>GNU Emacs development was relatively closed until 1999 and was used as an example of the </value><value>Cathedral</value><value> development style in </value><value>The Cathedral and the Bazaar</value><value>. The project has since adopted a public development mailing list and anonymous </value><value>CVS</value><value> access. Development took place in a single CVS trunk until 2008 and was then switched to the Bazaar </value><value>DVCS</value><value>. On November 11, 2014, development was moved to </value><value>Git</value><value>.</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>
+</value><value>C file in Emacs 27 with the modus-operandi theme</value><value>
+</value><value>Richard Stallman has remained the principal maintainer of GNU Emacs, but he has stepped back from the role at times. Stefan Monnier and Chong Yidong were maintainers from 2008 to 2015.</value><value>[</value><value>37</value><value>]</value><value>[</value><value>38</value><value>]</value><value> John Wiegley was named maintainer in 2015 after a meeting with Stallman at MIT.</value><value>[</value><value>39</value><value>]</value><value> As of early 2014, GNU Emacs has had 579 individual </value><value>committers</value><value> throughout its history.</value><value>[</value><value>40</value><value>]</value><value>
+</value><value>
+</value><value>XEmacs</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Main article: </value><value>XEmacs</value><value>
+</value><value>XEmacs</value><value> 21.5 on </value><value>Linux</value><value> </value><value>
+</value><value>Lucid Emacs, based on an early alpha version of GNU Emacs 19, was developed beginning in 1991 by </value><value>Jamie Zawinski</value><value> and others at </value><value>Lucid Inc.</value><value> One of the best-known early forks in </value><value>free software</value><value> development occurred when the codebases of the two Emacs versions diverged and the separate development teams ceased efforts to merge them back into a single program.</value><value>[</value><value>41</value><value>]</value><value> Lucid Emacs has since been renamed </value><value>XEmacs</value><value>. Its development is currently inactive, with the most recent stable version 21.4.22 released in January 2009 (while a beta was released in 2013), while GNU Emacs has implemented many formerly XEmacs-only features.</value><value>[</value><value>42</value><value>]</value><value>[</value><value>better source needed</value><value>]</value><value>
+</value><value>
+</value><value>Other forks of GNU Emacs</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Other notable forks include:
+</value><value>
+</value><value>Aquamacs – based on GNU Emacs (Aquamacs 3.2 is based on GNU Emacs version 24 and Aquamacs 3.3 is based on GNU Emacs version 25) which focuses on integrating with the Apple Macintosh user interface</value><value>
+</value><value>Meadow</value><value> – a Japanese version for Microsoft Windows</value><value>[</value><value>43</value><value>]</value><value>
+</value><value>Various Emacs editors</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>uEmacs/Pk</value><value> 4.0.15 on Linux</value><value>
+</value><value>The </value><value>mg</value><value> tiny Emacs-like editor in </value><value>OpenBSD</value><value> 5.3. Editing </value><value>Ruby</value><value> </value><value>source code</value><value>
+</value><value>JOVE</value><value> running in a </value><value>Debian</value><value> box</value><value>
+</value><value>In the past, projects aimed at producing small versions of Emacs proliferated. GNU Emacs was initially targeted at computers with a 32-bit flat address space and at least 1 </value><value>MiB</value><value> of RAM.</value><value>[</value><value>44</value><value>]</value><value> Such computers were high end </value><value>workstations</value><value> and </value><value>minicomputers</value><value> in the 1980s, and this left a need for smaller reimplementations that would run on common </value><value>personal computer</value><value> hardware. Today's computers have more than enough power and capacity to eliminate these restrictions, but small clones have more recently been designed to fit on software installation disks or for use on less capable hardware.</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>Other projects aim to implement Emacs in a different dialect of Lisp or a different programming language altogether. Although not all are still actively maintained, these clones include:
+</value><value>
+</value><value>MicroEMACS</value><value>, which was originally written by Dave Conroy and further developed by Daniel Lawrence and which exists in many variations.</value><value>
+</value><value>mg</value><value>, originally called MicroGNUEmacs and, later, mg2a, a public-domain offshoot of MicroEMACS intended to more closely resemble GNU Emacs. Now installed by default on </value><value>OpenBSD</value><value>.</value><value>
+</value><value>JOVE</value><value> (Jonathan's Own Version of Emacs), Jonathan Payne's non-programmable Emacs implementation for </value><value>UNIX-like</value><value> systems.</value><value>
+</value><value>MINCE</value><value> (MINCE Is Not Complete Emacs), a version for </value><value>CP/M</value><value> and later DOS, from </value><value>Mark of the Unicorn</value><value>. MINCE evolved into Final Word, which eventually became the Borland </value><value>Sprint</value><value> word processor.</value><value>
+</value><value>Perfect Writer</value><value>, a </value><value>CP/M</value><value> implementation derived from MINCE that was included circa 1982 as the default word processor with the very earliest releases of the Kaypro II and Kaypro IV. It was later provided with the Kaypro 10 as an alternative to </value><value>WordStar</value><value>.</value><value>
+</value><value>Freemacs</value><value>, a </value><value>DOS</value><value> version that uses an extension language based on text macro expansion and fits within the original 64 </value><value>KiB</value><value> flat memory limit.</value><value>
+</value><value>Zmacs</value><value>, for the MIT </value><value>Lisp Machine</value><value> and its descendants, implemented in </value><value>ZetaLisp</value><value>.</value><value>
+</value><value>Epsilon</value><value>,</value><value>[</value><value>46</value><value>]</value><value> an Emacs clone by Lugaru Software. Versions for DOS, Windows, Linux, FreeBSD, Mac OS X and OS/2 are bundled in the release. It uses a non-Lisp extension language with C syntax and used a very early concurrent command shell buffer implementation under the single-tasking MS-DOS.</value><value>
+</value><value>PceEmacs</value><value> is the Emacs-based editor for </value><value>SWI-Prolog</value><value>.</value><value>
+</value><value>Hemlock</value><value>, originally written in </value><value>Spice Lisp</value><value>, then </value><value>Common Lisp</value><value>. A part of </value><value>CMU Common Lisp</value><value>. Influenced by </value><value>Zmacs</value><value>. Later forked by Lucid Common Lisp (as Helix), </value><value>LispWorks</value><value> and </value><value>Clozure CL</value><value> projects. There is also a Portable Hemlock project, which aims to provide a Hemlock, which runs on several Common Lisp implementations.</value><value>
+</value><value>edwin</value><value>, an Emacs-like text editor included with MIT/GNU Scheme.</value><value>
+</value><value>Editors with Emacs emulation</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The </value><value>Cocoa text system</value><value> uses some of the same terminology and understands many Emacs navigation bindings. This is possible because the native UI uses the </value><value>Command key</value><value> (equivalent to Super) instead of the </value><value>Control key</value><value>.</value><value>[</value><value>47</value><value>]</value><value>
+</value><value>Eclipse (IDE)</value><value> provides a set of Emacs keybindings.</value><value>
+</value><value>Epsilon (text editor)</value><value> Defaults to Emacs emulation and supports a vi mode.</value><value>
+</value><value>GNOME Builder</value><value> has an emulation mode for Emacs.</value><value>
+</value><value>GNU Readline</value><value> is a </value><value>line editor</value><value> that understands the standard Emacs navigation keybindings. It also has a </value><value>vi</value><value> emulation mode.</value><value>
+</value><value>IntelliJ IDEA</value><value> provides a set of Emacs keybindings.</value><value>
+</value><value>JED</value><value> has an emulation mode for Emacs.</value><value>
+</value><value>Joe's Own Editor</value><value> emulates Emacs keybindings when invoked as </value><value>.mw-parser-output .monospaced{font-family:monospace,monospace}</value><value>jmacs</value><value>.</value><value>
+</value><value>MATLAB</value><value> provides Emacs keybindings for its editor.</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>Multi-Edit</value><value> provides Emacs keybindings for its editor.</value><value>
+</value><value>KornShell</value><value> has an Emacs line editing mode that predates Gnu Readline.</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>Visual Studio Code</value><value> has multiple extensions available to emulate Emacs keybindings.</value><value>
+</value><value>Oracle SQL Developer</value><value> can save and load alternative keyboard-shortcut layouts. One of the built-in layouts provides Emacs-like keybindings, including using different commands to achieve closer behavior.</value><value>
+</value><value>Features</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Emacs is primarily a </value><value>text editor</value><value> and is designed for manipulating pieces of text, although it is capable of formatting and printing documents like a </value><value>word processor</value><value> by interfacing with external programs such as </value><value>LaTeX</value><value>, </value><value>Ghostscript</value><value> or a web browser. Emacs provides commands to manipulate and </value><value>differentially display</value><value> </value><value>semantic</value><value> units of text such as </value><value>words</value><value>, </value><value>sentences</value><value>, </value><value>paragraphs</value><value> and </value><value>source code</value><value> constructs such as </value><value>functions</value><value>. It also features </value><value>keyboard macros</value><value> for performing user-defined batches of editing commands.
+</value><value>GNU Emacs is a </value><value>real-time display</value><value> editor, as its edits are displayed onscreen as they occur. This is standard behavior for modern text editors but EMACS was among the earliest to implement this. The alternative is having to issue a distinct command to display text, (e.g. before or after modifying it). This was common in earlier (or merely simpler) line and context editors, such as </value><value>QED</value><value> (BTS, CTSS, Multics), </value><value>ed</value><value> (Unix), ED (CP/M), and </value><value>Edlin</value><value> (DOS).
+</value><value>
+</value><value>General architecture</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Almost all of the functionality in Emacs, including basic editing operations such as the insertion of characters into a file, is achieved through </value><value>functions</value><value> written in a dialect of the </value><value>Lisp programming language</value><value>. The dialect used in GNU Emacs is known as </value><value>Emacs Lisp</value><value> (Elisp), and was developed expressly to port Emacs to </value><value>GNU</value><value> and </value><value>Unix</value><value>. The Emacs Lisp layer sits atop a stable core of basic services and platform abstraction written in the </value><value>C programming language</value><value>, which enables GNU Emacs to be ported to a wide variety of operating systems and architectures without modifying the implementation semantics of the Lisp system where most of the editor lives. In this Lisp environment, </value><value>variables</value><value> and </value><value>functions</value><value> can be modified with no need to rebuild or restart Emacs, with even newly redefined versions of core editor features being asynchronously compiled and loaded into the live environment to replace existing definitions. Modern GNU Emacs features both </value><value>bytecode</value><value> and </value><value>native code</value><value> compilation for Emacs Lisp.
+</value><value>All configuration is stored in variables, classes, and data structures, and changed by simply updating these live. The use of a Lisp dialect in this case is a key advantage, as Lisp syntax consists of so-called </value><value>symbolic expressions</value><value> (or sexprs), which can act as both evaluatable code expressions and as a </value><value>data serialisation format</value><value> akin to, but simpler and more general than, well known ones such as </value><value>XML</value><value>, </value><value>JSON</value><value>, and </value><value>YAML</value><value>. In this way there is little difference in practice between customising existing features and writing new ones, both of which are accomplished in the same basic way. This is operatively different from most modern extensible editors, for instance such as </value><value>VS Code</value><value>, in which separate languages are used to implement the interface and features of the editor and to encode its user-defined configuration and options. The goal of Emacs' open design is to transparently expose Emacs' internals to the Emacs user during normal use in the same way that they would be exposed to the Emacs developer working on the </value><value>git tree</value><value>, and to collapse as much as possible of the distinction between using Emacs and programming Emacs, while still providing a stable, practical, and responsive editing environment for novice users.
+</value><value>
+</value><value>Interactive data</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The main text editing </value><value>data structure</value><value> is the </value><value>buffer</value><value>, a memory region containing data (usually text) with associated attributes. The most important of these are:
+</value><value>
+</value><value>The </value><value>point</value><value>: the </value><value>editing cursor</value><value>;</value><value>
+</value><value>The </value><value>mark</value><value>: a settable location which, along with the point, enables selection of</value><value>
+</value><value>The </value><value>region</value><value>: a conceptually contiguous collection of text to which editing commands will be applied;</value><value>
+</value><value>The name and </value><value>inode</value><value> of the file the buffer is </value><value>visiting</value><value> (if any);</value><value>
+</value><value>The </value><value>default directory</value><value>, where any </value><value>OS</value><value>-level commands will be </value><value>executed from</value><value> by default;</value><value>
+</value><value>The buffer's </value><value>mode</value><value>s, including a </value><value>major mode</value><value> possibly several </value><value>minor mode</value><value>s</value><value>
+</value><value>The </value><value>buffer encoding</value><value>, the method by which Emacs represents buffer data to the user;</value><value>
+</value><value>and a variety of </value><value>buffer local variable</value><value>s and Emacs Lisp state.</value><value>
+</value><value>Modes</value><value>, in particular, are an important concept in Emacs, providing a mechanism to disaggregate Emacs' functionality into sets of behaviours and keybinds relevant to specific buffers' data. </value><value>Major modes</value><value> provide a general package of functions and commands relevant to a buffer's data and the way users might be interacting with it (e.g. editing source code in a specific language, </value><value>editing hex</value><value>, viewing the filesystem, interacting with </value><value>git</value><value>, etc.), and </value><value>minor modes</value><value> define subsidiary collections of functionality applicable across many major modes (such as </value><value>auto-save-mode</value><value>). Minor modes can be toggled on or off both locally to each buffer as well as globally across all buffers, while major modes can only be toggled per-buffer. Any other data relevant to a buffer but not bundled into a mode can be handled by simply </value><value>focussing</value><value> that buffer and live modifying the relevant data directly.
+</value><value>Any interaction with the editor (like key presses or clicking a mouse button) is realized by evaluating Emacs Lisp code, typically a </value><value>command</value><value>, which is a function explicitly designed for interactive use. Keys can be arbitrarily redefined and commands can also be accessed by name; some commands evaluate arbitrary Emacs Lisp code provided by the user in various ways (e.g. a family of </value><value>eval-</value><value> functions, operating on the </value><value>buffer</value><value>, </value><value>region</value><value>, or individual </value><value>expression</value><value>). Even the simplest user inputs (such a </value><value>printable characters</value><value>) are effectuated as Emacs Lisp functions, such as the </value><value>self-insert-command</value><value> , bound by default to most keyboard keys in a typical text editing buffer, which parameterises itself with the </value><value>locale</value><value>-defined character associated with the key used to call it.
+</value><value>For example, pressing the </value><value>.mw-parser-output .keyboard-key{border:1px solid #aaa;border-radius:0.2em;box-shadow:0.1em 0.1em 0.2em rgba(0,0,0,0.1);background-color:var(--background-color-neutral-subtle,#f8f9fa);background-image:linear-gradient(to bottom,var(--background-color-neutral,#eaecf0),var(--background-color-neutral-subtle,#f8f9fa),var(--background-color-neutral,#eaecf0));color:var(--color-base,#202122);padding:0.1em 0.3em;font-family:inherit;font-size:0.85em}</value><value>f</value><value> key in a buffer that accepts text input evaluates the code </value><value>(</value><value>self-insert-command</value><value> </value><value>1</value><value> </value><value>?f</value><value>)</value><value>, which inserts one copy of the character constant </value><value>?f</value><value> </value><value>at point</value><value>. The </value><value>1</value><value>, in this case, is determined by what Emacs terms the </value><value>universal argument</value><value>: all Emacs command code accepts a numeric value which, in its simplest usage, indicates repetition of an action, but in more complex cases (where repetition doesn't make sense) can yield other behaviours. These arguments may be supplied via command prefices, such as </value><value>Control</value><value>+</value><value>u</value><value> </value><value>7</value><value> </value><value>f</value><value>, or more compactly </value><value>Meta</value><value>+</value><value>7</value><value> </value><value>f</value><value>, which expands to </value><value>(</value><value>self-insert-command</value><value> </value><value>7</value><value> </value><value>?f</value><value>)</value><value>. When no prefix is supplied, the universal argument is </value><value>1</value><value>: every command implicitly runs once, but may be called multiply, or in a different way, when supplied with such a prefix. Such arguments may also be non-positive where it makes sense for them to be so - it is up to the function accepting the argument to determine, according to its own semantics, what a given number means to it. One common usage is for functions to perform actions in reverse simply by checking the </value><value>sign</value><value> of the universal argument, such as a sort command which sorts in obverse by default and in reverse when called with a negative argument, using the absolute value of its argument as the sorting key (e.g. </value><value>-7</value><value> sorting in reverse by column index (or delimiter) 7), or undo/redo, which are simply negatives of each other (traversing forward and backward through a recursive history of diffs by some number of steps at a time).
+</value><value>
+</value><value>Command language</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Because of its relatively large vocabulary of commands, Emacs features a long-established </value><value>command language</value><value>, to concisely express the keystrokes necessary to perform an action. This command language recognises the following shift and modifier keys: </value><value>Ctrl</value><value>, </value><value>Alt</value><value>, </value><value>⇧ Shift</value><value>, </value><value>Meta</value><value>, </value><value>Super</value><value>, and </value><value>Hyper</value><value>. Not all of these may be present on an IBM-style keyboard, though they can usually be configured as desired. These are represented in command language as the respective prefices: </value><value>C-</value><value>, </value><value>A-</value><value>, </value><value>S-</value><value>, </value><value>M-</value><value>, </value><value>s-</value><value>, and </value><value>H-</value><value>. Keys whose names are only printable with more than one character are enclosed in angle brackets. Thus, a keyboard shortcut such as </value><value>Ctrl</value><value>+</value><value>Alt</value><value>+</value><value>⇧ Shift</value><value>+</value><value>F9</value><value> (check dependent formulas and calculate all cells in all open workbooks in </value><value>Excel</value><value>) would be rendered in Emacs command language as </value><value>C-A-S-&lt;f9&gt;</value><value>, while an Emacs command like </value><value>Meta</value><value>+</value><value>s</value><value> </value><value>f</value><value> </value><value>Ctrl</value><value>+</value><value>Meta</value><value>+</value><value>s</value><value> (incremental file search by filename-matching </value><value>regexp</value><value>), would be expressed as </value><value>M-s f C-M-s</value><value>. Command language is also used to express the actions needed to invoke commands with no assigned shortcut: for example, the command </value><value>scratch-buffer</value><value> (which initialises a buffer in memory for temporary text storage and manipulation), when invoked by the user, will be reported back as </value><value>M-x scra &lt;return&gt;</value><value>, with Emacs scanning the namespace of contextually available commands to return the shortest sequence of keystrokes which uniquely lexicate it.
+</value><value>
+</value><value>Dynamic display</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Because Emacs predates modern standard terminology for </value><value>graphical user interfaces</value><value>, it uses somewhat divergent names for familiar interface elements. Buffers, the data that Emacs users interact with, are displayed to the user inside </value><value>windows</value><value>, which are </value><value>tiled portions</value><value> of the terminal screen or the GUI window, which Emacs refers to as </value><value>frames</value><value>; in modern terminology, an Emacs </value><value>frame</value><value> would be a window and an Emacs </value><value>window</value><value> would be a split. Depending on configuration, windows can include their own scroll bars, line numbers, sometimes a 'header line' typically to ease navigation, and a </value><value>mode line</value><value> at the bottom (usually displaying buffer name, the active modes and point position of the buffer among others). The bottom of every frame is used for output messages (then called 'echo area') and text input for commands (then called 'minibuffer').
+</value><value>In general, Emacs display elements (windows, frames, etc.) do not belong to any specific data or process. Buffers are not associated with windows, and multiple windows can be opened onto the same buffer, for example to track different parts of a long text side-by-side without scrolling back and forth, and multiple buffers can share the same text, for example to take advantage of different major modes in a mixed-language file. Similarly, Emacs instances are not associated with particular frames, and multiple frames can be opened displaying a single running Emacs process, e.g. a frame per screen in a multi-monitor setup, or a terminal frame connected via </value><value>ssh</value><value> from a remote system and a graphical frame displaying the same Emacs process via the local system's monitor.
+</value><value>Just as buffers don't require windows, running Emacs processes do not require any frames, and one common usage pattern is to deploy Emacs as an </value><value>editing server</value><value>: running it as a </value><value>headless</value><value> </value><value>daemon</value><value> and connecting to it via a frame-spawning client. This server can then be made available in any situation where an editor is required, simply by declaring the client program to be the user's </value><value>EDITOR</value><value> or </value><value>VISUAL</value><value> variable. Such a server continues to run in the background, managing any child processes, accumulating </value><value>stdin</value><value> from open pipes, ports, or fifos, performing periodic or pre-programmed actions, and remembering buffer undo history, saved text snippets, command history, and other user state between editing sessions. In this mode of operation, Emacs overlaps the functionality of programs like </value><value>screen</value><value> and </value><value>tmux</value><value>.
+</value><value>Because of its separation of display concerns from editing functionality, Emacs can display roughly similarly on any device more complex than a </value><value>dumb terminal</value><value>, including providing typical graphical </value><value>WIMP</value><value> elements on sufficiently featureful text terminals - though graphical frames are the preferred mode of display, providing a strict superset of the features of text terminal frames.
+</value><value>
+</value><value>Customizability and extensibility</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>User actions can be recorded into macros and replayed to automate complex, repetitive tasks. This is often done on an ad-hoc basis, with each macro discarded after use, although macros can be saved and invoked later.
+</value><value>Because of the uniformity of Emacs' features' definition in terms of Emacs Lisp, what counts as a "user action" for the purposes of macro-automation is flexible: macros may include, e.g., keypresses, commands, mouse clicks, other macros, and anything that can be effectuated via these. Macros can thus be recursive, and can be defined and invoked inside of macros.</value><value>
+</value><value>At startup, Emacs executes an Emacs Lisp script named </value><value>~/.emacs</value><value> (recent versions also look for </value><value>~/emacs.el</value><value>, </value><value>~/.emacs.d/init.el</value><value>, and </value><value>~/.config/emacs/init.el</value><value>,</value><value>[</value><value>50</value><value>]</value><value> as well as similar variations on </value><value>~/.config/emacs/early-init.el</value><value>.</value><value>[</value><value>51</value><value>]</value><value> Emacs reads </value><value>early-init.el</value><value> first if it exists, and it can be used to configure or short-circuit core Emacs features before they load, such as the graphical display system or </value><value>package manager</value><value>. It will then execute the first version </value><value>.emacs</value><value> or </value><value>init.el</value><value> that it finds, ignoring the rest. This personal customization file can be arbitrarily long and complex, but typical content includes:
+</value><value>Setting global variables or invoking functions to customize Emacs behaviour, for example </value><value>(set-default-coding-systems 'utf-8)</value><value>
+</value><value>Key bindings</value><value> to override standard ones and to add shortcuts for commands that the user finds convenient but don't have a key binding by default. Example: </value><value>(</value><value>global-set-key</value><value> </value><value>(</value><value>kbd</value><value> </value><value>"C-x C-b"</value><value>)</value><value> </value><value>'ibuffer</value><value>)</value><value>
+</value><value>Loading, enabling and initializing extensions (Emacs comes with many extensions, but only a few are loaded by default.)</value><value>
+</value><value>Configuring </value><value>event hooks</value><value> to run arbitrary code at specific times, for example to automatically recompile source code after saving a buffer (</value><value>after-save-hook</value><value>)</value><value>
+</value><value>Executing arbitrary files, usually to split an overly long configuration file into manageable and homogeneous parts (</value><value>~/.emacs.d/</value><value> and </value><value>~/elisp/</value><value> are traditional locations for these personal scripts)</value><value>
+</value><value>The </value><value>customize</value><value> extension allows the user to set configuration properties such as the color scheme interactively, from within Emacs, in a more user-friendly way than by setting variables in </value><value>.emacs</value><value>: it offers search, descriptions and help text, multiple choice inputs, reverting to defaults, modification of the running Emacs instance without reloading, and other conveniences similar to the </value><value>preferences</value><value> functionality of other programs. The customized values are saved in </value><value>.emacs</value><value> (or another designated file) automatically.</value><value>
+</value><value>Themes</value><value>, affecting the choice of fonts and colours, are defined as Emacs Lisp files and chosen through the customize extension.</value><value>
+</value><value>Modes</value><value>, which support editing a range of programming languages (e.g., emacs-lisp-mode, c-mode, java-mode, ESS for R) by changing fonts to highlight the code and keybindings modified (foreword-function vs. forward-page). Other modes include ones that support editing spreadsheets (dismal) and structured text.</value><value>
+</value><value>Self-documenting</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The first Emacs contained a </value><value>help</value><value> library that included documentation for every command, variable and internal function. Because of this, Emacs proponents described the software as </value><value>self-documenting</value><value> in that it presents the user with information on its normal features and its current state. Each function includes a documentation string that is displayed to the user on request, a practice that subsequently spread to programming languages including </value><value>Lisp</value><value>, </value><value>Java</value><value>, </value><value>Perl</value><value>, and </value><value>Python</value><value>. This help system can take users to the actual code for each function, whether from a built-in library or an added third-party library.
+</value><value>Emacs also has a built-in </value><value>tutorial</value><value>. Emacs displays instructions for performing simple editing commands and invoking the tutorial when it is launched with no file to edit. The tutorial is by Stuart Cracraft and Richard Stallman.
+</value><value>
+</value><value>Culture</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Church of Emacs</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Main article: </value><value>Editor war</value><value>The </value><value>Church of Emacs</value><value>, formed by </value><value>Richard Stallman</value><value>, is a </value><value>parody religion</value><value> created for Emacs users.</value><value>[</value><value>52</value><value>]</value><value> While it refers to </value><value>vi</value><value> as the </value><value>editor of the beast</value><value> (vi-vi-vi being </value><value>6-6-6</value><value> in Roman numerals), it does not oppose the use of vi; rather, it calls it </value><value>proprietary software</value><value> </value><value>anathema</value><value>. ("Using a </value><value>free</value><value> version of vi is not a sin but a </value><value>penance</value><value>."</value><value>[</value><value>53</value><value>]</value><value>) The Church of Emacs has its own </value><value>newsgroup</value><value>, </value><value>alt.religion.emacs</value><value>,</value><value>[</value><value>54</value><value>]</value><value> that has posts purporting to support this parody religion. Supporters of vi have created an opposing </value><value>Cult of vi</value><value>.
+</value><value>Stallman has jokingly referred to himself as </value><value>St I </value><value>GNU</value><value> cius</value><value>, a saint in the Church of Emacs.</value><value>[</value><value>55</value><value>]</value><value> This is in reference to </value><value>Ignatius of Antioch</value><value>, an early Church father venerated in Christianity.
+</value><value>
+</value><value>Terminology</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The word </value><value>emacs</value><value> is sometimes pluralized as </value><value>emacsen</value><value>, by phonetic analogy with </value><value>boxen</value><value> and </value><value>VAXen</value><value>, referring to different varieties of Emacs.</value><value>[</value><value>56</value><value>]</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:1px solid var(--border-color-base,#a2a9b1);padding:0.1em;background:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{clear:left;float:left;margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}</value><value>
+</value><value>Free and open-source software portal</value><value>
+</value><value>Comparison of text editors</value><value>
+</value><value>Conkeror</value><value>
+</value><value>GNU TeXmacs</value><value>
+</value><value>List of text editors</value><value>
+</value><value>List of Unix commands</value><value>
+</value><value>Integrated development environment</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Greenberg, Bernard S. (1979). </value><value>Multics Emacs: The History, Design and Implementation</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>"GNU Emacs FAQ"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>Adrienne G. Thompson. </value><value>"MACSimizing TECO"</value><value>. Archived from </value><value>the original</value><value> on 2013-10-24</value><value>. Retrieved </value><value>2012-02-26</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A Tutorial Introduction to GNU Emacs"</value><value>. </value><value>For an editor to be called "emacs" the main requirement is that it be fully extensible with a real programming language, not just a macro language.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GNU Emacs Pocket Reference"</value><value>. </value><value>GNU Emacs is the most popular and widespread of the Emacs family of editors.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GNU Emacs Manual"</value><value>. FSF</value><value>. Retrieved </value><value>24 November</value><value> 2012</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Zawinski, Jamie (2007-10-29). </value><value>"Emacs Timeline"</value><value>. </value><value>www.jwz.org</value><value>. Retrieved </value><value>2023-07-31</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"On the Origin of Emacs in 1976 (Emacs blog articles)"</value><value>. </value><value>onlisp.co.uk</value><value>. Retrieved </value><value>2024-07-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Emacs 29.4 released"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Tramp User Manual"</value><value>. </value><value>Free Software Foundation</value><value>. Retrieved </value><value>2009-04-04</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Introducing Elfeed, an Emacs Web Feed Reader"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Collaborative editing using Conflict-free Replicated Data Types"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Amusements"</value><value>. </value><value>Finally, if you find yourself frustrated, try describing your problems to the famous psychotherapist Eliza. Just do M-x doctor.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>
+</value><value>Zawinski, Jamie</value><value> (2005-06-21) [1999]. </value><value>"Emacs Timeline"</value><value>. Retrieved </value><value>11 August</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Richard Stallman</value><value> is often credited as another co-creator, but as </value><value>Daniel Weinreb</value><value> wrote, "The original (TECO-based) Emacs was created and designed by Guy L. Steele Jr. and David Moon. After they had it working, and it had become established as the standard text editor at the AI lab, Stallman took over its maintenance." Moon himself responded "All true, so far as I can remember. But in all fairness I have to say that Stallman greatly improved Emacs after he “liberated” it from Guy and me." See </value><value>Weinreb, Dan</value><value> (November 11, 2007), </value><value>"Rebuttal to Stallman's Story About The Formation of Symbolics and LMI"</value><value>, </value><value>Dan Weinreb's blog: software and innovation</value><value>, archived from the original on January 1, 2009</value><value>{{</value><value>citation</value><value>}}</value><value>:  CS1 maint: unfit URL (</value><value>link</value><value>)</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A history of Emacs"</value><value>. </value><value>XEmacs Internals Manual</value><value>. 2006-12-11</value><value>. Retrieved </value><value>2007-08-22</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Allombert, Bill. </value><value>"Debian Popularity Contest"</value><value>. </value><value>Editors report</value><value>. Debian</value><value>. Retrieved </value><value>22 November</value><value> 2011</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The 10 oldest, significant open-source programs"</value><value>. </value><value>ZDNet</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric S.; Cameron, Debra; Rosenblatt, Bill (1996). </value><value>Learning GNU Emacs, 2nd Edition</value><value>. Sebastopol, CA: O'Reilly. pp. 408–409. </value><value>ISBN</value><value> </value><value>1-56592-152-6</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Williams, Sam</value><value> (2002). </value><value>Free as in Freedom: Richard Stallman's Crusade for Free Software</value><value>. Sebastopol, CA: O'Reilly Media. p. 82. </value><value>ISBN</value><value> </value><value>0-596-00287-4</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Arthur Samuel (March 1980). </value><value>"Essential E"</value><value> </value><value>(PDF)</value><value>. Retrieved </value><value>2020-04-19</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"EMACS vs. vi: The endless geek 'holy war'</value><value>"</value><value>. Archived from </value><value>the original</value><value> on 2014-11-26</value><value>. Retrieved </value><value>2014-05-30</value><value>. </value><value>"EMACS as such actually started out as a standards project," emails Guy Steele</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Stallman, Richard M.</value><value> (1987). </value><value>"The EMACS Full-Screen Editor"</value><value>. </value><value>GARB</value><value>. No. Maj 1987. Lysator, Linköping University. pp. 8–11</value><value>. Retrieved </value><value>2007-09-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Reynolds, Craig (1992-02-10). Wiseman, David G. (ed.). </value><value>"The Emac Bolio Name Koan"</value><value>. </value><value>David G. Wiseman: Stories of Computer Folklore</value><value>. Archived from </value><value>the original</value><value> on January 16, 2003. </value><value>A cocky novice once said to Stallman: 'I can guess why the editor is called Emacs, but why is the justifier called Bolio?'. Stallman replied forcefully, Names are but names, Emack &amp; Bolio's is the name of a popular ice cream shop in Boston town. Neither of these men had anything to do with the software.' His question answered, yet unanswered, the novice turned to go, but Stallman called to him, 'Neither Emacs nor Bolio had anything to do with the ice cream shop, either.'</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Stallman, Richard (March 26, 1981). </value><value>EMACS: The Extensible, Customizable, Self-Documenting, Display Editor</value><value> </value><value>(PDF)</value><value> (Technical report). MIT AI Lab. AI Memo 519a</value><value>. Retrieved </value><value>2011-01-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Leigh Klotz (2007-08-29). </value><value>"email quoted in "Be Careful What You Joke About"</value><value>"</value><value>. </value><value>The New York Times</value><value>. Retrieved </value><value>2010-05-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Comment by ZWEI's author Dan Weinreb"</value><value>. </value><value>I wrote the second Emacs ever: the Lisp machine implementation, whose spec was "do what Stallman's PDP-10 (original) Emacs does", and then progressed from there. There's just a whole LOT of it. It took me and Mike McMahon endless hours to implement so many commands to make ZWEI/Zmacs.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Owen Theodore Anderson (January 1979). </value><value>"The Design and Implementation of a Display-Oriented Editor Writing System"</value><value> </value><value>(PDF)</value><value>. Retrieved </value><value>2012-09-09</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Christopher Kelty; Mario Biagioli; Peter Jaszi; Martha Woodmansee (2015). </value><value>Making and Unmaking Intellectual Property</value><value>. </value><value>Computer Corporation of America (CCA)</value><value> EMACS, written by Steve Zimmerman</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Emacs"</value><value>. December 17, 2017.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Differences between GNU Emacs and CCA Emacs"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A History of Emacs"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"emacs-devel msg 00872 (2014-09-29)"</value><value>. </value><value>In retrospect 24.3 should have been named 25.1 and 24.4 should have been named 26.1.  The </value><value>.N</value><value> thingy should really be kept only for bug-fix releases and neither of 24.3, 24.4, nor the previously planned 24.5 are bug-fix releases.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Stoll, Clifford</value><value> (1988). </value><value>"Stalking the wily hacker"</value><value>. </value><value>Communications of the ACM</value><value>. </value><value>31</value><value> (5): 484–497. </value><value>doi</value><value>:</value><value>10.1145/42411.42412</value><value>. </value><value>S2CID</value><value> </value><value>6956966</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GNU Emacs"</value><value>. </value><value>Open Hub</value><value>. Retrieved </value><value>2017-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric</value><value> (2014-11-12). </value><value>"New Git repository is up"</value><value>. Retrieved </value><value>2017-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Stallman, Richard</value><value> (2008-02-22). </value><value>"Re: Looking for a new Emacs maintainer or team"</value><value>. gnu.org Mailing List</value><value>. Retrieved </value><value>2017-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>McNamara, Paul (2008-02-25). </value><value>"Stallman on handing over GNU Emacs, its future and the importance of nomenclature"</value><value>. </value><value>Network World</value><value>. Archived from </value><value>the original</value><value> on 2008-05-23</value><value>. Retrieved </value><value>2017-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chirgwin, Richard (2015-11-05). </value><value>"Emacs gets new maintainer as Richard Stallman signs off"</value><value>. </value><value>The Register</value><value>. Retrieved </value><value>2017-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric</value><value> (2014-03-29). </value><value>"Ugliest…repository…conversion…ever"</value><value>. Retrieved </value><value>2017-11-25</value><value>. </value><value>twenty-nine years of continuous development by no fewer than 579 people</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Stephen J., Turnbull. </value><value>"XEmacs vs. GNU Emacs"</value><value>. Retrieved </value><value>2012-10-02</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"XEmacs is Dead. Long Live XEmacs!"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>FrontPage - Meadow Wiki</value><value> </value><value>Archived</value><value> 2012-02-16 at the </value><value>Wayback Machine</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"My Lisp Experiences and the Development of GNU Emacs"</value><value>. </value><value>There were people in those days, in 1985, who had one-megabyte machines without virtual memory. They wanted to be able to use GNU Emacs. This meant I had to keep the program as small as possible.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GNU Zile (Zile is Lossy Emacs) - Summary"</value><value>. </value><value>Modern computers have more than enough resources to start and run a full Emacs in a fraction of a second, and Emacs is probably what you want. Zile is a small, fast, and powerful Emacs clone. It is useful for small footprint installations (e.g. on floppy disk), machines with little memory, or quick editing sessions, especially on remote machines or as a different user, e.g. root.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Lugaru Software Homepage"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Cocoa text system"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Setting up keybindings for the Command Window and Editor"</value><value>. </value><value>Mathworks Blogs</value><value>. 2007-05-11</value><value>. Retrieved </value><value>2019-08-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Bolsky, Morris I.; Korn, David G. (1989). "Acknowledgements". </value><value>The KornShell Command and Programming Language</value><value>. Englewood Cliffs, NJ: Prentice Hall. pp. xii. </value><value>ISBN</value><value> </value><value>0-13-516972-0</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Init file"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Early Init file"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Saint IGNUcius - Richard Stallman"</value><value>. Retrieved </value><value>29 January</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The unabridged selective transcript of Richard M Stallman's talk at the ANU"</value><value>. Archived from </value><value>the original</value><value> on 4 October 2011</value><value>. Retrieved </value><value>29 January</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>alt.religion.emacs newsgroup</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Saint IGNUcius - Richard Stallman"</value><value>. </value><value>www.stallman.org</value><value>. Retrieved </value><value>27 March</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"VAXen"</value><value>. Catb.org</value><value>. Retrieved </value><value>2009-11-08</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>Bibliography</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Ciccarelli, Eugene</value><value> (1978). </value><value>An Introduction to the Emacs Editor</value><value>. Cambridge, Massachusetts: MIT Artificial Intelligence Laboratory. AIM-447.</value><value> </value><value>PDF</value><value>
+</value><value>Stallman, Richard M.</value><value> (1981) [1979]. </value><value>EMACS: The Extensible, Customizable, Self-Documenting Display Editor</value><value>. Cambridge Massachusetts: MIT Artificial Intelligence Laboratory. AIM-519A.</value><value> </value><value>PDF</value><value> </value><value>HTML</value><value>
+</value><value>Stallman, Richard M.</value><value> (2002). </value><value>GNU Emacs Manual</value><value> (15th ed.). GNU Press. </value><value>ISBN</value><value> </value><value>1-882114-85-X</value><value>.</value><value>
+</value><value>Stallman, Richard M.</value><value> (2002). </value><value>"My Lisp Experiences and the Development of GNU Emacs"</value><value>. Retrieved </value><value>2007-02-01</value><value>.</value><value>
+</value><value>Chassel, Robert J.</value><value> (2004). </value><value>An Introduction to Programming in Emacs Lisp</value><value>. GNU Press. </value><value>ISBN</value><value> </value><value>1-882114-56-6</value><value>.</value><value>
+</value><value>Glickstein, Bob (April 1997). </value><value>Writing GNU Emacs Extensions</value><value>. O'Reilly &amp; Associates. </value><value>ISBN</value><value> </value><value>1-56592-261-1</value><value>.</value><value>
+</value><value>Cameron, Debra; Elliott, James; Loy, Marc; Raymond, Eric; Rosenblatt, Bill (December 2004). </value><value>Learning GNU Emacs, 3rd Edition</value><value>. O'Reilly &amp; Associates. </value><value>ISBN</value><value> </value><value>0-596-00648-9</value><value>.</value><value>
+</value><value>Finseth, Craig A. (1991). </value><value>The Craft of Text Editing -or- Emacs for the Modern World</value><value>. Springer-Verlag &amp; Co. </value><value>ISBN</value><value> </value><value>978-1-4116-8297-9</value><value>.</value><value>
+</value><value>Thompson, Adrienne G. (2009). </value><value>"MACSimizing TECO"</value><value>. Retrieved </value><value>2012-02-26</value><value>.</value><value>
+</value><value>External links</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</value><value>@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}</value><value>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</value><value>
+</value><value>
+</value><value>
+</value><value>Wikiquote has quotations related to </value><value>Emacs</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Wikimedia Commons has media related to </value><value>Emacs</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Wikibooks has more on the topic of: </value><value>Emacs</value><value>
+</value><value>
+</value><value>Official website</value><value>
+</value><value>List of Emacs implementations</value><value>
+</value><value>Architectural overview</value><value>
+</value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr&gt;.navbox-abovebelow,.mw-parser-output tr+tr&gt;.navbox-group,.mw-parser-output tr+tr&gt;.navbox-image,.mw-parser-output tr+tr&gt;.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</value><value>.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a&gt;span,.mw-parser-output .navbar a&gt;abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</value><value>v</value><value>t</value><value>e</value><value> </value><value>Emacs</value><value>Implementations</value><value>GNU</value><value> and</value><value>derivative</value><value>
+</value><value>GNU Emacs</value><value>
+</value><value>XEmacs</value><value>
+</value><value>Other</value><value>
+</value><value>Epsilon</value><value>
+</value><value>Freemacs</value><value>
+</value><value>EINE</value><value>
+</value><value>Gosling Emacs</value><value>
+</value><value>Mocklisp</value><value>
+</value><value>Hemlock</value><value>
+</value><value>JOVE</value><value>
+</value><value>mg</value><value>
+</value><value>MicroEMACS</value><value>
+</value><value>MINCE</value><value>
+</value><value>Multics Emacs</value><value>
+</value><value>Perfect Writer</value><value>
+</value><value>GNU TeXmacs</value><value>
+</value><value>vile</value><value>
+</value><value>Zmacs</value><value>
+</value><value>ZWEI</value><value>
+</value><value>Modes</value><value>
+</value><value>AUCTeX</value><value>
+</value><value>Dired</value><value>
+</value><value>Dunnet</value><value>
+</value><value>Emacs Speaks Statistics</value><value>
+</value><value>Emacspeak</value><value>
+</value><value>EMMS</value><value>
+</value><value>ERC</value><value>
+</value><value>eww</value><value>
+</value><value>Gnus</value><value>
+</value><value>Magit</value><value>
+</value><value>Org-mode</value><value>
+</value><value>Planner</value><value>
+</value><value>rcirc</value><value>
+</value><value>RefTeX</value><value>
+</value><value>SLIME</value><value>
+</value><value>w3m</value><value>
+</value><value>Internals</value><value>
+</value><value>Emacs Lisp</value><value>
+</value><value>MULE</value><value>
+</value><value>Community</value><value>Organizations</value><value>
+</value><value>Honeywell</value><value>
+</value><value>Lugaru Software</value><value>
+</value><value>Perfect Software</value><value>
+</value><value>Mark of the Unicorn</value><value>
+</value><value>Massachusetts Institute of Technology</value><value>
+</value><value>Thorn EMI Computer Software</value><value>
+</value><value>UniPress</value><value>
+</value><value>People</value><value>
+</value><value>Thomas Dickey</value><value>
+</value><value>Paul Fox</value><value>
+</value><value>Richard P. Gabriel</value><value>
+</value><value>James Gosling</value><value>
+</value><value>Jim Hall</value><value>
+</value><value>Joris van der Hoeven</value><value>
+</value><value>Daniel Murphy</value><value>
+</value><value>Russ Nelson</value><value>
+</value><value>David Reitter</value><value>
+</value><value>Richard Stallman</value><value>
+</value><value>Guy L. Steele Jr.</value><value>
+</value><value>Daniel Weinreb</value><value>
+</value><value>Other</value><value>
+</value><value>Conkeror</value><value>
+</value><value>Dissociated press</value><value>
+</value><value>Editor war</value><value>
+</value><value>Spacemacs</value><value>
+</value><value>
+</value><value> </value><value>Emacs on Wikimedia Commons</value><value>
+</value><value> </value><value>Emacs on Wikiquotes</value><value>
+</value><value>
+</value><value>v</value><value>t</value><value>e</value><value>GNU Project</value><value>History</value><value>
+</value><value>GNU Manifesto</value><value>
+</value><value>Free Software Foundation</value><value>
+</value><value>Europe</value><value>
+</value><value>India</value><value>
+</value><value>Latin America</value><value>
+</value><value>History of free software</value><value>
+</value><value>Licenses</value><value>
+</value><value>GNU General Public License</value><value>
+</value><value>linking exception</value><value>
+</value><value>font exception</value><value>
+</value><value>GNU Lesser General Public License</value><value>
+</value><value>GNU Affero General Public License</value><value>
+</value><value>GNU Free Documentation License</value><value>
+</value><value>GNAT Modified General Public License</value><value>
+</value><value>Software</value><value>
+</value><value>GNU</value><value> (</value><value>variants</value><value>)</value><value>
+</value><value>Hurd</value><value>
+</value><value>Linux-libre</value><value>
+</value><value>glibc</value><value>
+</value><value>Bash</value><value>
+</value><value>coreutils</value><value>
+</value><value>findutils</value><value>
+</value><value>Build system</value><value>
+</value><value>GCC</value><value>
+</value><value>binutils</value><value>
+</value><value>GDB</value><value>
+</value><value>GRUB</value><value>
+</value><value>GNUstep</value><value>
+</value><value>GIMP</value><value>
+</value><value>Jami</value><value>
+</value><value>GNU Emacs</value><value>
+</value><value>GNU TeXmacs</value><value>
+</value><value>GNU Octave</value><value>
+</value><value>GNU Taler</value><value>
+</value><value>GNU R</value><value>
+</value><value>GSL</value><value>
+</value><value>GMP</value><value>
+</value><value>GNU Electric</value><value>
+</value><value>GNU Archimedes</value><value>
+</value><value>GNUnet</value><value>
+</value><value>GNU Privacy Guard</value><value>
+</value><value>Gnuzilla</value><value> (</value><value>
