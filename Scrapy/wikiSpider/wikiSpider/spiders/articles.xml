@@ -20575,4 +20575,2029 @@ Recently featured: </value><value>
 </value><value>Oʻzbekcha</value><value>
 </value><value>
 </value><value>
-</value>
+</value><?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><url>https://en.wikipedia.org/wiki/Benevolent_dictator_for_life</url><title>None</title><text><value>Title given to a small number of open-source software development leaders</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>For the political term, see </value><value>Benevolent dictatorship</value><value>.</value><value>
+</value><value>Benevolent dictator for life</value><value> (</value><value>BDFL</value><value>) is a title given to a small number of </value><value>open-source software development</value><value> leaders, typically project founders who retain the final say in disputes or arguments within the community. The phrase originated in 1995 with reference to </value><value>Guido van Rossum</value><value>, creator of the </value><value>Python programming language</value><value>.</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Shortly after Van Rossum joined the </value><value>Corporation for National Research Initiatives</value><value>, the term appeared in a follow-up mail by Ken Manheimer to a meeting trying to create a semi-formal group that would oversee Python development and workshops; this initial use included an additional joke of naming Van Rossum the "First Interim BDFL". According to Rossum, the title was most likely created by Ken Manheimer or </value><value>Barry Warsaw</value><value>.</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>In July 2018, Van Rossum announced that he would be stepping down as BDFL of Python without appointing a successor, effectively eliminating the title within the Python community structure.</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>
+</value><value>Usage</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>BDFL should not be confused with the more common term for open-source leaders, "benevolent dictator", which was popularized by </value><value>Eric S. Raymond</value><value>'s essay "</value><value>Homesteading the Noosphere</value><value>" (1999).</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>Among other topics related to </value><value>hacker culture</value><value>, Raymond elaborates on how the nature of open source forces the "dictatorship" to keep itself benevolent, since a strong disagreement can lead to the </value><value>forking</value><value> of the project under the rule of new leaders.</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>Referent candidates</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>Key
+</value><value>
+</value><value>
+</value><value>†
+</value><value>
+</value><value>Deceased
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>Name
+</value><value>
+</value><value>Project
+</value><value>
+</value><value>Type
+</value><value>
+</value><value>Reference
+</value><value>
+</value><value>
+</value><value>Sylvain Benner
+</value><value>
+</value><value>Spacemacs</value><value>
+</value><value>
+</value><value>Community-driven </value><value>Emacs</value><value> distribution
+</value><value>
+</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Vitalik Buterin</value><value>
+</value><value>
+</value><value>Ethereum</value><value>
+</value><value>
+</value><value>Blockchain-based cryptocurrency
+</value><value>
+</value><value>[</value><value>6</value><value>]</value><value>[</value><value>better source needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Dries Buytaert</value><value>
+</value><value>
+</value><value>Drupal</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>François Chollet</value><value>
+</value><value>
+</value><value>Keras</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan Czaplicki
+</value><value>
+</value><value>Elm</value><value>
+</value><value>
+</value><value>Front-end web programming language
+</value><value>
+</value><value>[</value><value>9</value><value>]</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Laurent Destailleur
+</value><value>
+</value><value>Dolibarr ERP CRM</value><value>
+</value><value>
+</value><value>Software suite for </value><value>Enterprise Resource Planning</value><value> and </value><value>Customer Relationship Management</value><value>
+</value><value>
+</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>David Heinemeier Hansson</value><value>
+</value><value>
+</value><value>Ruby on Rails</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Rich Hickey</value><value>
+</value><value>
+</value><value>Clojure</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Adrian Holovaty</value><value> </value><value>and Jacob Kaplan-Moss
+</value><value>
+</value><value>Django</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Andrew Kelley
+</value><value>
+</value><value>Zig</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>15</value><value>]</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Xavier Leroy</value><value>
+</value><value>
+</value><value>OCaml</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>17</value><value>]</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Haoyuan Li</value><value>
+</value><value>
+</value><value>Alluxio</value><value>
+</value><value>
+</value><value>Data Orchestration System
+</value><value>
+</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Miles Lubin</value><value>
+</value><value>
+</value><value>JuMP</value><value>
+</value><value>
+</value><value>Mathematical optimization modeling language in Julia
+</value><value>
+</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Yukihiro Matsumoto (Matz)</value><value>
+</value><value>
+</value><value>Ruby</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>21</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Wes McKinney</value><value>
+</value><value>
+</value><value>Pandas</value><value>
+</value><value>
+</value><value>Python data analysis library
+</value><value>
+</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gavin Mendel-Gleason</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>
+</value><value>TerminusDB</value><value>
+</value><value>
+</value><value>Open-source graph database for knowledge graph representation
+</value><value>
+</value><value>[</value><value>23</value><value>]</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Moolenaar</value><value>†
+</value><value>
+</value><value>Vim</value><value>
+</value><value>
+</value><value>Text editor
+</value><value>
+</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Matt Mullenweg</value><value>[</value><value>b</value><value>]</value><value>
+</value><value>
+</value><value>WordPress</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Odersky</value><value>
+</value><value>
+</value><value>Scala</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>27</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Taylor Otwell
+</value><value>
+</value><value>Laravel</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>28</value><value>]</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Theo de Raadt</value><value>
+</value><value>
+</value><value>OpenBSD</value><value>
+</value><value>
+</value><value>A </value><value>Unix-like</value><value> operating system
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Arnold Robbins</value><value>
+</value><value>
+</value><value>Awk</value><value>, Gawk
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Eugen Rochko</value><value>
+</value><value>
+</value><value>Mastodon</value><value>
+</value><value>
+</value><value>Open source, decentralized social network
+</value><value>
+</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ton Roosendaal</value><value>[</value><value>c</value><value>]</value><value>
+</value><value>
+</value><value>Blender</value><value>
+</value><value>
+</value><value>3D computer graphics software
+</value><value>
+</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sébastien Ros
+</value><value>
+</value><value>Orchard Project</value><value>
+</value><value>
+</value><value>Content management system
+</value><value>
+</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Mark Shuttleworth</value><value>[</value><value>d</value><value>]</value><value>
+</value><value>
+</value><value>Ubuntu</value><value>
+</value><value>
+</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Soller
+</value><value>
+</value><value>Redox</value><value>
+</value><value>
+</value><value>Operating system
+</value><value>
+</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Don Syme</value><value>[</value><value>e</value><value>]</value><value>
+</value><value>
+</value><value>F#</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Linus Torvalds</value><value>[</value><value>f</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>
+</value><value>
+</value><value>Operating system kernel
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>[</value><value>37</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>José Valim
+</value><value>
+</value><value>Elixir</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Pauli Virtanen
+</value><value>
+</value><value>SciPy</value><value>
+</value><value>
+</value><value>Python</value><value> library used for scientific and technical computing
+</value><value>
+</value><value>[</value><value>39</value><value>]</value><value>[</value><value>40</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Patrick Volkerding</value><value>
+</value><value>
+</value><value>Slackware</value><value>
+</value><value>
+</value><value>GNU</value><value>/</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Nathan Voxland
+</value><value>
+</value><value>Liquibase</value><value>
+</value><value>
+</value><value>Database schema management
+</value><value>
+</value><value>[</value><value>42</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jimmy Wales</value><value>
+</value><value>
+</value><value>Wikimedia Foundation</value><value>
+</value><value>
+</value><value>Collaborative knowledge project
+</value><value>
+</value><value>[</value><value>43</value><value>]</value><value>[</value><value>i</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Walker
+</value><value>
+</value><value>Exercism</value><value>
+</value><value>
+</value><value>Open-source programming education platform
+</value><value>
+</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Shaun Walker
+</value><value>
+</value><value>DotNetNuke</value><value>
+</value><value>
+</value><value>Web application framework
+</value><value>
+</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Larry Wall</value><value>
+</value><value>
+</value><value>Perl</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan You</value><value>
+</value><value>
+</value><value>Vue.js</value><value>
+</value><value>
+</value><value>JavaScript MVVM framework for building user interfaces and single-page applications.
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Soumith Chintala
+</value><value>
+</value><value>PyTorch</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>47</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Traverso, Dain Sundstrom, David Phillips
+</value><value>
+</value><value>Trino</value><value>
+</value><value>
+</value><value>SQL query engine
+</value><value>
+</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Kohsuke Kawaguchi</value><value>
+</value><value>
+</value><value>Jenkins</value><value>
+</value><value>
+</value><value>Automation server
+</value><value>
+</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gabor de Mooij
+</value><value>
+</value><value>RedBeanPHP</value><value>
+</value><value>
+</value><value>Database object relational mapper
+</value><value>
+</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Cohen</value><value>
+</value><value>
+</value><value>BitTorrent</value><value>
+</value><value>
+</value><value>Peer-to-peer file sharing protocol
+</value><value>
+</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Walter Bright</value><value>
+</value><value>
+</value><value>D (programming language)</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Richie Vink
+</value><value>
+</value><value>Polars
+</value><value>
+</value><value>Data analysis framework
+</value><value>
+</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>William Falcon
+</value><value>
+</value><value>PyTorch Lightning</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Lars Hvam
+</value><value>
+</value><value>abapGit
+</value><value>
+</value><value>Git client for ABAP
+</value><value>
+</value><value>[</value><value>54</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sebastián Ramírez
+</value><value>
+</value><value>FastAPI</value><value>
+</value><value>
+</value><value>Web framework for building APIs with </value><value>Python</value><value>
+</value><value>
+</value><value>[</value><value>55</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bill Hall (gingerBill)
+</value><value>
+</value><value>Odin
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>56</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Damien Elmes (dae)
+</value><value>
+</value><value>Anki</value><value>
+</value><value>
+</value><value>Spaced repetition</value><value> system
+</value><value>
+</value><value>[</value><value>57</value><value>]</value><value>[</value><value>58</value><value>]</value><value>
+</value><value>
+</value><value>Organizational positions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CTO of </value><value>TerminusDB</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Lead Developer at the WordPress Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chairman of the </value><value>Blender Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Until December 2009, CEO of </value><value>Canonical Ltd</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Technical Advisor at the </value><value>F# Software Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Sponsee of the </value><value>Linux Foundation</value><value>. Also holds the trademark for Linux</value><value>
+</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Design by dictator</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Disputed by Wales; </value><value>"I am not the benevolent dictator of anything"</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Guido van Rossum (2008-07-31). </value><value>"Origin of BDFL"</value><value>. Artima.com. </value><value>Archived</value><value> from the original on 2012-07-21</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Python Creator Scripts Inside Google"</value><value>. </value><value>eWeek</value><value>. 2006-03-06. </value><value>Archived</value><value> from the original on 2018-08-09</value><value>. Retrieved </value><value>2008-05-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Van Rossum, Guido (July 12, 2018). </value><value>"Transfer of power"</value><value>. </value><value>mail.python.org</value><value>. </value><value>Archived</value><value> from the original on July 12, 2018</value><value>. Retrieved </value><value>August 9,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric S. (2000). </value><value>"Homesteading the Noosphere § Project Structures and Ownership"</value><value>. </value><value>Eric S. Raymond's Home Page</value><value>. </value><value>Archived</value><value> from the original on 2012-07-01</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Spacemacs COMMUNITY.org"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-08-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Pearson, Jordan (24 April 2017). </value><value>"Ethereum's Boy King Is Thinking About Giving Up the Mantle"</value><value>. </value><value>Vice</value><value>. Retrieved </value><value>5 September</value><value> 2023</value><value>. </value><value>One participant called him a benevolent dictator.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Fay, Randy</value><value>. </value><value>"How Do Open Source Communities Govern Themselves? | RandyFay.comties Govern Themselves?"</value><value>. </value><value>randyfay.com</value><value>. Retrieved </value><value>27 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Keras API Special Interest Group, Leadership"</value><value>. </value><value>GitHub</value><value>. December 21, 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"56: Ember vs. Elm: The Showdown with Philip Poots | The Frontside Podcast"</value><value>. </value><value>The Frontside Podcast</value><value>. Archived from </value><value>the original</value><value> on November 16, 2018</value><value>. Retrieved </value><value>2017-08-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>elm-conf (2016-09-19), </value><value>"Code is the Easy Part" by Evan Czaplicki</value><value>, retrieved </value><value>2017-08-14</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Dolibarr project organization, different roles of actors"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Constine, Josh (December 7, 2012). </value><value>"Dropbox Hires Away Google's Guido Van Rossum, The Father Of Python"</value><value>. TechCrunch</value><value>. Retrieved </value><value>June 1,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure JIRA Workflow"</value><value>. Archived from </value><value>the original</value><value> on November 13, 2015</value><value>. Retrieved </value><value>3 October</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Adrian and Jacob retiring as Django BDFLs"</value><value>. Adrian Holovaty. January 12, 2014</value><value>. Retrieved </value><value>June 14,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal: Create a standard process for proposals"</value><value>. </value><value>GitHub</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Interfacing with Zig, a BDFL-run Project"</value><value>. </value><value>Loris Cro's Blog</value><value>. December 10, 2021</value><value>. Retrieved </value><value>April 14,</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A History of OCaml | OCaml.org"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"OCaml Infrastructure mailing list"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Introducing Alluxio Open Source Project Governance "</value><value>[1]</value><value>"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Governance Structure: JuMP"</value><value>. Retrieved </value><value>2023-09-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A Ruby Design Process"</value><value>. Retrieved </value><value>2016-04-17</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"pandas 0.20.3 documentation: Tutorials"</value><value>. Retrieved </value><value>2017-07-24</value><value>.</value><value> "Wes McKinney's (pandas BDFL) blog"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB, Twitter"</value><value>. May 6, 2020</value><value>. Retrieved </value><value>May 6,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB — what's in a name?"</value><value>. TerminusDB. August 21, 2019</value><value>. Retrieved </value><value>May 8,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Why Neovim is Better than Vim"</value><value>. January 15, 2015</value><value>. Retrieved </value><value>30 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Thesis, Automattic, and WordPress | Post Status"</value><value>. July 24, 2015</value><value>. Retrieved </value><value>2015-07-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Programming in Scala Leaps onto the World Stage!"</value><value>. Retrieved </value><value>2015-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Twitter"</value><value>. Taylor Otwell. October 9, 2014</value><value>. Retrieved </value><value>October 9,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Creator of the Laravel PHP Framework"</value><value>. </value><value>Facebook</value><value>. August 5, 2014</value><value>. Retrieved </value><value>August 5,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Robbins, Arnold (March 2014). </value><value>"The GNU Project and Me: 27 Years with GNU AWK"</value><value> </value><value>(PDF)</value><value>. </value><value>skeeve.com</value><value>. </value><value>Archived</value><value> </value><value>(PDF)</value><value> from the original on October 6, 2014</value><value>. Retrieved </value><value>August 11,</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Mastodon is crumbling—and many blame its creator"</value><value>. </value><value>The Daily Dot</value><value>. January 18, 2019.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Developer Intro/Overview"</value><value>. Retrieved </value><value>20 July</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Orchard Project Steering Committee"</value><value>. Archived from </value><value>the original</value><value> on August 12, 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Ubuntu carves niche in Linux landscape"</value><value>. </value><value>CNET</value><value>. Archived from </value><value>the original</value><value> on 6 November 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"CONTRIBUTING.md · master · redox-os / redox"</value><value>. July 8, 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Contributing to the F# Language and Compiler"</value><value>. Retrieved </value><value>29 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Dee-Ann LeBlanc (31 July 2006). </value><value>Linux For Dummies</value><value> (7th ed.). John Wiley &amp; Sons. p. 15. </value><value>ISBN</value><value> </value><value>978-0-470-04793-4</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Elixir Companies"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-11-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy 1.0.0"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy project governance"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Stories of Linux: A Look at Slackware Linux"</value><value>. </value><value>linux.com</value><value>. Archived from </value><value>the original</value><value> on October 30, 2014</value><value>. Retrieved </value><value>September 21,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"User and Developer Community | Post Status"</value><value>. Retrieved </value><value>2015-08-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chozick, Amy (June 27, 2013). </value><value>"Jimmy Wales is Not an Internet Billionaire"</value><value>. </value><value>The New York Times</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Jeremy Walker on Being the BDFL of Exercism by Humans of Open Source • A podcast on Anchor"</value><value>. </value><value>Anchor</value><value>. Retrieved </value><value>2021-03-26</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Book: Building Websites with DotNetNuke 5, Michael Washington and Ian Lackey, Packt Publishing. Page 14 "The core team comprises individuals invited to join the team by Shaun Walker, whom they affectionately call the "Benevolent Dictator".</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Art of Ballistic Programming"</value><value>. Archived from </value><value>the original</value><value> on June 17, 2013.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"PyTorch Governance | Maintainers — PyTorch 2.0 documentation"</value><value>. </value><value>pytorch.org</value><value>. Retrieved </value><value>2023-03-21</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Trino and the BDFL model </value><value>https://trino.io/blog/2023/04/06/trino-bdfl-focus.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Jenkins Enhancement Proposal #1: BDFL </value><value>https://github.com/jenkinsci/jep/blob/master/jep/1/README.adoc#bdfl</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>RedBeanPHP index page </value><value>https://redbeanphp.com/index.php?p=/welcome#sponsor</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>BitTorrent Enhancement Proposal #1: The BEP Process </value><value>https://www.bittorrent.org/beps/bep_0001.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Polars - About us"</value><value>. 2024-04-07. </value><value>Archived</value><value> from the original on 2024-03-24.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Lightning Governance — PyTorch Lightning 2.3.0dev documentation"</value><value>. </value><value>lightning.ai</value><value>. Retrieved </value><value>2024-04-10</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Addressing the Future of ABAP: The Power of Open Source"</value><value>. 2024-06-06.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GitHub FastAPI"</value><value>. 2024-07-30.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal Process"</value><value>. 2019-03-31.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ankitects Github organization"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki development discussion"</value><value>. </value><value>Reddit</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Benevolent_dictator_for_life&amp;oldid=1245721207</value><value>"</value></text><lastUpdated> 14 September 2024, at 18:01</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/F_Sharp_(programming_language)</url><title>None</title><text><value>Microsoft programming language</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>Not to be confused with </value><value>F (programming language)</value><value> or </value><value>F* (programming language)</value><value>.</value><value>
+</value><value>The correct title of this article is </value><value>F#</value><value>. The substitution of the </value><value>#</value><value> is due to </value><value>technical restrictions</value><value>.</value><value>
+</value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table&gt;caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table&gt;tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</value><value>F#</value><value>Paradigms</value><value>Multi-paradigm</value><value>: </value><value>functional</value><value>, </value><value>imperative</value><value>, </value><value>object-oriented</value><value>, </value><value>agent-oriented</value><value>, </value><value>metaprogramming</value><value>, </value><value>reflective</value><value>, </value><value>concurrent</value><value>Family</value><value>ML</value><value>: </value><value>Caml</value><value>: </value><value>OCaml</value><value>Designed by</value><value>Don Syme</value><value>, </value><value>Microsoft Research</value><value>Developer</value><value>Microsoft</value><value>, </value><value>The F# Software Foundation</value><value>First appeared</value><value>2005</value><value>; 19 years ago</value><value> (</value><value>2005</value><value>)</value><value>, version 1.0</value><value>Stable release</value><value>9</value><value>[</value><value>1</value><value>]</value><value> </value><value>
+   /    12 November 2024</value><value>; 44 days ago</value><value> (</value><value>12 November 2024</value><value>)</value><value>
+</value><value>Typing discipline</value><value>Static</value><value>, </value><value>strong</value><value>, </value><value>inferred</value><value>OS</value><value>Cross-platform</value><value>: </value><value>.NET</value><value> framework, </value><value>Mono</value><value>License</value><value>MIT</value><value>[</value><value>2</value><value>]</value><value>[</value><value>3</value><value>]</value><value>Filename extensions</value><value>.fs, .fsi, .fsx, .fsscript</value><value>Website</value><value>fsharp</value><value>.org</value><value>
+</value><value>
+</value><value>
+</value><value>learn</value><value>.microsoft</value><value>.com</value><value>/en-us</value><value>/dotnet</value><value>/fsharp</value><value>Influenced by</value><value>C#</value><value>, </value><value>Erlang</value><value>, </value><value>Haskell</value><value>,</value><value>[</value><value>4</value><value>]</value><value> </value><value>ML</value><value>, </value><value>OCaml</value><value>,</value><value>[</value><value>5</value><value>]</value><value>[</value><value>6</value><value>]</value><value> </value><value>Python</value><value>, </value><value>Scala</value><value>Influenced</value><value>C#</value><value>,</value><value>[</value><value>7</value><value>]</value><value> </value><value>Elm</value><value>, </value><value>F*</value><value>, </value><value>LiveScript</value><value>
+</value><value> </value><value>F Sharp Programming</value><value> at Wikibooks</value><value>
+</value><value>
+</value><value>F#</value><value> (pronounced </value><value>F sharp</value><value>) is a </value><value>general-purpose</value><value>, </value><value>high-level</value><value>, </value><value>strongly typed</value><value>, </value><value>multi-paradigm</value><value> </value><value>programming language</value><value> that encompasses </value><value>functional</value><value>, </value><value>imperative</value><value>, and </value><value>object-oriented programming</value><value> methods. It is most often used as a </value><value>cross-platform</value><value> </value><value>Common Language Infrastructure</value><value> (CLI) language on </value><value>.NET</value><value>, but can also generate </value><value>JavaScript</value><value>[</value><value>8</value><value>]</value><value> and </value><value>graphics processing unit</value><value> (GPU) code.</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>F# is developed by the </value><value>F# Software Foundation</value><value>,</value><value>[</value><value>10</value><value>]</value><value> </value><value>Microsoft</value><value> and open contributors. An </value><value>open source</value><value>, cross-platform compiler for F# is available from the F# Software Foundation.</value><value>[</value><value>11</value><value>]</value><value> F# is a fully supported language in </value><value>Visual Studio</value><value>[</value><value>12</value><value>]</value><value> and </value><value>JetBrains Rider</value><value>.</value><value>[</value><value>13</value><value>]</value><value> </value><value>Plug-ins</value><value> supporting F# exist for many widely used editors including </value><value>Visual Studio Code</value><value>, </value><value>Vim</value><value>, and </value><value>Emacs</value><value>.
+</value><value>F# is a member of the </value><value>ML</value><value> language family and originated as a </value><value>.NET Framework</value><value> implementation of a core of the programming language </value><value>OCaml</value><value>.</value><value>[</value><value>5</value><value>]</value><value>[</value><value>6</value><value>]</value><value> It has also been influenced by </value><value>C#</value><value>, 
+</value><value>Python</value><value>, </value><value>Haskell</value><value>,</value><value>[</value><value>4</value><value>]</value><value> </value><value>Scala</value><value> and </value><value>Erlang</value><value>.
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Versions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+
+</value><value>
+</value><value>F#</value><value>version
+</value><value>
+</value><value>Language specification
+</value><value>
+</value><value>Date
+</value><value>
+</value><value>Platforms</value><value>
+</value><value>
+</value><value>Runtime</value><value>
+</value><value>
+</value><value>
+</value><value>1.x
+</value><value>
+</value><value>
+</value><value>
+</value><value>May 2005</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>
+</value><value>Windows</value><value>
+</value><value>
+</value><value>.NET</value><value> 1.0 - 3.5
+</value><value>
+</value><value>
+</value><value>2.0
+</value><value>
+</value><value>August 2010</value><value>
+</value><value>
+</value><value>April 2010</value><value>[</value><value>15</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>
+</value><value>
+</value><value>.NET</value><value> 2.0 - 4.0, </value><value>Mono</value><value>
+</value><value>
+</value><value>
+</value><value>3.0
+</value><value>
+</value><value>November 2012</value><value>
+</value><value>
+</value><value>August 2012</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>;</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>.NET</value><value> 2.0 - 4.5, </value><value>Mono</value><value>
+</value><value>
+</value><value>
+</value><value>3.1
+</value><value>
+</value><value>November 2013</value><value>
+</value><value>
+</value><value>October 2013</value><value>[</value><value>17</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>;</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>.NET</value><value> 2.0 - 4.5, </value><value>Mono</value><value>
+</value><value>
+</value><value>
+</value><value>4.0
+</value><value>
+</value><value>January 2016</value><value>
+</value><value>
+</value><value>July 2015</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>4.1
+</value><value>
+</value><value>May 2018</value><value>
+</value><value>
+</value><value>March 2017</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>,
+</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>.NET</value><value> 3.5 - 4.6.2, </value><value>.NET</value><value>, </value><value>Mono</value><value>
+</value><value>
+</value><value>
+</value><value>4.5
+</value><value>
+</value><value>
+</value><value>
+</value><value>August 2018</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>,
+</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>.NET</value><value> 4.5 - 4.7.2,</value><value>[</value><value>21</value><value>]</value><value> </value><value>.NET</value><value> Core SDK 2.1.400</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>4.6
+</value><value>
+</value><value>
+</value><value>
+</value><value>March 2019</value><value>[</value><value>23</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>,
+</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>.NET</value><value> 4.5 - 4.7.2,</value><value>[</value><value>24</value><value>]</value><value> </value><value>.NET</value><value> Core SDK 2.2.300</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>4.7
+</value><value>
+</value><value>
+</value><value>
+</value><value>September 2019</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>,
+</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>.NET</value><value> 4.5 - 4.8,</value><value>[</value><value>27</value><value>]</value><value> </value><value>.NET</value><value> Core SDK 3.0.100</value><value>[</value><value>28</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>5.0
+</value><value>
+</value><value>
+</value><value>
+</value><value>November 2020</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>,
+</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>.NET</value><value> SDK 5.0.100</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>6.0
+</value><value>
+</value><value>
+</value><value>
+</value><value>November 2021</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>,
+</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>.NET</value><value> SDK 6.0.100</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>7.0
+</value><value>
+</value><value>
+</value><value>
+</value><value>November 2022</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>,
+</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>.NET</value><value> SDK 7.0.100</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>8.0
+</value><value>
+</value><value>
+</value><value>
+</value><value>November 2023</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>Windows</value><value>,
+</value><value>JavaScript</value><value>,</value><value>[</value><value>8</value><value>]</value><value> </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>.NET</value><value> SDK 8.0.100</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>
+</value><value>Language evolution</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# uses an open development and engineering process. 
+The language evolution process is managed by </value><value>Don Syme</value><value> from </value><value>Microsoft Research</value><value> as the </value><value>benevolent dictator for life</value><value> (BDFL) for the language design, together with the F# Software Foundation.
+Earlier versions of the F# language were designed by </value><value>Microsoft</value><value> and </value><value>Microsoft Research</value><value> using a closed development process.
+</value><value>F# was first included in Visual Studio in the </value><value>2010 edition</value><value>, at the same level as </value><value>Visual Basic (.NET)</value><value> and C# (albeit as an option), and remains in all later editions, thus making the language widely available and well-supported.
+</value><value>F# originates from Microsoft Research, Cambridge, UK. The language was originally designed and implemented by </value><value>Don Syme</value><value>,</value><value>[</value><value>5</value><value>]</value><value> according to whom in the fsharp team, they say the F is for "Fun".</value><value>[</value><value>37</value><value>]</value><value> 
+Andrew Kennedy contributed to the design of </value><value>units of measure</value><value>.</value><value>[</value><value>5</value><value>]</value><value> The Visual F# Tools for Visual Studio are developed by Microsoft.</value><value>[</value><value>5</value><value>]</value><value> The F# Software Foundation developed the F# open-source compiler and tools, incorporating the open-source compiler implementation provided by the Microsoft Visual F# Tools team.</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Summary of versions
+</value><value>
+</value><value>
+</value><value>F#</value><value>version
+</value><value>
+</value><value>Features added
+</value><value>
+</value><value>
+</value><value>1.0
+</value><value>
+</value><value>
+</value><value>Functional programming</value><value>
+</value><value>Discriminated unions</value><value>
+</value><value>Records</value><value>
+</value><value>Tuples</value><value>
+</value><value>Pattern matching</value><value>
+</value><value>Type abbreviations</value><value>
+</value><value>Object-oriented programming</value><value>
+</value><value>Structs</value><value>
+</value><value>Signature files</value><value>
+</value><value>Scripting files</value><value>
+</value><value>Imperative programming</value><value>
+</value><value>Modules (no functors)</value><value>
+</value><value>Nested modules</value><value>
+</value><value>.NET interoperability</value><value>
+</value><value>
+</value><value>
+</value><value>2.0
+</value><value>
+</value><value>
+</value><value>Active patterns</value><value>
+</value><value>Units of measure</value><value>
+</value><value>Sequence expressions</value><value>
+</value><value>Asynchronous programming</value><value>
+</value><value>Agent programming</value><value>
+</value><value>Extension members</value><value>
+</value><value>Named arguments</value><value>
+</value><value>Optional arguments</value><value>
+</value><value>Array slicing</value><value>
+</value><value>Quotations</value><value>
+</value><value>Native interoperability</value><value>
+</value><value>Computation expressions</value><value>
+</value><value>
+</value><value>
+</value><value>3.0</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Type providers</value><value>
+</value><value>LINQ query expressions</value><value>
+</value><value>CLIMutable attribute</value><value>
+</value><value>Triple-quoted strings</value><value>
+</value><value>Auto-properties</value><value>
+</value><value>Provided units-of-measure</value><value>
+</value><value>
+</value><value>
+</value><value>3.1</value><value>[</value><value>39</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Named union type fields</value><value>
+</value><value>Extensions to array slicing</value><value>
+</value><value>Type inference enhancements</value><value>
+</value><value>
+</value><value>
+</value><value>4.0</value><value>[</value><value>40</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Printf on unitized values</value><value>
+</value><value>Extension property initializers</value><value>
+</value><value>Non-null provided types</value><value>
+</value><value>Primary constructors as functions</value><value>
+</value><value>Static parameters for provided methods</value><value>
+</value><value>Printf interpolation</value><value>
+</value><value>Extended #if grammar</value><value>
+</value><value>Tailcall attribute</value><value>
+</value><value>Multiple interface instantiations</value><value>
+</value><value>Optional type args</value><value>
+</value><value>Params dictionaries</value><value>
+</value><value>
+</value><value>
+</value><value>4.1</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Struct tuples which inter-operate with C# tuples</value><value>
+</value><value>Struct annotations for Records</value><value>
+</value><value>Struct annotations for Single-case Discriminated Unions</value><value>
+</value><value>Underscores in numeric literals</value><value>
+</value><value>Caller info argument attributes</value><value>
+</value><value>Result type and some basic Result functions</value><value>
+</value><value>Mutually referential types and modules within the same file</value><value>
+</value><value>Implicit "Module" syntax on modules with shared name as type</value><value>
+</value><value>Byref returns, supporting consuming C# ref-returning methods</value><value>
+</value><value>Error message improvements</value><value>
+</value><value>Support for 'fixed'</value><value>
+</value><value>
+</value><value>
+</value><value>4.5</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Versioning alignment of binary, package, and language</value><value>
+</value><value>Support for 'Span&lt;T&gt;' and related types</value><value>
+</value><value>Ability to produce 'byref' returns</value><value>
+</value><value>The 'voidptr' type</value><value>
+</value><value>The 'inref&lt;'T&gt;' and 'outref&lt;'T&gt;' types to represent readonly and write-only 'byref's</value><value>
+</value><value>'IsByRefLike' structs</value><value>
+</value><value>'IsReadOnly' structs</value><value>
+</value><value>Extension method support for 'byref&lt;'T&gt;'/'inref&lt;'T&gt;'/'outref&lt;'T&gt;'</value><value>
+</value><value>'match!' keyword in computation expressions</value><value>
+</value><value>Relaxed upcast with 'yield' in F# seq/list/array expressions</value><value>
+</value><value>Relaxed indentation with list and array expressions</value><value>
+</value><value>Enumeration cases emitted as public</value><value>
+</value><value>
+</value><value>
+</value><value>4.6
+</value><value>
+</value><value>
+</value><value>Anonymous record types</value><value>
+</value><value>
+</value><value>
+</value><value>4.7</value><value>[</value><value>42</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Implicit yields</value><value>
+</value><value>No more required double underscore</value><value>
+</value><value>Indentation relaxations for parameters passed to constructors and static methods</value><value>
+</value><value>'nameof' function</value><value>
+</value><value>Open static classes</value><value>
+</value><value>
+</value><value>
+</value><value>5.0</value><value>[</value><value>43</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>FSharp.Core now targets netstandard2.0 only</value><value>
+</value><value>Package references in F# scripts</value><value>
+</value><value>Support for Jupyter, nteract, and VSCode Notebooks</value><value>
+</value><value>String Interpolation</value><value>
+</value><value>Support for nameof</value><value>
+</value><value>Open Type declarations</value><value>
+</value><value>Enhanced Slicing</value><value>
+</value><value>F# quotations improvements</value><value>
+</value><value>Applicative Computation Expressions</value><value>
+</value><value>Improved stack traces in F# async and other computation expressions</value><value>
+</value><value>Improved .NET interop</value><value>
+</value><value>Improved Map and Set performance in FSharp.Core</value><value>
+</value><value>Improved compiler performance</value><value>
+</value><value>Improved compiler analysis for library authors</value><value>
+</value><value>
+</value><value>
+</value><value>6.0</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Tasks</value><value>
+</value><value>Simpler indexing</value><value>
+</value><value>Augments to "active patterns"</value><value>
+</value><value>Overloaded custom operations in computation expressions</value><value>
+</value><value>“as” patterns</value><value>
+</value><value>Indentation syntax revisions</value><value>
+</value><value>More implicit conversions</value><value>
+</value><value>More implicit upcast conversions</value><value>
+</value><value>Implicit integer conversions</value><value>
+</value><value>First-class support for .NET-style implicit conversions</value><value>
+</value><value>Optional warnings for implicit conversions</value><value>
+</value><value>Formatting for binary numbers</value><value>
+</value><value>Discards on use bindings</value><value>
+</value><value>InlineIfLambda optimizer directive</value><value>
+</value><value>Resumable code</value><value>
+</value><value>More collection functions</value><value>
+</value><value>Map has Keys and Values</value><value>
+</value><value>More intrinsics for NativePtr</value><value>
+</value><value>More numeric types with unit annotations</value><value>
+</value><value>Informational warnings for rarely used symbolic operators</value><value>
+</value><value>
+</value><value>
+</value><value>7.0</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Static abstract members support in interfaces</value><value>
+</value><value>Making working with SRTPs (statically resolved type parameters) easier</value><value>
+</value><value>Required properties checking</value><value>
+</value><value>Init scope and init-only properties</value><value>
+</value><value>Reference assemblies support</value><value>
+</value><value>F# self-contained deployments &amp; Native AOT</value><value>
+</value><value>Added support for N-d arrays up to rank 32.</value><value>
+</value><value>Result module functions parity with Option.</value><value>
+</value><value>Fixes in resumable state machines codegen for the tasks builds.</value><value>
+</value><value>Better codegen for compiler-generated side-effect-free property getters</value><value>
+</value><value>ARM64 platform-specific compiler and ARM64 target support in F# compiler. Dependency manager #r caching support</value><value>
+</value><value>Parallel type-checking and project-checking support (experimental, can be enabled via VS setting, or by tooling authors)</value><value>
+</value><value>Miscellaneous bugfixes and improvements.</value><value>
+</value><value>
+</value><value>
+</value><value>8.0</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>_.Property shorthand for (fun x -&gt; x.Property)</value><value>
+</value><value>Nested record field copy and update</value><value>
+</value><value>while! (while bang) feature </value><value>[</value><value>47</value><value>]</value><value>
+</value><value>Extended string interpolation syntax</value><value>
+</value><value>Use and compose string literals for printf and related functions</value><value>
+</value><value>Arithmetic operators in literals</value><value>
+</value><value>Type constraint intersection syntax</value><value>
+</value><value>Extended fixed binding</value><value>
+</value><value>Easier [&lt;Extension&gt;] method definition</value><value>
+</value><value>Static members in interfaces</value><value>
+</value><value>Static let in discriminated unions, records, structs, and types without primary constructors</value><value>
+</value><value>try-with within seq{}, [], and [||] collection expressions</value><value>
+</value><value>Recursive calls and yield! within exception handler</value><value>
+</value><value>Tail call attribute</value><value>
+</value><value>[&lt;Struct&gt;] unions can now have &gt; 49 cases</value><value>
+</value><value>Strict indentation rules</value><value>
+</value><value>New diagnostics from the compiler</value><value>
+</value><value>Switches for compiler parallelization</value><value>
+</value><value>
+</value><value>Language overview</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Functional programming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# is a </value><value>strongly typed</value><value> functional-first language with a large number of capabilities that are normally found only in </value><value>functional programming</value><value> languages, while supporting object-oriented features available in C#. Together, these features allow F# programs to be written in a completely functional style and also allow functional and object-oriented styles to be mixed.
+</value><value>Examples of functional features are:
+</value><value>
+</value><value>Everything is an expression</value><value>
+</value><value>Type inference</value><value> (using </value><value>Hindley–Milner type inference</value><value>)</value><value>
+</value><value>Functions as first-class citizens</value><value>
+</value><value>Anonymous functions</value><value> with capturing semantics (i.e., </value><value>closures</value><value>)</value><value>
+</value><value>Immutable variables and objects</value><value>
+</value><value>Lazy evaluation</value><value> support</value><value>
+</value><value>Higher-order functions</value><value>
+</value><value>Nested functions</value><value>
+</value><value>Currying</value><value>
+</value><value>Pattern matching</value><value>
+</value><value>Algebraic data types</value><value>
+</value><value>Tuples</value><value>
+</value><value>List comprehension</value><value>
+</value><value>Monad</value><value> pattern support (called </value><value>computation expressions</value><value>[</value><value>48</value><value>]</value><value>)</value><value>
+</value><value>Tail call optimisation</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>F# is an expression-based language using </value><value>eager evaluation</value><value> and also in some instances </value><value>lazy evaluation</value><value>. Every statement in F#, 
+including </value><value>if</value><value> expressions, </value><value>try</value><value> expressions and loops, is a composable expression with a static type.</value><value>[</value><value>50</value><value>]</value><value> Functions and expressions that do not return any value have a return type of </value><value>unit</value><value>. F# uses the </value><value>let</value><value> keyword for binding values to a name.</value><value>[</value><value>50</value><value>]</value><value> For example:
+</value><value>
+</value><value>let</value><value> </value><value>x</value><value> </value><value>=</value><value> </value><value>3</value><value> </value><value>+</value><value> </value><value>4</value><value>
+</value><value>
+</value><value>binds the value </value><value>7</value><value> to the name </value><value>x</value><value>.
+</value><value>New types are defined using the </value><value>type</value><value> keyword. For functional programming, F# provides </value><value>tuple</value><value>, </value><value>record</value><value>, </value><value>discriminated union</value><value>, </value><value>list</value><value>, </value><value>option</value><value>, and </value><value>result</value><value> types.</value><value>[</value><value>50</value><value>]</value><value> A </value><value>tuple</value><value> represents a set of </value><value>n</value><value> values, where </value><value>n</value><value> ≥ 0. The value </value><value>n</value><value> is called the </value><value>arity</value><value> of the tuple. A 3-tuple would be represented as </value><value>(A, B, C)</value><value>, where A, B, and C are values of possibly different types. A tuple can be used to store values only when the number of values is known at design-time and stays constant during execution.
+</value><value>A </value><value>record</value><value> is a type where the data members are named. Here is an example of record definition: 
+</value><value>
+</value><value> </value><value>type</value><value> </value><value>R</value><value> </value><value>=</value><value> </value><value>
+</value><value>        </value><value>{</value><value> </value><value>Name</value><value> </value><value>:</value><value> </value><value>string</value><value> </value><value>
+</value><value>         </value><value>Age</value><value> </value><value>:</value><value> </value><value>int</value><value> </value><value>}</value><value>
+</value><value>
+</value><value>Records can be created as </value><value>let</value><value> </value><value>r</value><value> </value><value>=</value><value> </value><value>{</value><value> </value><value>Name</value><value>=</value><value>"AB"</value><value>;</value><value> </value><value>Age</value><value>=</value><value>42</value><value>}. The </value><value>with</value><value> keyword is used to create a copy of a record, as in </value><value>{</value><value> </value><value>r</value><value> </value><value>with</value><value> </value><value>Name</value><value>=</value><value>"CD"</value><value>}, which creates a new record by copying </value><value>r</value><value> and changing the value of the </value><value>Name</value><value> field (assuming the record created in the last example was named </value><value>r</value><value>).
+</value><value>A </value><value>discriminated union</value><value> type is a </value><value>type-safe</value><value> version of </value><value>C unions</value><value>. For example,
+</value><value>
+</value><value> </value><value>type</value><value> </value><value>A</value><value> </value><value>=</value><value> </value><value>
+</value><value>    </value><value>|</value><value> </value><value>UnionCaseX</value><value> </value><value>of</value><value> </value><value>string</value><value>
+</value><value>    </value><value>|</value><value> </value><value>UnionCaseY</value><value> </value><value>of</value><value> </value><value>int</value><value>
+</value><value>
+</value><value>Values of the union type can correspond to either union case. The types of the values carried by each union case is included in the definition of each case.
+</value><value>The </value><value>list</value><value> type is an immutable </value><value>linked list</value><value> represented either using a </value><value>head</value><value>::</value><value>tail</value><value> notation (</value><value>::</value><value> is the </value><value>cons</value><value> operator) or a shorthand as </value><value>[</value><value>item1</value><value>;</value><value> </value><value>item2</value><value>;</value><value> </value><value>item3</value><value>]</value><value>. An empty list is written </value><value>[]</value><value>. The </value><value>option</value><value> type is a discriminated union type with choices </value><value>Some(x)</value><value> or </value><value>None</value><value>. F# types may be </value><value>generic</value><value>, implemented as generic .NET types.
+</value><value>F# supports </value><value>lambda functions</value><value> and </value><value>closures</value><value>.</value><value>[</value><value>50</value><value>]</value><value> All functions in F# are first class values and are immutable.</value><value>[</value><value>50</value><value>]</value><value> Functions can be </value><value>curried</value><value>. Being first-class values, functions can be passed as arguments to other functions. Like other functional programming languages, F# allows </value><value>function composition</value><value> using the </value><value>&gt;&gt;</value><value> and </value><value>&lt;&lt;</value><value> operators.
+</value><value>F# provides </value><value>.mw-parser-output .vanchor&gt;:target~.vanchor-text{background-color:#b1d2ff}@media screen{html.skin-theme-clientpref-night .mw-parser-output .vanchor&gt;:target~.vanchor-text{background-color:#0f4dc9}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .vanchor&gt;:target~.vanchor-text{background-color:#0f4dc9}}</value><value>sequence expressions</value><value>[</value><value>51</value><value>]</value><value> that define a sequence </value><value>seq { ... }</value><value>, list </value><value>[ ... ]</value><value> or array </value><value>[| ... |]</value><value> through code that generates values. For example,
+</value><value>
+</value><value> </value><value>seq</value><value> </value><value>{</value><value> </value><value>for</value><value> </value><value>b</value><value> </value><value>in</value><value> </value><value>0</value><value> </value><value>..</value><value> </value><value>25</value><value> </value><value>do</value><value>
+</value><value>           </value><value>if</value><value> </value><value>b</value><value> </value><value>&lt;</value><value> </value><value>15</value><value> </value><value>then</value><value>
+</value><value>               </value><value>yield</value><value> </value><value>b</value><value>*</value><value>b</value><value> </value><value>}</value><value>
+</value><value>
+</value><value>forms a sequence of squares of numbers from 0 to 14 by filtering out numbers from the range of numbers from 0 to 25. Sequences are </value><value>generators</value><value> – values are generated on-demand (i.e., are </value><value>lazily evaluated</value><value>) – while lists and arrays are evaluated eagerly.
+</value><value>F# uses </value><value>pattern matching</value><value> to bind values to names. Pattern matching is also used when accessing discriminated unions – the union is value matched against pattern rules and a rule is selected when a match succeeds. F# also supports </value><value>active patterns</value><value> as a form of extensible pattern matching.</value><value>[</value><value>52</value><value>]</value><value> It is used, for example, when multiple ways of matching on a type exist.</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>F# supports a general syntax for defining compositional computations called </value><value>computation expressions</value><value>. Sequence expressions, asynchronous computations and queries are particular kinds of computation expressions. Computation expressions are an implementation of the </value><value>monad</value><value> pattern.</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>
+</value><value>Imperative programming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# support for imperative programming includes
+</value><value>
+</value><value>for</value><value> </value><value>loops</value><value>
+</value><value>while</value><value> </value><value>loops</value><value>
+</value><value>arrays</value><value>, created with the </value><value>[| ... |]</value><value> syntax</value><value>
+</value><value>hash table</value><value>, created with the </value><value>dict [ ... ]</value><value> syntax or </value><value>System.Collections.Generic.Dictionary&lt;_,_&gt;</value><value> type.</value><value>
+</value><value>Values and record fields can also be labelled as </value><value>mutable</value><value>. For example:
+</value><value>
+</value><value>// Define 'x' with initial value '1'</value><value>
+</value><value>let</value><value> </value><value>mutable</value><value> </value><value>x</value><value> </value><value>=</value><value> </value><value>1</value><value>
+</value><value>// Change the value of 'x' to '3'</value><value>
+</value><value>x</value><value> </value><value>&lt;-</value><value> </value><value>3</value><value>
+</value><value>
+</value><value>Also, F# supports access to all CLI types and objects such as those defined in the </value><value>System.Collections.Generic</value><value> namespace defining imperative data structures.
+</value><value>
+</value><value>Object-oriented programming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Like other </value><value>Common Language Infrastructure</value><value> (CLI) languages, F# can use CLI types through object-oriented programming.</value><value>[</value><value>50</value><value>]</value><value> F# support for object-oriented programming in expressions includes:
+</value><value>
+</value><value>Dot-notation, e.g., </value><value>x</value><value>.</value><value>Name</value><value>
+</value><value>Object expressions, e.g., </value><value>{</value><value> </value><value>new</value><value> </value><value>obj</value><value>()</value><value> </value><value>with</value><value> </value><value>member</value><value> </value><value>x</value><value>.</value><value>ToString</value><value>()</value><value> </value><value>=</value><value> </value><value>"hello"</value><value>}</value><value>
+</value><value>Object construction, e.g., </value><value>new</value><value> </value><value>Form</value><value>()</value><value>
+</value><value>Type tests, e.g., </value><value>x</value><value> </value><value>:?</value><value> </value><value>string</value><value>
+</value><value>Type coercions, e.g., </value><value>x</value><value> </value><value>:?&gt;</value><value> </value><value>string</value><value>
+</value><value>Named arguments, e.g., </value><value>x</value><value>.</value><value>Method</value><value>(</value><value>someArgument</value><value>=</value><value>1</value><value>)</value><value>
+</value><value>Named setters, e.g., </value><value>new</value><value> </value><value>Form</value><value>(</value><value>Text</value><value>=</value><value>"Hello"</value><value>)</value><value>
+</value><value>Optional arguments, e.g., </value><value>x</value><value>.</value><value>Method</value><value>(</value><value>OptionalArgument</value><value>=</value><value>1</value><value>)</value><value>
+</value><value>Support for object-oriented programming in patterns includes
+</value><value>
+</value><value>Type tests, e.g., </value><value>:?</value><value> </value><value>string</value><value> </value><value>as</value><value> </value><value>s</value><value>
+</value><value>Active patterns, which can be defined over object types</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>F# object type definitions can be class, struct, interface, enum, or delegate type definitions, corresponding to the definition forms found in </value><value>C#</value><value>. For example, here is a class with a constructor taking a name and age, and declaring two properties.
+</value><value>
+</value><value>/// A simple object type definition</value><value>
+</value><value>type</value><value> </value><value>Person</value><value>(</value><value>name</value><value> </value><value>:</value><value> </value><value>string</value><value>,</value><value> </value><value>age</value><value> </value><value>:</value><value> </value><value>int</value><value>)</value><value> </value><value>=</value><value>
+</value><value>    </value><value>member</value><value> </value><value>x</value><value>.</value><value>Name</value><value> </value><value>=</value><value> </value><value>name</value><value>
+</value><value>    </value><value>member</value><value> </value><value>x</value><value>.</value><value>Age</value><value> </value><value>=</value><value> </value><value>age</value><value>
+</value><value>
+</value><value>Asynchronous programming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# supports </value><value>asynchronous programming</value><value> through </value><value>asynchronous workflows</value><value>.</value><value>[</value><value>53</value><value>]</value><value> An asynchronous workflow is defined as a sequence of commands inside an </value><value>async{ ... }</value><value>, as in
+</value><value>
+</value><value>let</value><value> </value><value>asynctask</value><value> </value><value>=</value><value> </value><value>
+</value><value>    </value><value>async</value><value> </value><value>{</value><value> </value><value>let</value><value> </value><value>req</value><value> </value><value>=</value><value> </value><value>WebRequest</value><value>.</value><value>Create</value><value>(</value><value>url</value><value>)</value><value>
+</value><value>            </value><value>let!</value><value> </value><value>response</value><value> </value><value>=</value><value> </value><value>req</value><value>.</value><value>GetResponseAsync</value><value>()</value><value>
+</value><value>            </value><value>use</value><value> </value><value>stream</value><value> </value><value>=</value><value> </value><value>response</value><value>.</value><value>GetResponseStream</value><value>()</value><value>
+</value><value>            </value><value>use</value><value> </value><value>streamreader</value><value> </value><value>=</value><value> </value><value>new</value><value> </value><value>System</value><value>.</value><value>IO</value><value>.</value><value>StreamReader</value><value>(</value><value>stream</value><value>)</value><value>
+</value><value>            </value><value>return</value><value> </value><value>streamreader</value><value>.</value><value>ReadToEnd</value><value>()</value><value> </value><value>}</value><value>
+</value><value>
+</value><value>The </value><value>let!</value><value> indicates that the expression on the right (getting the response) should be done asynchronously but the flow should only continue when the result is available. In other words, from the point of view of the code block, it's as if getting the response is a blocking call, whereas from the point of view of the system, the thread won't be blocked and may be used to process other flows until the result needed for this one becomes available.
+</value><value>The async block may be invoked using the </value><value>Async.RunSynchronously</value><value> function. Multiple async blocks can be executed in parallel using the </value><value>Async.Parallel</value><value> function that takes a list of </value><value>async</value><value> objects (in the example, </value><value>asynctask</value><value> is an async object) and creates another async object to run the tasks in the lists in parallel. The resultant object is invoked using </value><value>Async.RunSynchronously</value><value>.</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>Inversion of control</value><value> in F# follows this pattern.</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>Since version 6.0, F# supports creating, consuming and returning .NET tasks directly. </value><value>[</value><value>54</value><value>]</value><value>
+</value><value>
+</value><value>    </value><value>open</value><value> </value><value>System.Net.Http</value><value>
+</value><value>    </value><value>let</value><value> </value><value>fetchUrlAsync</value><value> </value><value>(</value><value>url</value><value>:</value><value>string</value><value>)</value><value> </value><value>=</value><value> </value><value>// string -&gt; Task&lt;string&gt;</value><value>
+</value><value>        </value><value>task</value><value> </value><value>{</value><value>
+</value><value>            </value><value>use</value><value> </value><value>client</value><value> </value><value>=</value><value> </value><value>new</value><value> </value><value>HttpClient</value><value>()</value><value>
+</value><value>            </value><value>let!</value><value> </value><value>response</value><value> </value><value>=</value><value> </value><value>client</value><value>.</value><value>GetAsync</value><value>(</value><value>url</value><value>)</value><value> </value><value>
+</value><value>            </value><value>let!</value><value> </value><value>content</value><value> </value><value>=</value><value> </value><value>response</value><value>.</value><value>Content</value><value>.</value><value>ReadAsStringAsync</value><value>()</value><value>
+</value><value>            </value><value>do</value><value>!</value><value> </value><value>Task</value><value>.</value><value>Delay</value><value> </value><value>500</value><value>
+</value><value>            </value><value>return</value><value> </value><value>content</value><value>
+</value><value>        </value><value>}</value><value>
+
+</value><value>    </value><value>// Usage</value><value>
+</value><value>    </value><value>let</value><value> </value><value>fetchPrint</value><value>()</value><value> </value><value>=</value><value>
+</value><value>        </value><value>let</value><value> </value><value>task</value><value> </value><value>=</value><value> </value><value>task</value><value> </value><value>{</value><value>
+</value><value>            </value><value>let!</value><value> </value><value>data</value><value> </value><value>=</value><value> </value><value>fetchUrlAsync</value><value> </value><value>"https://example.com"</value><value>
+</value><value>            </value><value>printfn</value><value> </value><value>$</value><value>"{data}"</value><value>
+</value><value>        </value><value>}</value><value> </value><value>
+</value><value>        </value><value>task</value><value>.</value><value>Wait</value><value>()</value><value>
+</value><value>
+</value><value>Parallel programming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Parallel programming is supported partly through the </value><value>Async.Parallel</value><value>, </value><value>Async.Start</value><value> and other operations that run asynchronous blocks in parallel.
+</value><value>Parallel programming is also supported through the </value><value>Array.Parallel</value><value> functional programming operators in the F# standard library, direct use of the </value><value>System.Threading.Tasks</value><value> task programming model, the direct use of .NET thread pool and .NET threads and through dynamic translation of F# code to alternative parallel execution engines such as </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value> code.
+</value><value>
+</value><value>Units of measure</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The F# type system supports </value><value>units of measure</value><value> checking for numbers.</value><value>[</value><value>55</value><value>]</value><value> 
+</value><value>In F#, you can assign units of measure, such as meters or kilograms, to floating point, unsigned integer</value><value>[</value><value>56</value><value>]</value><value> and signed integer values. This allows the compiler to check that arithmetic involving these values is dimensionally consistent, helping to prevent common programming mistakes by ensuring that, for instance, lengths aren't mistakenly added to times.
+</value><value>The units of measure feature integrates with F# type inference to require minimal type annotations in user code.</value><value>[</value><value>57</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>[&lt;</value><value>Measure</value><value>&gt;]</value><value> </value><value>type</value><value> </value><value>m</value><value>                  </value><value>// meter</value><value>
+</value><value>[&lt;</value><value>Measure</value><value>&gt;]</value><value> </value><value>type</value><value> </value><value>s</value><value>                  </value><value>// second</value><value>
+
+</value><value>let</value><value> </value><value>distance</value><value> </value><value>=</value><value> </value><value>100</value><value>.</value><value>0</value><value>&lt;</value><value>m</value><value>&gt;</value><value>     </value><value>// float&lt;m&gt;</value><value>
+</value><value>let</value><value> </value><value>time</value><value> </value><value>=</value><value> </value><value>5</value><value>.</value><value>0</value><value>&lt;</value><value>s</value><value>&gt;</value><value>           </value><value>// float&lt;s&gt;</value><value>
+</value><value>let</value><value> </value><value>speed</value><value> </value><value>=</value><value> </value><value>distance</value><value>/</value><value>time</value><value>   </value><value>// float&lt;m/s&gt;</value><value>
+
+
+</value><value>[&lt;</value><value>Measure</value><value>&gt;]</value><value> </value><value>type</value><value> </value><value>kg</value><value>                 </value><value>// kilogram</value><value>
+</value><value>[&lt;</value><value>Measure</value><value>&gt;]</value><value> </value><value>type</value><value> </value><value>N</value><value> </value><value>=</value><value> </value><value>(</value><value>kg</value><value> </value><value>*</value><value> </value><value>m</value><value>)/(</value><value>s</value><value>^</value><value>2</value><value>)</value><value> </value><value>// Newtons</value><value>
+</value><value>[&lt;</value><value>Measure</value><value>&gt;]</value><value> </value><value>type</value><value> </value><value>Pa</value><value> </value><value>=</value><value> </value><value>N</value><value>/(</value><value>m</value><value>^</value><value>2</value><value>)</value><value>       </value><value>// Pascals </value><value>
+
+</value><value>[&lt;</value><value>Measure</value><value>&gt;]</value><value> </value><value>type</value><value> </value><value>days</value><value> </value><value>
+</value><value>let</value><value> </value><value>better_age</value><value> </value><value>=</value><value> </value><value>3u</value><value>&lt;</value><value>days</value><value>&gt;</value><value>          </value><value>// uint&lt;days&gt;</value><value>
+</value><value>
+</value><value>The F# static type checker provides this functionality at compile time, but units are erased from the compiled code. Consequently, it is not possible to determine a value's unit at runtime.
+</value><value>
+</value><value>Metaprogramming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# allows some forms of syntax customizing via </value><value>metaprogramming</value><value> to support embedding custom </value><value>domain-specific languages</value><value> within the F# language, particularly through computation expressions.</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>F# includes a feature for run-time meta-programming called quotations.</value><value>[</value><value>58</value><value>]</value><value> A quotation expression evaluates to an abstract syntax tree representation of the F# expressions. Similarly, definitions labelled with the </value><value>[&lt;ReflectedDefinition&gt;]</value><value> attribute can also be accessed in their quotation form. F# quotations are used for various purposes including to compile F# code into </value><value>JavaScript</value><value>[</value><value>8</value><value>]</value><value> and </value><value>GPU</value><value>[</value><value>9</value><value>]</value><value> code. Quotations represent their F# code expressions as data for use by other parts of the program while requiring it to be syntactically correct F# code.
+</value><value>
+</value><value>Information-rich programming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# 3.0 introduced a form of compile-time meta-programming through statically extensible type generation called F# type providers.</value><value>[</value><value>59</value><value>]</value><value> F# type providers allow the F# compiler and tools to be extended with components that provide type information to the compiler on-demand at compile time. F# type providers have been used to give strongly typed access to connected information sources in a scalable way, including to the </value><value>Freebase</value><value> knowledge graph.</value><value>[</value><value>60</value><value>]</value><value>
+</value><value>In F# 3.0 the F# quotation and computation expression features are combined to implement </value><value>LINQ</value><value> queries.</value><value>[</value><value>61</value><value>]</value><value> For example:
+</value><value>
+</value><value>// Use the OData type provider to create types that can be used to access the Northwind database.</value><value>
+</value><value>open</value><value> </value><value>Microsoft.FSharp.Data.TypeProviders</value><value>
+
+</value><value>type</value><value> </value><value>Northwind</value><value> </value><value>=</value><value> </value><value>ODataService</value><value>&lt;</value><value>"http://services.odata.org/Northwind/Northwind.svc"</value><value>&gt;</value><value>
+</value><value>let</value><value> </value><value>db</value><value> </value><value>=</value><value> </value><value>Northwind</value><value>.</value><value>GetDataContext</value><value>()</value><value>
+
+</value><value>// A query expression.</value><value>
+</value><value>let</value><value> </value><value>query1</value><value> </value><value>=</value><value> </value><value>query</value><value> </value><value>{</value><value> </value><value>for</value><value> </value><value>customer</value><value> </value><value>in</value><value> </value><value>db</value><value>.</value><value>Customers</value><value> </value><value>do</value><value>
+</value><value>                     </value><value>select</value><value> </value><value>customer</value><value> </value><value>}</value><value>
+</value><value>
+</value><value>The combination of type providers, queries and strongly typed functional programming is known as </value><value>information rich programming</value><value>.</value><value>[</value><value>62</value><value>]</value><value>
+</value><value>
+</value><value>Agent programming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# supports a variation of the </value><value>actor</value><value> programming model through the in-memory implementation of lightweight asynchronous agents. For example, the following code defines an agent and posts 2 messages:
+</value><value>
+</value><value>    </value><value>type</value><value> </value><value>Message</value><value> </value><value>=</value><value>
+</value><value>        </value><value>|</value><value> </value><value>Enqueue</value><value> </value><value>of</value><value> </value><value>string</value><value>
+</value><value>        </value><value>|</value><value> </value><value>Dequeue</value><value> </value><value>of</value><value> </value><value>AsyncReplyChannel</value><value>&lt;</value><value>Option</value><value>&lt;</value><value>string</value><value>&gt;&gt;</value><value>
+
+</value><value>    </value><value>// Provides concurrent access to a list of strings</value><value>
+</value><value>    </value><value>let</value><value> </value><value>listManager</value><value> </value><value>=</value><value> </value><value>MailboxProcessor</value><value>.</value><value>Start</value><value>(</value><value>fun</value><value> </value><value>inbox</value><value> </value><value>-&gt;</value><value>
+</value><value>        </value><value>let</value><value> </value><value>rec</value><value> </value><value>messageLoop</value><value> </value><value>list</value><value> </value><value>=</value><value> </value><value>async</value><value> </value><value>{</value><value>
+</value><value>            </value><value>let!</value><value> </value><value>msg</value><value> </value><value>=</value><value> </value><value>inbox</value><value>.</value><value>Receive</value><value>()</value><value>
+</value><value>            </value><value>match</value><value> </value><value>msg</value><value> </value><value>with</value><value>
+</value><value>                </value><value>|</value><value> </value><value>Enqueue</value><value> </value><value>item</value><value> </value><value>-&gt;</value><value>
+</value><value>                    </value><value>return</value><value>!</value><value> </value><value>messageLoop</value><value> </value><value>(</value><value>item</value><value> </value><value>::</value><value> </value><value>list</value><value>)</value><value>
+
+</value><value>                </value><value>|</value><value> </value><value>Dequeue</value><value> </value><value>replyChannel</value><value> </value><value>-&gt;</value><value>
+</value><value>                    </value><value>match</value><value> </value><value>list</value><value> </value><value>with</value><value>
+</value><value>                    </value><value>|</value><value> </value><value>[]</value><value> </value><value>-&gt;</value><value> </value><value>
+</value><value>                        </value><value>replyChannel</value><value>.</value><value>Reply</value><value> </value><value>None</value><value>
+</value><value>                        </value><value>return</value><value>!</value><value> </value><value>messageLoop</value><value> </value><value>list</value><value>
+</value><value>                    </value><value>|</value><value> </value><value>head</value><value> </value><value>::</value><value> </value><value>tail</value><value> </value><value>-&gt;</value><value>
+</value><value>                        </value><value>replyChannel</value><value>.</value><value>Reply</value><value> </value><value>(</value><value>Some</value><value> </value><value>head</value><value>)</value><value>
+</value><value>                        </value><value>return</value><value>!</value><value> </value><value>messageLoop</value><value> </value><value>tail</value><value>
+</value><value>        </value><value>}</value><value>
+
+</value><value>        </value><value>// Start the loop with an empty list</value><value>
+</value><value>        </value><value>messageLoop</value><value> </value><value>[]</value><value>
+</value><value>    </value><value>)</value><value>
+
+</value><value>    </value><value>// Usage </value><value>
+</value><value>    </value><value>async</value><value> </value><value>{</value><value>
+</value><value>        </value><value>// Enqueue some strings</value><value>
+</value><value>        </value><value>listManager</value><value>.</value><value>Post</value><value>(</value><value>Enqueue</value><value> </value><value>"Hello"</value><value>)</value><value>
+</value><value>        </value><value>listManager</value><value>.</value><value>Post</value><value>(</value><value>Enqueue</value><value> </value><value>"World"</value><value>)</value><value>
+
+</value><value>        </value><value>// Dequeue and process the strings</value><value>
+</value><value>        </value><value>let!</value><value> </value><value>str</value><value> </value><value>=</value><value> </value><value>listManager</value><value>.</value><value>PostAndAsyncReply</value><value>(</value><value>Dequeue</value><value>)</value><value>
+</value><value>        </value><value>str</value><value> </value><value>|&gt;</value><value> </value><value>Option</value><value>.</value><value>iter</value><value> </value><value>(</value><value>printfn</value><value> </value><value>"Dequeued: %s"</value><value>)</value><value>
+
+</value><value>    </value><value>}</value><value>
+</value><value>    </value><value>|&gt;</value><value> </value><value>Async</value><value>.</value><value>Start</value><value>
+</value><value>
+</value><value>Development tools</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Visual Studio</value><value>, with the Visual F# tools from </value><value>Microsoft</value><value> installed, can be used to create, run and debug F# projects. The Visual F# tools include a Visual Studio-hosted </value><value>read–eval–print loop</value><value> (REPL) interactive console that can execute F# code as it is written. Visual Studio for Mac also fully supports F# projects.</value><value>
+</value><value>Visual Studio Code</value><value> contains full support for F# via the </value><value>Ionide extension</value><value>.</value><value>
+</value><value>F# can be developed with any text editor. Specific support exists in editors such as </value><value>Emacs</value><value>.</value><value>
+</value><value>JetBrains</value><value> Rider is optimized for the development of F# Code starting with release 2019.1.</value><value>[</value><value>63</value><value>]</value><value>
+</value><value>LINQPad</value><value> has supported F# since version 2.x.</value><value>[</value><value>whose?</value><value>]</value><value>
+</value><value>Comparison of integrated development environments</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .excerpt-hat .mw-editsection-like{font-style:normal}</value><value>This section is an excerpt from </value><value>Comparison of integrated development environments § F#</value><value>.</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>IDE</value><value>
+</value><value>
+</value><value>License</value><value>
+</value><value>
+</value><value>Windows</value><value>
+</value><value>
+</value><value>Linux</value><value>
+</value><value>
+</value><value>macOS</value><value>
+</value><value>
+</value><value>Developer</value><value>
+</value><value>
+</value><value>
+</value><value>Microsoft Visual Studio</value><value>
+</value><value>
+</value><value>Proprietary</value><value> (standard)</value><value>Freeware</value><value> (community edition)
+</value><value>
+</value><value>Yes
+</value><value>
+</value><value>No
+</value><value>
+</value><value>Yes
+</value><value>
+</value><value>Microsoft</value><value>
+</value><value>
+</value><value>
+</value><value>Visual Studio Code</value><value>[</value><value>64</value><value>]</value><value>
+</value><value>
+</value><value>Proprietary</value><value> (</value><value>binary code</value><value>)</value><value>MIT License</value><value> (</value><value>source code</value><value>)
+</value><value>
+</value><value>Yes
+</value><value>
+</value><value>Yes
+</value><value>
+</value><value>Yes
+</value><value>
+</value><value>Microsoft</value><value>
+</value><value>
+</value><value>
+</value><value>Rider</value><value>[</value><value>65</value><value>]</value><value>
+</value><value>
+</value><value>Proprietary</value><value>
+</value><value>
+</value><value>Yes
+</value><value>
+</value><value>Yes
+</value><value>
+</value><value>Yes
+</value><value>
+</value><value>JetBrains</value><value>
+</value><value>
+</value><value>Application areas</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# is a </value><value>general-purpose programming language</value><value>.
+</value><value>
+</value><value>Web programming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The </value><value>SAFE Stack</value><value> is an end-to-end F# stack to develop web applications. It uses </value><value>ASP.NET Core</value><value> on the server side and </value><value>Fable</value><value> on the client side.</value><value>[</value><value>66</value><value>]</value><value>
+</value><value>An alternative end-to-end F# option is the </value><value>WebSharper</value><value> framework.</value><value>[</value><value>67</value><value>]</value><value>
+</value><value>
+</value><value>Cross-platform app development</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# can be used together with the </value><value>Visual Studio Tools for Xamarin</value><value> to develop apps for </value><value>iOS</value><value> and </value><value>Android</value><value>. The </value><value>Fabulous</value><value> library provides a more comfortable functional interface.
+</value><value>
+</value><value>Analytical programming</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Among others, F# is used for quantitative finance programming,</value><value>[</value><value>68</value><value>]</value><value> energy trading and portfolio optimization,</value><value>[</value><value>69</value><value>]</value><value> machine learning,</value><value>[</value><value>70</value><value>]</value><value> business intelligence</value><value>[</value><value>71</value><value>]</value><value> and social gaming on </value><value>Facebook</value><value>.</value><value>[</value><value>72</value><value>]</value><value>
+</value><value>In the 2010s, F# has been positioned as an optimized alternative to </value><value>C#</value><value>. F#'s scripting ability and inter-language compatibility with all Microsoft products have made it popular among developers.</value><value>[</value><value>73</value><value>]</value><value>
+</value><value>
+</value><value>Scripting</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# can be used as a scripting language, mainly for desktop </value><value>read–eval–print loop</value><value> (REPL) scripting.</value><value>[</value><value>74</value><value>]</value><value>
+</value><value>
+</value><value>Open-source community</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The F# </value><value>open-source</value><value> community includes the F# Software Foundation</value><value>[</value><value>10</value><value>]</value><value> and the F# Open Source Group at </value><value>GitHub</value><value>.</value><value>[</value><value>11</value><value>]</value><value> Popular open-source F# projects include:
+</value><value>
+</value><value>Fable</value><value>, an F# to Javascript transpiler based on </value><value>Babel</value><value>.</value><value>
+</value><value>Paket</value><value>, an alternative package manager for .NET that can still use </value><value>NuGet</value><value> repositories, but has centralised version-management.</value><value>
+</value><value>FAKE</value><value>, an F# friendly build-system.</value><value>
+</value><value>Giraffe</value><value>, a functionally oriented middleware for </value><value>ASP.NET Core</value><value>.</value><value>
+</value><value>Suave</value><value>, a lightweight web-server and web-development library.</value><value>
+</value><value>Compatibility</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>F# features a legacy "ML compatibility mode" that can directly compile programs written in a large subset of OCaml roughly, with no functors, objects, polymorphic variants, or other additions.
+</value><value>
+</value><value>Examples</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>A few small samples follow:
+</value><value>
+</value><value>// This is a comment for a sample hello world program.</value><value>
+</value><value>printfn</value><value> </value><value>"Hello World!"</value><value>
+</value><value>
+</value><value>A record type definition. Records are immutable by default and are compared by structural equality.
+</value><value>
+</value><value>type</value><value> </value><value>Person</value><value> </value><value>=</value><value> </value><value>{</value><value>
+</value><value>    </value><value>FirstName</value><value>:</value><value> </value><value>string</value><value>
+</value><value>    </value><value>LastName</value><value>:</value><value> </value><value>string</value><value>
+</value><value>    </value><value>Age</value><value>:</value><value> </value><value>int</value><value>
+</value><value>}</value><value>
+
+</value><value>// Creating an instance of the record</value><value>
+</value><value>let</value><value> </value><value>person</value><value> </value><value>=</value><value> </value><value>{</value><value> </value><value>FirstName</value><value> </value><value>=</value><value> </value><value>"John"</value><value>;</value><value> </value><value>LastName</value><value> </value><value>=</value><value> </value><value>"Doe"</value><value>;</value><value> </value><value>Age</value><value> </value><value>=</value><value> </value><value>30</value><value> </value><value>}</value><value>
+</value><value>
+</value><value>
+A Person class with a constructor taking a name and age and two immutable properties.
+</value><value>
+</value><value>/// This is a documentation comment for a type definition.</value><value>
+</value><value>type</value><value> </value><value>Person</value><value>(</value><value>name</value><value> </value><value>:</value><value> </value><value>string</value><value>,</value><value> </value><value>age</value><value> </value><value>:</value><value> </value><value>int</value><value>)</value><value> </value><value>=</value><value>
+</value><value>    </value><value>member</value><value> </value><value>x</value><value>.</value><value>Name</value><value> </value><value>=</value><value> </value><value>name</value><value>
+</value><value>    </value><value>member</value><value> </value><value>x</value><value>.</value><value>Age</value><value> </value><value>=</value><value> </value><value>age</value><value>
+</value><value>    </value><value>
+</value><value>/// class instantiation</value><value>
+</value><value>let</value><value> </value><value>mrSmith</value><value> </value><value>=</value><value> </value><value>Person</value><value>(</value><value>"Smith"</value><value>,</value><value> </value><value>42</value><value>)</value><value>
+</value><value>
+</value><value>A simple example that is often used to demonstrate the syntax of functional languages is the </value><value>factorial function</value><value> for non-negative 32-bit integers, here shown in F#:
+</value><value>
+</value><value>/// Using pattern matching expression</value><value>
+</value><value>let</value><value> </value><value>rec</value><value> </value><value>factorial</value><value> </value><value>n</value><value> </value><value>=</value><value>
+</value><value>    </value><value>match</value><value> </value><value>n</value><value> </value><value>with</value><value>
+</value><value>    </value><value>|</value><value> </value><value>0</value><value> </value><value>-&gt;</value><value> </value><value>1</value><value>
+</value><value>    </value><value>|</value><value> </value><value>_</value><value> </value><value>-&gt;</value><value> </value><value>n</value><value> </value><value>*</value><value> </value><value>factorial</value><value> </value><value>(</value><value>n</value><value> </value><value>-</value><value> </value><value>1</value><value>)</value><value>
+
+</value><value>/// For a single-argument functions there is syntactic sugar (pattern matching function):</value><value>
+</value><value>let</value><value> </value><value>rec</value><value> </value><value>factorial</value><value> </value><value>=</value><value> </value><value>function</value><value> </value><value>
+</value><value>    </value><value>|</value><value> </value><value>0</value><value> </value><value>-&gt;</value><value> </value><value>1</value><value> </value><value>
+</value><value>    </value><value>|</value><value> </value><value>n</value><value> </value><value>-&gt;</value><value> </value><value>n</value><value> </value><value>*</value><value> </value><value>factorial</value><value> </value><value>(</value><value>n</value><value> </value><value>-</value><value> </value><value>1</value><value>)</value><value>
+</value><value>    </value><value>
+</value><value>/// Using fold and range operator</value><value>
+</value><value>let</value><value> </value><value>factorial</value><value> </value><value>n</value><value> </value><value>=</value><value> </value><value>[</value><value>1</value><value>..</value><value>n</value><value>]</value><value> </value><value>|&gt;</value><value> </value><value>Seq</value><value>.</value><value>fold</value><value> </value><value>(*)</value><value> </value><value>1</value><value>
+</value><value>
+</value><value>Iteration examples:
+</value><value>
+</value><value>/// Iteration using a 'for' loop</value><value>
+</value><value>let</value><value> </value><value>printList</value><value> </value><value>lst</value><value> </value><value>=</value><value> </value><value>
+</value><value>    </value><value>for</value><value> </value><value>x</value><value> </value><value>in</value><value> </value><value>lst</value><value> </value><value>do</value><value>
+</value><value>        </value><value>printfn</value><value> </value><value>$</value><value>"{x}"</value><value> </value><value>
+
+</value><value>/// Iteration using a higher-order function</value><value>
+</value><value>let</value><value> </value><value>printList2</value><value> </value><value>lst</value><value> </value><value>=</value><value> </value><value>
+</value><value>    </value><value>List</value><value>.</value><value>iter</value><value> </value><value>(</value><value>printfn</value><value> </value><value>"%d"</value><value>)</value><value> </value><value>lst</value><value>
+
+</value><value>/// Iteration using a recursive function and pattern matching</value><value>
+</value><value>let</value><value> </value><value>rec</value><value> </value><value>printList3</value><value> </value><value>lst</value><value> </value><value>=</value><value>
+</value><value>    </value><value>match</value><value> </value><value>lst</value><value> </value><value>with</value><value>
+</value><value>    </value><value>|</value><value> </value><value>[]</value><value> </value><value>-&gt;</value><value> </value><value>()</value><value>
+</value><value>    </value><value>|</value><value> </value><value>h</value><value> </value><value>::</value><value> </value><value>t</value><value> </value><value>-&gt;</value><value>
+</value><value>        </value><value>printfn</value><value> </value><value>"%d"</value><value> </value><value>h</value><value>
+</value><value>        </value><value>printList3</value><value> </value><value>t</value><value>
+</value><value>
+</value><value>Fibonacci examples:
+</value><value>
+</value><value>/// Fibonacci Number formula</value><value>
+</value><value>[&lt;</value><value>TailCall</value><value>&gt;]</value><value>
+</value><value>let</value><value> </value><value>fib</value><value> </value><value>n</value><value> </value><value>=</value><value>
+</value><value>    </value><value>let</value><value> </value><value>rec</value><value> </value><value>g</value><value> </value><value>n</value><value> </value><value>f0</value><value> </value><value>f1</value><value> </value><value>=</value><value>
+</value><value>        </value><value>match</value><value> </value><value>n</value><value> </value><value>with</value><value>
+</value><value>        </value><value>|</value><value> </value><value>0</value><value> </value><value>-&gt;</value><value> </value><value>f0</value><value>
+</value><value>        </value><value>|</value><value> </value><value>1</value><value> </value><value>-&gt;</value><value> </value><value>f1</value><value>
+</value><value>        </value><value>|</value><value> </value><value>_</value><value> </value><value>-&gt;</value><value> </value><value>g</value><value> </value><value>(</value><value>n</value><value> </value><value>-</value><value> </value><value>1</value><value>)</value><value> </value><value>f1</value><value> </value><value>(</value><value>f0</value><value> </value><value>+</value><value> </value><value>f1</value><value>)</value><value>
+</value><value>    </value><value>g</value><value> </value><value>n</value><value> </value><value>0</value><value> </value><value>1</value><value>
+
+</value><value>/// Another approach - a lazy infinite sequence of Fibonacci numbers</value><value>
+</value><value>let</value><value> </value><value>fibSeq</value><value> </value><value>=</value><value> </value><value>Seq</value><value>.</value><value>unfold</value><value> </value><value>(</value><value>fun</value><value> </value><value>(</value><value>a</value><value>,</value><value>b</value><value>)</value><value> </value><value>-&gt;</value><value> </value><value>Some</value><value>(</value><value>a</value><value>+</value><value>b</value><value>,</value><value> </value><value>(</value><value>b</value><value>,</value><value> </value><value>a</value><value>+</value><value>b</value><value>)))</value><value> </value><value>(</value><value>0</value><value>,</value><value>1</value><value>)</value><value>
+
+</value><value>// Print even fibs</value><value>
+</value><value>[</value><value>1</value><value> </value><value>..</value><value> </value><value>10</value><value>]</value><value>
+</value><value>|&gt;</value><value> </value><value>List</value><value>.</value><value>map</value><value>     </value><value>fib</value><value>
+</value><value>|&gt;</value><value> </value><value>List</value><value>.</value><value>filter</value><value>  </value><value>(</value><value>fun</value><value> </value><value>n</value><value> </value><value>-&gt;</value><value> </value><value>(</value><value>n</value><value> </value><value>%</value><value> </value><value>2</value><value>)</value><value> </value><value>=</value><value> </value><value>0</value><value>)</value><value>
+</value><value>|&gt;</value><value> </value><value>printList</value><value>
+
+</value><value>// Same thing, using a list expression</value><value>
+</value><value>[</value><value> </value><value>for</value><value> </value><value>i</value><value> </value><value>in</value><value> </value><value>1</value><value>..</value><value>10</value><value> </value><value>do</value><value>
+</value><value>    </value><value>let</value><value> </value><value>r</value><value> </value><value>=</value><value> </value><value>fib</value><value> </value><value>i</value><value>
+</value><value>    </value><value>if</value><value> </value><value>r</value><value> </value><value>%</value><value> </value><value>2</value><value> </value><value>=</value><value> </value><value>0</value><value> </value><value>then</value><value> </value><value>yield</value><value> </value><value>r</value><value> </value><value>]</value><value>
+</value><value>|&gt;</value><value> </value><value>printList</value><value>
+</value><value>
+</value><value>A sample Windows Forms program:
+</value><value>
+</value><value>// Open the Windows Forms library</value><value>
+</value><value>open</value><value> </value><value>System.Windows.Forms</value><value>
+
+</value><value>// Create a window and set a few properties</value><value>
+</value><value>let</value><value> </value><value>form</value><value> </value><value>=</value><value> </value><value>new</value><value> </value><value>Form</value><value>(</value><value>Visible</value><value>=</value><value>true</value><value>,</value><value> </value><value>TopMost</value><value>=</value><value>true</value><value>,</value><value> </value><value>Text</value><value>=</value><value>"Welcome to F#"</value><value>)</value><value>
+
+</value><value>// Create a label to show some text in the form</value><value>
+</value><value>let</value><value> </value><value>label</value><value> </value><value>=</value><value>
+</value><value>    </value><value>let</value><value> </value><value>x</value><value> </value><value>=</value><value> </value><value>3</value><value> </value><value>+</value><value> </value><value>(</value><value>4</value><value> </value><value>*</value><value> </value><value>5</value><value>)</value><value>
+</value><value>    </value><value>new</value><value> </value><value>Label</value><value>(</value><value>Text</value><value> </value><value>=</value><value> </value><value>$</value><value>"{x}"</value><value>)</value><value>
+
+</value><value>// Add the label to the form</value><value>
+</value><value>form</value><value>.</value><value>Controls</value><value>.</value><value>Add</value><value>(</value><value>label</value><value>)</value><value>
+
+</value><value>// Finally, run the form</value><value>
+</value><value>[&lt;</value><value>System</value><value>.</value><value>STAThread</value><value>&gt;]</value><value>
+</value><value>Application</value><value>.</value><value>Run</value><value>(</value><value>form</value><value>)</value><value>
+</value><value>
+</value><value>Asynchronous parallel programming sample (parallel CPU and I/O tasks):
+</value><value>
+</value><value>/// A simple prime number detector</value><value>
+</value><value>let</value><value> </value><value>isPrime</value><value> </value><value>(</value><value>n</value><value>:</value><value>int</value><value>)</value><value> </value><value>=</value><value>
+</value><value>   </value><value>let</value><value> </value><value>bound</value><value> </value><value>=</value><value> </value><value>int</value><value> </value><value>(</value><value>sqrt</value><value> </value><value>(</value><value>float</value><value> </value><value>n</value><value>))</value><value>
+</value><value>   </value><value>seq</value><value> </value><value>{</value><value>2</value><value> </value><value>..</value><value> </value><value>bound</value><value>}</value><value> </value><value>|&gt;</value><value> </value><value>Seq</value><value>.</value><value>forall</value><value> </value><value>(</value><value>fun</value><value> </value><value>x</value><value> </value><value>-&gt;</value><value> </value><value>n</value><value> </value><value>%</value><value> </value><value>x</value><value> </value><value>&lt;&gt;</value><value> </value><value>0</value><value>)</value><value>
+
+</value><value>// We are using async workflows</value><value>
+</value><value>let</value><value> </value><value>primeAsync</value><value> </value><value>n</value><value> </value><value>=</value><value>
+</value><value>    </value><value>async</value><value> </value><value>{</value><value> </value><value>return</value><value> </value><value>(</value><value>n</value><value>,</value><value> </value><value>isPrime</value><value> </value><value>n</value><value>)</value><value> </value><value>}</value><value>
+
+</value><value>/// Return primes between m and n using multiple threads</value><value>
+</value><value>let</value><value> </value><value>primes</value><value> </value><value>m</value><value> </value><value>n</value><value> </value><value>=</value><value>
+</value><value>    </value><value>seq</value><value> </value><value>{</value><value>m</value><value> </value><value>..</value><value> </value><value>n</value><value>}</value><value>
+</value><value>        </value><value>|&gt;</value><value> </value><value>Seq</value><value>.</value><value>map</value><value> </value><value>primeAsync</value><value>
+</value><value>        </value><value>|&gt;</value><value> </value><value>Async</value><value>.</value><value>Parallel</value><value>
+</value><value>        </value><value>|&gt;</value><value> </value><value>Async</value><value>.</value><value>RunSynchronously</value><value>
+</value><value>        </value><value>|&gt;</value><value> </value><value>Array</value><value>.</value><value>filter</value><value> </value><value>snd</value><value>
+</value><value>        </value><value>|&gt;</value><value> </value><value>Array</value><value>.</value><value>map</value><value> </value><value>fst</value><value>
+
+</value><value>// Run a test</value><value>
+</value><value>primes</value><value> </value><value>1000000</value><value> </value><value>1002000</value><value>
+</value><value>    </value><value>|&gt;</value><value> </value><value>Array</value><value>.</value><value>iter</value><value> </value><value>(</value><value>printfn</value><value> </value><value>"%d"</value><value>)</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:1px solid var(--border-color-base,#a2a9b1);padding:0.1em;background:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{clear:left;float:left;margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}</value><value>
+</value><value>Free and open-source software portal</value><value>
+</value><value>OCaml</value><value>
+</value><value>C#</value><value>
+</value><value>.NET Framework</value><value>
+</value><value>Notes</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value> </value><value>https://github.com/dotnet/fsharp/releases/tag/v12.9.100-beta.24522.2</value><value>.</value><value> </value><value>{{</value><value>cite web</value><value>}}</value><value>: </value><value>Missing or empty </value><value>|title=</value><value> (</value><value>help</value><value>)</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"F# Software Foundation's License"</value><value>. </value><value>GitHub</value><value>. 14 October 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Microsoft's F# License"</value><value>. </value><value>GitHub</value><value>. 16 October 2021.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Syme, Granicz &amp; Cisternino (2007</value><value>:2)</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>e</value><value> </value><value>"F# Historical Acknowledgements"</value><value>. </value><value>Microsoft</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Syme, Don</value><value> (2006). </value><value>"Leveraging .NET Meta-programming Components from F#"</value><value>. </value><value>[F#] is rooted in the Core ML design, and in particular has a core language largely compatible with that of OCaml</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>for async</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>e</value><value> </value><value>f</value><value> </value><value>g</value><value> </value><value>h</value><value> </value><value>i</value><value> </value><value>j</value><value> </value><value>k</value><value> </value><value>l</value><value> </value><value>The F# Software Foundation. </value><value>"Using F# for Web Applications"</value><value>. Retrieved </value><value>2020-07-30</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>e</value><value> </value><value>f</value><value> </value><value>g</value><value> </value><value>h</value><value> </value><value>i</value><value> </value><value>j</value><value> </value><value>k</value><value> </value><value>l</value><value> </value><value>m</value><value> </value><value>The F# Software Foundation. </value><value>"Using F# for GPU Programming"</value><value>. Archived from </value><value>the original</value><value> on 2019-12-25</value><value>. Retrieved </value><value>2019-12-25</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>The F# Software Foundation. </value><value>"The F# Software Foundation"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>The F# Software Foundation. </value><value>"F# Compiler (open source edition) @ github"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Develop with Visual F# in Visual Studio"</value><value>. Retrieved </value><value>2020-07-30</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"F#"</value><value>. Retrieved </value><value>2020-07-30</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Syme, Don. </value><value>"F# 1.0.8 released"</value><value>. Microsoft</value><value>. Retrieved </value><value>September 7,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Syme, Don. </value><value>"F# 2.0 released as part of Visual Studio 2010"</value><value>. Microsoft</value><value>. Retrieved </value><value>September 7,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Zander, Jason. </value><value>"Visual Studio 2012 and .NET Framework 4.5 released to the web"</value><value>. Microsoft</value><value>. Retrieved </value><value>September 7,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Visual Studio 2013 released to web"</value><value>. Microsoft. 17 October 2013</value><value>. Retrieved </value><value>September 7,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing the RTM of Visual F# 4.0"</value><value>. Microsoft</value><value>. Retrieved </value><value>September 15,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 4.1 and the Visual F# Tools for Visual Studio 2017"</value><value>. Retrieved </value><value>2017-03-08</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 4.5"</value><value>. Microsoft. 14 August 2018</value><value>. Retrieved </value><value>August 14,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"FSharp.Core 4.5.0"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Download .NET Core 2.1 (Linux, macOS, and Windows)"</value><value>. Microsoft</value><value>. Retrieved </value><value>May 13,</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 4.6"</value><value>. Microsoft. 29 March 2019</value><value>. Retrieved </value><value>March 29,</value><value> 2019</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"FSharp.Core 4.6.0"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Download .NET Core 2.2 (Linux, macOS, and Windows)"</value><value>. Microsoft</value><value>. Retrieved </value><value>May 13,</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 4.7"</value><value>. Microsoft. 23 September 2019</value><value>. Retrieved </value><value>September 23,</value><value> 2019</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"FSharp.Core 4.7.0"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Download .NET Core 3.0 (Linux, macOS, and Windows)"</value><value>. Microsoft</value><value>. Retrieved </value><value>May 13,</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Announcing F# 5"</value><value>. November 10, 2020.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Download .NET 5.0 (Linux, macOS, and Windows)"</value><value>. Microsoft</value><value>. Retrieved </value><value>May 13,</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"F# 6 is officially here!"</value><value>. November 9, 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Download .NET 6.0 (Linux, macOS, and Windows)"</value><value>. Microsoft</value><value>. Retrieved </value><value>November 14,</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 7"</value><value>. November 8, 2022.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Download .NET 7.0 (Linux, macOS, and Windows)"</value><value>. Microsoft</value><value>. Retrieved </value><value>November 8,</value><value> 2022</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 8"</value><value>. November 14, 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Download .NET 8.0 (Linux, macOS, and Windows)"</value><value>. Microsoft</value><value>. Retrieved </value><value>November 14,</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Edwards, Kathryn (23 December 2008). </value><value>"The A-Z of programming languages: F#"</value><value>. </value><value>Network World</value><value>. IDG. Archived from </value><value>the original</value><value> on 13 November 2018</value><value>. Retrieved </value><value>8 August</value><value> 2016</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>McNamara, Brian. </value><value>"More About F# 3.0 Language Features"</value><value>. Microsoft</value><value>. Retrieved </value><value>September 7,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>McNamara, Brian. </value><value>"Announcing a pre-release of F# 3.1"</value><value>. Microsoft</value><value>. Retrieved </value><value>September 7,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing the RTM of Visual F# 4.0"</value><value>. Retrieved </value><value>2017-03-08</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 4.1 and the Visual F# Tools for Visual Studio 2017"</value><value>. Retrieved </value><value>2017-03-08</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 4.7"</value><value>. 23 September 2019.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 5"</value><value>. 10 November 2020.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"What's new in F# 6 - F# Guide"</value><value>. 10 March 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 7"</value><value>. 8 November 2022.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing F# 8"</value><value>. 14 November 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Simplifying F# computations with the new 'while!' keyword'</value><value>"</value><value>. 20 September 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"F Sharp Programming/Computation Expressions - Wikibooks, open books for an open world"</value><value>. </value><value>en.wikibooks.org</value><value>. Retrieved </value><value>2022-01-21</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>kexugit (8 July 2011). </value><value>"Tail calls in F#"</value><value>. </value><value>docs.microsoft.com</value><value>. Retrieved </value><value>2022-04-22</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>e</value><value> </value><value>f</value><value> </value><value>g</value><value> </value><value>h</value><value> </value><value>"F# Language Overview"</value><value> </value><value>(PDF)</value><value>. Retrieved </value><value>2007-12-14</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Some Details on F# Computation Expressions"</value><value>. Retrieved </value><value>2007-12-14</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Pattern Matching in F# Part 2 : Active Patterns"</value><value>. Archived from </value><value>the original</value><value> on 2012-12-09</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>"Introducing F# Asynchronous Workflows"</value><value>. Retrieved </value><value>2007-12-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Task Expressions"</value><value>. 19 April 2022</value><value>. Retrieved </value><value>2023-01-15</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Units of Measure (F#)"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Extend Units of Measure to Include More Numeric Types"</value><value>. </value><value>GitHub</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Units of Measure in F#: Part One, Introducing Units"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Code Quotations (F#)"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Type Providers"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"New Tech Report from Microsoft Research: Strongly-Typed Language Support for Internet-Scale Information Sources"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Query Expressions (F#)"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"F# 3.0 – LINQ + Type Providers= Information Rich Programming"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Alexander Kurakin (15 March 2019). </value><value>"Rider 2019.1 Kicks off its Early Access Program!"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Use F# on Windows"</value><value>. </value><value>F# Software Foundation</value><value>. Retrieved </value><value>2018-08-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Features – Rider"</value><value>. </value><value>JetBrains</value><value>. Retrieved </value><value>2018-08-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Fable: JavaScript you can be proud of!"</value><value>. </value><value>fable.io</value><value>. Retrieved </value><value>2017-12-09</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Intellifactory. </value><value>"WebSharper home"</value><value>. Retrieved </value><value>2012-11-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Microsoft Case Studies:Microsoft Visual Studio 2012 - Financial Services Firm"</value><value>. </value><value>Microsoft</value><value>. Retrieved </value><value>2012-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"F# for Energy Trading and Portfolio Optimization"</value><value>. Retrieved </value><value>2012-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Microsoft Case Study: Grange Insurance"</value><value>. </value><value>Microsoft</value><value>. Retrieved </value><value>2012-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Trelford, Phil (2007). </value><value>"Learning with F#"</value><value>. </value><value>Proceedings of the 4th ACM SIGPLAN workshop on Commercial users of functional programming - CUFP '07</value><value>. pp. 1–2. </value><value>doi</value><value>:</value><value>10.1145/1362702.1362709</value><value>. </value><value>ISBN</value><value> </value><value>9781450378444</value><value>. </value><value>S2CID</value><value> </value><value>24018363</value><value>. Retrieved </value><value>2012-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"F# Job in Facebook Social Gaming"</value><value>. Retrieved </value><value>2012-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"F# Developer Testimonials"</value><value>. Retrieved </value><value>May 25,</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Scripting in F#"</value><value>. 12 September 2008</value><value>. Retrieved </value><value>2020-01-17</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Syme, Don</value><value>; Granicz, Adam; Cisternino, Antonio (2007), </value><value>Expert F#</value><value>, </value><value>Apress</value><value>
+</value><value>Harrop, Jon (2010), </value><value>Visual F# 2010 for Technical Computing</value><value>, Flying Frog Consultancy</value><value>
+</value><value>Pickering, Robert (2007), </value><value>Foundations of F#</value><value>, </value><value>Apress</value><value>
+</value><value>Smith, Chris (2009), </value><value>Programming F#</value><value>, </value><value>O'Reilly</value><value>
+</value><value>Petricek, Tomas (2009), </value><value>Real World Functional Programming With Examples in F# and C#</value><value>, </value><value>Manning Publications</value><value>
+</value><value>Hansen, Michael; Rischel, Hans (2013), </value><value>Functional Programming Using F#</value><value>, </value><value>Cambridge University Press</value><value>
+</value><value>Astborg, Johan (2013), </value><value>F# for Quantitative Finance</value><value>, </value><value>Packt Publishing</value><value>
+</value><value>Lundin, Mikael (2015), </value><value>Testing with F#</value><value>, </value><value>Packt Publishing</value><value>
+</value><value>External links</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</value><value>@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}</value><value>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</value><value>
+</value><value>
+</value><value>
+</value><value>Wikibooks has a book on the topic of: </value><value>F Sharp Programming</value><value>
+</value><value>
+</value><value>Official website</value><value> The F# Software Foundation</value><value>
+</value><value>The F# Open Source Group at GitHub</value><value>
+</value><value>The Visual F# Developer Center</value><value> </value><value>Archived</value><value> 2008-11-19 at the </value><value>Wayback Machine</value><value>
+</value><value>Try F#, for learning F# in a web browser</value><value>
+</value><value>F# Snippets Site</value><value>
+</value><value>The Visual F# team blog</value><value>
+</value><value>The original Microsoft Research website for F#</value><value>
+</value><value>The F# Survival Guide, Dec 2009 (Web-based book)</value><value>
+</value><value>The F# Language Specification</value><value>
+</value><value>An introduction to F# programming</value><value> </value><value>Archived</value><value> 2011-07-13 at the </value><value>Wayback Machine</value><value>
+</value><value>A tutorial showing the </value><value>process</value><value> of reaching a functional design; includes test and parallel coding</value><value>
+</value><value>.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr&gt;.navbox-abovebelow,.mw-parser-output tr+tr&gt;.navbox-group,.mw-parser-output tr+tr&gt;.navbox-image,.mw-parser-output tr+tr&gt;.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</value><value>.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a&gt;span,.mw-parser-output .navbar a&gt;abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</value><value>v</value><value>t</value><value>e</value><value>ML</value><value> programming</value><value>Software</value><value>Implementations</value><value>,</value><value>dialects</value><value>Caml</value><value>
+</value><value>OCaml</value><value>°
+</value><value>Eff</value><value>
+</value><value>F*</value><value>°</value><value>
+</value><value>F#</value><value>°</value><value>
+</value><value>JoCaml</value><value>°</value><value>
+</value><value>Reason</value><value>°</value><value>
+</value><value>Standard ML</value><value>
+</value><value>Alice</value><value>°</value><value>
+</value><value>Concurrent ML</value><value>
+</value><value>Extended ML</value><value>
+</value><value>MLton</value><value>°</value><value>
+</value><value>Standard ML of New Jersey</value><value>° (SML/NJ)</value><value>
+</value><value>Dependent ML</value><value>
+</value><value>ATS</value><value>°</value><value>
+</value><value>
+</value><value>Futhark</value><value>°</value><value>
+</value><value>Lazy ML</value><value>
+</value><value>MacroML</value><value>
+</value><value>Ur</value><value>°</value><value>Programming tools</value><value>
+</value><value>Alt-Ergo</value><value>°</value><value>
+</value><value>Astrée</value><value>
+</value><value>Camlp4</value><value>°</value><value>
+</value><value>FFTW</value><value>°</value><value>
+</value><value>Frama-C</value><value>°</value><value>
+</value><value>Haxe</value><value>°</value><value>
+</value><value>Marionnet</value><value>°</value><value>
+</value><value>MTASC</value><value>°</value><value>
+</value><value>Poplog</value><value>°</value><value>
+</value><value>Semgrep</value><value>°</value><value>
+</value><value>SLAM project</value><value>
+</value><value>Theorem provers</value><value>,</value><value>proof assistants</value><value>
+</value><value>Coq</value><value>°</value><value>
+</value><value>HOL</value><value>°
+</value><value>HOL Light</value><value>°</value><value>
+</value><value>Isabelle</value><value>°</value><value>
+</value><value>LEGO</value><value>
+</value><value>Logic for Computable Functions</value><value>
+</value><value>Matita</value><value>°</value><value>
+</value><value>Twelf</value><value>°</value><value>
+</value><value>
+</value><value>GeneWeb</value><value>°</value><value>Community</value><value>Designers</value><value>
+</value><value>Lennart Augustsson</value><value> (Lazy ML)</value><value>
+</value><value>Damien Doligez</value><value> (OCaml)</value><value>
+</value><value>Gérard Huet</value><value> (Caml)</value><value>
+</value><value>Xavier Leroy</value><value> (Caml, OCaml)</value><value>
+</value><value>Robin Milner</value><value> (ML)</value><value>
+</value><value>Don Sannella</value><value> (Extended ML)</value><value>
+</value><value>Don Syme</value><value> (F#)</value><value>
+</value><value>
+</value><value>Thierry Coquand</value><value>
+</value><value>Steven G. Johnson</value><value>
+</value><value>Christine Paulin-Mohring</value><value>
+</value><value>Frank Pfenning</value><value>
+</value><value>Simon Thompson</value><value>
+</value><value>Italics</value><value> </value><value>= discontinued</value><value>
+</value><value>° = </value><value>Open-source software</value><value> </value><value>Book</value><value> </value><value> </value><value>Category:Family:ML</value><value> </value><value> </value><value>Category:Family:OCaml</value><value> </value><value> </value><value>Category:Software:OCaml</value><value>
+</value><value>
+</value><value>v</value><value>t</value><value>e</value><value>.NET</value><value>
+</value><value>.NET strategy</value><value>
+</value><value>Libraries and frameworks</value><value>
+</value><value>Implementations</value><value>
+</value><value>.NET</value><value> (Core)</value><value>
+</value><value>.NET Framework</value><value>
+</value><value>Version history</value><value>
+</value><value>.NET Compact Framework</value><value>
+</value><value>.NET Micro Framework</value><value>
+</value><value>DotGNU</value><value>
+</value><value>Mono</value><value>
+</value><value>XNA Framework</value><value>
+</value><value>Architecture</value><value>
+</value><value>Common Language Runtime</value><value> (CLR)</value><value>
+</value><value>COM Interop</value><value>
+</value><value>Framework Class Library</value><value> (FCL)</value><value>
+</value><value>Components</value><value>
+</value><value>ADO.NET</value><value>
+</value><value>Entity Framework</value><value>
+</value><value>ASP.NET</value><value>
+</value><value>Web Forms</value><value>
+</value><value>AJAX</value><value>
+</value><value>Core</value><value>
+</value><value>Dynamic Data</value><value>
+</value><value>MVC</value><value>
+</value><value>Razor</value><value>
+</value><value>Avalonia</value><value>
+</value><value>ClickOnce</value><value>
+</value><value>Dynamic Language Runtime</value><value>
+</value><value>Extensible Application Markup Language</value><value> (XAML)</value><value>
+</value><value>Language Integrated Query</value><value> (LINQ)</value><value>
+</value><value>Managed Extensibility Framework</value><value>
+</value><value>Microsoft Silverlight</value><value>
+</value><value>Microsoft XNA</value><value>
+</value><value>Parallel Extensions</value><value>
+</value><value>Windows Communication Foundation</value><value> (WCF)
+</value><value>WCF Data Services</value><value>
+</value><value>Windows Forms</value><value> (WinForms)</value><value>
+</value><value>Windows Identity Foundation</value><value> (WIF)</value><value>
+</value><value>Windows Presentation Foundation</value><value> (WPF)</value><value>
+</value><value>Windows Workflow Foundation</value><value> (WF)</value><value>
+</value><value>.NET Remoting</value><value>
+</value><value>Tools</value><value>Decompilers</value><value>
+</value><value>.NET Reflector</value><value>
+</value><value>dotPeek</value><value>
+</value><value>Obfuscators</value><value>
+</value><value>Dotfuscator</value><value>
+</value><value>SmartAssembly</value><value>
+</value><value>
+</value><value>CLR Profiler</value><value>
+</value><value>ILAsm</value><value>
+</value><value>.NET Compiler Platform</value><value>
+</value><value>Native Image Generator</value><value> (NGen)</value><value>
+</value><value>XAMLPad</value><value>
+</value><value>IDEs</value><value>
+</value><value>Visual Studio</value><value>
+</value><value>Blend</value><value>
+</value><value>Express</value><value>
+</value><value>MonoDevelop</value><value>
+</value><value>SharpDevelop</value><value>
+</value><value>Xamarin Studio</value><value>
+</value><value>Organizations</value><value>
+</value><value>.NET Foundation</value><value>
+</value><value>Microsoft</value><value>
+</value><value>Xamarin</value><value>
+</value><value>
+</value><value> </value><value>Category</value><value>
+</value><value> </value><value>List</value><value>
+</value><value> </value><value>Commons</value><value>
+</value><value>
+</value><value>v</value><value>t</value><value>e</value><value>Common Language Infrastructure</value><value>Architecture</value><value>
+</value><value>Application domain</value><value>
+</value><value>Code Access Security</value><value>
+</value><value>Common Intermediate Language</value><value>
+</value><value>instructions</value><value>
+</value><value>Common Type System</value><value>
+</value><value>Platform Invocation Services</value><value>
+</value><value>Virtual Execution System</value><value>
+</value><value>Components</value><value>
+</value><value>Assembly</value><value>
+</value><value>Delegate</value><value>
+</value><value>Global Assembly Cache</value><value>
+</value><value>Manifest</value><value>
+</value><value>Metadata</value><value>
+</value><value>Standard Libraries</value><value>
+</value><value>Implementations</value><value>Microsoft</value><value>
+</value><value>.NET</value><value>
+</value><value>.NET Framework</value><value>
+</value><value>.NET Compact Framework</value><value>
+</value><value>.NET Micro Framework</value><value>
+</value><value>Other</value><value>
+</value><value>Mono</value><value>
+</value><value>DotGNU</value><value>
+</value><value>Languages</value><value>Major languages</value><value>
+</value><value>C#</value><value>
+</value><value>Visual Basic</value><value>
+</value><value>F#</value><value>
+</value><value>PowerShell</value><value>
+</value><value>Other</value><value>
+</value><value>Axum</value><value>
+</value><value>A#</value><value>
+</value><value>Boo</value><value>
+</value><value>Cobra</value><value>
+</value><value>C++/CLI</value><value>
+</value><value>IronScheme</value><value>
+</value><value>IronPython</value><value>
+</value><value>IronRuby</value><value>
+</value><value>JScript .NET</value><value>
+</value><value>J#</value><value>
+</value><value>Nemerle</value><value>
+</value><value>Oxygene</value><value>
+</value><value>Phalanger</value><value>
+</value><value>Q#</value><value>
+</value><value>Scala</value><value>
+</value><value>Small Basic</value><value>
+</value><value>Comparison</value><value>
+</value><value>C# and Java</value><value>
+</value><value>C# and Visual Basic .NET</value><value>
+</value><value>Visual Basic and Visual Basic .NET</value><value>
+</value><value>
+</value><value>v</value><value>t</value><value>e</value><value>Microsoft</value><value> </value><value>free and open-source software (FOSS)</value><value>Overview</value><value>
+</value><value>Microsoft and open source</value><value>
+</value><value>Shared Source Initiative</value><value>
+</value><value>Software</value><value>Applications</value><value>
+</value><value>3D Movie Maker</value><value>
+</value><value>Atom</value><value>
+</value><value>Conference XP</value><value>
+</value><value>Family.Show</value><value>
+</value><value>File Manager</value><value>
+</value><value>Open Live Writer</value><value>
+</value><value>Microsoft PowerToys</value><value>
+</value><value>Terminal</value><value>
+</value><value>Windows Calculator</value><value>
+</value><value>Windows Console</value><value>
+</value><value>Windows Package Manager</value><value>
+</value><value>WorldWide Telescope</value><value>
+</value><value>XML Notepad</value><value>
+</value><value>Video games</value><value>
+</value><value>Allegiance</value><value>
+</value><value>Programming</value><value>languages</value><value>
+</value><value>Bosque</value><value>
+</value><value>C#</value><value>
+</value><value>Dafny</value><value>
+</value><value>F#</value><value>
+</value><value>F*</value><value>
+</value><value>GW-BASIC</value><value>
+</value><value>IronPython</value><value>
+</value><value>IronRuby</value><value>
+</value><value>Lean</value><value>
+</value><value>P</value><value>
+</value><value>Power Fx</value><value>
+</value><value>PowerShell</value><value>
+</value><value>Project Verona</value><value>
+</value><value>Q#</value><value>
+</value><value>Small Basic Online</value><value>
+</value><value>TypeScript</value><value>
+</value><value>Visual Basic</value><value>
+</value><value>Frameworks,</value><value>development tools</value><value>
+</value><value>.NET</value><value>
+</value><value>.NET Framework</value><value>
+</value><value>.NET Gadgeteer</value><value>
+</value><value>.NET MAUI</value><value>
+</value><value>.NET Micro Framework</value><value>
+</value><value>AirSim</value><value>
+</value><value>ASP.NET</value><value>
+</value><value>ASP.NET AJAX</value><value>
+</value><value>ASP.NET Core</value><value>
+</value><value>ASP.NET MVC</value><value>
+</value><value>ASP.NET Razor</value><value>
+</value><value>ASP.NET Web Forms</value><value>
+</value><value>Avalonia</value><value>
+</value><value>Babylon.js</value><value>
+</value><value>BitFunnel</value><value>
+</value><value>Blazor</value><value>
+</value><value>C++/WinRT</value><value>
+</value><value>CCF</value><value>
+</value><value>ChakraCore</value><value>
+</value><value>CLR Profiler</value><value>
+</value><value>Dapr</value><value>
+</value><value>DeepSpeed</value><value>
+</value><value>DiskSpd</value><value>
+</value><value>Dryad</value><value>
+</value><value>Dynamic Language Runtime</value><value>
+</value><value>eBPF on Windows</value><value>
+</value><value>Electron</value><value>
+</value><value>Entity Framework</value><value>
+</value><value>Fluent Design System</value><value>
+</value><value>Fluid Framework</value><value>
+</value><value>Infer.NET</value><value>
+</value><value>LightGBM</value><value>
+</value><value>Managed Extensibility Framework</value><value>
+</value><value>Microsoft Automatic Graph Layout</value><value>
+</value><value>Microsoft C++ Standard Library</value><value>
+</value><value>Microsoft Cognitive Toolkit</value><value>
+</value><value>Microsoft Design Language</value><value>
+</value><value>Microsoft Detours</value><value>
+</value><value>Microsoft Enterprise Library</value><value>
+</value><value>Microsoft SEAL</value><value>
+</value><value>mimalloc</value><value>
+</value><value>Mixed Reality Toolkit</value><value>
+</value><value>ML.NET</value><value>
+</value><value>mod_mono</value><value>
+</value><value>Mono</value><value>
+</value><value>MonoDevelop</value><value>
+</value><value>MSBuild</value><value>
+</value><value>MsQuic</value><value>
+</value><value>Neural Network Intelligence</value><value>
+</value><value>npm</value><value>
+</value><value>NuGet</value><value>
+</value><value>OneFuzz</value><value>
+</value><value>Open Management Infrastructure</value><value>
+</value><value>Open Neural Network Exchange</value><value>
+</value><value>Open Service Mesh</value><value>
+</value><value>Open XML SDK</value><value>
+</value><value>Orleans</value><value>
+</value><value>Playwright</value><value>
+</value><value>ProcDump</value><value>
+</value><value>ProcMon</value><value>
+</value><value>Python Tools for Visual Studio</value><value>
+</value><value>R Tools for Visual Studio</value><value>
+</value><value>RecursiveExtractor</value><value>
+</value><value>Roslyn</value><value>
+</value><value>Sandcastle</value><value>
+</value><value>SignalR</value><value>
+</value><value>StyleCop</value><value>
+</value><value>SVNBridge</value><value>
+</value><value>T2 Temporal Prover</value><value>
+</value><value>Text Template Transformation Toolkit</value><value>
+</value><value>TLA+ Toolbox</value><value>
+</value><value>U-Prove</value><value>
+</value><value>vcpkg</value><value>
+</value><value>Virtual File System for Git</value><value>
+</value><value>Voldemort</value><value>
+</value><value>VoTT</value><value>
+</value><value>Vowpal Wabbit</value><value>
+</value><value>Windows App SDK</value><value>
+</value><value>Windows Communication Foundation</value><value>
+</value><value>Windows Driver Frameworks</value><value>
+</value><value>KMDF</value><value>
+</value><value>UMDF</value><value>
+</value><value>Windows Forms</value><value>
+</value><value>Windows Presentation Foundation</value><value>
+</value><value>Windows Template Library</value><value>
+</value><value>Windows UI Library</value><value>
+</value><value>WinJS</value><value>
+</value><value>WinObjC</value><value>
+</value><value>WiX</value><value>
+</value><value>XDP for Windows</value><value>
+</value><value>XSP</value><value>
+</value><value>xUnit.net</value><value>
+</value><value>Z3 Theorem Prover</value><value>
+</value><value>Operating systems</value><value>
+</value><value>MS-DOS</value><value> (v1.25, v2.0 &amp; v4.0)</value><value>
+</value><value>Barrelfish</value><value>
+</value><value>SONiC</value><value>
+</value><value>Azure Linux</value><value>
+</value><value>Other</value><value>
+</value><value>ChronoZoom</value><value>
+</value><value>Extensible Storage Engine</value><value>
+</value><value>FlexWiki</value><value>
+</value><value>FourQ</value><value>
+</value><value>Gollum</value><value>
+</value><value>Project Mu</value><value>
+</value><value>ReactiveX</value><value>
+</value><value>SILK</value><value>
+</value><value>TLAPS</value><value>
+</value><value>TPM 2.0 Reference Implementation</value><value>
+</value><value>WikiBhasha</value><value>
+</value><value>Licenses</value><value>
+</value><value>Microsoft Public License</value><value>
+</value><value>Microsoft Reciprocal License</value><value>
+</value><value>Forges</value><value>
+</value><value>CodePlex</value><value>
+</value><value>GitHub</value><value>
+</value><value>Related</value><value>
+</value><value>.NET Foundation</value><value>
+</value><value>F# Software Foundation</value><value>
+</value><value>Microsoft Open Specification Promise</value><value>
+</value><value>Open Letter to Hobbyists</value><value>
+</value><value>Open Source Security Foundation</value><value>
+</value><value>Outercurve Foundation</value><value>
+</value><value> </value><value>Category</value><value>
+</value><value>v</value><value>t</value><value>e</value><value>Microsoft Research (MSR)</value><value>Main</value><value>projects</value><value>Languages, compilers</value><value>
+</value><value>Bartok</value><value>
+</value><value>Bosque</value><value>
+</value><value>Cω</value><value>
+</value><value>F*</value><value>
+</value><value>Lean</value><value>
+</value><value>P</value><value>
+</value><value>Project Verona</value><value>
+</value><value>Phoenix</value><value>
+</value><value>Polyphonic C#</value><value>
+</value><value>SecPAL</value><value>
+</value><value>Distributed</value><value>–</value><value>grid computing</value><value>
+</value><value>BitVault</value><value>
+</value><value>Confidential Consortium Framework</value><value>
+</value><value>DeepSpeed</value><value>
+</value><value>Orleans
