@@ -7217,4 +7217,1511 @@ Der Begriff wurde vermutlich 1995 von </value><value>Ken Manheimer</value><value
 </value><value>
 </value><value>^</value><value> </value><value>"SciPy project governance"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
 </value><value>
-</value><value>^</value><value> </value><value>"Stories of Linux: A Look at Slackware Linux"</value><value>. </value><value>linux.com</value><value>. Archived from </value><value>the original</value><value> on October 30, 2014</value><value>. Retrieved 
+</value><value>^</value><value> </value><value>"Stories of Linux: A Look at Slackware Linux"</value><value>. </value><value>linux.com</value><value>. Archived from </value><value>the original</value><value> on October 30, 2014</value><value>. Retrieved <?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><url>https://en.wikipedia.org/wiki/Benevolent_dictator_for_life</url><title>None</title><text><value>Title given to a small number of open-source software development leaders</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>For the political term, see </value><value>Benevolent dictatorship</value><value>.</value><value>
+</value><value>.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</value><value>This article </value><value>relies excessively on </value><value>references</value><value> to </value><value>primary sources</value><value>.</value><value> Please improve this article by adding </value><value>secondary or tertiary sources</value><value>. </value><value>Find sources:</value><value> </value><value>"Benevolent dictator for life"</value><value> – </value><value>news</value><value> </value><value>·</value><value> </value><value>newspapers</value><value> </value><value>·</value><value> </value><value>books</value><value> </value><value>·</value><value> </value><value>scholar</value><value> </value><value>·</value><value> </value><value>JSTOR</value><value>  </value><value>(</value><value>January 2025</value><value>)</value><value> (</value><value>Learn how and when to remove this message</value><value>)</value><value>
+</value><value>Benevolent dictator for life</value><value> (</value><value>BDFL</value><value>) is a title given to a small number of </value><value>open-source software development</value><value> leaders, typically project founders who retain the final say in disputes or arguments within the community. The phrase originated in 1995 with reference to </value><value>Guido van Rossum</value><value>, creator of the </value><value>Python programming language</value><value>.</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Shortly after Van Rossum joined the </value><value>Corporation for National Research Initiatives</value><value>, the term appeared in a follow-up mail by Ken Manheimer to a meeting trying to create a semi-formal group that would oversee Python development and workshops; this initial use included an additional joke of naming Van Rossum the "First Interim BDFL". According to Rossum, the title was most likely created by Ken Manheimer or </value><value>Barry Warsaw</value><value>.</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>In July 2018, Van Rossum announced that he would be stepping down as BDFL of Python without appointing a successor, effectively eliminating the title within the Python community structure.</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>
+</value><value>Usage</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>BDFL should not be confused with the more common term for open-source leaders, "benevolent dictator", which was popularized by </value><value>Eric S. Raymond</value><value>'s essay "</value><value>Homesteading the Noosphere</value><value>" (1999).</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>Among other topics related to </value><value>hacker culture</value><value>, Raymond elaborates on how the nature of open source forces the "dictatorship" to keep itself benevolent, since a strong disagreement can lead to the </value><value>forking</value><value> of the project under the rule of new leaders.</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>Referent candidates</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>Key
+</value><value>
+</value><value>
+</value><value>†
+</value><value>
+</value><value>Deceased
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>Name
+</value><value>
+</value><value>Project
+</value><value>
+</value><value>Type
+</value><value>
+</value><value>Reference
+</value><value>
+</value><value>
+</value><value>Sylvain Benner
+</value><value>
+</value><value>Spacemacs</value><value>
+</value><value>
+</value><value>Community-driven </value><value>Emacs</value><value> distribution
+</value><value>
+</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Vitalik Buterin</value><value>
+</value><value>
+</value><value>Ethereum</value><value>
+</value><value>
+</value><value>Blockchain-based cryptocurrency
+</value><value>
+</value><value>[</value><value>6</value><value>]</value><value>[</value><value>better source needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Dries Buytaert</value><value>
+</value><value>
+</value><value>Drupal</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>François Chollet</value><value>
+</value><value>
+</value><value>Keras</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan Czaplicki
+</value><value>
+</value><value>Elm</value><value>
+</value><value>
+</value><value>Front-end web programming language
+</value><value>
+</value><value>[</value><value>9</value><value>]</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Laurent Destailleur
+</value><value>
+</value><value>Dolibarr ERP CRM</value><value>
+</value><value>
+</value><value>Software suite for </value><value>Enterprise Resource Planning</value><value> and </value><value>Customer Relationship Management</value><value>
+</value><value>
+</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>David Heinemeier Hansson</value><value>
+</value><value>
+</value><value>Ruby on Rails</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Rich Hickey</value><value>
+</value><value>
+</value><value>Clojure</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Adrian Holovaty</value><value> </value><value>and Jacob Kaplan-Moss
+</value><value>
+</value><value>Django</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Andrew Kelley
+</value><value>
+</value><value>Zig</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>15</value><value>]</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Xavier Leroy</value><value>
+</value><value>
+</value><value>OCaml</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>17</value><value>]</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Haoyuan Li</value><value>
+</value><value>
+</value><value>Alluxio</value><value>
+</value><value>
+</value><value>Data Orchestration System
+</value><value>
+</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Miles Lubin</value><value>
+</value><value>
+</value><value>JuMP</value><value>
+</value><value>
+</value><value>Mathematical optimization modeling language in Julia
+</value><value>
+</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Yukihiro Matsumoto (Matz)</value><value>
+</value><value>
+</value><value>Ruby</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>21</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Wes McKinney</value><value>
+</value><value>
+</value><value>Pandas</value><value>
+</value><value>
+</value><value>Python data analysis library
+</value><value>
+</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gavin Mendel-Gleason</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>
+</value><value>TerminusDB</value><value>
+</value><value>
+</value><value>Open-source graph database for knowledge graph representation
+</value><value>
+</value><value>[</value><value>23</value><value>]</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Moolenaar</value><value>†
+</value><value>
+</value><value>Vim</value><value>
+</value><value>
+</value><value>Text editor
+</value><value>
+</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Matt Mullenweg</value><value>[</value><value>b</value><value>]</value><value>
+</value><value>
+</value><value>WordPress</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Odersky</value><value>
+</value><value>
+</value><value>Scala</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>27</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Taylor Otwell
+</value><value>
+</value><value>Laravel</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>28</value><value>]</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Theo de Raadt</value><value>
+</value><value>
+</value><value>OpenBSD</value><value>
+</value><value>
+</value><value>A </value><value>Unix-like</value><value> operating system
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Arnold Robbins</value><value>
+</value><value>
+</value><value>Awk</value><value>, Gawk
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Eugen Rochko</value><value>
+</value><value>
+</value><value>Mastodon</value><value>
+</value><value>
+</value><value>Open source, decentralized social network
+</value><value>
+</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ton Roosendaal</value><value>[</value><value>c</value><value>]</value><value>
+</value><value>
+</value><value>Blender</value><value>
+</value><value>
+</value><value>3D computer graphics software
+</value><value>
+</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sébastien Ros
+</value><value>
+</value><value>Orchard Project</value><value>
+</value><value>
+</value><value>Content management system
+</value><value>
+</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Mark Shuttleworth</value><value>[</value><value>d</value><value>]</value><value>
+</value><value>
+</value><value>Ubuntu</value><value>
+</value><value>
+</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Soller
+</value><value>
+</value><value>Redox</value><value>
+</value><value>
+</value><value>Operating system
+</value><value>
+</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Don Syme</value><value>[</value><value>e</value><value>]</value><value>
+</value><value>
+</value><value>F#</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Linus Torvalds</value><value>[</value><value>f</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>
+</value><value>
+</value><value>Operating system kernel
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>[</value><value>37</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>José Valim
+</value><value>
+</value><value>Elixir</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Pauli Virtanen
+</value><value>
+</value><value>SciPy</value><value>
+</value><value>
+</value><value>Python</value><value> library used for scientific and technical computing
+</value><value>
+</value><value>[</value><value>39</value><value>]</value><value>[</value><value>40</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Patrick Volkerding</value><value>
+</value><value>
+</value><value>Slackware</value><value>
+</value><value>
+</value><value>GNU</value><value>/</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Nathan Voxland
+</value><value>
+</value><value>Liquibase</value><value>
+</value><value>
+</value><value>Database schema management
+</value><value>
+</value><value>[</value><value>42</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jimmy Wales</value><value>
+</value><value>
+</value><value>Wikimedia Foundation</value><value>
+</value><value>
+</value><value>Collaborative knowledge project
+</value><value>
+</value><value>[</value><value>43</value><value>]</value><value>[</value><value>i</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Walker
+</value><value>
+</value><value>Exercism</value><value>
+</value><value>
+</value><value>Open-source programming education platform
+</value><value>
+</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Shaun Walker
+</value><value>
+</value><value>DotNetNuke</value><value>
+</value><value>
+</value><value>Web application framework
+</value><value>
+</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Larry Wall</value><value>
+</value><value>
+</value><value>Perl</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan You</value><value>
+</value><value>
+</value><value>Vue.js</value><value>
+</value><value>
+</value><value>JavaScript MVVM framework for building user interfaces and single-page applications.
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Soumith Chintala
+</value><value>
+</value><value>PyTorch</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>47</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Traverso, Dain Sundstrom, David Phillips
+</value><value>
+</value><value>Trino</value><value>
+</value><value>
+</value><value>SQL query engine
+</value><value>
+</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Kohsuke Kawaguchi</value><value>
+</value><value>
+</value><value>Jenkins</value><value>
+</value><value>
+</value><value>Automation server
+</value><value>
+</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gabor de Mooij
+</value><value>
+</value><value>RedBeanPHP</value><value>
+</value><value>
+</value><value>Database object relational mapper
+</value><value>
+</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Cohen</value><value>
+</value><value>
+</value><value>BitTorrent</value><value>
+</value><value>
+</value><value>Peer-to-peer file sharing protocol
+</value><value>
+</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Walter Bright</value><value>
+</value><value>
+</value><value>D (programming language)</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ritchie Vink
+</value><value>
+</value><value>Polars
+</value><value>
+</value><value>Data analysis framework
+</value><value>
+</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>William Falcon
+</value><value>
+</value><value>PyTorch Lightning</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Lars Hvam
+</value><value>
+</value><value>abapGit
+</value><value>
+</value><value>Git client for ABAP
+</value><value>
+</value><value>[</value><value>54</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sebastián Ramírez
+</value><value>
+</value><value>FastAPI</value><value>
+</value><value>
+</value><value>Web framework for building APIs with </value><value>Python</value><value>
+</value><value>
+</value><value>[</value><value>55</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bill Hall (gingerBill)
+</value><value>
+</value><value>Odin
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>56</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Damien Elmes (dae)
+</value><value>
+</value><value>Anki</value><value>
+</value><value>
+</value><value>Spaced repetition</value><value> system
+</value><value>
+</value><value>[</value><value>57</value><value>]</value><value>[</value><value>58</value><value>]</value><value>
+</value><value>
+</value><value>Organizational positions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CTO of </value><value>TerminusDB</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Lead Developer at the WordPress Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chairman of the </value><value>Blender Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Until December 2009, CEO of </value><value>Canonical Ltd</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Technical Advisor at the </value><value>F# Software Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Sponsee of the </value><value>Linux Foundation</value><value>. Also holds the trademark for Linux</value><value>
+</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Design by dictator</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Disputed by Wales; </value><value>"I am not the benevolent dictator of anything"</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Guido van Rossum (2008-07-31). </value><value>"Origin of BDFL"</value><value>. Artima.com. </value><value>Archived</value><value> from the original on 2012-07-21</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Python Creator Scripts Inside Google"</value><value>. </value><value>eWeek</value><value>. 2006-03-06. </value><value>Archived</value><value> from the original on 2018-08-09</value><value>. Retrieved </value><value>2008-05-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Van Rossum, Guido (July 12, 2018). </value><value>"Transfer of power"</value><value>. </value><value>mail.python.org</value><value>. </value><value>Archived</value><value> from the original on July 12, 2018</value><value>. Retrieved </value><value>August 9,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric S. (2000). </value><value>"Homesteading the Noosphere § Project Structures and Ownership"</value><value>. </value><value>Eric S. Raymond's Home Page</value><value>. </value><value>Archived</value><value> from the original on 2012-07-01</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Spacemacs COMMUNITY.org"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-08-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Pearson, Jordan (24 April 2017). </value><value>"Ethereum's Boy King Is Thinking About Giving Up the Mantle"</value><value>. </value><value>Vice</value><value>. Retrieved </value><value>5 September</value><value> 2023</value><value>. </value><value>One participant called him a benevolent dictator.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Fay, Randy</value><value>. </value><value>"How Do Open Source Communities Govern Themselves? | RandyFay.comties Govern Themselves?"</value><value>. </value><value>randyfay.com</value><value>. Retrieved </value><value>27 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Keras API Special Interest Group, Leadership"</value><value>. </value><value>GitHub</value><value>. December 21, 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"56: Ember vs. Elm: The Showdown with Philip Poots | The Frontside Podcast"</value><value>. </value><value>The Frontside Podcast</value><value>. Archived from </value><value>the original</value><value> on November 16, 2018</value><value>. Retrieved </value><value>2017-08-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>elm-conf (2016-09-19), </value><value>"Code is the Easy Part" by Evan Czaplicki</value><value>, retrieved </value><value>2017-08-14</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Dolibarr project organization, different roles of actors"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Constine, Josh (December 7, 2012). </value><value>"Dropbox Hires Away Google's Guido Van Rossum, The Father Of Python"</value><value>. TechCrunch</value><value>. Retrieved </value><value>June 1,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure JIRA Workflow"</value><value>. Archived from </value><value>the original</value><value> on November 13, 2015</value><value>. Retrieved </value><value>3 October</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Adrian and Jacob retiring as Django BDFLs"</value><value>. Adrian Holovaty. January 12, 2014</value><value>. Retrieved </value><value>June 14,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal: Create a standard process for proposals"</value><value>. </value><value>GitHub</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Interfacing with Zig, a BDFL-run Project"</value><value>. </value><value>Loris Cro's Blog</value><value>. December 10, 2021</value><value>. Retrieved </value><value>April 14,</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A History of OCaml | OCaml.org"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"OCaml Infrastructure mailing list"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Introducing Alluxio Open Source Project Governance "</value><value>[1]</value><value>"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Governance Structure: JuMP"</value><value>. Retrieved </value><value>2023-09-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A Ruby Design Process"</value><value>. Retrieved </value><value>2016-04-17</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"pandas 0.20.3 documentation: Tutorials"</value><value>. Retrieved </value><value>2017-07-24</value><value>.</value><value> "Wes McKinney's (pandas BDFL) blog"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB, Twitter"</value><value>. May 6, 2020</value><value>. Retrieved </value><value>May 6,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB — what's in a name?"</value><value>. TerminusDB. August 21, 2019</value><value>. Retrieved </value><value>May 8,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Why Neovim is Better than Vim"</value><value>. January 15, 2015</value><value>. Retrieved </value><value>30 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Thesis, Automattic, and WordPress | Post Status"</value><value>. July 24, 2015</value><value>. Retrieved </value><value>2015-07-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Programming in Scala Leaps onto the World Stage!"</value><value>. Retrieved </value><value>2015-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Twitter"</value><value>. Taylor Otwell. October 9, 2014</value><value>. Retrieved </value><value>October 9,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Creator of the Laravel PHP Framework"</value><value>. </value><value>Facebook</value><value>. August 5, 2014</value><value>. Retrieved </value><value>August 5,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Robbins, Arnold (March 2014). </value><value>"The GNU Project and Me: 27 Years with GNU AWK"</value><value> </value><value>(PDF)</value><value>. </value><value>skeeve.com</value><value>. </value><value>Archived</value><value> </value><value>(PDF)</value><value> from the original on October 6, 2014</value><value>. Retrieved </value><value>August 11,</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Mastodon is crumbling—and many blame its creator"</value><value>. </value><value>The Daily Dot</value><value>. January 18, 2019.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Developer Intro/Overview"</value><value>. Retrieved </value><value>20 July</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Orchard Project Steering Committee"</value><value>. Archived from </value><value>the original</value><value> on August 12, 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Ubuntu carves niche in Linux landscape"</value><value>. </value><value>CNET</value><value>. Archived from </value><value>the original</value><value> on 6 November 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"CONTRIBUTING.md · master · redox-os / redox"</value><value>. July 8, 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Contributing to the F# Language and Compiler"</value><value>. Retrieved </value><value>29 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Dee-Ann LeBlanc (31 July 2006). </value><value>Linux For Dummies</value><value> (7th ed.). John Wiley &amp; Sons. p. 15. </value><value>ISBN</value><value> </value><value>978-0-470-04793-4</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Elixir Companies"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-11-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy 1.0.0"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy project governance"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Stories of Linux: A Look at Slackware Linux"</value><value>. </value><value>linux.com</value><value>. Archived from </value><value>the original</value><value> on October 30, 2014</value><value>. Retrieved </value><value>September 21,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"User and Developer Community | Post Status"</value><value>. Retrieved </value><value>2015-08-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chozick, Amy (June 27, 2013). </value><value>"Jimmy Wales is Not an Internet Billionaire"</value><value>. </value><value>The New York Times</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Jeremy Walker on Being the BDFL of Exercism by Humans of Open Source • A podcast on Anchor"</value><value>. </value><value>Anchor</value><value>. Retrieved </value><value>2021-03-26</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Book: Building Websites with DotNetNuke 5, Michael Washington and Ian Lackey, Packt Publishing. Page 14 "The core team comprises individuals invited to join the team by Shaun Walker, whom they affectionately call the "Benevolent Dictator".</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Art of Ballistic Programming"</value><value>. Archived from </value><value>the original</value><value> on June 17, 2013.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"PyTorch Governance | Maintainers — PyTorch 2.0 documentation"</value><value>. </value><value>pytorch.org</value><value>. Retrieved </value><value>2023-03-21</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Trino and the BDFL model </value><value>https://trino.io/blog/2023/04/06/trino-bdfl-focus.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Jenkins Enhancement Proposal #1: BDFL </value><value>https://github.com/jenkinsci/jep/blob/master/jep/1/README.adoc#bdfl</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>RedBeanPHP index page </value><value>https://redbeanphp.com/index.php?p=/welcome#sponsor</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>BitTorrent Enhancement Proposal #1: The BEP Process </value><value>https://www.bittorrent.org/beps/bep_0001.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Polars - About us"</value><value>. 2024-04-07. </value><value>Archived</value><value> from the original on 2024-03-24.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Lightning Governance — PyTorch Lightning 2.3.0dev documentation"</value><value>. </value><value>lightning.ai</value><value>. Retrieved </value><value>2024-04-10</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Addressing the Future of ABAP: The Power of Open Source"</value><value>. 2024-06-06.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GitHub FastAPI"</value><value>. 2024-07-30.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal Process"</value><value>. 2019-03-31.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ankitects Github organization"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki development discussion"</value><value>. </value><value>Reddit</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Benevolent_dictator_for_life&amp;oldid=1274988327</value><value>"</value></text><lastUpdated> 10 February 2025, at 13:02</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Main_Page</url><title>Welcome to </title><text><value>.mw-parser-output .mp-box{border:1px solid #aaa;padding:0 0.5em 0.5em;margin-top:4px}.mw-parser-output .mp-h2,body.skin-timeless .mw-parser-output .mp-h2{border:1px solid #aaa;margin:0.5em 0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;font-family:inherit}.mw-parser-output .mp-later{font-size:85%;font-weight:normal}.mw-parser-output #mp-welcomecount{text-align:center;margin:0.4em}.mw-parser-output #mp-welcome{font-size:162%;padding:0.1em}.mw-parser-output #mp-welcome h1,.mw-parser-output #mp-welcome .mw-heading1{font-size:inherit;font-family:inherit;display:inline;border:none}.mw-parser-output #mp-free{font-size:95%}.mw-parser-output #articlecount{font-size:85%}.mw-parser-output #articlecount&gt;ul{margin:0;padding:0}.mw-parser-output #articlecount&gt;ul&gt;li{margin:0;display:inline}.mw-parser-output #articlecount&gt;ul&gt;li::after{content:" · ";font-weight:bold}.mw-parser-output #articlecount&gt;ul&gt;li:last-child::after{content:""}.mw-parser-output .mp-contains-float::after{content:"";display:block;clear:both}@media(max-width:875px){.mw-parser-output #mp-tfp table,.mw-parser-output #mp-tfp tr,.mw-parser-output #mp-tfp td,.mw-parser-output #mp-tfp tbody{display:block!important;width:100%!important;box-sizing:border-box}.mw-parser-output #mp-tfp tr:first-child td:first-child a.mw-file-description{text-align:center;display:table;margin:0 auto}.mw-parser-output #articlecount&gt;ul&gt;li::after{content:"";font-weight:normal}.mw-parser-output #articlecount&gt;ul&gt;li{display:block}}@media(min-width:875px){.mw-parser-output #mp-upper{display:flex}.mw-parser-output #mp-left{flex:1 1 55%;margin-right:2px}.mw-parser-output #mp-right{flex:1 1 45%;margin-left:2px}}@media screen{.mw-parser-output #mp-topbanner{background-color:#f9f9f9;border-color:#ddd}.mw-parser-output #mp-banner{background-color:#fffaf5;border-color:#f2e0ce}.mw-parser-output #mp-left{background-color:#f5fffa;border-color:#cef2e0}.mw-parser-output #mp-left .mp-h2{background-color:#cef2e0;border-color:#a3bfb1}.mw-parser-output #mp-right{background-color:#f5faff;border-color:#cedff2}.mw-parser-output #mp-right .mp-h2{background-color:#cedff2;border-color:#a3b0bf}.mw-parser-output #mp-middle{background-color:#fff5fa;border-color:#f2cedd}.mw-parser-output #mp-middle .mp-h2{background-color:#f2cedd;border-color:#bfa3af}.mw-parser-output #mp-lower{background-color:#faf5ff;border-color:#ddcef2}.mw-parser-output #mp-lower .mp-h2{background-color:#ddcef2;border-color:#afa3bf}.mw-parser-output #mp-bottom{border-color:#e2e2e2}.mw-parser-output #mp-bottom .mp-h2{background-color:#eee;border-color:#ddd}html.skin-theme-clientpref-night .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-banner{background-color:#431107;border-color:#663428}html.skin-theme-clientpref-night .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-night .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-night .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-night .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-night .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-night .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-night .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-night .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-banner{background-color:#431107;border-color:#663428}html.skin-theme-clientpref-os .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-os .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-os .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-os .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-os .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-os .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-os .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-os .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}</value><value>
+</value><value>
+</value><value>
+</value><value>Welcome to </value><value>Wikipedia</value><value>,</value><value>
+</value><value>the </value><value>free</value><value> </value><value>encyclopedia</value><value> that </value><value>anyone can edit</value><value>.</value><value>
+</value><value>127,724</value><value> active editors</value><value>6,954,775</value><value> articles in </value><value>English</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>From today's featured article</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Tropical Storm Gabrielle</value><value> was a short-lived </value><value>tropical cyclone</value><value> that passed over </value><value>North Carolina</value><value> before tracking out to sea. The seventh named storm of the </value><value>2007 Atlantic hurricane season</value><value>, Gabrielle developed as a </value><value>subtropical cyclone</value><value> on September 8 about 385 miles (620 km) southeast of </value><value>Cape Lookout, North Carolina</value><value>. Unfavorable </value><value>wind shear</value><value> impacted the storm for much of its duration, although a temporary decrease in the shear allowed the cyclone to become a tropical storm. On September 9, it made </value><value>landfall</value><value> at </value><value>Cape Lookout National Seashore</value><value> in North Carolina with winds of 60 mph (97 km/h). Turning to the northeast, the storm quickly weakened and dissipated on September 11. The storm dropped heavy rainfall near its immediate landfall location but little precipitation elsewhere. Along the coast of North Carolina, slight localized flooding was reported. Along the coast of Florida, rough surf drowned one person. Overall damage was minor. (</value><value>Full article...</value><value>)
+</value><value>
+</value><value>
+Recently featured: </value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>
+</value><value>Boot Monument</value><value>
+</value><value>"</value><value>My Little Love</value><value>"</value><value>
+</value><value>Gao Qifeng</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>More featured articles</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>Did you know ...</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Joseph Kosinski</value><value>
+</value><value>
+</value><value>... that the U.S. military supported </value><value>Top Gun: Maverick</value><value> </value><value>(director pictured)</value><value>, using it to aid recruitment and retention?</value><value>
+</value><value>... that the artist </value><value>Fang Rending</value><value> was likened to a caged chicken after rebelling against his teacher?</value><value>
+</value><value>... that "</value><value>Hard Out Here</value><value>" was written in parallel to </value><value>Raye</value><value>'s departure from </value><value>Polydor Records</value><value> and confronts "white men CEOs"?</value><value>
+</value><value>... that </value><value>a Florida TV station</value><value> received and aired tapes of programs it was not supposed to broadcast?</value><value>
+</value><value>... that </value><value>The London Milkman</value><value> was staged?</value><value>
+</value><value>... that </value><value>Jill Yager</value><value> discovered a venomous crustacean species in 1979 and named </value><value>its class</value><value>?</value><value>
+</value><value>... that </value><value>a Japanese male singer</value><value> often sang in a female perspective?</value><value>
+</value><value>... that until 1827 </value><value>University of Oxford</value><value> graduates had to swear never to reconcile with </value><value>Henry Symeonis</value><value>, although it appears that by the 1650s everyone had forgotten why, or who he was?</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>Start a new article</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>In the news</value><value>
+</value><value>.mw-parser-output .itn-img{float:right;margin-left:0.5em;margin-top:0.2em}</value><value>
+</value><value>
+</value><value>European electric grids</value><value>
+</value><value>
+</value><value>The </value><value>Baltic states</value><value> </value><value>complete synchronization</value><value> of their power grids with </value><value>continental Europe's</value><value> </value><value>(map pictured)</value><value>, disconnecting from </value><value>Russia's</value><value>.</value><value>
+</value><value>The ruling </value><value>Vetëvendosje</value><value> party, led by </value><value>Albin Kurti</value><value>, </value><value>wins the most seats</value><value> in the </value><value>Assembly of Kosovo</value><value>.</value><value>
+</value><value>The </value><value>Patriotic Union</value><value>, led by </value><value>Brigitte Haas</value><value>, </value><value>wins the most seats</value><value> in the </value><value>Landtag of Liechtenstein</value><value>.</value><value>
+</value><value>In </value><value>American football</value><value>, the </value><value>Philadelphia Eagles</value><value> defeat the </value><value>Kansas City Chiefs</value><value> to win </value><value>the Super Bowl</value><value>.</value><value>
+</value><value>Former </value><value>president of Namibia</value><value> </value><value>Sam Nujoma</value><value> dies at the </value><value>age of 95</value><value>.</value><value>
+</value><value>
+</value><value>Ongoing</value><value>: </value><value>
+</value><value>M23 campaign</value><value>
+</value><value>Russian invasion of Ukraine</value><value>
+</value><value>timeline</value><value>
+</value><value>Sudanese civil war</value><value>
+</value><value>timeline</value><value>
+</value><value>Recent deaths</value><value>: </value><value>
+</value><value>Edith Mathis</value><value>
+</value><value>Gyalo Thondup</value><value>
+</value><value>Louis-Gaston Mayila</value><value>
+</value><value>Beverly Byron</value><value>
+</value><value>Dick Jauron</value><value>
+</value><value>Hans-Peter Lehmann</value><value>
+</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>On this day</value><value>
+</value><value>
+</value><value>February 16</value><value>: </value><value>Day of the Shining Star</value><value> in North Korea; </value><value>Elizabeth Peratrovich Day</value><value> in Alaska
+</value><value>
+</value><value>
+</value><value>
+</value><value>Act of Independence of Lithuania</value><value>
+</value><value>
+</value><value>1249</value><value> – </value><value>King Louis IX</value><value> dispatched </value><value>André de Longjumeau</value><value> as the French ambassador to the </value><value>Mongol Empire</value><value>.</value><value>
+</value><value>1918</value><value> – The </value><value>Council of Lithuania</value><value> signed the </value><value>Act of Independence</value><value> </value><value>(pictured)</value><value>, proclaiming the restoration of an independent Lithuania.</value><value>
+</value><value>1922</value><value> – A landslide in </value><value>Byblos</value><value> revealed a sarcophagus in an underground tomb that was later discovered to be part of </value><value>a large Bronze Age necropolis</value><value>.</value><value>
+</value><value>1996</value><value> – Eleven people died in </value><value>a train collision</value><value> in </value><value>Silver Spring, Maryland</value><value>, leading to the creation of comprehensive U.S. federal rules for the design of </value><value>passenger cars</value><value>.</value><value>
+</value><value>Richard of Dover</value><value>  (</value><value>d.</value><value> 1184)</value><value>Coluccio Salutati</value><value>  (</value><value>b.</value><value> 1331)</value><value>Michael Holding</value><value>  (</value><value>b.</value><value> 1954)</value><value>Elizabeth Olsen</value><value>  (</value><value>b.</value><value> 1989)</value><value>
+</value><value>
+More anniversaries: </value><value>
+</value><value>February 15</value><value>
+</value><value>February 16</value><value>
+</value><value>February 17</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>List of days of the year</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Today's featured picture</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>The </value><value>lesser violetear</value><value> (</value><value>Colibri cyanotus</value><value>) is a medium-sized, metallic-green species </value><value>hummingbird</value><value> commonly found from Costa Rica south to the Andes and Argentina and east to Venezuela. It commonly inhabits the canopy and borders of subtropical and lower </value><value>temperate forest</value><value>, </value><value>secondary woodland</value><value> and scrub, and clearings and gardens. It is recorded mostly between altitudes of 1,500 and 3,000 metres (4,900 and 9,800 ft), although it is sometimes found down to 900 metres (3,000 ft). The lesser violetear is a medium-sized hummingbird with an average length around 9.7 to 12 centimetres (3.8 to 4.7 in) and a body mass of 4.8 to 5.6 grams (0.17 to 0.20 oz). Its bill is black and mostly straight with only a slight downward curve. This lesser violetear of the subspecies </value><value>C. c. cabanidis</value><value> was photographed in the Mount Totumas cloud forest in </value><value>Chiriquí Province</value><value>, Panama.
+</value><value>
+</value><value>Photograph credit: </value><value>Charles J. Sharp</value><value>
+</value><value>
+Recently featured: </value><value>
+</value><value>Ernest Shackleton</value><value>
+</value><value>Pomegranate</value><value>
+</value><value>Jadeite Cabbage</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>More featured pictures</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Other areas of Wikipedia</value><value>
+</value><value>
+</value><value>Community portal</value><value> – The central hub for editors, with resources, links, tasks, and announcements.</value><value>
+</value><value>Village pump</value><value> – Forum for discussions about Wikipedia itself, including policies and technical issues.</value><value>
+</value><value>Site news</value><value> – Sources of news about Wikipedia and the broader Wikimedia movement.</value><value>
+</value><value>Teahouse</value><value> – Ask basic questions about using or editing Wikipedia.</value><value>
+</value><value>Help desk</value><value> – Ask questions about using or editing Wikipedia.</value><value>
+</value><value>Reference desk</value><value> – Ask research questions about encyclopedic topics.</value><value>
+</value><value>Content portals</value><value> – A unique way to navigate the encyclopedia.</value><value>
+</value><value>
+</value><value>Wikipedia's sister projects</value><value>
+</value><value>.mw-parser-output #sister-projects-list{display:flex;flex-wrap:wrap}.mw-parser-output #sister-projects-list li{display:inline-block}.mw-parser-output #sister-projects-list li span{font-weight:bold}.mw-parser-output #sister-projects-list li&gt;div{display:inline-block;vertical-align:middle;padding:6px 4px}.mw-parser-output #sister-projects-list li&gt;div:first-child{text-align:center}@media screen{.mw-parser-output .sister-projects-wikt-icon-dark,html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-light{display:none}html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-light{display:none}}@media(min-width:360px){.mw-parser-output #sister-projects-list li{width:33%;min-width:20em;white-space:nowrap;flex:1 0 25%}.mw-parser-output #sister-projects-list li&gt;div:first-child{min-width:50px}}</value><value>
+</value><value>Wikipedia is written by volunteer editors and hosted by the </value><value>Wikimedia Foundation</value><value>, a non-profit organization that also hosts a range of other volunteer </value><value>projects</value><value>:
+</value><value>
+</value><value>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Commons</value><value>Free media repository</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>MediaWiki</value><value>Wiki software development</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Meta-Wiki</value><value>Wikimedia project coordination</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikibooks</value><value>Free textbooks and manuals</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikidata</value><value>Free knowledge base</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikinews</value><value>Free-content news</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiquote</value><value>Collection of quotations</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikisource</value><value>Free-content library</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikispecies</value><value>Directory of species</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiversity</value><value>Free learning tools</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikivoyage</value><value>Free travel guide</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wiktionary</value><value>Dictionary and thesaurus</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Wikipedia languages</value><value>
+</value><value>.mw-parser-output .wikipedia-languages-complete{font-weight:bold}.mw-parser-output .wikipedia-languages ul{margin-left:0}.mw-parser-output .wikipedia-languages ul a{white-space:nowrap}.mw-parser-output .wikipedia-languages&gt;ul{list-style:none;text-align:center;clear:both}.mw-parser-output .wikipedia-languages-count-container{width:90%;display:flex;justify-content:center;padding-top:1em;margin:0 auto}.mw-parser-output .wikipedia-languages-prettybars{width:100%;height:1px;margin:0.5em 0;background-color:#c8ccd1;flex-shrink:1;align-self:center}.mw-parser-output .wikipedia-languages-count{padding:0 1em;white-space:nowrap}</value><value>
+</value><value>
+</value><value>This Wikipedia is written in </value><value>English</value><value>. Many </value><value>other Wikipedias are available</value><value>; some of the largest are listed below.
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>1,000,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>العربية</value><value>
+</value><value>Deutsch</value><value>
+</value><value>Español</value><value>
+</value><value>فارسی</value><value>‎</value><value>
+</value><value>Français</value><value>
+</value><value>Italiano</value><value>
+</value><value>Nederlands</value><value>
+</value><value>日本語</value><value>
+</value><value>Polski</value><value>
+</value><value>Português</value><value>
+</value><value>Русский</value><value>
+</value><value>Svenska</value><value>
+</value><value>Українська</value><value>
+</value><value>Tiếng Việt</value><value>
+</value><value>中文</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>250,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Bahasa Indonesia</value><value>
+</value><value>Bahasa Melayu</value><value>
+</value><value>閩南語</value><value>
+</value><value>Български</value><value>
+</value><value>Català</value><value>
+</value><value>Čeština</value><value>
+</value><value>Dansk</value><value>
+</value><value>Esperanto</value><value>
+</value><value>Euskara</value><value>
+</value><value>עברית</value><value>
+</value><value>Հայերեն</value><value>
+</value><value>한국어</value><value>
+</value><value>Magyar</value><value>
+</value><value>Norsk bokmål</value><value>
+</value><value>Română</value><value>
+</value><value>Simple English</value><value>
+</value><value>Slovenčina</value><value>
+</value><value>Srpski</value><value>
+</value><value>Srpskohrvatski</value><value>
+</value><value>Suomi</value><value>
+</value><value>Türkçe</value><value>
+</value><value>Oʻzbekcha</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>50,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Asturianu</value><value>
+</value><value>Azərbaycanca</value><value>
+</value><value>বাংলা</value><value>
+</value><value>Bosanski</value><value>
+</value><value>کوردی</value><value>
+</value><value>Eesti</value><value>
+</value><value>Ελληνικά</value><value>
+</value><value>Frysk</value><value>
+</value><value>Gaeilge</value><value>
+</value><value>Galego</value><value>
+</value><value>Hrvatski</value><value>
+</value><value>ქართული</value><value>
+</value><value>Kurdî</value><value>
+</value><value>Latviešu</value><value>
+</value><value>Lietuvių</value><value>
+</value><value>മലയാളം</value><value>
+</value><value>Македонски</value><value>
+</value><value>မြန်မာဘာသာ</value><value>
+</value><value>Norsk nynorsk</value><value>
+</value><value>ਪੰਜਾਬੀ</value><value>
+</value><value>Shqip</value><value>
+</value><value>Slovenščina</value><value>
+</value><value>ไทย</value><value>
+</value><value>తెలుగు</value><value>
+</value><value>اردو</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>                                                
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1267837350</value><value>"</value></text><lastUpdated> 6 January 2025, at 22:59</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Xavier_Leroy</url><title>None</title><text><value>French computer scientist and programmer (born 1968)</value><value>
+</value><value>.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table&gt;caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table&gt;tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</value><value>Xavier Leroy</value><value>Leroy in 2010</value><value>Born</value><value> (</value><value>1968-03-15</value><value>) </value><value>15 March 1968</value><value> (age 56)</value><value>Nationality</value><value>French</value><value>Alma mater</value><value>Paris Diderot University</value><value>Scientific career</value><value>Fields</value><value>Computer science</value><value>Institutions</value><value>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</value><value>Collège de France</value><value>Inria</value><value>Thesis</value><value>Polymorphic typing of an algorithmic language</value><value> </value><value>(1992)</value><value>Doctoral advisor</value><value>Gérard Huet</value><value>
+</value><value>
+</value><value>Xavier Leroy</value><value> (born 15 March 1968) is a French </value><value>computer scientist</value><value> and </value><value>programmer</value><value>.  He is best known for his role as a primary developer of the </value><value>OCaml</value><value> system.  He is 
+Professor of software science at </value><value>Collège de France</value><value>.  Before his appointment at </value><value>Collège de France</value><value> in 2018, he was senior scientist (</value><value>directeur de recherche</value><value>) at the French government research institution </value><value>Inria</value><value>.</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>Leroy was admitted to the </value><value>École normale supérieure</value><value> in Paris in 1987, where he studied mathematics and computer science. From 1989 to 1992 he did his </value><value>PhD</value><value> in computer science under the supervision of </value><value>Gérard Huet</value><value>.
+</value><value>He is an internationally recognized expert on </value><value>functional programming</value><value> languages and compilers. In recent years, he has taken an interest in </value><value>formal methods</value><value>, formal proofs and certified compilation. He is the leader of the </value><value>CompCert</value><value> project that develops an optimizing </value><value>compiler</value><value> for the  </value><value>C programming language</value><value>, </value><value>formally verified</value><value> in </value><value>Coq</value><value>.
+</value><value>Leroy was also the original author of </value><value>LinuxThreads</value><value>, the most widely used </value><value>threading</value><value> package for </value><value>Linux</value><value> versions prior to </value><value>2.6</value><value>[</value><value>broken anchor</value><value>]</value><value>.  </value><value>Linux 2.6</value><value>[</value><value>broken anchor</value><value>]</value><value> introduced </value><value>NPTL</value><value>, with much more extensive support from the kernel, to replace LinuxThreads.
+</value><value>In 2015 he was named a </value><value>fellow</value><value> of the </value><value>Association for Computing Machinery</value><value> "for contributions to safe, high-performance functional programming languages and compilers, and to compiler verification."</value><value>[</value><value>2</value><value>]</value><value> He was awarded the 2016 </value><value>Milner Award</value><value> by the </value><value>Royal Society</value><value>,</value><value>[</value><value>3</value><value>]</value><value> the 2021 </value><value>ACM Software System Award</value><value>,</value><value>[</value><value>4</value><value>]</value><value> and the 2022 </value><value>ACM SIGPLAN Programming Languages Achievement Award</value><value>.
+</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>"Xavier Leroy appointed to the French Academy of Sciences: a life devoted to computing"</value><value>. </value><value>Inria</value><value>. 21 Feb 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>ACM Fellows Named for Computing Innovations that Are Advancing Technology in the Digital Age</value><value>, </value><value>Association for Computing Machinery</value><value>, 2015</value><value>, retrieved </value><value>2015-12-09</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Royal Society Milner Award"</value><value>. Royal Society</value><value>. Retrieved </value><value>19 November</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Xavier Leroy"</value><value>. </value><value>awards.acm.org</value><value>. Retrieved </value><value>2022-05-13</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>External links</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</value><value>@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}</value><value>
+</value><value>
+</value><value>
+</value><value>Wikiquote has quotations related to </value><value>Xavier Leroy</value><value>.</value><value>
+</value><value>
+</value><value>Official website</value><value>
+</value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr&gt;.navbox-abovebelow,.mw-parser-output tr+tr&gt;.navbox-group,.mw-parser-output tr+tr&gt;.navbox-image,.mw-parser-output tr+tr&gt;.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</value><value>.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a&gt;span,.mw-parser-output .navbar a&gt;abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</value><value>v</value><value>t</value><value>e</value><value>ML</value><value> programming</value><value>Software</value><value>Implementations</value><value>,</value><value>dialects</value><value>Caml</value><value>
+</value><value>OCaml</value><value>°
+</value><value>Eff</value><value>
+</value><value>F*</value><value>°</value><value>
+</value><value>F#</value><value>°</value><value>
+</value><value>JoCaml</value><value>°</value><value>
+</value><value>Reason</value><value>°</value><value>
+</value><value>Standard ML</value><value>
+</value><value>Alice</value><value>°</value><value>
+</value><value>Concurrent ML</value><value>
+</value><value>Extended ML</value><value>
+</value><value>MLton</value><value>°</value><value>
+</value><value>Standard ML of New Jersey</value><value>° (SML/NJ)</value><value>
+</value><value>Dependent ML</value><value>
+</value><value>ATS</value><value>°</value><value>
+</value><value>
+</value><value>Futhark</value><value>°</value><value>
+</value><value>Lazy ML</value><value>
+</value><value>MacroML</value><value>
+</value><value>Ur</value><value>°</value><value>Programming tools</value><value>
+</value><value>Alt-Ergo</value><value>°</value><value>
+</value><value>Astrée</value><value>
+</value><value>Camlp4</value><value>°</value><value>
+</value><value>FFTW</value><value>°</value><value>
+</value><value>Frama-C</value><value>°</value><value>
+</value><value>Haxe</value><value>°</value><value>
+</value><value>Marionnet</value><value>°</value><value>
+</value><value>MTASC</value><value>°</value><value>
+</value><value>Poplog</value><value>°</value><value>
+</value><value>Semgrep</value><value>°</value><value>
+</value><value>SLAM project</value><value>
+</value><value>Theorem provers</value><value>,</value><value>proof assistants</value><value>
+</value><value>Coq</value><value>°</value><value>
+</value><value>HOL</value><value>°
+</value><value>HOL Light</value><value>°</value><value>
+</value><value>Isabelle</value><value>°</value><value>
+</value><value>LEGO</value><value>
+</value><value>Logic for Computable Functions</value><value>
+</value><value>Matita</value><value>°</value><value>
+</value><value>Twelf</value><value>°</value><value>
+</value><value>
+</value><value>GeneWeb</value><value>°</value><value>Community</value><value>Designers</value><value>
+</value><value>Lennart Augustsson</value><value> (Lazy ML)</value><value>
+</value><value>Damien Doligez</value><value> (OCaml)</value><value>
+</value><value>Gérard Huet</value><value> (Caml)</value><value>
+</value><value>Xavier Leroy</value><value> (Caml, OCaml)</value><value>
+</value><value>Robin Milner</value><value> (ML)</value><value>
+</value><value>Don Sannella</value><value> (Extended ML)</value><value>
+</value><value>Don Syme</value><value> (F#)</value><value>
+</value><value>
+</value><value>Thierry Coquand</value><value>
+</value><value>Steven G. Johnson</value><value>
+</value><value>Christine Paulin-Mohring</value><value>
+</value><value>Frank Pfenning</value><value>
+</value><value>Simon Thompson</value><value>
+</value><value>Italics</value><value> </value><value>= discontinued</value><value>
+</value><value>° = </value><value>Open-source software</value><value> </value><value>Book</value><value> </value><value> </value><value>Category:Family:ML</value><value> </value><value> </value><value>Category:Family:OCaml</value><value> </value><value> </value><value>Category:Software:OCaml</value><value>
+</value><value>
+</value><value>v</value><value>t</value><value>e</value><value>Milner Award</value><value> laureates</value><value>
+</value><value>Gordon Plotkin</value><value> (2012)</value><value>
+</value><value>Serge Abiteboul</value><value> (2013)</value><value>
+</value><value>Bernhard Schölkopf</value><value> (2014)</value><value>
+</value><value>Thomas Henzinger</value><value> (2015)</value><value>
+</value><value>Xavier Leroy</value><value> (2016)</value><value>
+</value><value>Andrew Zisserman</value><value> (2017)</value><value>
+</value><value>Marta Kwiatkowska</value><value> (2018)</value><value>
+</value><value>Eugene Myers</value><value> (2019)</value><value>
+</value><value>Cordelia Schmid</value><value> (2020)</value><value>
+</value><value>Zoubin Ghahramani</value><value> (2021)</value><value>
+</value><value>Yvonne Rogers</value><value> (2022)</value><value>
+</value><value>
+</value><value>Authority control databases</value><value> </value><value>International</value><value>ISNI</value><value>VIAF</value><value>WorldCat</value><value>National</value><value>United States</value><value>France</value><value>BnF data</value><value>Netherlands</value><value>Israel</value><value>Academics</value><value>ORCID</value><value>Mathematics Genealogy Project</value><value>Association for Computing Machinery</value><value>Google Scholar</value><value>DBLP</value><value>MathSciNet</value><value>Other</value><value>IdRef</value><value>
+</value><value>
+</value><value>
+</value><value>.mw-parser-output .asbox{position:relative;overflow:hidden}.mw-parser-output .asbox table{background:transparent}.mw-parser-output .asbox p{margin:0}.mw-parser-output .asbox p+p{margin-top:0.25em}.mw-parser-output .asbox-body{font-style:italic}.mw-parser-output .asbox-note{font-size:smaller}.mw-parser-output .asbox .navbar{position:absolute;top:-0.75em;right:1em;display:none}.mw-parser-output :not(p):not(.asbox)+style+.asbox,.mw-parser-output :not(p):not(.asbox)+link+.asbox{margin-top:3em}</value><value>This article about a French computer specialist is a </value><value>stub</value><value>. You can help Wikipedia by </value><value>expanding it</value><value>.</value><value>v</value><value>t</value><value>e</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Xavier_Leroy&amp;oldid=1245484019</value><value>"</value></text><lastUpdated> 13 September 2024, at 07:32</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Clojure</url><title>None</title><text><value>Dialect of the Lisp programming language on the Java platform</value><value>
+</value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table&gt;caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table&gt;tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</value><value>Clojure</value><value>Paradigm</value><value>multi-paradigm</value><value>:
+</value><value>
+</value><value>agent-oriented</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>concurrent</value><value>[</value><value>2</value><value>]</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>functional</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>logic</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>macro</value><value>[</value><value>6</value><value>]</value><value>
+</value><value>pipeline</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>Family</value><value>Lisp</value><value>Designed by</value><value>Rich Hickey</value><value>First appeared</value><value>2007</value><value>; 18 years ago</value><value> (</value><value>2007</value><value>)</value><value>Stable release</value><value>1.11.2</value><value>[</value><value>8</value><value>]</value><value>
+   / 8 March 2024</value><value>; 11 months ago</value><value> (</value><value>2024-03-08</value><value>)</value><value>
+</value><value>Typing discipline</value><value>
+</value><value>dynamic</value><value>
+</value><value>strong</value><value>
+</value><value>Memory management</value><value>Garbage collection</value><value> via a host (</value><value>JVM</value><value>, </value><value>CLR</value><value>, a </value><value>JavaScript</value><value> runtime such as </value><value>V8</value><value> in case of ClojureScript or </value><value>BEAM</value><value> (see </value><value>below</value><value>)</value><value>Platform</value><value>
+</value><value>Java</value><value>
+</value><value>JavaScript</value><value>
+</value><value>.NET</value><value>
+</value><value>License</value><value>Eclipse Public</value><value>Filename extensions</value><value>
+</value><value>.clj</value><value>
+</value><value>.cljs</value><value>
+</value><value>.cljr</value><value>
+</value><value>.cljc</value><value>
+</value><value>.cljd</value><value>
+</value><value>.edn</value><value>
+</value><value>Website</value><value>clojure</value><value>.org</value><value>Dialects</value><value>ClojureScript, ClojureDart</value><value>Influenced by</value><value>
+</value><value>C#</value><value>
+</value><value>C++</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>Common Lisp</value><value>
+</value><value>Erlang</value><value>
+</value><value>Haskell</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>Java</value><value>
+</value><value>ML</value><value>
+</value><value>Prolog</value><value>
+</value><value>Racket</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>Ruby</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>Scheme</value><value>
+</value><value>Wolfram Language</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>Influenced</value><value>
+</value><value>Elixir</value><value>
+</value><value>Hy</value><value>
+</value><value>Janet</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>LFE</value><value>
+</value><value>Pixie</value><value>[</value><value>15</value><value>]</value><value>
+</value><value>Rhine</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value> </value><value>Clojure Programming</value><value> at Wikibooks</value><value>
+</value><value>
+</value><value>Clojure</value><value> (</value><value>/</value><value>ˈ</value><value>k</value><value>l</value><value>oʊ</value><value>ʒ</value><value>ər</value><value>/</value><value>, like </value><value>closure</value><value>)</value><value>[</value><value>17</value><value>]</value><value>[</value><value>18</value><value>]</value><value> is a </value><value>dynamic</value><value> and </value><value>functional</value><value> </value><value>dialect</value><value> of the </value><value>programming language</value><value> </value><value>Lisp</value><value> on the </value><value>Java</value><value> platform.</value><value>[</value><value>19</value><value>]</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>Like most other Lisps, Clojure's </value><value>syntax</value><value> is built on </value><value>S-expressions</value><value> that are first </value><value>parsed</value><value> into </value><value>data structures</value><value> by a </value><value>Lisp reader</value><value> before being </value><value>compiled</value><value>.</value><value>[</value><value>21</value><value>]</value><value>[</value><value>17</value><value>]</value><value> Clojure's reader supports literal syntax for </value><value>maps</value><value>, sets, and </value><value>vectors</value><value> along with lists, and these are compiled to the mentioned structures directly.</value><value>[</value><value>21</value><value>]</value><value> Clojure treats </value><value>code as data</value><value> and has a </value><value>Lisp macro</value><value> system.</value><value>[</value><value>22</value><value>]</value><value> Clojure is a </value><value>Lisp-1</value><value> and is not intended to be code-compatible with other dialects of Lisp, since it uses its own set of data structures incompatible with other Lisps.</value><value>[</value><value>22</value><value>]</value><value> 
+</value><value>Clojure advocates </value><value>immutability</value><value> and </value><value>immutable data structures</value><value> and encourages programmers to be explicit about managing identity and its states.</value><value>[</value><value>23</value><value>]</value><value> This focus on programming with immutable values and explicit progression-of-time constructs is intended to facilitate developing more robust, especially </value><value>concurrent</value><value>, programs that are simple and fast.</value><value>[</value><value>24</value><value>]</value><value>[</value><value>25</value><value>]</value><value>[</value><value>17</value><value>]</value><value> While its type system is entirely </value><value>dynamic</value><value>, recent efforts have also sought the implementation of a </value><value>dependent type system</value><value>.</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>The language was created by </value><value>Rich Hickey</value><value> in the mid-2000s, originally for the Java platform; the language has since been ported to other platforms, such as the </value><value>Common Language Runtime</value><value> (.NET). Hickey continues to lead development of the language as its </value><value>benevolent dictator for life</value><value>.
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Rich Hickey, creator of Clojure</value><value>
+</value><value>Rich Hickey</value><value> is the creator of the Clojure language.</value><value>[</value><value>19</value><value>]</value><value> Before Clojure, he developed </value><value>dotLisp</value><value>, a similar project based on the </value><value>.NET</value><value> platform,</value><value>[</value><value>27</value><value>]</value><value> and three earlier attempts to provide interoperability between Lisp and </value><value>Java</value><value>: a </value><value>Java foreign language interface for </value><value>Common Lisp</value><value> (</value><value>jfli</value><value>),</value><value>[</value><value>28</value><value>]</value><value> A </value><value>Foreign Object Interface for Lisp</value><value> (FOIL),</value><value>[</value><value>29</value><value>]</value><value> and a </value><value>Lisp-friendly interface to Java Servlets</value><value> (Lisplets).</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>Hickey spent about two and a half years working on Clojure before releasing it publicly in October 2007,</value><value>[</value><value>31</value><value>]</value><value> much of that time working exclusively on Clojure with no outside funding. At the end of this time, Hickey sent an email announcing the language to some friends in the Common Lisp community.
+</value><value>Clojure's name, according to Hickey, is a </value><value>word play</value><value> on the programming concept "</value><value>closure</value><value>" incorporating the letters C, L, and J for </value><value>C#</value><value>, </value><value>Lisp</value><value>, and </value><value>Java</value><value> respectively—three languages which had a major influence on Clojure's design.</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>Design</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Rich Hickey developed Clojure because he wanted a modern </value><value>Lisp</value><value> for </value><value>functional programming</value><value>, symbiotic with the established </value><value>Java</value><value> platform, and designed for </value><value>concurrency</value><value>.</value><value>[</value><value>24</value><value>]</value><value>[</value><value>25</value><value>]</value><value>[</value><value>32</value><value>]</value><value>[</value><value>17</value><value>]</value><value> He has also stressed the importance of simplicity in programming language design and software architecture, advocating for </value><value>loose coupling</value><value>, </value><value>polymorphism</value><value> via </value><value>protocols and type classes</value><value> instead of </value><value>inheritance</value><value>, </value><value>stateless functions</value><value> that are </value><value>namespaced</value><value> instead of </value><value>methods</value><value> or </value><value>replacing syntax with data</value><value>.</value><value>[</value><value>33</value><value>]</value><value>[</value><value>34</value><value>]</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>Clojure's approach to </value><value>state</value><value> is characterized by the concept of identities,</value><value>[</value><value>23</value><value>]</value><value> which are represented as a series of immutable states over time. Since states are immutable values, any number of workers can operate on them in parallel, and concurrency becomes a question of managing changes from one state to another. For this purpose, Clojure provides several mutable </value><value>reference types</value><value>, each having well-defined semantics for the transition between states.</value><value>[</value><value>23</value><value>]</value><value>
+</value><value>Clojure runs on the </value><value>Java</value><value> platform and as a result, integrates with </value><value>Java</value><value> and fully supports calling Java code from Clojure,</value><value>[</value><value>36</value><value>]</value><value>[</value><value>17</value><value>]</value><value> and Clojure code can be called from Java, too.</value><value>[</value><value>37</value><value>]</value><value> The community uses tools such as Clojure </value><value>command-line interface</value><value> (CLI)</value><value>[</value><value>38</value><value>]</value><value> or </value><value>Leiningen</value><value> for project automation, providing support for </value><value>Maven</value><value> integration. These tools handle project package management and dependencies and are configured using Clojure syntax.
+</value><value>As a Lisp dialect, Clojure supports </value><value>functions</value><value> as </value><value>first-class objects</value><value>, a </value><value>read–eval–print loop</value><value> (REPL), and a macro system.</value><value>[</value><value>6</value><value>]</value><value> Clojure's </value><value>Lisp macro</value><value> system is very similar to that of </value><value>Common Lisp</value><value> with the exception that Clojure's version of the </value><value>backquote</value><value> (termed "syntax quote") qualifies symbols with their </value><value>namespace</value><value>. This helps prevent unintended name capture, as binding to namespace-qualified names is forbidden. It is possible to force a capturing macro expansion, but it must be done explicitly. Clojure does not allow user-defined reader macros, but the reader supports a more constrained form of syntactic extension.</value><value>[</value><value>39</value><value>]</value><value> Clojure supports </value><value>multimethods</value><value>[</value><value>40</value><value>]</value><value> and for </value><value>interface</value><value>-like abstractions has a </value><value>protocol</value><value>[</value><value>41</value><value>]</value><value> based polymorphism and data type system using </value><value>records</value><value>,</value><value>[</value><value>42</value><value>]</value><value> providing high-performance and dynamic polymorphism designed to avoid the </value><value>expression problem</value><value>.
+</value><value>Clojure has support for </value><value>lazy sequences</value><value> and encourages the principle of </value><value>immutability</value><value> and </value><value>persistent data structures</value><value>. As a </value><value>functional language</value><value>, emphasis is placed on </value><value>recursion</value><value> and </value><value>higher-order functions</value><value> instead of side-effect-based looping. Automatic </value><value>tail call</value><value> optimization is not supported as the JVM does not support it natively;</value><value>[</value><value>43</value><value>]</value><value>[</value><value>44</value><value>]</value><value>[</value><value>45</value><value>]</value><value> it is possible to do so explicitly by using the </value><value>recur</value><value> keyword.</value><value>[</value><value>46</value><value>]</value><value> For </value><value>parallel</value><value> and </value><value>concurrent</value><value> programming Clojure provides </value><value>software transactional memory</value><value>,</value><value>[</value><value>47</value><value>]</value><value> a reactive </value><value>agent system</value><value>,</value><value>[</value><value>1</value><value>]</value><value> and </value><value>channel</value><value>-based concurrent programming.</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>Clojure 1.7 introduced reader conditionals by allowing the embedding of Clojure, ClojureScript and ClojureCLR code in the same namespace.</value><value>[</value><value>49</value><value>]</value><value>[</value><value>21</value><value>]</value><value> Transducers were added as a method for composing transformations. Transducers enable higher-order functions such as </value><value>map</value><value> and </value><value>fold</value><value> to generalize over any source of input data. While traditionally these functions operate on </value><value>sequences</value><value>, transducers allow them to work on channels and let the user define their own models for transduction.</value><value>[</value><value>50</value><value>]</value><value>[</value><value>51</value><value>]</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>
+</value><value>Extensible Data Notation</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Extensible Data Notation</value><value>, or </value><value>edn</value><value>,</value><value>[</value><value>53</value><value>]</value><value> is a subset of the Clojure language intended as a data transfer format. It can be used to serialize and deserialize Clojure data structures, and Clojure itself uses a superset of edn to represent programs.
+</value><value>edn is used in a similar way to </value><value>JSON</value><value> or </value><value>XML</value><value>, but has a relatively large list of built-in elements, shown here with examples:
+</value><value>
+</value><value>booleans: </value><value>true</value><value>, </value><value>false</value><value>
+</value><value>strings: </value><value>"foo bar"</value><value>
+</value><value>characters: </value><value>\c</value><value>, </value><value>\tab</value><value>
+</value><value>symbols: </value><value>name</value><value>
+</value><value>keywords: </value><value>:key</value><value>
+</value><value>integers: </value><value>123</value><value>
+</value><value>floating point numbers: </value><value>3.14</value><value>
+</value><value>lists: </value><value>(a b 42)</value><value>
+</value><value>vectors: </value><value>[a b 42]</value><value>
+</value><value>maps: </value><value>{:a 1, "foo" :bar, [1 2 3] four}</value><value>
+</value><value>sets: </value><value>#{a b [1 2 3]}</value><value>
+</value><value>nil: </value><value>nil</value><value> (a </value><value>null-like</value><value> value)</value><value>
+</value><value>In addition to those elements, it supports extensibility through the use of </value><value>tags</value><value>, which consist of the character </value><value>#</value><value> followed by a symbol. When encountering a tag, the reader passes the value of the next element to the corresponding handler, which returns a data value. For example, this could be a tagged element: </value><value>#myapp/Person {:first "Fred" :last "Mertz"}</value><value>, whose interpretation will depend on the appropriate handler of the reader.
+</value><value>This definition of extension elements in terms of the others avoids relying on either convention or context to convey elements not included in the base set.
+</value><value>
+</value><value>Alternative platforms</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The primary platform of Clojure is </value><value>Java</value><value>,</value><value>[</value><value>20</value><value>]</value><value>[</value><value>36</value><value>]</value><value> but other target implementations exist. The most notable of these is ClojureScript,</value><value>[</value><value>54</value><value>]</value><value> which compiles to </value><value>ECMAScript</value><value> 3,</value><value>[</value><value>55</value><value>]</value><value> and ClojureCLR,</value><value>[</value><value>56</value><value>]</value><value> a full port on the </value><value>.NET</value><value> platform, interoperable with its ecosystem.
+</value><value>Other implementations of Clojure on different platforms include:
+</value><value>
+</value><value>Babashka,</value><value>[</value><value>57</value><value>]</value><value> Native Clojure scripting language leveraging </value><value>GraalVM</value><value> native image and Small Clojure Interpreter</value><value>
+</value><value>CljPerl,</value><value>[</value><value>58</value><value>]</value><value> Clojure on </value><value>Perl</value><value>
+</value><value>ClojureDart,</value><value>[</value><value>59</value><value>]</value><value> Extend Clojure's reach to mobile &amp; desktop apps by porting Clojure to Dart and Flutter</value><value>
+</value><value>Clojerl,</value><value>[</value><value>60</value><value>]</value><value> Clojure on </value><value>BEAM</value><value>, the </value><value>Erlang</value><value> </value><value>virtual machine</value><value>
+</value><value>basilisp,</value><value>[</value><value>61</value><value>]</value><value> A Clojure-compatible(-ish) Lisp dialect targeting Python 3.8+</value><value>
+</value><value>ClojureRS,</value><value>[</value><value>62</value><value>]</value><value> Clojure on </value><value>Rust</value><value>
+</value><value>Ferret,</value><value>[</value><value>63</value><value>]</value><value> compiles to self-contained C++11 that can run on microcontrollers</value><value>
+</value><value>jank,</value><value>[</value><value>64</value><value>]</value><value> Native Clojure hosted in C++ on an LLVM-based JIT</value><value>
+</value><value>Joker,</value><value>[</value><value>65</value><value>]</value><value> an interpreter and </value><value>linter</value><value> written in </value><value>Go</value><value>
+</value><value>Las3r,</value><value>[</value><value>66</value><value>]</value><value> a subset of Clojure that runs on the </value><value>ActionScript</value><value> Virtual Machine (the Adobe Flash Player platform)</value><value>
+</value><value>Pixie,</value><value>[</value><value>67</value><value>]</value><value> Clojure-inspired Lisp dialect written in </value><value>RPython</value><value>
+</value><value>Rouge,</value><value>[</value><value>68</value><value>]</value><value> Clojure on YARV in </value><value>Ruby</value><value>
+</value><value>Tools</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Tooling for Clojure development has seen significant improvement over the years. The following is a list of some popular </value><value>IDEs</value><value> and </value><value>text editors</value><value> with plug-ins that add support for programming in Clojure:</value><value>[</value><value>69</value><value>]</value><value>
+</value><value>
+</value><value>Emacs</value><value>, with CIDER</value><value>[</value><value>70</value><value>]</value><value>
+</value><value>IntelliJ IDEA</value><value>, with Cursive</value><value>[</value><value>71</value><value>]</value><value> (a free license is available for </value><value>non-commercial</value><value> use)</value><value>
+</value><value>Sublime Text</value><value>, with Clojure Sublimed,</value><value>[</value><value>72</value><value>]</value><value> or Tutkain,</value><value>[</value><value>73</value><value>]</value><value>
+</value><value>Vim</value><value>, with fireplace.vim,</value><value>[</value><value>74</value><value>]</value><value>[</value><value>75</value><value>]</value><value> vim-elin,</value><value>[</value><value>76</value><value>]</value><value> or Conjure (Neovim only)</value><value>[</value><value>77</value><value>]</value><value>[</value><value>78</value><value>]</value><value>
+</value><value>Visual Studio Code</value><value>, with Calva</value><value>[</value><value>79</value><value>]</value><value> or Clover</value><value>[</value><value>80</value><value>]</value><value>
+</value><value>IDE-agnostic (using the </value><value>Language Server Protocol</value><value> for </value><value>static analysis</value><value> and/or </value><value>linting</value><value>): clj-kondo</value><value>[</value><value>81</value><value>]</value><value> or clojure-lsp</value><value>[</value><value>82</value><value>]</value><value>
+</value><value>In addition to the tools provided by the community, the official Clojure </value><value>command-line interface</value><value> (CLI) tools</value><value>[</value><value>38</value><value>]</value><value> have also become available on </value><value>Linux</value><value>, </value><value>macOS</value><value>, and </value><value>Windows</value><value> since Clojure 1.9.</value><value>[</value><value>83</value><value>]</value><value>
+</value><value>
+</value><value>Development</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The development process is restricted to the Clojure core team, though issues are publicly visible at the Clojure </value><value>JIRA</value><value> project page.</value><value>[</value><value>84</value><value>]</value><value> Anyone can ask questions or submit issues and ideas at ask.clojure.org.</value><value>[</value><value>85</value><value>]</value><value> If it's determined that a new issue warrants a JIRA ticket, a core team member will triage it and add it. JIRA issues are processed by a team of screeners and finally approved by Rich Hickey.</value><value>[</value><value>86</value><value>]</value><value>[</value><value>87</value><value>]</value><value>
+</value><value>
+</value><value>Impact</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>With continued interest in functional programming, Clojure's adoption by software developers using the Java platform has continued to increase. The language has also been recommended by software developers such as Brian Goetz,</value><value>[</value><value>88</value><value>]</value><value>[</value><value>89</value><value>]</value><value>[</value><value>90</value><value>]</value><value> Eric Evans,</value><value>[</value><value>91</value><value>]</value><value>[</value><value>92</value><value>]</value><value> </value><value>James Gosling</value><value>,</value><value>[</value><value>93</value><value>]</value><value> </value><value>Paul Graham</value><value>,</value><value>[</value><value>94</value><value>]</value><value> and </value><value>Robert C. Martin</value><value>.</value><value>[</value><value>95</value><value>]</value><value>[</value><value>96</value><value>]</value><value>[</value><value>97</value><value>]</value><value>[</value><value>98</value><value>]</value><value> </value><value>ThoughtWorks</value><value>, while assessing functional programming languages for their Technology Radar,</value><value>[</value><value>99</value><value>]</value><value> described Clojure as "a simple, elegant implementation of Lisp on the JVM" in 2010 and promoted its status to "ADOPT" in 2012.</value><value>[</value><value>100</value><value>]</value><value>
+</value><value>In the "JVM Ecosystem Report 2018" (which was claimed to be "the largest survey ever of Java developers"), that was prepared in collaboration by Snyk and Java Magazine, ranked Clojure as the 2nd most used programming language on the JVM for "main applications".</value><value>[</value><value>101</value><value>]</value><value> Clojure is used in industry by firms</value><value>[</value><value>102</value><value>]</value><value> such as </value><value>Apple</value><value>,</value><value>[</value><value>103</value><value>]</value><value>[</value><value>104</value><value>]</value><value> </value><value>Atlassian</value><value>,</value><value>[</value><value>105</value><value>]</value><value> </value><value>Funding Circle</value><value>,</value><value>[</value><value>106</value><value>]</value><value> </value><value>Netflix</value><value>,</value><value>[</value><value>107</value><value>]</value><value> </value><value>Nubank</value><value>,</value><value>[</value><value>108</value><value>]</value><value> </value><value>Puppet</value><value>,</value><value>[</value><value>109</value><value>]</value><value> and </value><value>Walmart</value><value>[</value><value>110</value><value>]</value><value> as well as government agencies such as </value><value>NASA</value><value>.</value><value>[</value><value>111</value><value>]</value><value> It has also been used for creative computing, including visual art, music, games, and poetry.</value><value>[</value><value>112</value><value>]</value><value>
+</value><value>In the 2023 edition of </value><value>Stack Overflow</value><value> Developer Survey, Clojure was the fourth most </value><value>admired</value><value> in the category of programming and scripting languages, with 68.51% of the respondents who have worked with it last year saying they would like to continue using it. In the </value><value>desired</value><value> category, however it was marked as such by only 2.2% of the surveyed, whereas the highest scoring </value><value>JavaScript</value><value> was </value><value>desired</value><value> by 40.15% of the developers participating in the survey.</value><value>[</value><value>113</value><value>]</value><value> 
+</value><value>
+</value><value>Release history</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Version
+</value><value>
+</value><value>Release date
+</value><value>
+</value><value>Major features, improvements
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>October 17, 2007</value><value> (</value><value>2007-10-17</value><value>)</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>Initial public release
+</value><value>
+</value><value>
+</value><value>1.0
+</value><value>
+</value><value>May 4, 2009</value><value> (</value><value>2009-05-04</value><value>)</value><value>[</value><value>114</value><value>]</value><value>
+</value><value>
+</value><value>First stable release
+</value><value>
+</value><value>
+</value><value>1.1
+</value><value>
+</value><value>December 31, 2009</value><value> (</value><value>2009-12-31</value><value>)</value><value>[</value><value>115</value><value>]</value><value>
+</value><value>
+</value><value>Futures
+</value><value>
+</value><value>
+</value><value>1.2
+</value><value>
+</value><value>August 19, 2010</value><value> (</value><value>2010-08-19</value><value>)</value><value>[</value><value>116</value><value>]</value><value>
+</value><value>
+</value><value>Protocols
+</value><value>
+</value><value>
+</value><value>1.3
+</value><value>
+</value><value>September 23, 2011</value><value> (</value><value>2011-09-23</value><value>)</value><value>[</value><value>117</value><value>]</value><value>
+</value><value>
+</value><value>Enhanced primitive support
+</value><value>
+</value><value>
+</value><value>1.4
+</value><value>
+</value><value>April 15, 2012</value><value> (</value><value>2012-04-15</value><value>)</value><value>[</value><value>118</value><value>]</value><value>
+</value><value>
+</value><value>Reader literals
+</value><value>
+</value><value>
+</value><value>1.5
+</value><value>
+</value><value>March 1, 2013</value><value> (</value><value>2013-03-01</value><value>)</value><value>[</value><value>119</value><value>]</value><value>
+</value><value>
+</value><value>Reducers
+</value><value>
+</value><value>
+</value><value>1.5.1
+</value><value>
+</value><value>March 10, 2013</value><value> (</value><value>2013-03-10</value><value>)</value><value>[</value><value>120</value><value>]</value><value>
+</value><value>
+</value><value>Fixing a memory leak
+</value><value>
+</value><value>
+</value><value>1.6
+</value><value>
+</value><value>March 25, 2014</value><value> (</value><value>2014-03-25</value><value>)</value><value>[</value><value>121</value><value>]</value><value>
+</value><value>
+</value><value>Java API, improved hashing algorithms
+</value><value>
+</value><value>
+</value><value>1.7
+</value><value>
+</value><value>June 30, 2015</value><value> (</value><value>2015-06-30</value><value>)</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>
+</value><value>Transducers, reader conditionals
+</value><value>
+</value><value>
+</value><value>1.8
+</value><value>
+</value><value>January 19, 2016</value><value> (</value><value>2016-01-19</value><value>)</value><value>[</value><value>122</value><value>]</value><value>
+</value><value>
+</value><value>Additional string functions, direct linking, socket server
+</value><value>
+</value><value>
+</value><value>1.9
+</value><value>
+</value><value>December 8, 2017</value><value> (</value><value>2017-12-08</value><value>)</value><value>[</value><value>123</value><value>]</value><value>
+</value><value>
+</value><value>Integration with spec, command-line tools
+</value><value>
+</value><value>
+</value><value>1.10
+</value><value>
+</value><value>December 17, 2018</value><value> (</value><value>2018-12-17</value><value>)</value><value>[</value><value>124</value><value>]</value><value>
+</value><value>
+</value><value>Improved error reporting, Java compatibility
+</value><value>
+</value><value>
+</value><value>1.10.1
+</value><value>
+</value><value>June 6, 2019</value><value> (</value><value>2019-06-06</value><value>)</value><value>[</value><value>125</value><value>]</value><value>
+</value><value>
+</value><value>Working around a Java performance regression and improving error reporting from </value><value>clojure.main</value><value>
+</value><value>
+</value><value>
+</value><value>1.10.2
+</value><value>
+</value><value>January 26, 2021</value><value> (</value><value>2021-01-26</value><value>)</value><value>[</value><value>126</value><value>]</value><value>
+</value><value>
+</value><value>Java interoperability/compatibility improvements and other important language fixes
+</value><value>
+</value><value>
+</value><value>1.10.3
+</value><value>
+</value><value>March 4, 2021</value><value> (</value><value>2021-03-04</value><value>)</value><value>[</value><value>127</value><value>]</value><value>
+</value><value>
+</value><value>prepl support for reader conditionals
+</value><value>
+</value><value>
+</value><value>1.11.0
+</value><value>
+</value><value>March 22, 2022</value><value> (</value><value>2022-03-22</value><value>)</value><value>[</value><value>128</value><value>]</value><value>
+</value><value>
+</value><value>New syntax for keyword argument invocation, new </value><value>clojure.math</value><value> namespace, namespace aliasing without loading, and new helper functions added to </value><value>clojure.core</value><value>
+</value><value>
+</value><value>
+</value><value>1.11.1
+</value><value>
+</value><value>April 5, 2022</value><value> (</value><value>2022-04-05</value><value>)</value><value>[</value><value>129</value><value>]</value><value>
+</value><value>
+</value><value>Rolling back unintended change in binary serialisation of objects of types </value><value>clojure.lang.Keyword</value><value> and </value><value>clojure.lang.ArraySeq</value><value>.
+</value><value>
+</value><value>
+</value><value>1.11.2
+</value><value>
+</value><value>March 8, 2024</value><value> (</value><value>2024-03-08</value><value>)</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>
+</value><value>Fix for </value><value>CVE-2024-22871</value><value> </value><value>Denial of Service</value><value> vulnerability
+</value><value>
+</value><value>
+</value><value>Current stable version:</value><value> </value><value>1.12.0</value><value>
+</value><value>
+</value><value>September 5, 2024</value><value> (</value><value>2024-09-05</value><value>)</value><value>[</value><value>130</value><value>]</value><value>
+</value><value>
+</value><value>Java method values, params type hints, array class syntax, </value><value>add-lib</value><value>, </value><value>clojure.java.process</value><value>
+</value><value>
+</value><value>
+</value><value>Legend:</value><value>Old version</value><value>Old version, still maintained</value><value>Latest version</value><value>Latest preview version</value><value>Future release</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:1px solid var(--border-color-base,#a2a9b1);padding:0.1em;background:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}</value><value>
+</value><value>Free and open-source software portal</value><value>Computer programming portal</value><value>
+</value><value>List of JVM languages</value><value>
+</value><value>List of CLI languages</value><value>
+</value><value>Comparison of programming languages</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>"Agents and Asynchronous Actions"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Concurrent Programming"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich; contributors. </value><value>"core.async"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Functional Programming"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Nolen, David; Hickey, Rich. </value><value>"core.logic"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Macros"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Esterhazy, Paulus. </value><value>"Threading Macros Guide"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Miller, Alex (2024-03-08). </value><value>"Clojure 1.11.2 release"</value><value>. </value><value>Clojure.org</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Fogus, Michael (2011). </value><value>"Rich Hickey Q&amp;A"</value><value>. </value><value>CodeQuarterly.com</value><value>. Archived from </value><value>the original</value><value> on 2017-01-11.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2011). </value><value>"Simple Made Easy"</value><value>. </value><value>YouTube</value><value>.</value><value>[</value><value>better source needed</value><value>]</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Bonnaire-Sergeant, Ambrose (2012). </value><value>A Practical Optional Type System for Clojure</value><value> (Thesis). The University of Western Australia.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure Programming"</value><value> </value><value>(PDF)</value><value>. </value><value>OReilly.com</value><value>. Retrieved </value><value>2013-04-30</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich. </value><value>"Clojure Bookshelf"</value><value>. </value><value>Amazon.com</value><value>. Archived from </value><value>the original</value><value> on 2017-10-03</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Rose, Calvin; contributors. </value><value>"Janet Language"</value><value>. </value><value>Janet-Lang.org</value><value>. Retrieved </value><value>2023-02-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Baldridge, Timothy. </value><value>"Pixie"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2025-02-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Ramachandra, Ramkumar. </value><value>"Rhine"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>e</value><value> </value><value>Edwards, Kathryn (2009-08-10). </value><value>"The A-Z of Programming Languages: Clojure"</value><value>. </value><value>Computerworld.com.au</value><value>. Archived from </value><value>the original</value><value> on 2019-08-26.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Hickey, Rich (2009-01-05). </value><value>"meaning and pronunciation of Clojure"</value><value>. </value><value>Google.com</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Krill, Paul (2012-03-22). </value><value>"Clojure inventor Hickey now aims for Android"</value><value>. </value><value>InfoWorld.com</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Clojure"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>"The Reader"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Differences with other Lisps"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>"Values and Change: Clojure's approach to Identity and State"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Hickey, Rich. </value><value>"Rationale"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Torre, Charles (2009-10-06). </value><value>"Expert to Expert: Rich Hickey and Brian Beckman – Inside Clojure"</value><value>. </value><value>MSDN.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"clojure/spec.alpha"</value><value>. </value><value>GitHub</value><value>. 2017-04-26.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2002-10-16). </value><value>"[ANN] dotLisp: A Lisp dialect for .Net"</value><value>. </value><value>Google.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2013-04-15). </value><value>"jfli"</value><value>. </value><value>SourceForge.net</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2013-04-03). </value><value>"foil: Foreign Object Interface for Lisp"</value><value>. </value><value>SourceForge.net</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2013-03-07). </value><value>"Lisplets"</value><value>. </value><value>SourceForge.net</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Hickey, Rich (2020-06-12). </value><value>"A history of Clojure"</value><value>. </value><value>Proceedings of the ACM on Programming Languages</value><value>. </value><value>4</value><value> (HOPL): </value><value>1–</value><value>46. </value><value>doi</value><value>:</value><value>10.1145/3386321</value><value>. </value><value>S2CID</value><value> </value><value>219603760</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Elmendorf, Dirk (2010-04-01). </value><value>"Economy Size Geek – Interview with Rich Hickey, Creator of Clojure"</value><value>. </value><value>LinuxJournal.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Simple Made Easy"</value><value>. </value><value>InfoQ</value><value>. Retrieved </value><value>2024-05-02</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"(iterate think thoughts): Advantages of Data Oriented Programming"</value><value>. </value><value>yogthos.net</value><value>. Retrieved </value><value>2024-05-02</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"talk-transcripts/Hickey_Rich/EffectivePrograms.md at master · matthiasn/talk-transcripts"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2024-05-02</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Hosted on the JVM"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Java Interop"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Miller, Alex. </value><value>"Deps and CLI Guide"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-08</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich. </value><value>"edn"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Multimethods and Hierarchies"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Protocols"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Datatypes: deftype, defrecord and reify"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Goetz, Brian (2014-11-20). </value><value>"Stewardship: the Sobering Parts"</value><value>. </value><value>YouTube.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Rose, John (2007-07-12). </value><value>"tail calls in the VM"</value><value>. </value><value>Oracle.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Rose, John (2009-02-11). </value><value>"Some languages need to be able to perform tail calls"</value><value>. </value><value>Java.net</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Special Forms"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Refs and Transactions"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2013-06-28). </value><value>"Clojure core.async Channels"</value><value>. </value><value>Clojure.org</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Miller, Alex (2015-06-30). </value><value>"Clojure 1.7 is now available"</value><value>. </value><value>Clojure.org</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2014-09-17). </value><value>"Transducers"</value><value>. </value><value>YouTube.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2014-08-06). </value><value>"Transducers are Coming"</value><value>. </value><value>Cognitect.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2014-11-20). </value><value>"Inside Transducers"</value><value>. </value><value>YouTube.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Official EDN Spec"</value><value>. </value><value>edn-format.org</value><value>. 2022-04-27.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ClojureScript"</value><value>. </value><value>ClojureScript.org</value><value>. Retrieved </value><value>2019-07-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ClojureScript – FAQ (for JavaScript developers)"</value><value>. </value><value>ClojureScript.org</value><value>. Retrieved </value><value>2018-02-04</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ClojureCLR"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2012-06-28</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Borkent, Michiel. </value><value>"Babashka"</value><value>. </value><value>Babashka.org</value><value>. Retrieved </value><value>2019-08-19</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hu, Wei. </value><value>"A Lisp on Perl"</value><value>. </value><value>MetaCPAN.org</value><value>. Retrieved </value><value>2019-07-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"What is ClojureDart?"</value><value>, </value><value>GitHub</value><value>, Tensegritics, 2022-12-16</value><value>, retrieved </value><value>2022-12-16</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Facorro, Juan. </value><value>"Clojerl"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2019-07-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"basilisp"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2024-05-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ClojureRS"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2022-03-17</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Akkaya, Nurullah. </value><value>"Ferret"</value><value>. </value><value>Ferret-Lang.org</value><value>. Retrieved </value><value>2019-07-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Wilkerson, Jeaye. </value><value>"jank"</value><value>. </value><value>Jank-Lang.org</value><value>. Retrieved </value><value>2022-08-17</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Bataev, Roman. </value><value>"Joker"</value><value>. </value><value>Joker-Lang.org</value><value>. Retrieved </value><value>2019-07-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Cannon, Aemon. </value><value>"Laz3r"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2019-07-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Baldridge, Timothy. </value><value>"Pixie"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2025-02-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Connor, Ashe. </value><value>"Rouge"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2019-07-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Miller, Alex (2019-02-04). </value><value>"</value><value>"State of Clojure 2019" Results"</value><value>. </value><value>Clojure.org</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Batsov, Bozhidar; contributors. </value><value>"CIDER: The Clojure Interactive Development Environment that Rocks"</value><value>. </value><value>CIDER.mx</value><value>. Retrieved </value><value>2019-07-05</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Fleming, Colin. </value><value>"Cursive: Provides full Clojure and ClojureScript language support"</value><value>. </value><value>JetBrains.com</value><value>. Retrieved </value><value>2019-07-05</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Prokopov, Nikita. </value><value>"Clojure Sublimed"</value><value>. </value><value>PackageControl.io</value><value>. Retrieved </value><value>2023-02-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Helenius, Eero. </value><value>"Tutkain"</value><value>. </value><value>FlowThing.me</value><value>. Retrieved </value><value>2023-02-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Pope, Tim. </value><value>"fireplace.vim: Clojure REPL Support"</value><value>. </value><value>VIM.org</value><value>. Retrieved </value><value>2019-07-05</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Monroe, Dominic (2016-12-13). </value><value>"Clojure and Vim: An overview – It's very possible"</value><value>. </value><value>JUXT.pro</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Masashi, Iizuka (2024-04-29). </value><value>"vim-elin: A Clojure development environment for Vim/Neovim, primarily written in Babashka"</value><value>. </value><value>GitHub</value><value>. </value><value>Archived</value><value> from the original on 2024-05-02</value><value>. Retrieved </value><value>2024-05-02</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Caldwell, Oliver. </value><value>"Neovim Clojure(Script) tooling over prepl"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2019-11-09</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Caldwell, Oliver (2019-11-06). </value><value>"Getting started with Clojure, Neovim and Conjure in minutes"</value><value>. </value><value>oli.me.uk</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Strömberg, Peter. </value><value>"Calva: Clojure &amp; ClojureScript Interactive Programming"</value><value>. </value><value>VisualStudio.com</value><value>. Retrieved </value><value>2019-07-05</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Szabo, Maurício. </value><value>"Clover"</value><value>. </value><value>VisualStudio.com</value><value>. Retrieved </value><value>2021-01-28</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>clj-kondo/clj-kondo</value><value>, clj-kondo, 2024-04-30</value><value>, retrieved </value><value>2024-05-02</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Overview - Clojure LSP"</value><value>. </value><value>clojure-lsp.io</value><value>. Retrieved </value><value>2024-05-02</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Miller, Alex (2017-12-08). </value><value>"Clojure 1.9"</value><value>. </value><value>Cognitect.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure"</value><value>. </value><value>Atlassian.net</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure Forum"</value><value>. </value><value>clojure.org</value><value>. Retrieved </value><value>2020-03-20</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Hickey, Rich (2018-11-26). </value><value>"Open Source is Not About You"</value><value>. </value><value>GitHub</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Workflow"</value><value>. </value><value>Clojure.org</value><value>. Retrieved </value><value>2019-07-07</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Goetz, Brian (2020-05-24). </value><value>"Brian Goetz' favorite non-Java JVM language (Part 1 of 3)"</value><value>. </value><value>Twitch.tv</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Goetz, Brian (2020-05-24). </value><value>"Brian Goetz' favorite non-Java JVM language (Part 2 of 3)"</value><value>. </value><value>Twitch.tv</value><value>.</value><value>
+</value><value>
+</value>
