@@ -22408,4 +22408,1982 @@ Der Begriff wurde vermutlich 1995 von </value><value>Ken Manheimer</value><value
 </value><value>
 </value><value>↑</value><value> </value><value>"The king is dead. Long live the king! Meet Node's newest leader"</value><value>.</value><value>
 </value><value>
-</value><value>↑</value><value> </value><value>
+</value><value>↑</value><value> </value><value><?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><url>https://en.wikipedia.org/wiki/Benevolent_dictator_for_life</url><title>None</title><text><value>Title given to a small number of open-source software development leaders</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>For the political term, see </value><value>Benevolent dictatorship</value><value>.</value><value>
+</value><value>.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</value><value>This article </value><value>relies excessively on </value><value>references</value><value> to </value><value>primary sources</value><value>.</value><value> Please improve this article by adding </value><value>secondary or tertiary sources</value><value>. </value><value>Find sources:</value><value> </value><value>"Benevolent dictator for life"</value><value> – </value><value>news</value><value> </value><value>·</value><value> </value><value>newspapers</value><value> </value><value>·</value><value> </value><value>books</value><value> </value><value>·</value><value> </value><value>scholar</value><value> </value><value>·</value><value> </value><value>JSTOR</value><value>  </value><value>(</value><value>January 2025</value><value>)</value><value> (</value><value>Learn how and when to remove this message</value><value>)</value><value>
+</value><value>Benevolent dictator for life</value><value> (</value><value>BDFL</value><value>) is a title given to a small number of </value><value>open-source software development</value><value> leaders, typically project founders who retain the final say in disputes or arguments within the community. The phrase originated in 1995 with reference to </value><value>Guido van Rossum</value><value>, creator of the </value><value>Python programming language</value><value>.</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Shortly after Van Rossum joined the </value><value>Corporation for National Research Initiatives</value><value>, the term appeared in a follow-up mail by Ken Manheimer to a meeting trying to create a semi-formal group that would oversee Python development and workshops; this initial use included an additional joke of naming Van Rossum the "First Interim BDFL". According to Rossum, the title was most likely created by Ken Manheimer or </value><value>Barry Warsaw</value><value>.</value><value>[</value><value>1</value><value>]</value><value>
+</value><value>In July 2018, Van Rossum announced that he would be stepping down as BDFL of Python without appointing a successor, effectively eliminating the title within the Python community structure.</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>
+</value><value>Usage</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>BDFL should not be confused with the more common term for open-source leaders, "benevolent dictator", which was popularized by </value><value>Eric S. Raymond</value><value>'s essay "</value><value>Homesteading the Noosphere</value><value>" (1999).</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>Among other topics related to </value><value>hacker culture</value><value>, Raymond elaborates on how the nature of open source forces the "dictatorship" to keep itself benevolent, since a strong disagreement can lead to the </value><value>forking</value><value> of the project under the rule of new leaders.</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>Referent candidates</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>Key
+</value><value>
+</value><value>
+</value><value>†
+</value><value>
+</value><value>Deceased
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>Name
+</value><value>
+</value><value>Project
+</value><value>
+</value><value>Type
+</value><value>
+</value><value>Reference
+</value><value>
+</value><value>
+</value><value>Sylvain Benner
+</value><value>
+</value><value>Spacemacs</value><value>
+</value><value>
+</value><value>Community-driven </value><value>Emacs</value><value> distribution
+</value><value>
+</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Vitalik Buterin</value><value>
+</value><value>
+</value><value>Ethereum</value><value>
+</value><value>
+</value><value>Blockchain-based cryptocurrency
+</value><value>
+</value><value>[</value><value>6</value><value>]</value><value>[</value><value>better source needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Dries Buytaert</value><value>
+</value><value>
+</value><value>Drupal</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>François Chollet</value><value>
+</value><value>
+</value><value>Keras</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan Czaplicki
+</value><value>
+</value><value>Elm</value><value>
+</value><value>
+</value><value>Front-end web programming language
+</value><value>
+</value><value>[</value><value>9</value><value>]</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Laurent Destailleur
+</value><value>
+</value><value>Dolibarr ERP CRM</value><value>
+</value><value>
+</value><value>Software suite for </value><value>enterprise resource planning</value><value> and </value><value>customer relationship management</value><value>
+</value><value>
+</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>David Heinemeier Hansson</value><value>
+</value><value>
+</value><value>Ruby on Rails</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Rich Hickey</value><value>
+</value><value>
+</value><value>Clojure</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Adrian Holovaty</value><value> </value><value>and Jacob Kaplan-Moss
+</value><value>
+</value><value>Django</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Andrew Kelley
+</value><value>
+</value><value>Zig</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>15</value><value>]</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Xavier Leroy</value><value>
+</value><value>
+</value><value>OCaml</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>17</value><value>]</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Haoyuan Li</value><value>
+</value><value>
+</value><value>Alluxio</value><value>
+</value><value>
+</value><value>Data Orchestration System
+</value><value>
+</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Miles Lubin</value><value>
+</value><value>
+</value><value>JuMP</value><value>
+</value><value>
+</value><value>Mathematical optimization modeling language in Julia
+</value><value>
+</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Yukihiro Matsumoto (Matz)</value><value>
+</value><value>
+</value><value>Ruby</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>21</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Wes McKinney</value><value>
+</value><value>
+</value><value>Pandas</value><value>
+</value><value>
+</value><value>Python data analysis library
+</value><value>
+</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gavin Mendel-Gleason</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>
+</value><value>TerminusDB</value><value>
+</value><value>
+</value><value>Open-source graph database for knowledge graph representation
+</value><value>
+</value><value>[</value><value>23</value><value>]</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Moolenaar</value><value>†
+</value><value>
+</value><value>Vim</value><value>
+</value><value>
+</value><value>Text editor
+</value><value>
+</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Matt Mullenweg</value><value>[</value><value>b</value><value>]</value><value>
+</value><value>
+</value><value>WordPress</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Odersky</value><value>
+</value><value>
+</value><value>Scala</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>27</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Taylor Otwell
+</value><value>
+</value><value>Laravel</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>28</value><value>]</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Theo de Raadt</value><value>
+</value><value>
+</value><value>OpenBSD</value><value>
+</value><value>
+</value><value>A </value><value>Unix-like</value><value> operating system
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Arnold Robbins</value><value>
+</value><value>
+</value><value>Awk</value><value>, Gawk
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Eugen Rochko</value><value>
+</value><value>
+</value><value>Mastodon</value><value>
+</value><value>
+</value><value>Open source, decentralized social network
+</value><value>
+</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ton Roosendaal</value><value>[</value><value>c</value><value>]</value><value>
+</value><value>
+</value><value>Blender</value><value>
+</value><value>
+</value><value>3D computer graphics software
+</value><value>
+</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sébastien Ros
+</value><value>
+</value><value>Orchard Project</value><value>
+</value><value>
+</value><value>Content management system
+</value><value>
+</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Mark Shuttleworth</value><value>[</value><value>d</value><value>]</value><value>
+</value><value>
+</value><value>Ubuntu</value><value>
+</value><value>
+</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Soller
+</value><value>
+</value><value>Redox</value><value>
+</value><value>
+</value><value>Operating system
+</value><value>
+</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Don Syme</value><value>[</value><value>e</value><value>]</value><value>
+</value><value>
+</value><value>F#</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Linus Torvalds</value><value>[</value><value>f</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>
+</value><value>
+</value><value>Operating system kernel
+</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>[</value><value>37</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>José Valim
+</value><value>
+</value><value>Elixir</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Pauli Virtanen
+</value><value>
+</value><value>SciPy</value><value>
+</value><value>
+</value><value>Python</value><value> library used for scientific and technical computing
+</value><value>
+</value><value>[</value><value>39</value><value>]</value><value>[</value><value>40</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Patrick Volkerding</value><value>
+</value><value>
+</value><value>Slackware</value><value>
+</value><value>
+</value><value>GNU</value><value>/</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Nathan Voxland
+</value><value>
+</value><value>Liquibase</value><value>
+</value><value>
+</value><value>Database schema management
+</value><value>
+</value><value>[</value><value>42</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jimmy Wales</value><value>
+</value><value>
+</value><value>Wikimedia Foundation</value><value>
+</value><value>
+</value><value>Collaborative knowledge project
+</value><value>
+</value><value>[</value><value>43</value><value>]</value><value>[</value><value>i</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Walker
+</value><value>
+</value><value>Exercism</value><value>
+</value><value>
+</value><value>Open-source programming education platform
+</value><value>
+</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Shaun Walker
+</value><value>
+</value><value>DotNetNuke</value><value>
+</value><value>
+</value><value>Web application framework
+</value><value>
+</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Larry Wall</value><value>
+</value><value>
+</value><value>Perl</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan You</value><value>
+</value><value>
+</value><value>Vue.js</value><value>
+</value><value>
+</value><value>JavaScript MVVM framework for building user interfaces and single-page applications.
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Soumith Chintala
+</value><value>
+</value><value>PyTorch</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>47</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Traverso, Dain Sundstrom, David Phillips
+</value><value>
+</value><value>Trino</value><value>
+</value><value>
+</value><value>SQL query engine
+</value><value>
+</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Kohsuke Kawaguchi</value><value>
+</value><value>
+</value><value>Jenkins</value><value>
+</value><value>
+</value><value>Automation server
+</value><value>
+</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gabor de Mooij
+</value><value>
+</value><value>RedBeanPHP</value><value>
+</value><value>
+</value><value>Database object relational mapper
+</value><value>
+</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Cohen</value><value>
+</value><value>
+</value><value>BitTorrent</value><value>
+</value><value>
+</value><value>Peer-to-peer file sharing protocol
+</value><value>
+</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Walter Bright</value><value>
+</value><value>
+</value><value>D (programming language)</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ritchie Vink
+</value><value>
+</value><value>Polars
+</value><value>
+</value><value>Data analysis framework
+</value><value>
+</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>William Falcon
+</value><value>
+</value><value>PyTorch Lightning</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Lars Hvam
+</value><value>
+</value><value>abapGit
+</value><value>
+</value><value>Git client for ABAP
+</value><value>
+</value><value>[</value><value>54</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sebastián Ramírez
+</value><value>
+</value><value>FastAPI</value><value>
+</value><value>
+</value><value>Web framework for building APIs with </value><value>Python</value><value>
+</value><value>
+</value><value>[</value><value>55</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bill Hall (gingerBill)
+</value><value>
+</value><value>Odin
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>56</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Damien Elmes (dae)
+</value><value>
+</value><value>Anki</value><value>
+</value><value>
+</value><value>Spaced repetition</value><value> system
+</value><value>
+</value><value>[</value><value>57</value><value>]</value><value>[</value><value>58</value><value>]</value><value>
+</value><value>
+</value><value>Organizational positions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CTO of </value><value>TerminusDB</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Lead Developer at the WordPress Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chairman of the </value><value>Blender Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CEO of </value><value>Canonical Ltd.</value><value> until December 2009, again since July 2017</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Technical Advisor at the </value><value>F# Software Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Sponsee of the </value><value>Linux Foundation</value><value>. Also holds the trademark for Linux.</value><value>
+</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Design by dictator</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Disputed by Wales; </value><value>"I am not the benevolent dictator of anything"</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Guido van Rossum (2008-07-31). </value><value>"Origin of BDFL"</value><value>. Artima.com. </value><value>Archived</value><value> from the original on 2012-07-21</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Python Creator Scripts Inside Google"</value><value>. </value><value>eWeek</value><value>. 2006-03-06. </value><value>Archived</value><value> from the original on 2018-08-09</value><value>. Retrieved </value><value>2008-05-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Van Rossum, Guido (July 12, 2018). </value><value>"Transfer of power"</value><value>. </value><value>mail.python.org</value><value>. </value><value>Archived</value><value> from the original on July 12, 2018</value><value>. Retrieved </value><value>August 9,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric S. (2000). </value><value>"Homesteading the Noosphere § Project Structures and Ownership"</value><value>. </value><value>Eric S. Raymond's Home Page</value><value>. </value><value>Archived</value><value> from the original on 2012-07-01</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Spacemacs COMMUNITY.org"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-08-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Pearson, Jordan (24 April 2017). </value><value>"Ethereum's Boy King Is Thinking About Giving Up the Mantle"</value><value>. </value><value>Vice</value><value>. Retrieved </value><value>5 September</value><value> 2023</value><value>. </value><value>One participant called him a benevolent dictator.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Fay, Randy</value><value>. </value><value>"How Do Open Source Communities Govern Themselves? | RandyFay.comties Govern Themselves?"</value><value>. </value><value>randyfay.com</value><value>. Retrieved </value><value>27 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Keras API Special Interest Group, Leadership"</value><value>. </value><value>GitHub</value><value>. December 21, 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"56: Ember vs. Elm: The Showdown with Philip Poots | The Frontside Podcast"</value><value>. </value><value>The Frontside Podcast</value><value>. Archived from </value><value>the original</value><value> on November 16, 2018</value><value>. Retrieved </value><value>2017-08-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>elm-conf (2016-09-19), </value><value>"Code is the Easy Part" by Evan Czaplicki</value><value>, retrieved </value><value>2017-08-14</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Dolibarr project organization, different roles of actors"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Constine, Josh (December 7, 2012). </value><value>"Dropbox Hires Away Google's Guido Van Rossum, The Father Of Python"</value><value>. TechCrunch</value><value>. Retrieved </value><value>June 1,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure JIRA Workflow"</value><value>. Archived from </value><value>the original</value><value> on November 13, 2015</value><value>. Retrieved </value><value>3 October</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Adrian and Jacob retiring as Django BDFLs"</value><value>. Adrian Holovaty. January 12, 2014</value><value>. Retrieved </value><value>June 14,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal: Create a standard process for proposals"</value><value>. </value><value>GitHub</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Interfacing with Zig, a BDFL-run Project"</value><value>. </value><value>Loris Cro's Blog</value><value>. December 10, 2021</value><value>. Retrieved </value><value>April 14,</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A History of OCaml | OCaml.org"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"OCaml Infrastructure mailing list"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Introducing Alluxio Open Source Project Governance "</value><value>[1]</value><value>"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Governance Structure: JuMP"</value><value>. Retrieved </value><value>2023-09-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A Ruby Design Process"</value><value>. Retrieved </value><value>2016-04-17</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"pandas 0.20.3 documentation: Tutorials"</value><value>. Retrieved </value><value>2017-07-24</value><value>.</value><value> "Wes McKinney's (pandas BDFL) blog"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB, Twitter"</value><value>. May 6, 2020</value><value>. Retrieved </value><value>May 6,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB — what's in a name?"</value><value>. TerminusDB. August 21, 2019</value><value>. Retrieved </value><value>May 8,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Why Neovim is Better than Vim"</value><value>. January 15, 2015</value><value>. Retrieved </value><value>30 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Thesis, Automattic, and WordPress | Post Status"</value><value>. July 24, 2015</value><value>. Retrieved </value><value>2015-07-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Programming in Scala Leaps onto the World Stage!"</value><value>. Retrieved </value><value>2015-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Twitter"</value><value>. Taylor Otwell. October 9, 2014</value><value>. Retrieved </value><value>October 9,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Creator of the Laravel PHP Framework"</value><value>. </value><value>Facebook</value><value>. August 5, 2014</value><value>. Retrieved </value><value>August 5,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Robbins, Arnold (March 2014). </value><value>"The GNU Project and Me: 27 Years with GNU AWK"</value><value> </value><value>(PDF)</value><value>. </value><value>skeeve.com</value><value>. </value><value>Archived</value><value> </value><value>(PDF)</value><value> from the original on October 6, 2014</value><value>. Retrieved </value><value>August 11,</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Mastodon is crumbling—and many blame its creator"</value><value>. </value><value>The Daily Dot</value><value>. January 18, 2019.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Developer Intro/Overview"</value><value>. Retrieved </value><value>20 July</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Orchard Project Steering Committee"</value><value>. Archived from </value><value>the original</value><value> on August 12, 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Ubuntu carves niche in Linux landscape"</value><value>. </value><value>CNET</value><value>. Archived from </value><value>the original</value><value> on 6 November 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"CONTRIBUTING.md · master · redox-os / redox"</value><value>. July 8, 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Contributing to the F# Language and Compiler"</value><value>. Retrieved </value><value>29 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Dee-Ann LeBlanc (31 July 2006). </value><value>Linux For Dummies</value><value> (7th ed.). John Wiley &amp; Sons. p. 15. </value><value>ISBN</value><value> </value><value>978-0-470-04793-4</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Elixir Companies"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-11-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy 1.0.0"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy project governance"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Stories of Linux: A Look at Slackware Linux"</value><value>. </value><value>linux.com</value><value>. Archived from </value><value>the original</value><value> on October 30, 2014</value><value>. Retrieved </value><value>September 21,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"User and Developer Community | Post Status"</value><value>. Retrieved </value><value>2015-08-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chozick, Amy (June 27, 2013). </value><value>"Jimmy Wales is Not an Internet Billionaire"</value><value>. </value><value>The New York Times</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Jeremy Walker on Being the BDFL of Exercism by Humans of Open Source • A podcast on Anchor"</value><value>. </value><value>Anchor</value><value>. Retrieved </value><value>2021-03-26</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Book: Building Websites with DotNetNuke 5, Michael Washington and Ian Lackey, Packt Publishing. Page 14 "The core team comprises individuals invited to join the team by Shaun Walker, whom they affectionately call the "Benevolent Dictator".</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Art of Ballistic Programming"</value><value>. Archived from </value><value>the original</value><value> on June 17, 2013.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"PyTorch Governance | Maintainers — PyTorch 2.0 documentation"</value><value>. </value><value>pytorch.org</value><value>. Retrieved </value><value>2023-03-21</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Trino and the BDFL model </value><value>https://trino.io/blog/2023/04/06/trino-bdfl-focus.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Jenkins Enhancement Proposal #1: BDFL </value><value>https://github.com/jenkinsci/jep/blob/master/jep/1/README.adoc#bdfl</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>RedBeanPHP index page </value><value>https://redbeanphp.com/index.php?p=/welcome#sponsor</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>BitTorrent Enhancement Proposal #1: The BEP Process </value><value>https://www.bittorrent.org/beps/bep_0001.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Polars - About us"</value><value>. 2024-04-07. </value><value>Archived</value><value> from the original on 2024-03-24.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Lightning Governance — PyTorch Lightning 2.3.0dev documentation"</value><value>. </value><value>lightning.ai</value><value>. Retrieved </value><value>2024-04-10</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Addressing the Future of ABAP: The Power of Open Source"</value><value>. 2024-06-06.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GitHub FastAPI"</value><value>. 2024-07-30.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal Process"</value><value>. 2019-03-31.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ankitects Github organization"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki development discussion"</value><value>. </value><value>Reddit</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Benevolent_dictator_for_life&amp;oldid=1291833462</value><value>"</value></text><lastUpdated> 23 May 2025, at 17:51</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Zig_(programming_language)</url><title>None</title><text><value>General-purpose programming language</value><value>
+</value><value>.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table&gt;caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table&gt;tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</value><value>Zig</value><value>Paradigms</value><value>Multi-paradigm</value><value>: </value><value>imperative</value><value>, </value><value>concurrent</value><value>, </value><value>procedural</value><value>, </value><value>functional</value><value>Designed by</value><value>Andrew Kelley</value><value>First appeared</value><value>8 February 2016</value><value>; 9 years ago</value><value> (</value><value>2016-02-08</value><value>)</value><value>[</value><value>1</value><value>]</value><value>Stable release</value><value>0.14.1</value><value>[</value><value>2</value><value>]</value><value> </value><value>
+   / 21 May 2025</value><value>; 50 days ago</value><value> (</value><value>21 May 2025</value><value>)</value><value>
+</value><value>Typing discipline</value><value>Static</value><value>, </value><value>strong</value><value>, </value><value>inferred</value><value>, </value><value>structural</value><value>, </value><value>generic</value><value>Memory management</value><value>Manual</value><value>Implementation language</value><value>Zig</value><value>Platform</value><value>x86-64</value><value>, </value><value>ARM64</value><value>, </value><value>WebAssembly</value><value>Tier 2: </value><value>ARM</value><value>, </value><value>IA-32</value><value>, </value><value>RISC-V</value><value>, </value><value>MIPS64</value><value>, </value><value>POWERPC64</value><value>, </value><value>SPARC64</value><value>, some tier-2 platforms have tier-1 support for </value><value>standalone programs</value><value>OS</value><value>Cross-platform</value><value>: </value><value>Linux</value><value>, </value><value>macOS</value><value>, </value><value>FreeBSD</value><value>, </value><value>Windows</value><value>License</value><value>MIT</value><value>Filename extensions</value><value>.zig, .zir, .zigr, .zon</value><value>Website</value><value>ziglang</value><value>.org</value><value>Influenced by</value><value>C</value><value>, </value><value>C++</value><value>, </value><value>LLVM IR</value><value>, </value><value>Go</value><value>, </value><value>Rust</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>[</value><value>6</value><value>]</value><value>
+</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>Zig</value><value> is an </value><value>imperative</value><value>, </value><value>general-purpose</value><value>, </value><value>statically typed</value><value>, </value><value>compiled</value><value> </value><value>system</value><value> </value><value>programming language</value><value> designed by Andrew Kelley.</value><value>[</value><value>11</value><value>]</value><value> It is </value><value>free and open-source software</value><value>, released under an </value><value>MIT License</value><value>.</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>A major goal of the language is to improve on the </value><value>C language</value><value>[</value><value>13</value><value>]</value><value>[</value><value>14</value><value>]</value><value> (also taking inspiration from </value><value>Rust</value><value>[</value><value>15</value><value>]</value><value>[</value><value>16</value><value>]</value><value>), with the intent of being even smaller and simpler to program in, while offering more functionality.</value><value>[</value><value>17</value><value>]</value><value> The improvements in language simplicity relate to flow control, </value><value>function calls</value><value>, </value><value>library</value><value> imports, </value><value>variable declaration</value><value> and </value><value>Unicode</value><value> support. Further, the language makes no use of </value><value>macros</value><value> or </value><value>preprocessor</value><value> instructions. Features adopted from modern languages include the addition of </value><value>compile time</value><value> </value><value>generic programming</value><value> </value><value>data types</value><value>, allowing functions to work on a variety of data, along with a small set of new </value><value>compiler</value><value> directives to allow access to the information about those types using </value><value>reflective programming</value><value> (reflection).</value><value>[</value><value>18</value><value>]</value><value> Like C, Zig omits </value><value>garbage collection</value><value>, and has </value><value>manual memory management</value><value>.</value><value>[</value><value>18</value><value>]</value><value> To help eliminate the potential errors that arise in such systems, it includes </value><value>option types</value><value>, a simple </value><value>syntax</value><value> for using them, and a </value><value>unit testing</value><value> framework built into the language. Zig has many features for </value><value>low-level programming</value><value>, notably packed structs (structs without padding between fields), arbitrary-width integers</value><value>[</value><value>19</value><value>]</value><value> and multiple pointer types.</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>The main drawback of the system is that, although Zig has a growing community, as of 2025, it remains a new language with areas for improvement in maturity, ecosystem and tooling.</value><value>[</value><value>21</value><value>]</value><value> Also the learning curve for Zig can be steep, especially for those unfamiliar with low-level programming concepts.</value><value>[</value><value>21</value><value>]</value><value> The availability of learning resources is limited for complex use cases, though this is gradually improving as interest and adoption increase.</value><value>[</value><value>21</value><value>]</value><value> Other challenges mentioned by the reviewers are interoperability with other languages (extra effort to manage data marshaling and communication is required), as well as manual memory deallocation (disregarding proper memory management results directly in memory leaks).</value><value>[</value><value>21</value><value>]</value><value>
+</value><value>The development is funded by the Zig Software Foundation (ZSF), a non-profit corporation with Andrew Kelley as president, which accepts donations and hires multiple full-time employees.</value><value>[</value><value>22</value><value>]</value><value>[</value><value>23</value><value>]</value><value>[</value><value>24</value><value>]</value><value> Zig has very active contributor community, and is still in its early stages of development.</value><value>[</value><value>25</value><value>]</value><value> Despite this, a </value><value>Stack Overflow</value><value> survey in 2024 found that Zig software developers earn salaries of $103,000 USD per year on average, making it one of the best-paying programming languages.</value><value>[</value><value>26</value><value>]</value><value> However, only 0.83% reported they were proficient in Zig.</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Language</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Goals</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The primary goal of Zig is to be a better solution to the sorts of tasks that are currently solved with C. A primary concern in that respect is readability; Zig attempts to use existing concepts and syntax wherever possible, avoiding the addition of different syntax for similar concepts. Further, it is designed for "robustness, optimality and maintainability", including a variety of features to improve safety, optimization, and testing. The small and simple syntax is an important part of the maintenance, as it is a goal of the language to allow maintainers to debug the code without having to learn the intricacies of a language they might not be familiar with.</value><value>[</value><value>27</value><value>]</value><value> Even with these changes, Zig can compile into and against existing C code; C headers can be included in a Zig project and their functions called, and Zig code can be linked into C projects by including the compiler-built headers.</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>In keeping with the overall design philosophy of making the code simple and easy to read, the Zig system as a whole also encompasses a number of stylistic changes compared to C and other C-like languages. For instance, the </value><value>Rust</value><value> language has </value><value>operator overloading</value><value> which means a statement like </value><value>a = b + c</value><value> might actually be a function call to a type’s overloaded version of the plus operator. Further, that function might panic which might pre-empt any following code. In Zig, if something calls a function, it looks like a function call; if it doesn’t, it doesn’t look like a function call. If it can raise an error, it is explicit in the syntax,</value><value>[</value><value>16</value><value>]</value><value> error handling is handled through error types and can be handled with </value><value>catch</value><value> or </value><value>try</value><value>.
+</value><value>The goals of Zig are in contrast to those of many other languages designed in the same time period, like </value><value>Rust</value><value>, </value><value>Carbon</value><value>, and </value><value>Nim</value><value>. Generally, these languages are more complex with added features like </value><value>operator overloading</value><value>, functions that masquerade as values (properties), and many other features intended to aid in building large programs. These sorts of features have more in common with C++’s approach, and these languages are more along the lines of that language.</value><value>[</value><value>16</value><value>]</value><value> Zig has a more conservative extension of the type system, supporting compile time generics and accommodating a form of </value><value>duck typing</value><value> with the </value><value>comptime</value><value> directive.
+</value><value>
+</value><value>Memory handling</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>One of the primary sources of </value><value>bugs</value><value> in C programs is the </value><value>memory management</value><value> system, based on </value><value>malloc</value><value>. malloc sets aside a block of memory for use in the code and returns a reference to that memory as a </value><value>pointer</value><value>. There is no system to ensure that memory is released when the program no longer needs it, which can lead to programs using up all available memory, a </value><value>memory leak</value><value>. More common is a </value><value>dangling pointer</value><value> that does not refer to a properly allocated memory object.</value><value>[</value><value>28</value><value>]</value><value>
+</value><value>A common solution to these problems is a </value><value>garbage collector</value><value> (GC), which examines the program for pointers to previously allocated memory, and removing any blocks that no longer have anything pointing to them. Although this greatly reduces, or even eliminates, memory errors, GC systems are relatively slow compared to manual memory management</value><value>[</value><value>citation needed</value><value>]</value><value>, and have unpredictable performance that makes them unsuited to </value><value>systems programming</value><value>. Another solution is </value><value>automatic reference counting</value><value> (ARC), which implements the same basic concept of identifying blocks of disused memory, but does so at pointer creation and destruction time by maintaining the number of pointers to a block, meaning there is no need to perform exhaustive pointer searches, which are rendered unnecessary at the cost of adding reference counter adjustment overhead to every pointer creation and destruction operation.</value><value>[</value><value>28</value><value>]</value><value>
+</value><value>Zig aims to provide performance similar to or better than C, so GC and ARC are not suitable solutions. Instead, it uses a modern,</value><value>[</value><value>citation needed</value><value>]</value><value> as of 2022</value><value>[update]</value><value>, concept known as </value><value>option types</value><value>. Instead of a pointer being allowed to point to nothing, or nil, a separate type is used to indicate data that is optionally empty. This is similar to using a structure with a pointer and a boolean that indicates whether the pointer is valid, but the state of the boolean is invisibly managed by the language and does not need to be explicitly managed by the programmer. So, for instance, when the pointer is declared it is set to "unallocated", and when that pointer receives a value from a malloc, it is set to "allocated" if the malloc succeeded.</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>The advantage to this model is that it has very low or zero overhead; the compiler has to create the code to pass along the optional type when pointers are manipulated, as opposed to a simple pointer, but this allows it to directly express possible memory problems at compile time with no runtime support. For instance, creating a pointer with a null value and then attempting to use it is perfectly acceptable in C, leading to null-pointer errors. In contrast, a language using optional types can check that all code paths only attempt to use pointers when they are valid. While this does not eliminate all potential problems, when issues do occur at runtime the error can be more precisely located and explained.</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>Another change for memory management in Zig is that the actual allocation is handled through </value><value>struct</value><value>s describing the action, as opposed to calling the memory management functions in </value><value>libc</value><value>. For instance, in C if one wants to write a function that makes a string containing multiple copies of another string, the function might look like this:
+</value><value>
+</value><value>const</value><value> </value><value>char</value><value>*</value><value> </value><value>repeat</value><value>(</value><value>const</value><value> </value><value>char</value><value>*</value><value> </value><value>original</value><value>,</value><value> </value><value>size_t</value><value> </value><value>times</value><value>);</value><value>
+</value><value>
+</value><value>In the code, the function would examine the size of </value><value>original</value><value> and then malloc </value><value>times</value><value> that length to set aside memory for the string it will build. That malloc is invisible to the functions calling it, if they fail to later release the memory, a leak will occur. In Zig, this might be handled using a function like:
+</value><value>
+</value><value>fn</value><value> </value><value>repeat</value><value>(</value><value>allocator</value><value>:</value><value> </value><value>std</value><value>.</value><value>mem</value><value>.</value><value>Allocator</value><value>,</value><value> </value><value>original</value><value>:</value><value> </value><value>[]</value><value>const</value><value> </value><value>u8</value><value>,</value><value> </value><value>times</value><value>:</value><value> </value><value>usize</value><value>)</value><value> </value><value>std</value><value>.</value><value>mem</value><value>.</value><value>Allocator</value><value>.</value><value>Error</value><value>!</value><value>[]</value><value>const</value><value> </value><value>u8</value><value>;</value><value>
+</value><value>
+</value><value>In this code, the </value><value>allocator</value><value> variable is passed a struct that describes what code should perform the allocation, and the </value><value>repeat</value><value> function returns either the resulting string or, using the optional type as indicated by the </value><value>!</value><value>, an Allocator.Error. By directly expressing the allocator as an input, memory allocation is never "hidden" within another function, it is always exposed to the API by the function that is ultimately calling for the memory to be allocated. No allocations are performed inside Zig’s </value><value>standard library</value><value>. Further, as the struct can point to anything, one can use alternative allocators, even ones written in the program. This can allow, for instance, small-object allocators that do not use the </value><value>operating system</value><value> functions that normally allocate an entire </value><value>memory page</value><value>.</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>Optional types are an example of a language feature that offers general functionality while still being simple and generic. They do not have to be used to solve null pointer problems; they are also useful for any type of value where "no value" is an appropriate answer. Consider a function </value><value>countTheNumberOfUsers</value><value> that returns an integer, and an integer variable, </value><value>theCountedUsers</value><value> that holds the result. In many languages, a </value><value>magic number</value><value> would be placed in </value><value>theCountedUsers</value><value> to indicate that </value><value>countTheNumberOfUsers</value><value> has not yet been called, while many implementations would just set it to zero. In Zig, this could be implemented as an </value><value>var</value><value> </value><value>theCountedUsers</value><value>:</value><value> </value><value>?</value><value>i32</value><value> </value><value>=</value><value> </value><value>null</value><value> which sets the variable to a clear "not been called" value.</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>Another more general feature of Zig that also helps manage memory problems is the concept of </value><value>defer</value><value>, which marks some code to be performed at the end of a function no matter what happens, including possible runtime errors. If a particular function allocates some memory and then disposes of it when the operation is complete, one can add a line to defer a </value><value>free</value><value> to ensure it is released no matter what happens.</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>Zig memory management avoids hidden allocations. Allocation is not managed in the language directly. Instead, heap access is done via the </value><value>standard library</value><value>, explicitly.</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>Direct interaction with C</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Zig promotes a gradual approach to portability that combines new Zig code with existing C code. To do this, it aims to make interaction with existing C libraries as seamless as possible. Zig imports its own libraries with the </value><value>@import</value><value> directive, typically in this fashion:
+</value><value>
+</value><value>const</value><value> </value><value>std</value><value> </value><value>=</value><value> </value><value>@import</value><value>(</value><value>"std"</value><value>);</value><value>
+</value><value>
+</value><value>Zig code within that file can now call functions inside std, for instance:
+</value><value>
+</value><value>std</value><value>.</value><value>debug</value><value>.</value><value>print</value><value>(</value><value>"Hello, world!</value><value>\n</value><value>"</value><value>,</value><value> </value><value>.{});</value><value>
+</value><value>
+</value><value>To work with C code, one simply replaces the </value><value>@import</value><value> with </value><value>@cImport</value><value>:
+</value><value>
+</value><value>const</value><value> </value><value>c</value><value> </value><value>=</value><value> </value><value>@cImport</value><value>(</value><value>@cInclude</value><value>(</value><value>"soundio/soundio.h"</value><value>));</value><value>
+</value><value>
+</value><value>The Zig code can now call functions in the soundio library as if they were native Zig code. As Zig uses new data types that are explicitly defined, unlike C’s more generic </value><value>int</value><value> and </value><value>float</value><value>, a small number of directives are used to move data between the C and Zig types, including </value><value>@intCast</value><value> and </value><value>@ptrCast</value><value>.</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>Comptime</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>By using the </value><value>comptime</value><value> keyword, the programmer can explicitly have Zig evaluate sections of code at </value><value>compile time</value><value>, as opposed to </value><value>runtime</value><value>. Being able to run code at compile time allows Zig to have the functionality of </value><value>macros</value><value> and </value><value>conditional compilation</value><value> without the need for a separate </value><value>preprocessor</value><value> language.</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>During compile time, types become </value><value>first-class citizens</value><value>. This enables compile-time </value><value>duck typing</value><value>, and is how Zig implements generic types.</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>For instance, in Zig, a generic </value><value>linked list</value><value> type might be implemented using a function like:
+</value><value>
+</value><value>fn</value><value> </value><value>LinkedList</value><value>(</value><value>comptime</value><value> </value><value>T</value><value>:</value><value> </value><value>type</value><value>)</value><value> </value><value>type</value><value>;</value><value>
+</value><value>
+</value><value>This function takes in some type </value><value>T</value><value>, and returns a custom </value><value>struct</value><value> defining a linked list with that data type.
+</value><value>
+</value><value>Compiler</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Zig also includes a C and C++ compiler, and can be used with either or both languages by leveraging with the commands </value><value>zig cc</value><value> and </value><value>zig c++</value><value>,</value><value>[</value><value>33</value><value>]</value><value> providing many headers including the </value><value>C standard library</value><value> (libc) and </value><value>C++ Standard Library</value><value> (libcxx) for many different platforms. This allows Zig’s </value><value>cc</value><value> and </value><value>c++</value><value> sub-commands to act as </value><value>cross compilers</value><value> out of the box (similarly to </value><value>Clang</value><value>).</value><value>[</value><value>34</value><value>]</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>Zig treats cross-compiling as a first-class use-case of the language.</value><value>[</value><value>18</value><value>]</value><value> This means any Zig compiler can compile runnable binaries for any of its target platforms, of which there are dozens. These include not only widely-used modern systems like </value><value>ARM</value><value> and </value><value>x86-64</value><value>, but also </value><value>PowerPC</value><value>, </value><value>SPARC</value><value>, </value><value>MIPS</value><value>, </value><value>RISC-V</value><value>, </value><value>LoongArch64</value><value> and even the IBM </value><value>z/Architectures</value><value> (S390). The toolchain can compile to any of these targets without installing additional software, all the needed support is in the basic system.</value><value>[</value><value>31</value><value>]</value><value> The experimental support is also provided for less known platforms like AMD and Nvidia GPUs or PlayStation 4 and 5 (with various degree of support).
+</value><value>Cross-compilation is also available for variety of the operating systems (mostly desktop ones). Popular UNIX-like ones and Windows are officially supported (and documented), but (minimal) applications can and have been made for Android (with </value><value>Android NDK</value><value>) or </value><value>iOS</value><value>.
+</value><value>Zig uses </value><value>LLVM</value><value> (written in C++) as a backend for optimization. Since version 0.10 the Zig compiler is written in the Zig programming language, i.e., it is a </value><value>self-hosting compiler</value><value>. The self-hosted linker is tightly coupled with the self-hosted compiler.
+</value><value>The LLVM backend is the default for most targets, except for </value><value>SPIR-V</value><value>. Zig also supports their self-hosted backend which can be enabled by using </value><value>-fno-llvm</value><value>.
+</value><value>
+</value><value>Packages</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Version 0.11.0 bundles an experimental </value><value>package manager</value><value>, but no official </value><value>package repository</value><value> is available. Instead a package is simply a URL that points to a </value><value>compressed file</value><value>, or a </value><value>Git</value><value> </value><value>repository</value><value>. Each package ideally includes a standard </value><value>build.zig</value><value> file (that the Zig compiler uses by convention to compile the source code) and a </value><value>build.zig.zon</value><value> file containing metadata with name and version of the package.
+</value><value>
+</value><value>Examples</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Hello World</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>const</value><value> </value><value>std</value><value> </value><value>=</value><value> </value><value>@import</value><value>(</value><value>"std"</value><value>);</value><value>
+
+</value><value>pub</value><value> </value><value>fn</value><value> </value><value>main</value><value>()</value><value> </value><value>void</value><value> </value><value>{</value><value>
+</value><value>    </value><value>std</value><value>.</value><value>debug</value><value>.</value><value>print</value><value>(</value><value>"Hello, World!</value><value>\n</value><value>"</value><value>,</value><value> </value><value>.{});</value><value>
+</value><value>}</value><value>
+</value><value>
+</value><value>Generic linked list</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>const</value><value> </value><value>std</value><value> </value><value>=</value><value> </value><value>@import</value><value>(</value><value>"std"</value><value>);</value><value>
+</value><value>const</value><value> </value><value>stdout</value><value> </value><value>=</value><value> </value><value>std</value><value>.</value><value>io</value><value>.</value><value>getStdOut</value><value>().</value><value>writer</value><value>();</value><value>
+
+</value><value>fn</value><value> </value><value>LinkedList</value><value>(</value><value>comptime</value><value> </value><value>T</value><value>:</value><value> </value><value>type</value><value>)</value><value> </value><value>type</value><value> </value><value>{</value><value>
+</value><value>    </value><value>return</value><value> </value><value>struct</value><value> </value><value>{</value><value>
+</value><value>        </value><value>const</value><value> </value><value>Self</value><value> </value><value>=</value><value> </value><value>@This</value><value>();</value><value>
+
+</value><value>        </value><value>pub</value><value> </value><value>const</value><value> </value><value>Node</value><value> </value><value>=</value><value> </value><value>struct</value><value> </value><value>{</value><value>
+</value><value>            </value><value>next</value><value>:</value><value> </value><value>?*</value><value>Node</value><value> </value><value>=</value><value> </value><value>null</value><value>,</value><value>
+</value><value>            </value><value>data</value><value>:</value><value> </value><value>T</value><value>,</value><value>
+</value><value>        </value><value>};</value><value>
+
+</value><value>        </value><value>first</value><value>:</value><value> </value><value>?*</value><value>Node</value><value> </value><value>=</value><value> </value><value>null</value><value>,</value><value>
+
+</value><value>        </value><value>pub</value><value> </value><value>fn</value><value> </value><value>prepend</value><value>(</value><value>
+</value><value>            </value><value>list</value><value>:</value><value> </value><value>*</value><value>Self</value><value>,</value><value>
+</value><value>            </value><value>new_node</value><value>:</value><value> </value><value>*</value><value>Node</value><value>,</value><value>
+</value><value>        </value><value>)</value><value> </value><value>void</value><value> </value><value>{</value><value>
+</value><value>            </value><value>new_node</value><value>.</value><value>next</value><value> </value><value>=</value><value> </value><value>list</value><value>.</value><value>first</value><value>;</value><value>
+</value><value>            </value><value>list</value><value>.</value><value>first</value><value> </value><value>=</value><value> </value><value>new_node</value><value>;</value><value>
+</value><value>        </value><value>}</value><value>
+
+</value><value>        </value><value>pub</value><value> </value><value>fn</value><value> </value><value>format</value><value>(</value><value>
+</value><value>            </value><value>list</value><value>:</value><value> </value><value>Self</value><value>,</value><value>
+</value><value>            </value><value>comptime</value><value> </value><value>fmt</value><value>:</value><value> </value><value>[]</value><value>const</value><value> </value><value>u8</value><value>,</value><value>
+</value><value>            </value><value>options</value><value>:</value><value> </value><value>std</value><value>.</value><value>fmt</value><value>.</value><value>FormatOptions</value><value>,</value><value>
+</value><value>            </value><value>out_stream</value><value>:</value><value> </value><value>anytype</value><value>,</value><value>
+</value><value>        </value><value>)</value><value> </value><value>!</value><value>void</value><value> </value><value>{</value><value>
+</value><value>            </value><value>try</value><value> </value><value>out_stream</value><value>.</value><value>writeAll</value><value>(</value><value>"( "</value><value>);</value><value>
+
+</value><value>            </value><value>var</value><value> </value><value>it</value><value> </value><value>=</value><value> </value><value>list</value><value>.</value><value>first</value><value>;</value><value>
+</value><value>            </value><value>while</value><value> </value><value>(</value><value>it</value><value>)</value><value> </value><value>|</value><value>node</value><value>|</value><value> </value><value>:</value><value> </value><value>(</value><value>it</value><value> </value><value>=</value><value> </value><value>node</value><value>.</value><value>next</value><value>)</value><value> </value><value>{</value><value>
+</value><value>                </value><value>try</value><value> </value><value>std</value><value>.</value><value>fmt</value><value>.</value><value>formatType</value><value>(</value><value>
+</value><value>                    </value><value>node</value><value>.</value><value>data</value><value>,</value><value>
+</value><value>                    </value><value>fmt</value><value>,</value><value>
+</value><value>                    </value><value>options</value><value>,</value><value>
+</value><value>                    </value><value>out_stream</value><value>,</value><value>
+</value><value>                    </value><value>1</value><value>,</value><value>
+</value><value>                </value><value>);</value><value>
+
+</value><value>                </value><value>try</value><value> </value><value>out_stream</value><value>.</value><value>writeAll</value><value>(</value><value>" "</value><value>);</value><value>
+</value><value>            </value><value>}</value><value>
+
+</value><value>            </value><value>try</value><value> </value><value>out_stream</value><value>.</value><value>writeAll</value><value>(</value><value>")"</value><value>);</value><value>
+</value><value>        </value><value>}</value><value>
+</value><value>    </value><value>};</value><value>
+</value><value>}</value><value>
+
+</value><value>pub</value><value> </value><value>fn</value><value> </value><value>main</value><value>()</value><value> </value><value>!</value><value>void</value><value> </value><value>{</value><value>
+</value><value>    </value><value>const</value><value> </value><value>ListU32</value><value> </value><value>=</value><value> </value><value>LinkedList</value><value>(</value><value>u32</value><value>);</value><value>
+
+</value><value>    </value><value>var</value><value> </value><value>list</value><value> </value><value>=</value><value> </value><value>ListU32</value><value>{};</value><value>
+</value><value>    </value><value>var</value><value> </value><value>node1</value><value> </value><value>=</value><value> </value><value>ListU32</value><value>.</value><value>Node</value><value>{</value><value> </value><value>.</value><value>data</value><value> </value><value>=</value><value> </value><value>1</value><value> </value><value>};</value><value>
+</value><value>    </value><value>var</value><value> </value><value>node2</value><value> </value><value>=</value><value> </value><value>ListU32</value><value>.</value><value>Node</value><value>{</value><value> </value><value>.</value><value>data</value><value> </value><value>=</value><value> </value><value>2</value><value> </value><value>};</value><value>
+</value><value>    </value><value>var</value><value> </value><value>node3</value><value> </value><value>=</value><value> </value><value>ListU32</value><value>.</value><value>Node</value><value>{</value><value> </value><value>.</value><value>data</value><value> </value><value>=</value><value> </value><value>3</value><value> </value><value>};</value><value>
+
+</value><value>    </value><value>list</value><value>.</value><value>prepend</value><value>(</value><value>&amp;</value><value>node1</value><value>);</value><value>
+</value><value>    </value><value>list</value><value>.</value><value>prepend</value><value>(</value><value>&amp;</value><value>node2</value><value>);</value><value>
+</value><value>    </value><value>list</value><value>.</value><value>prepend</value><value>(</value><value>&amp;</value><value>node3</value><value>);</value><value>
+
+</value><value>    </value><value>try</value><value> </value><value>stdout</value><value>.</value><value>print</value><value>(</value><value>"{}</value><value>\n</value><value>"</value><value>,</value><value> </value><value>.{</value><value>list</value><value>});</value><value>
+</value><value>    </value><value>try</value><value> </value><value>stdout</value><value>.</value><value>print</value><value>(</value><value>"{b}</value><value>\n</value><value>"</value><value>,</value><value> </value><value>.{</value><value>list</value><value>});</value><value>
+</value><value>}</value><value>
+</value><value>
+</value><value>Output
+</value><value>( 3 2 1 ) </value><value>
+</value><value>( 11 10 1 )</value><value>
+</value><value>
+</value><value>String repetition with allocator</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>const</value><value> </value><value>std</value><value> </value><value>=</value><value> </value><value>@import</value><value>(</value><value>"std"</value><value>);</value><value>
+
+</value><value>fn</value><value> </value><value>repeat</value><value>(</value><value>
+</value><value>    </value><value>allocator</value><value>:</value><value> </value><value>std</value><value>.</value><value>mem</value><value>.</value><value>Allocator</value><value>,</value><value>
+</value><value>    </value><value>original</value><value>:</value><value> </value><value>[]</value><value>const</value><value> </value><value>u8</value><value>,</value><value>
+</value><value>    </value><value>times</value><value>:</value><value> </value><value>usize</value><value>,</value><value>
+</value><value>)</value><value> </value><value>std</value><value>.</value><value>mem</value><value>.</value><value>Allocator</value><value>.</value><value>Error</value><value>!</value><value>[]</value><value>const</value><value> </value><value>u8</value><value> </value><value>{</value><value>
+</value><value>    </value><value>var</value><value> </value><value>buffer</value><value> </value><value>=</value><value> </value><value>try</value><value> </value><value>allocator</value><value>.</value><value>alloc</value><value>(</value><value>
+</value><value>        </value><value>u8</value><value>,</value><value>
+</value><value>        </value><value>original</value><value>.</value><value>len</value><value> </value><value>*</value><value> </value><value>times</value><value>,</value><value>
+</value><value>    </value><value>);</value><value>
+
+</value><value>    </value><value>for</value><value> </value><value>(</value><value>0</value><value>..</value><value>times</value><value>)</value><value> </value><value>|</value><value>i</value><value>|</value><value> </value><value>{</value><value>
+</value><value>        </value><value>std</value><value>.</value><value>mem</value><value>.</value><value>copyForwards</value><value>(</value><value>
+</value><value>            </value><value>u8</value><value>,</value><value>
+</value><value>            </value><value>buffer</value><value>[(</value><value>original</value><value>.</value><value>len</value><value> </value><value>*</value><value> </value><value>i</value><value>)..],</value><value>
+</value><value>            </value><value>original</value><value>,</value><value>
+</value><value>        </value><value>);</value><value>
+</value><value>    </value><value>}</value><value>
+
+</value><value>    </value><value>return</value><value> </value><value>buffer</value><value>;</value><value>
+</value><value>}</value><value>
+
+</value><value>pub</value><value> </value><value>fn</value><value> </value><value>main</value><value>()</value><value> </value><value>!</value><value>void</value><value> </value><value>{</value><value>
+</value><value>    </value><value>const</value><value> </value><value>stdout</value><value> </value><value>=</value><value> </value><value>std</value><value>.</value><value>io</value><value>.</value><value>getStdOut</value><value>().</value><value>writer</value><value>();</value><value>
+
+</value><value>    </value><value>var</value><value> </value><value>arena</value><value> </value><value>=</value><value> </value><value>std</value><value>.</value><value>heap</value><value>.</value><value>ArenaAllocator</value><value>.</value><value>init</value><value>(</value><value>
+</value><value>        </value><value>std</value><value>.</value><value>heap</value><value>.</value><value>page_allocator</value><value>,</value><value>
+</value><value>    </value><value>);</value><value>
+</value><value>    </value><value>defer</value><value> </value><value>arena</value><value>.</value><value>deinit</value><value>();</value><value>
+
+</value><value>    </value><value>const</value><value> </value><value>allocator</value><value> </value><value>=</value><value> </value><value>arena</value><value>.</value><value>allocator</value><value>();</value><value>
+
+</value><value>    </value><value>const</value><value> </value><value>original</value><value> </value><value>=</value><value> </value><value>"Hello "</value><value>;</value><value>
+</value><value>    </value><value>const</value><value> </value><value>repeated</value><value> </value><value>=</value><value> </value><value>try</value><value> </value><value>repeat</value><value>(</value><value>
+</value><value>        </value><value>allocator</value><value>,</value><value>
+</value><value>        </value><value>original</value><value>,</value><value>
+</value><value>        </value><value>3</value><value>,</value><value>
+</value><value>    </value><value>);</value><value>
+
+</value><value>    </value><value>try</value><value> </value><value>stdout</value><value>.</value><value>print</value><value>(</value><value>"{s}</value><value>\n</value><value>"</value><value>,</value><value> </value><value>.{</value><value>repeated</value><value>});</value><value>
+</value><value>}</value><value>
+</value><value>
+</value><value>Output
+</value><value>Hello Hello Hello</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The name “Zig” was reportedly chosen through a process involving a </value><value>Python</value><value> script that randomly combined letters, starting with the letter “Z” and followed by a vowel or “Y”, in order to generate four-letter words. Despite the intended length, “Zig”, a three-letter word, was ultimately selected from the various combinations produced by the script.</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>The previous </value><value>bootstrapping</value><value> compiler, written in Zig and C++ using </value><value>LLVM</value><value> as a back-end,</value><value>[</value><value>37</value><value>]</value><value>[</value><value>38</value><value>]</value><value> supporting many of its native targets,</value><value>[</value><value>39</value><value>]</value><value> was removed in version 0.11. Newer versions of Zig use a prebuilt </value><value>WebAssembly</value><value> version of Zig to bootstrap itself.
+</value><value>
+</value><value>Versions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>All releases, along with their release dates and pre-built platforms. </value><value>[</value><value>40</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Name</value><value>
+</value><value>Date</value><value>
+</value><value>Windows</value><value>
+</value><value>Linux</value><value>
+</value><value>macOS</value><value>
+</value><value>FreeBSD
+</value><value>
+</value><value>
+</value><value>x86_64</value><value>
+</value><value>x86</value><value>
+</value><value>aarch64</value><value>
+</value><value>x86_64</value><value>
+</value><value>x86</value><value>
+</value><value>aarch64</value><value>
+</value><value>armv6kz</value><value>
+</value><value>arm7a</value><value>
+</value><value>riscv64</value><value>
+</value><value>powerpc64le</value><value>
+</value><value>powerpc</value><value>
+</value><value>loongarch64</value><value>
+</value><value>x86_64</value><value>
+</value><value>aarch64</value><value>
+</value><value>x86_64
+</value><value>
+</value><value>
+</value><value>0.1.1</value><value>
+</value><value>2017 Q4</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌
+</value><value>
+</value><value>
+</value><value>0.2.0</value><value>
+</value><value>2018 Q1</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌
+</value><value>
+</value><value>
+</value><value>0.3.0</value><value>
+</value><value>2018 Q3</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌
+</value><value>
+</value><value>
+</value><value>0.4.0</value><value>
+</value><value>2019 Q2</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.5.0</value><value>
+</value><value>2019 Q3</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.6.0</value><value>
+</value><value>2020 Q2</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌
+</value><value>
+</value><value>
+</value><value>0.7.0</value><value>
+</value><value>2020 Q4</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.7.1</value><value>
+</value><value>2020 Q4</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.8.0</value><value>
+</value><value>2021 Q3</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.8.1</value><value>
+</value><value>2021 Q3</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.9.0</value><value>
+</value><value>2021 Q4</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.9.1</value><value>
+</value><value>2022 Q1</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.10.0</value><value>
+</value><value>2022 Q4</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.10.1</value><value>
+</value><value>2023 Q1</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌
+</value><value>
+</value><value>
+</value><value>0.11.0</value><value>
+</value><value>2023 Q3</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.12.0</value><value>
+</value><value>2024 Q2</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.12.1</value><value>
+</value><value>2024 Q3</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.13.0</value><value>
+</value><value>2024 Q3</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅
+</value><value>
+</value><value>
+</value><value>0.14.0</value><value>
+</value><value>2025 Q1</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌
+</value><value>
+</value><value>
+</value><value>0.14.1</value><value>
+</value><value>2025 Q2</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌</value><value>
+</value><value>✅</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>✅</value><value>
+</value><value>✅</value><value>
+</value><value>❌
+</value><value>
+</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>This version of prebuilt binary is broken due to a regression in the LoongArch backend of LLVM.</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Projects</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Bun</value><value> is a </value><value>JavaScript</value><value> and </value><value>TypeScript</value><value> runtime written in Zig, using </value><value>Safari</value><value>’s JavaScriptCore </value><value>virtual machine</value><value>.</value><value>
+</value><value>Ghostty</value><value>[</value><value>42</value><value>]</value><value> is a </value><value>terminal emulator</value><value> written in Zig.</value><value>
+</value><value>The TigerBeetle</value><value>[</value><value>43</value><value>]</value><value> financial transaction database is written in Zig.</value><value>
+</value><value>Deecy</value><value>, an up-and-coming (latest release as of this writing is version 0.3.0) </value><value>emulator</value><value> of </value><value>Sega's</value><value> </value><value>Dreamcast</value><value> home video gaming console platform, completely written in Zig from scratch.</value><value>
+</value><value>See a more comprehensive list of </value><value>companies and projects utilizing Zig in production</value><value>.</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:1px solid var(--border-color-base,#a2a9b1);padding:0.1em;background:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}</value><value>
+</value><value>Free and open-source software portal</value><value>Computer programming portal</value><value>
+</value><value>C</value><value>
+</value><value>C++</value><value>
+</value><value>D</value><value>
+</value><value>Nim</value><value>
+</value><value>Go</value><value>
+</value><value>Rust</value><value>
+</value><value>Carbon</value><value>
+</value><value>V</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Citations</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Kelley, Andrew. </value><value>"Introduction to the Zig Programming Language"</value><value>. </value><value>andrewkelley.me</value><value>. Retrieved </value><value>8 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Release 0.14.1"</value><value>. Retrieved </value><value>27 May</value><value> 2025</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"What are the pros and cons of Zig vs Rust? I see Zig mentioned more and more her... | Hacker News"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Why Zig when There is Already C++, D, and Rust? ⚡ Zig Programming Language"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"No surprises on any system: Q&amp;A with Loris Cro of Zig - Stack Overflow"</value><value>. 2 October 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Zig's New Relationship with LLVM | Hacker News"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"What's Zig got that C, Rust and Go don't have? (With Loris Cro)"</value><value>. </value><value>YouTube</value><value>. 15 November 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>https://news.ycombinator.com/item?id=25797025</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Overview ⚡ Zig Programming Language"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"After a day of programming in Zig"</value><value>. 29 December 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taking the warts off C, with Andrew Kelley, creator of the Zig programming language"</value><value>. </value><value>Sourcegraph</value><value>. 2021-10-19</value><value>. Retrieved </value><value>2024-04-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ziglang/zig"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2020-02-11</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>The Road to Zig 1.0 - Andrew Kelley</value><value>. ChariotSolutions. 2019-05-09 – via </value><value>YouTube</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Zig Programming Language"</value><value>. </value><value>Ziglang.org</value><value>. Retrieved </value><value>2020-02-11</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Zig programming language"</value><value>. </value><value>SudoNull</value><value>. Retrieved </value><value>2020-02-11</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>Yegulalp 2016</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Zig has all the elegant simplicity of C, minus all the ways to shoot yourself in the foot"</value><value>. </value><value>JAXenter</value><value>. 2017-10-31. Archived from </value><value>the original</value><value> on 2017-11-01</value><value>. Retrieved </value><value>2020-02-11</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>"The Zig Programming Language"</value><value>. </value><value>Ziglang.org</value><value>. Retrieved </value><value>2020-02-11</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Anderson, Tim (2020-04-24). </value><value>"Keen to go _ExtInt? LLVM Clang compiler adds support for custom width integers"</value><value>. </value><value>www.theregister.co.uk</value><value>. Retrieved </value><value>2024-12-30</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Documentation"</value><value>. </value><value>Ziglang.org</value><value>. Retrieved </value><value>2020-04-24</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>Chigozie, Oduah (2024-06-04). </value><value>"Comparing Rust vs. Zig: Performance, Safety, and More"</value><value>. </value><value>LogRocket Blog</value><value>. Retrieved </value><value>2024-07-16</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Jakub Konka on Twitter"</value><value>. </value><value>Twitter</value><value>. Archived from </value><value>the original</value><value> on 2022-04-10</value><value>. Retrieved </value><value>2021-05-28</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Announcing the Zig Software Foundation"</value><value>. </value><value>Ziglang.org</value><value>. Retrieved </value><value>2021-05-28</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Sponsor ZSF"</value><value>. </value><value>Ziglang.org</value><value>. Retrieved </value><value>2021-05-28</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Kavanagh, Amanda (June 25, 2023). </value><value>"Why Zig has become the highest-paying programming language"</value><value>. </value><value>The Next Web</value><value>. Retrieved </value><value>Dec 15,</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>McBride, Aoibhinn (July 16, 2024). </value><value>"3 programming languages you need to know about"</value><value>. </value><value>VentureBeat</value><value>. Retrieved </value><value>Dec 15,</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Elizabeth 2017</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"ARC vs. GC"</value><value>. </value><value>Elements</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Guide To Java 8 Optional"</value><value>. 28 November 2022.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Rust: Memory Management"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>e</value><value> </value><value>"Allocators"</value><value>. 11 September 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Tyson, Matthew (9 March 2023). </value><value>"Meet Zig: The modern alternative to C"</value><value>. </value><value>InfoWorld.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"0.6.0 Release Notes"</value><value>. </value><value>Ziglang.org</value><value>. Retrieved </value><value>2020-04-19</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"</value><value>'zig cc': a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley"</value><value>. </value><value>andrewkelley.me</value><value>. Retrieved </value><value>2021-05-28</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Zig Makes Go Cross Compilation Just Work"</value><value>. </value><value>DEV Community</value><value>. 24 January 2021</value><value>. Retrieved </value><value>2021-05-28</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>andrewrk (2024-03-13). </value><value>"origin of the zig programming language name. by @andrewrk"</value><value>. Retrieved </value><value>2024-03-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A Reply to _The Road to Zig 1.0_"</value><value>. </value><value>www.gingerbill.org</value><value>. 2019-05-13</value><value>. Retrieved </value><value>2020-02-11</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ziglang/zig"</value><value>. </value><value>GitHub</value><value>. Zig Programming Language. 2020-02-11</value><value>. Retrieved </value><value>2020-02-11</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Zig Programming Language"</value><value>. </value><value>Ziglang.org</value><value>. Retrieved </value><value>2020-02-11</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Download ⚡ Zig Programming Language"</value><value>. </value><value>ziglang.org</value><value>. Retrieved </value><value>2025-05-06</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Zig crashes on LoongArch64 · Issue #22859 · ziglang/zig"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2025-06-20</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ghostty-org/ghostty"</value><value>. </value><value>Github</value><value>. Retrieved </value><value>2024-12-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"tigerbeetle/tigerbeetle"</value><value>. </value><value>Github</value><value>. Retrieved </value><value>2024-12-30</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>Bibliography</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Elizabeth, Jane (2017-10-19). </value><value>"Tired of C? New programming language Zig aims to be more pragmatic and readable"</value><value>. </value><value>jaxenter</value><value>. Archived from </value><value>the original</value><value> on 2020-10-01</value><value>. Retrieved </value><value>2020-04-22</value><value>.</value><value>
+</value><value>Yegulalp, Serdar (2016-08-29). </value><value>"New challenger joins Rust to topple C language"</value><value>. </value><value>InfoWorld</value><value>. Retrieved </value><value>2020-02-11</value><value>.</value><value>
+</value><value>Owens, Jeffery (2023-12-02). </value><value>Mastering Zig Programming</value><value>. Independently Published. </value><value>ISBN</value><value> </value><value>979-8870587332</value><value>.</value><value>
+</value><value>Allen, Corby (2024-06-20). </value><value>Zig Programming Mastery</value><value>. Independently Published. </value><value>ISBN</value><value> </value><value>979-8329021424</value><value>.</value><value>
+</value><value>External links</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Official website</value><value>
+</value><value>Zig</value><value> on </value><value>GitHub</value><value>
+</value><value>Movie: Introducing Zig</value><value>
+</value><value>Movie: The Road to 1.0</value><value>
+</value><value>Zig Weekly</value><value>
+</value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr&gt;.navbox-abovebelow,.mw-parser-output tr+tr&gt;.navbox-group,.mw-parser-output tr+tr&gt;.navbox-image,.mw-parser-output tr+tr&gt;.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</value><value>.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a&gt;span,.mw-parser-output .navbar a&gt;abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</value><value>v</value><value>t</value><value>e</value><value>Programming languages</value><value>
+</value><value>Comparison</value><value>
+</value><value>Timeline</value><value>
+</value><value>History</value><value>
+</value><value>
+</value><value>Ada</value><value>
+</value><value>ALGOL</value><value>
+</value><value>Simula</value><value>
+</value><value>APL</value><value>
+</value><value>Assembly</value><value>
+</value><value>BASIC</value><value>
+</value><value>Visual Basic</value><value>
+</value><value>classic</value><value>
+</value><value>.NET</value><value>
+</value><value>C</value><value>
+</value><value>C++</value><value>
+</value><value>C#</value><value>
+</value><value>COBOL</value><value>
+</value><value>Erlang</value><value>
+</value><value>Elixir</value><value>
+</value><value>Forth</value><value>
+</value><value>Fortran</value><value>
+</value><value>Go</value><value>
+</value><value>Haskell</value><value>
+</value><value>Java</value><value>
+</value><value>JavaScript</value><value>
+</value><value>Julia</value><value>
+</value><value>Kotlin</value><value>
+</value><value>Lisp</value><value>
+</value><value>Lua</value><value>
+</value><value>MATLAB</value><value>
+</value><value>ML</value><value>
+</value><value>Caml </value><value>
+</value><value>OCaml</value><value>
+</value><value>Pascal</value><value>
+</value><value>Object Pascal</value><value>
+</value><value>Perl </value><value>
+</value><value>Raku</value><value>
+</value><value>PHP</value><value>
+</value><value>Prolog</value><value>
+</value><value>Python</value><value>
+</value><value>R</value><value>
+</value><value>Ruby</value><value>
+</value><value>Rust</value><value>
+</value><value>SAS</value><value>
+</value><value>SQL</value><value>
+</value><value>Scratch</value><value>
+</value><value>Shell</value><value>
+</value><value>Smalltalk</value><value>
+</value><value>Swift</value><value>
+</value><value>more...</value><value>
+</value><value>
+</value><value> </value><value>Lists:</value><value> </value><value>Alphabetical</value><value>
+</value><value>Categorical</value><value>
+</value><value>Generational</value><value>
+</value><value>Non-English-based</value><value>
+</value><value> </value><value>Category</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Zig_(programming_language)&amp;oldid=1297643396</value><value>"</value></text><lastUpdated> 27 June 2025, at 14:50</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Main_Page</url><title>Welcome to </title><text><value>.mw-parser-output .mp-box{border:1px solid #aaa;padding:0 0.5em 0.5em;margin-top:4px}.mw-parser-output .mp-h2,body.skin-timeless .mw-parser-output .mp-h2{border:1px solid #aaa;margin:0.5em 0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;font-family:inherit}.mw-parser-output .mp-later{font-size:85%;font-weight:normal}.mw-parser-output #mp-welcomecount{text-align:center;margin:0.4em}.mw-parser-output #mp-welcome{font-size:162%;padding:0.1em}.mw-parser-output #mp-welcome h1,.mw-parser-output #mp-welcome .mw-heading1{font-size:inherit;font-family:inherit;display:inline;border:none}.mw-parser-output #mp-free{font-size:95%}.mw-parser-output #articlecount{font-size:85%}.mw-parser-output #articlecount&gt;ul{margin:0;padding:0}.mw-parser-output #articlecount&gt;ul&gt;li{margin:0;display:inline}.mw-parser-output #articlecount&gt;ul&gt;li::after{content:" · ";font-weight:bold}.mw-parser-output #articlecount&gt;ul&gt;li:last-child::after{content:""}.mw-parser-output #mp-banner{text-align:center;padding-top:0.5em}.mw-parser-output .mp-contains-float::after{content:"";display:block;clear:both}@media(max-width:875px){.mw-parser-output #mp-tfp table,.mw-parser-output #mp-tfp tr,.mw-parser-output #mp-tfp td,.mw-parser-output #mp-tfp tbody{display:block!important;width:100%!important;box-sizing:border-box}.mw-parser-output #mp-tfp tr:first-child td:first-child a.mw-file-description{text-align:center;display:table;margin:0 auto}.mw-parser-output #articlecount&gt;ul&gt;li::after{content:"";font-weight:normal}.mw-parser-output #articlecount&gt;ul&gt;li{display:block}}@media(min-width:875px){.mw-parser-output #mp-upper{display:flex}.mw-parser-output #mp-left{flex:1 1 55%;margin-right:2px}.mw-parser-output #mp-right{flex:1 1 45%;margin-left:2px}}@media screen{.mw-parser-output #mp-topbanner{background-color:#f9f9f9;border-color:#ddd}.mw-parser-output #mp-banner{background-color:#fffaf5;border-color:#f2e0ce}.mw-parser-output #mp-left{background-color:#f5fffa;border-color:#cef2e0}.mw-parser-output #mp-left .mp-h2{background-color:#cef2e0;border-color:#a3bfb1}.mw-parser-output #mp-right{background-color:#f5faff;border-color:#cedff2}.mw-parser-output #mp-right .mp-h2{background-color:#cedff2;border-color:#a3b0bf}.mw-parser-output #mp-middle{background-color:#fff5fa;border-color:#f2cedd}.mw-parser-output #mp-middle .mp-h2{background-color:#f2cedd;border-color:#bfa3af}.mw-parser-output #mp-lower{background-color:#faf5ff;border-color:#ddcef2}.mw-parser-output #mp-lower .mp-h2{background-color:#ddcef2;border-color:#afa3bf}.mw-parser-output #mp-bottom{border-color:#e2e2e2}.mw-parser-output #mp-bottom .mp-h2{background-color:#eee;border-color:#ddd}html.skin-theme-clientpref-night .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-banner{background-color:#331a00;border-color:#663428}html.skin-theme-clientpref-night .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-night .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-night .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-night .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-night .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-night .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-night .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-night .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-banner{background-color:#331a00;border-color:#663428}html.skin-theme-clientpref-os .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-os .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-os .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-os .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-os .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-os .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-os .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-os .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}</value><value>
+</value><value>
+</value><value>
+</value><value>Welcome to </value><value>Wikipedia</value><value>,</value><value>
+</value><value>the </value><value>free</value><value> </value><value>encyclopedia</value><value> that </value><value>anyone can edit</value><value>.</value><value>
+</value><value>108,153</value><value> active editors</value><value> </value><value>7,021,116</value><value> articles in </value><value>English</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>From today's featured article</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Llullaillaco</value><value> is a </value><value>dormant</value><value> </value><value>stratovolcano</value><value> on the border between </value><value>Argentina</value><value> and </value><value>Chile</value><value>. It lies in the </value><value>Puna de Atacama</value><value>, a region of tall volcanic peaks on a high </value><value>plateau</value><value> close to the </value><value>Atacama Desert</value><value>, one of the driest places in the world. Its maximum elevation is most commonly given as 6,723 metres (22,057 ft), making it the </value><value>second- or third-highest volcano in the world</value><value>. Between 3700 m and 5000 m elevation there is a sparse plant cover, while at lower altitudes the climate is too dry for plants to grow. The volcano formed during the </value><value>Pleistocene</value><value> in two stages. The oldest rocks are about 1.5 million years old. About 150,000 years ago, the volcano's southeastern flank collapsed, generating a </value><value>debris avalanche</value><value> that reached as far as 25 kilometres (16 mi) from the summit. There are reports of activity from the 19th century. There are a number of archaeological sites on the mountain; Llullaillaco marks the highest archaeological site in the world. (</value><value>Full article...</value><value>)
+</value><value>
+</value><value>
+Recently featured: </value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>
+</value><value>Spyridon Marinatos</value><value>
+</value><value>Goblin shark</value><value>
+</value><value>Edgar, King of England</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>More featured articles</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>Did you know ...</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Ivan I of Moscow</value><value>
+</value><value>
+</value><value>... that </value><value>Ivan I of Moscow</value><value> </value><value>(pictured)</value><value> earned the nickname "Kalita", which literally means 'money bag'?</value><value>
+</value><value>... that </value><value>Morocco's abortion law</value><value> requires spousal consent, but not explicitly the consent of the woman receiving the procedure?</value><value>
+</value><value>... that Chinese pilot </value><value>Shi Bangfan</value><value> lost his left arm in a </value><value>dogfight</value><value> in which he downed a Japanese plane, and was later honored with a brand of cigarettes named after him?</value><value>
+</value><value>... that El Salvador's only goal at a FIFA World Cup occurred during </value><value>a </value><value>10–1</value><value> loss to Hungary</value><value>?</value><value>
+</value><value>... that </value><value>Nurtami Soedarsono</value><value> helped to identify victims of the </value><value>2012 Sukhoi crash</value><value>?</value><value>
+</value><value>... that </value><value>The Big Con</value><value> observes that big </value><value>consultancies</value><value> play both sides – advising the fossil-fuel industry while also shaping government climate policy?</value><value>
+</value><value>... that sprinter </value><value>Kenaz Kaniwete</value><value> was the youngest athletics competitor at the 2024 Summer Olympics?</value><value>
+</value><value>... that </value><value>a socialist youth organization</value><value> held an anti-</value><value>NATO</value><value> music festival attended by 20,000 people in 1982 </value><value>West Berlin</value><value>?</value><value>
+</value><value>... that, despite calls in 1988 to remember housing activist </value><value>Michael Brown</value><value>, a 2024 academic article could not find any subsequent trace of him?</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>Start a new article</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>In the news</value><value>
+</value><value>.mw-parser-output .itn-img{float:right;margin-left:0.5em;margin-top:0.2em}</value><value>
+</value><value>
+</value><value>Flooding near </value><value>Hunt, Texas</value><value>
+</value><value>
+</value><value>Flooding in Central Texas</value><value> </value><value>(pictured)</value><value>, United States, leaves at least 120 people dead.</value><value>
+</value><value>Astronomers announce the discovery of </value><value>3I/ATLAS</value><value>, an </value><value>interstellar object</value><value> passing through the </value><value>Solar System</value><value>.</value><value>
+</value><value>The </value><value>Vera C. Rubin Observatory</value><value> in Chile releases the </value><value>first light</value><value> images from its new </value><value>8.4-metre</value><value> (28 ft) telescope.</value><value>
+</value><value>In basketball, the </value><value>Oklahoma City Thunder</value><value> defeat the </value><value>Indiana Pacers</value><value> to win </value><value>the NBA Finals</value><value>.</value><value>
+</value><value>
+</value><value>Ongoing</value><value>: </value><value>
+</value><value>Gaza war</value><value>
+</value><value>Russian invasion of Ukraine</value><value>
+</value><value>timeline</value><value>
+</value><value>Sudanese civil war</value><value>
+</value><value>timeline</value><value>
+</value><value>Recent deaths</value><value>: </value><value>
+</value><value>André Silva</value><value>
+</value><value>Sophia Hutchins</value><value>
+</value><value>Julian McMahon</value><value>
+</value><value>Juan Álvarez</value><value>
+</value><value>Norman Tebbit</value><value>
+</value><value>Bobby Jenks</value><value>
+</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>On this day</value><value>
+</value><value>
+</value><value>July 11</value><value>: </value><value>Day of Remembrance of the Victims of Genocide</value><value> in Poland (</value><value>1943</value><value>)
+</value><value>
+</value><value>
+</value><value>
+</value><value>Depiction of </value><value>Michael I Rangabe</value><value> (centre)</value><value>
+</value><value>
+</value><value>813</value><value> – Byzantine emperor </value><value>Michael I Rangabe</value><value> </value><value>(depicted)</value><value>, under threat by conspiracies, abdicated in favor of his general </value><value>Leo the Armenian</value><value>, and became a monk.</value><value>
+</value><value>1848</value><value> – </value><value>Waterloo Bridge Station</value><value>, which later became </value><value>Britain's busiest railway station</value><value> by passenger usage, was opened by the </value><value>London and South Western Railway</value><value>.</value><value>
+</value><value>1914</value><value> – The US Navy launched the </value><value>USS </value><value>Nevada</value><value> (BB-36)</value><value> as its first </value><value>standard-type battleship</value><value>.</value><value>
+</value><value>1960</value><value> – </value><value>To Kill a Mockingbird</value><value>, a novel by </value><value>Harper Lee</value><value> featuring themes of racial injustice and the loss of innocence in the </value><value>Deep South</value><value> of America, was published.</value><value>
+</value><value>2010</value><value> – The </value><value>Islamist</value><value> militia group </value><value>Al-Shabaab</value><value> carried out </value><value>multiple suicide bombings</value><value> in </value><value>Kampala</value><value>, Uganda, killing 74 people and injuring 85 others.</value><value>
+</value><value>Matthew McCauley</value><value>  (</value><value>b.</value><value> 1850)</value><value>H. M. Brock</value><value>  (</value><value>b.</value><value> 1875)</value><value>Nicolai Gedda</value><value>  (</value><value>b.</value><value> 1925)</value><value>Balaji Sadasivan</value><value>  (</value><value>b.</value><value> 1955)</value><value>
+</value><value>
+More anniversaries: </value><value>
+</value><value>July 10</value><value>
+</value><value>July 11</value><value>
+</value><value>July 12</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>List of days of the year</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>From today's featured list</value><value>
+</value><value>
+</value><value>Ágnes Keleti</value><value>
+</value><value>
+</value><value>Athletes representing 38 </value><value>National Olympic Committees</value><value> (NOCs) received at least </value><value>one medal at the 1956 Summer Olympics</value><value>, and 25 NOCs won at least one gold medal. The </value><value>1956 Summer Olympics</value><value> were an international multi-sport event held from 22 November to 8 December in </value><value>Melbourne</value><value>, Australia, with the </value><value>equestrian events</value><value> being held from 10 to 17 June 1956 in </value><value>Stockholm</value><value>, Sweden. A total of 3,314 athletes representing 72 NOCs participated, which was a record for the most NOCs at a single Olympics at the time. The </value><value>Soviet Union</value><value> won the most gold medals and the most overall medals, with 37 and 98 respectively. Gymnast </value><value>Ágnes Keleti</value><value> </value><value>(pictured)</value><value> of </value><value>Hungary</value><value> was the most successful competitor of the games, winning four gold medals and two silver medals for a total of six medals. (</value><value>Full list...</value><value>)
+</value><value>
+</value><value>
+Recently featured: </value><value>
+</value><value>Municipalities in Prince Edward Island</value><value>
+</value><value>Battlecruisers of the United States</value><value>
+</value><value>Brooklyn Nine-Nine</value><value> episodes</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>More featured lists</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Today's featured picture</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Harold Bloom</value><value> (July 11, 1930 – October 14, 2019) was an American literary critic and the </value><value>Sterling Professor</value><value> of </value><value>humanities</value><value> at </value><value>Yale University</value><value>. In 2017, Bloom was called "probably the most famous literary critic in the English-speaking world". After publishing his first book in 1959, Bloom wrote more than 50 books, including over 40 books of </value><value>literary criticism</value><value>, several books discussing religion, and one novel. He edited hundreds of anthologies concerning numerous literary and philosophical figures for the </value><value>Chelsea House</value><value> publishing firm. This photograph by </value><value>Bernard Gotfryd</value><value> shows Bloom in 1986.
+</value><value>
+</value><value>Photograph credit: </value><value>Bernard Gotfryd</value><value>
+</value><value>
+Recently featured: </value><value>
+</value><value>Checkerboard wrasse</value><value>
+</value><value>Tamarind</value><value>
+</value><value>The Gross Clinic</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>More featured pictures</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Other areas of Wikipedia</value><value>
+</value><value>
+</value><value>Community portal</value><value> – The central hub for editors, with resources, links, tasks, and announcements.</value><value>
+</value><value>Village pump</value><value> – Forum for discussions about Wikipedia itself, including policies and technical issues.</value><value>
+</value><value>Site news</value><value> – Sources of news about Wikipedia and the broader Wikimedia movement.</value><value>
+</value><value>Teahouse</value><value> – Ask basic questions about using or editing Wikipedia.</value><value>
+</value><value>Help desk</value><value> – Ask questions about using or editing Wikipedia.</value><value>
+</value><value>Reference desk</value><value> – Ask research questions about encyclopedic topics.</value><value>
+</value><value>Content portals</value><value> – A unique way to navigate the encyclopedia.</value><value>
+</value><value>
+</value><value>Wikipedia's sister projects</value><value>
+</value><value>.mw-parser-output #sister-projects-list{display:flex;flex-wrap:wrap}.mw-parser-output #sister-projects-list li{display:inline-block}.mw-parser-output #sister-projects-list li span{font-weight:bold}.mw-parser-output #sister-projects-list li&gt;div{display:inline-block;vertical-align:middle;padding:6px 4px}.mw-parser-output #sister-projects-list li&gt;div:first-child{text-align:center}@media screen{.mw-parser-output .sister-projects-wikt-icon-dark,html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-light{display:none}html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-light{display:none}}@media(min-width:360px){.mw-parser-output #sister-projects-list li{width:33%;min-width:20em;white-space:nowrap;flex:1 0 25%}.mw-parser-output #sister-projects-list li&gt;div:first-child{min-width:50px}}</value><value>
+</value><value>Wikipedia is written by volunteer editors and hosted by the </value><value>Wikimedia Foundation</value><value>, a non-profit organization that also hosts a range of other volunteer </value><value>projects</value><value>:
+</value><value>
+</value><value>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Commons</value><value>Free media repository</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>MediaWiki</value><value>Wiki software development</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Meta-Wiki</value><value>Wikimedia project coordination</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikibooks</value><value>Free textbooks and manuals</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikidata</value><value>Free knowledge base</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikinews</value><value>Free-content news</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiquote</value><value>Collection of quotations</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikisource</value><value>Free-content library</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikispecies</value><value>Directory of species</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiversity</value><value>Free learning tools</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikivoyage</value><value>Free travel guide</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wiktionary</value><value>Dictionary and thesaurus</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Wikipedia languages</value><value>
+</value><value>.mw-parser-output .wikipedia-languages ul{margin-left:0;padding-left:0}.mw-parser-output .wikipedia-languages ul a{white-space:nowrap}.mw-parser-output .wikipedia-languages&gt;ul{list-style:none;text-align:center;clear:both}.mw-parser-output .wikipedia-languages-count-container{width:90%;display:flex;justify-content:center;padding-top:1em;margin:0 auto}.mw-parser-output .wikipedia-languages-prettybars{width:100%;height:1px;margin:0.5em 0;background-color:#c8ccd1;flex-shrink:1;align-self:center}.mw-parser-output .wikipedia-languages-count{padding:0 1em;white-space:nowrap}</value><value>
+</value><value>
+</value><value>This Wikipedia is written in </value><value>English</value><value>. Many </value><value>other Wikipedias are available</value><value>; some of the largest are listed below.
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>1,000,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>العربية</value><value>
+</value><value>Deutsch</value><value>
+</value><value>Español</value><value>
+</value><value>فارسی</value><value>‎</value><value>
+</value><value>Français</value><value>
+</value><value>Italiano</value><value>
+</value><value>Nederlands</value><value>
+</value><value>日本語</value><value>
+</value><value>Polski</value><value>
+</value><value>Português</value><value>
+</value><value>Русский</value><value>
+</value><value>Svenska</value><value>
+</value><value>Українська</value><value>
+</value><value>Tiếng Việt</value><value>
+</value><value>中文</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>250,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Bahasa Indonesia</value><value>
+</value><value>Bahasa Melayu</value><value>
+</value><value>Bân-lâm-gú</value><value>
+</value><value>Български</value><value>
+</value><value>Català</value><value>
+</value><value>Čeština</value><value>
+</value><value>Dansk</value><value>
+</value><value>Eesti</value><value>
+</value><value>Ελληνικά</value><value>
+</value><value>Esperanto</value><value>
+</value><value>Euskara</value><value>
+</value><value>עברית</value><value>
+</value><value>Հայերեն</value><value>
+</value><value>한국어</value><value>
+</value><value>Magyar</value><value>
+</value><value>Norsk bokmål</value><value>
+</value><value>Română</value><value>
+</value><value>Simple English</value><value>
+</value><value>Slovenčina</value><value>
+</value><value>Srpski</value><value>
+</value><value>Srpskohrvatski</value><value>
+</value><value>Suomi</value><value>
+</value><value>Türkçe</value><value>
+</value><value>Oʻzbekcha</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>50,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Asturianu</value><value>
+</value><value>Azərbaycanca</value><value>
+</value><value>বাংলা</value><value>
+</value><value>Bosanski</value><value>
+</value><value>کوردی</value><value>
+</value><value>Frysk</value><value>
+</value><value>Gaeilge</value><value>
+</value><value>Galego</value><value>
+</value><value>Hrvatski</value><value>
+</value><value>ქართული</value><value>
+</value><value>Kurdî</value><value>
+</value><value>Latviešu</value><value>
+</value><value>Lietuvių</value><value>
+</value><value>മലയാളം</value><value>
+</value><value>Македонски</value><value>
+</value><value>မြန်မာဘာသာ</value><value>
+</value><value>Norsk nynorsk</value><value>
+</value><value>ਪੰਜਾਬੀ</value><value>
+</value><value>Shqip</value><value>
+</value><value>Slovenščina</value><value>
+</value><value>ไทย</value><value>
+</value><value>తెలుగు</value><value>
+</value><value>اردو</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1298856702</value><value>"</value></text><lastUpdated> 5 July 2025, at 04:58</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Anki_(software)</url><title>None</title><text><value>Free and open-source flashcard program</value><value>
+</value><value>
+</value><value>
+</value><value>.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table&gt;caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table&gt;tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</value><value>Anki</value><value>Anki 2.1.6</value><value>Developer(s)</value><value>Damien Elmes</value><value>Initial release</value><value>5 October 2006</value><value>; 18 years ago</value><value> (</value><value>2006-10-05</value><value>)</value><value>Stable release</value><value>25.07.1</value><value>[</value><value>1</value><value>]</value><value>
+   / 4 July 2025</value><value>; 5 days ago</value><value> (</value><value>4 July 2025</value><value>)</value><value>
+</value><value>Repository</value><value>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</value><value>github</value><value>.com</value><value>/ankitects</value><value>/anki</value><value> </value><value>
+</value><value>Written in</value><value>Rust</value><value>, </value><value>Python</value><value>, </value><value>TypeScript</value><value>, </value><value>Svelte</value><value>, among others</value><value>Operating system</value><value>Windows</value><value>, </value><value>macOS</value><value>, </value><value>Linux</value><value>, </value><value>FreeBSD</value><value>; </value><value>Android</value><value> and </value><value>iOS</value><value> (special versions)</value><value>Available in</value><value>52 (desktop)/25 (AnkiMobile) languages</value><value>.mw-parser-output .hidden-begin{box-sizing:border-box;width:100%;padding:5px;border:none;font-size:95%}.mw-parser-output .hidden-title{font-weight:bold;line-height:1.6;text-align:left}.mw-parser-output .hidden-content{text-align:left}@media all and (max-width:500px){.mw-parser-output .hidden-begin{width:auto!important;clear:none!important;float:none!important}}</value><value>List of languages</value><value>
+</value><value>Desktop</value><value>: Afrikaans, Arabic, Armenian, Basque, Belarusian, Bulgarian, Catalan, </value><value>Simplified Chinese</value><value>, </value><value>Traditional Chinese</value><value>, Croatian, Czech, Danish, Dutch, English (United Kingdom), English (United States), </value><value>Esperanto</value><value>, Estonian, Finnish, French, </value><value>Galician</value><value>, German, Greek, Hebrew, Hungarian, Irish, Italian, Japanese, Korean, Latin, </value><value>Lojban</value><value>, </value><value>Malay</value><value>, </value><value>Mongolian</value><value>, Norwegian, </value><value>Occitan</value><value>, Odia, Persian, Polish, Portuguese, </value><value>Brazilian Portuguese</value><value>, Romanian, Russian, Serbian, </value><value>Slovak</value><value>, </value><value>Slovenian</value><value>, Spanish, Swedish, Thai, Turkish, Ukrainian, Urdu, Uyghur, Vietnamese</value><value>
+</value><value>AnkiMobile</value><value>: English, Arabic, Belarusian, Catalan, Czech, Finnish, French, German, Hebrew, Irish, Italian, Japanese, Korean, Malayalam, Oriya, Persian, Polish, Portuguese, Romanian, Russian, Simplified Chinese, Spanish, Traditional Chinese, Turkish, Vietnamese</value><value>
+</value><value>Type</value><value>Flashcard</value><value> </value><value>spaced repetition</value><value>License</value><value>
+</value><value>Desktop: </value><value>GNU AGPL v3+</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>Android: </value><value>GNU GPL v3</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>Website</value><value>apps</value><value>.ankiweb</value><value>.net</value><value> </value><value>
+</value><value>Anki</value><value> (</value><value>.mw-parser-output .IPA-label-small{font-size:85%}.mw-parser-output .references .IPA-label-small,.mw-parser-output .infobox .IPA-label-small,.mw-parser-output .navbox .IPA-label-small{font-size:100%}</value><value>US</value><value>: </value><value>/</value><value>ˈ</value><value>ɑː</value><value>ŋ</value><value>k</value><value>i</value><value>/</value><value>, </value><value>UK</value><value>: </value><value>/</value><value>ˈ</value><value>æ</value><value>ŋ</value><value>k</value><value>i</value><value>/</value><value>; </value><value>Japanese:</value><value> </value><value>[aŋki]</value><value>) is a </value><value>free and open-source</value><value> </value><value>flashcard</value><value> program. It uses techniques from </value><value>cognitive science</value><value> such as </value><value>active recall testing</value><value> and </value><value>spaced repetition</value><value> to aid the user in memorization.</value><value>[</value><value>4</value><value>]</value><value>[</value><value>5</value><value>]</value><value> The name comes from the </value><value>Japanese</value><value> word for "memorization" (</value><value>暗記</value><value>).</value><value>[</value><value>6</value><value>]</value><value>
+</value><value>The </value><value>SM-2</value><value> </value><value>algorithm</value><value>, created for </value><value>SuperMemo</value><value> in the late 1980s, has historically formed the basis of the spaced repetition methods employed in the program. Anki's implementation of the algorithm has been modified to allow priorities on cards and to show </value><value>flashcards</value><value> in order of their urgency. Anki 23.10+ also has a native implementation of the </value><value>Free Spaced Repetition Scheduler</value><value> (FSRS) algorithm, which allows for more optimal spacing of card repetitions.</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>Anki is </value><value>content-agnostic</value><value>, and the cards are presented using </value><value>HTML</value><value> and may include text, images, sounds, videos,</value><value>[</value><value>8</value><value>]</value><value> and </value><value>LaTeX</value><value> equations. The decks of cards, along with the user's statistics, are stored in the open </value><value>SQLite</value><value> format.
+</value><value>
+</value><value>
+</value><value>Features</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Notes</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Cards are generated from information stored as "notes". Notes are analogous to database entries and can have an arbitrary number of fields. For example, with respect to learning a language, a note may have the following fields and example entries:
+</value><value>
+</value><value>Field 1: Expression in target language – </value><value>"gâteau"</value><value>
+</value><value>Field 2: Pronunciation – [sound file with the word </value><value>"gâteau"</value><value> pronounced]</value><value>
+</value><value>Field 3: Expression in familiar language – "cake"</value><value>
+</value><value>This example illustrates what some programs call a </value><value>three-sided flashcard</value><value>, but Anki's model is more general and allows any number of fields to be combined in various cards.
+</value><value>The user can design cards that test the information contained in each note. One card may have a question (expression) and an answer (pronunciation, meaning).
+</value><value>By keeping the separate cards linked to the same fact, spelling mistakes can be adjusted against all cards at the same time, and Anki can ensure that related cards are not shown in too short a spacing.
+</value><value>A special note type allows the generation of </value><value>cloze deletion</value><value> cards. In Anki 1.2.x, those were ordinary cards with cloze markup added using a tool in the fact editor.
+</value><value>
+</value><value>Syncing</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Anki supports synchronization with a free and </value><value>proprietary</value><value> online service called AnkiWeb.</value><value>[</value><value>9</value><value>]</value><value> This allows users to keep decks synchronized across multiple computers and to study online or on a cell phone.
+</value><value>There also is a third-party open-source (</value><value>AGPLv3</value><value>) AnkiWeb alternative, called anki-sync-server,</value><value>[</value><value>10</value><value>]</value><value> which users can run on their own local computers or servers.
+</value><value>Anki 2.1.57+ includes a built-in sync server. Advanced users who cannot or do not wish to use AnkiWeb can use this sync server instead of AnkiWeb.</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>
+</value><value>Japanese and Chinese reading generation</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Anki can automatically fill in the reading of Japanese and Chinese text. Since version 0.9.9.8.2, these features are in separate plug-ins.</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>Add-ons</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>More than 1600 </value><value>add-ons</value><value> for Anki are available,</value><value>[</value><value>12</value><value>]</value><value> often written by third-party </value><value>developers</value><value>.</value><value>[</value><value>13</value><value>]</value><value> They provide support for </value><value>speech synthesis</value><value>, enhanced user statistics, image occlusion, </value><value>incremental reading</value><value>, more efficient editing and creation of cards through batch editing, modifying the </value><value>GUI</value><value>, simplifying import of flashcards from other digital sources, adding an element of </value><value>gamification</value><value>,</value><value>[</value><value>14</value><value>]</value><value> etc.</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>Shared decks</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>While Anki's user manual encourages the creation of one's own decks for most material, there is still a large and active database of shared decks that users can download and use.</value><value>[</value><value>15</value><value>]</value><value> Available decks range from foreign-language decks (often constructed with frequency tables) to geography, physics, biology, chemistry and more. Various medical science decks, often made by multiple users in collaboration, are also available.</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>Comparisons</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Anki's current scheduling algorithm is derived from </value><value>SM-2</value><value> (an older version of the </value><value>SuperMemo</value><value> algorithm), though the algorithm has been significantly changed from SM-2 and is also far more configurable.</value><value>[</value><value>7</value><value>]</value><value> One of the most apparent differences is that while SuperMemo provides users a 6-point grading system (0 through 5, inclusive), Anki only provides at most 4 grades (again, hard, good, and easy). Anki also has significantly changed how review intervals grow and shrink (making many of these aspects of the scheduler configurable through deck options), though the core algorithm is still based on SM-2's concept of ease factors as the primary mechanism of evolving card review intervals.
+</value><value>Anki was originally based on the SM-5 algorithm, but the implementation was found to have seemingly incorrect behaviour (harder cards would have their intervals grow more quickly than easier cards in certain circumstances) leading the authors to switch Anki's algorithm to SM-2 (which was further evolved into the modern Anki algorithm).</value><value>[</value><value>7</value><value>]</value><value> At the time, this led Elmes to claim that SM-5 and later algorithms were flawed</value><value>[</value><value>17</value><value>]</value><value> which was strongly rebutted by </value><value>Piotr Woźniak</value><value>, the author of SuperMemo.</value><value>[</value><value>18</value><value>]</value><value> Since then, Elmes has clarified</value><value>[</value><value>7</value><value>]</value><value> that it is possible that the flaw was due to a bug in their implementation of SM-5 (the SuperMemo website does not describe SM-5 in complete detail), but added that due to licensing requirements, Anki will not use any newer versions of the SuperMemo algorithm. The prospect of community-funded licensing of newer SuperMemo algorithms is often discussed among users. However, there exists a greater focus on the development of the software itself and its features. The latest SuperMemo algorithm in 2019 is SM-18.</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>Some Anki users who have experimented with the Anki algorithm and its settings have published configuration recommendations,</value><value>[</value><value>20</value><value>]</value><value> made add-ons to modify Anki's algorithm,</value><value>[</value><value>21</value><value>]</value><value> or developed their own separate software.
+</value><value>In 2023 (version 23.10) the Free Spaced Repetition Scheduler (FSRS), a new scheduling algorithm, was integrated into Anki as an optional feature.</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>FSRS is based on a variant of the DSR (Difficulty, Stability, Retrievability) model, which is used to predict memory states.
+The default FSRS parameters are based on almost 700 million reviews from 20 thousand users and are more accurate in comparison to the standard SM2 algorithm, according to benchmarks, leading to fewer necessary reviews for the same retention rate.</value><value>[</value><value>23</value><value>]</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>Mobile versions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>The following smartphone/tablet and Web clients are available as companions to the desktop version:</value><value>[</value><value>25</value><value>]</value><value>[</value><value>26</value><value>]</value><value>[</value><value>27</value><value>]</value><value>
+</value><value>
+</value><value>AnkiMobile</value><value>[</value><value>28</value><value>]</value><value> for </value><value>iPhone</value><value>, </value><value>iPod Touch</value><value> or </value><value>iPad</value><value> (paid)</value><value>
+</value><value>AnkiWeb</value><value>[</value><value>29</value><value>]</value><value> (online server, free to use; includes add-on and deck hosting)</value><value>
+</value><value>AnkiDroid</value><value>[</value><value>30</value><value>]</value><value> for </value><value>Android</value><value> (free of charge, under GPLv3; by Nicolas Raoul)</value><value>
+</value><value>The flashcards and learning progress can be synchronized both ways with Anki using AnkiWeb. With AnkiDroid it is possible to have the flashcards read in several languages using </value><value>text-to-speech</value><value> (TTS). If a language does not exist in the Android TTS engine (e.g. Russian in the Android version Ice Cream Sandwich), a different TTS engine such as SVOX TTS Classic can be used. AnkiDroid has also been used for other educational purposes. It is used as instructional media in Islamic Religious Education in Indonesia.</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Damien Elmes, the Australian programmer behind the app, originally created it for learning Japanese.</value><value>[</value><value>32</value><value>]</value><value>[</value><value>33</value><value>]</value><value>
+The oldest mention of Anki that the developer Damien Elmes could find in 2011 was dated 5 October 2006, which was thus declared Anki's birthdate.</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>Version 2.0 was released on 6 October 2012.</value><value>
+</value><value>Version 2.1 was released on 6 August 2018.</value><value>
+</value><value>Version 23.10 was released on 31 October 2023, that has changed versions numbering scheme to </value><value>year.month</value><value>.</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>Version 23.12 was released on 24 December 2023.</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>Version 24.04 was released 31 March 2024.</value><value>[</value><value>37</value><value>]</value><value>
+</value><value>Version 24.06 was released 6 June 2024.</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>Utility</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>While Anki may primarily be used for language learning or a classroom setting, many have reported other uses for Anki: scientist </value><value>Michael Nielsen</value><value> uses it to remember complex topics in a fast-moving field,</value><value>[</value><value>39</value><value>]</value><value> while others are using it to remember memorable quotes, the faces of business partners or medical residents, or to remember business interviewing strategies.
+</value><value>In 2010, </value><value>Roger Craig</value><value> obtained the then-all-time record for single-day winnings on the </value><value>quiz show</value><value> </value><value>Jeopardy!</value><value>[</value><value>40</value><value>]</value><value> after using Anki to memorize a vast number of facts.</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>Medical education</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>A study in 2015 at </value><value>Washington University School of Medicine</value><value> found that 31% of students who responded to a medical education survey reported using Anki as a study resource; the same study found a positive relationship between the number of unique Anki cards studied and </value><value>USMLE Step 1</value><value> scores in a multivariate analysis.</value><value>[</value><value>42</value><value>]</value><value> In the same year, another study showed that students had a one-point increase on their licensing exams for every 1,700 unique Anki flashcards they used.</value><value>[</value><value>43</value><value>]</value><value>
+</value><value>Another study in 2024 found that Anki was commonly used among American medical students. 86.2% of surveyed students reported some Anki use and 66.5% used it daily.</value><value>[</value><value>44</value><value>]</value><value>
+AnKing, an Anki deck developed by students at the </value><value>University of Utah School of Medicine</value><value> aggregates information from multiple third-party resources and has become the primary method of USMLE Step1 and Step2 study for many students, having been downloaded over 300,000 times as of 2024.</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>App selections</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Anki offers user-made decks, which are commonly used in medical education and for learning a range of subjects including Chemistry, Biology, Geography, History, Law, Mathematics, Music, and Physics. User-made decks are also available for learning languages such as Albanian, Arabic, Chinese, Croatian, English, French, German, Hebrew, Japanese, Korean, Russian, and Spanish.</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Memrise</value><value>
+</value><value>List of flashcard software</value><value>
+</value><value>Computer-assisted language learning</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value> </value><value>https://github.com/ankitects/anki/releases/tag/25.07.1</value><value>.</value><value> </value><value>{{</value><value>cite web</value><value>}}</value><value>: </value><value>Missing or empty </value><value>|title=</value><value> (</value><value>help</value><value>)</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"LICENSE"</value><value>. </value><value>Anki</value><value>. Damien Elmes. 1 June 2020 – via GitHub.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"COPYING"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>1 June</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Shellenbarger, Sue (28 April 2015). </value><value>"Flashcards Get Smarter So You Can, Too"</value><value>. </value><value>Wall Street Journal</value><value>. </value><value>ISSN</value><value> </value><value>0099-9660</value><value>. Retrieved </value><value>6 October</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Smolen, Paul; Zhang, Yili; Byrne, John H. (25 January 2016). </value><value>"The right time to learn: mechanisms and optimization of spaced learning"</value><value>. </value><value>Nature Reviews Neuroscience</value><value>. </value><value>17</value><value> (2): </value><value>77–</value><value>88. </value><value>arXiv</value><value>:</value><value>1606.08370</value><value>. </value><value>Bibcode</value><value>:</value><value>2016arXiv160608370S</value><value>. </value><value>doi</value><value>:</value><value>10.1038/nrn.2015.18</value><value>. </value><value>PMC</value><value> </value><value>5126970</value><value>. </value><value>PMID</value><value> </value><value>26806627</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>wikt:暗記</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>c</value><value> </value><value>d</value><value> </value><value>"What spaced repetition algorithm does Anki use?"</value><value>. </value><value>faqs.ankiweb.net</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Played in a separate </value><value>MPlayer</value><value> window.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki – friendly, intelligent flashcards"</value><value>. </value><value>ankiweb.net</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>anki-sync-server</value><value>, Anki Community, 9 November 2021</value><value>, retrieved </value><value>9 November</value><value> 2021</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Self-Hosted Sync Server</value><value>, Anki Manual, 26 December 2023</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Add-ons for Anki 2.1"</value><value>. </value><value>ankiweb.net</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Writing Anki Add-ons"</value><value>. </value><value>addon-docs.ankiweb.net</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"AnkiEmperor – Gamification for Anki"</value><value>. </value><value>ankiweb.net</value><value>. Retrieved </value><value>26 March</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Shared Decks - AnkiWeb"</value><value>. </value><value>ankiweb.net</value><value>. Retrieved </value><value>23 March</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"index - medicalschoolanki"</value><value>. </value><value>reddit</value><value>. Retrieved </value><value>23 March</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Google Groups"</value><value>. </value><value>google.com</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Woźniak, Piotr</value><value> (June 2018). </value><value>"Criticism of Algorithm SM-5"</value><value>. </value><value>supermemo.guru</value><value>. Retrieved </value><value>22 September</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Three Decades: From SuperMemo 1.0 to SuperMemo 18.0"</value><value>. 22 September 2019.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Low-Key Anki"</value><value>. Archived from </value><value>the original</value><value> on 3 February 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Thoughts On A New Algorithm For Anki"</value><value>. 18 February 2017.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Release 23.10 · ankitects/anki"</value><value>. </value><value>GitHub</value><value>. 31 October 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"FSRS Benchmark·"</value><value>. </value><value>GitHub</value><value>. 25 December 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"FSRS Explained·"</value><value>. </value><value>AnkiDecks</value><value>. 30 April 2024.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki - powerful, intelligent flashcards"</value><value>. </value><value>ankisrs.net</value><value>. 29 October 2017. </value><value>AnkiMobile is a paid companion to the free computer program,</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki-Android Wiki: FAQ: Do I need Anki Desktop too?"</value><value>. </value><value>GitHub</value><value>. 29 October 2017. </value><value>AnkiDroid is designed primarily as a tool for reviewing cards created with Anki Desktop, rather than as a complete replacement for it.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"About - AnkiWeb"</value><value>. 29 October 2017. </value><value>AnkiWeb is intended to be used in conjunction with the computer version of Anki. While it is possible to create basic text-only cards and review them using only AnkiWeb,</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki - powerful, intelligent flashcards"</value><value>. </value><value>ankisrs.net</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki - friendly, intelligent flashcards"</value><value>. </value><value>ankiweb.net</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki on Android"</value><value>. </value><value>github.com</value><value>. 26 July 2019.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Rifai, Ikhsan; Nurhaliza (13 January 2024). </value><value>"The Effect of Using Ankidroid on Cognitive Learning Outcomes of Islamic Religious Education"</value><value>. </value><value>Eduscape: Journal of Education Insight</value><value>. </value><value>2</value><value> (1): </value><value>37–</value><value>47. </value><value>doi</value><value>:</value><value>10.61978/eduscape.v2i1.164</value><value>. </value><value>ISSN</value><value> </value><value>3026-5231</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>https://forums.ankiweb.net/t/why-is-this-software-called-anki-it-is-the-japanese/10508/3</value><value>, forum profile of  Elmes</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>https://web.archive.org/web/20240905133451/https://forums.ankiweb.net/t/why-is-this-software-called-anki-it-is-the-japanese/10508/2</value><value>, a thread from Anki's forums</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Happy birthday, Anki!"</value><value>. Google Groups. Archived from </value><value>the original</value><value> on 18 January 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Glutanimate (31 October 2023). </value><value>"Anki 23.10 Changelog"</value><value>. </value><value>r/Anki</value><value>. Retrieved </value><value>2 November</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Release 23.12 · ankitects/anki"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>24 July</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Release 24.04 · ankitects/anki"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>24 July</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Release 24.06 · ankitects/anki"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>24 July</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Coren, Michael J. (12 February 2018). </value><value>"The latest brain hack to get ahead in Silicon Valley: flashcards"</value><value>. </value><value>Quartz</value><value>. Retrieved </value><value>29 September</value><value> 2019</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Itzkoff, Dave (15 September 2010). </value><value>"Record Set On 'Jeopardy!'</value><value>"</value><value>. </value><value>The New York Times</value><value>. Retrieved </value><value>20 September</value><value> 2010</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Baker, Stephen</value><value> (2011). </value><value>"How to Play the Game"</value><value>. </value><value>Final Jeopardy: Man vs. Machine and the Quest to Know Everything</value><value>. </value><value>Houghton Mifflin Harcourt</value><value>. p. </value><value>214</value><value>. </value><value>ISBN</value><value> </value><value>978-0-547-48316-0</value><value>. </value><value>LCCN</value><value> </value><value>2010051653</value><value>. </value><value>OCLC</value><value> </value><value>651912283</value><value>. </value><value>OL</value><value> </value><value>25136706M</value><value>. Retrieved </value><value>25 April</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Deng, Francis; Gluckstein, Jeffrey A.; Larsen, Douglas P. (1 December 2015). </value><value>"Student-directed retrieval practice is a predictor of medical licensing examination performance"</value><value>. </value><value>Perspectives on Medical Education</value><value>. </value><value>4</value><value> (6): </value><value>308–</value><value>313. </value><value>doi</value><value>:</value><value>10.1007/s40037-015-0220-x</value><value>. </value><value>ISSN</value><value> </value><value>2212-277X</value><value>. </value><value>PMC</value><value> </value><value>4673073</value><value>. </value><value>PMID</value><value> </value><value>26498443</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Deng, Francis (2015). </value><value>"Student-directed retrieval practice is a predictor of medical licensing examination performance"</value><value>. </value><value>Perspectives on Medical Education</value><value>. </value><value>4</value><value> (6): </value><value>308–</value><value>313. </value><value>doi</value><value>:</value><value>10.1007/s40037-015-0220-x</value><value>. </value><value>PMC</value><value> </value><value>4673073</value><value>. </value><value>PMID</value><value> </value><value>26498443</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Ganjavi, Conner (5 September 2024). </value><value>"ChatGPT and large language models (LLMs) awareness and use. A prospective cross-sectional survey of U.S. medical students"</value><value>. </value><value>PLOS Digital Health</value><value>. </value><value>3</value><value> (9). PLOS: e0000596. </value><value>doi</value><value>:</value><value>10.1371/journal.pdig.0000596</value><value>. </value><value>PMC</value><value> </value><value>11376538</value><value>. </value><value>PMID</value><value> </value><value>39236008</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"AnKing Step Deck"</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Shared Decks"</value><value>. </value><value>Ankiweb.net</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>Further reading</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Gary Wolf (21 April 2008). </value><value>"Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm"</value><value>. </value><value>Wired</value><value>. </value><value>ISSN</value><value> 1059-1028. Retrieved 20 May 2022.</value><value>
+</value><value>Konrad M Lawson (28 April 2008). </value><value>"Anki Review"</value><value>. </value><value>Fool’s Flashcard Review</value><value>. </value><value>Archived</value><value> from the original on 4 April 2009</value><value>. Retrieved </value><value>23 March</value><value> 2009</value><value>.</value><value> (</value><value>part 2</value><value>)</value><value>
+</value><value>Kevin Purdy (12 January 2009). </value><value>"Anki Teaches Text, Audio, or Images Through Repetition"</value><value>. </value><value>Lifehacker</value><value>: Featured Download</value><value>. </value><value>Archived</value><value> from the original on 2 April 2009</value><value>. Retrieved </value><value>23 March</value><value> 2009</value><value>.</value><value>
+</value><value>Kristian Peltonen (24 September 2009). </value><value>"New computer software makes studying easier by carefully timing reviews"</value><value>. </value><value>Article on Anki &amp; Smart.fm for the Canadian Press</value><value>.</value><value>[</value><value>permanent dead link</value><value>]</value><value>
+</value><value>"Review of Mnemosyne vs. Anki vs. SuperMemo"</value><value>. </value><value>Nihongo Pera Pera (Fluent Japanese)</value><value>. 1 June 2008. Archived from </value><value>the original</value><value> on 7 September 2008</value><value>. Retrieved </value><value>8 September</value><value> 2008</value><value>.</value><value>
+</value><value>Glowing Face Man (22 February 2009). </value><value>"Anki vs. Mnemosyne"</value><value>. Archived from </value><value>the original</value><value> on 26 February 2009</value><value>. Retrieved </value><value>23 March</value><value> 2009</value><value>.</value><value>
+</value><value>David Harding (2009). </value><value>"Mnemosyne and Anki"</value><value>. </value><value>Ubuntu User magazine article</value><value>.</value><value>
+</value><value>Baker, Stephen</value><value> (2011). </value><value>Final Jeopardy: Man vs. Machine and the Quest to Know Everything</value><value>. Houghton Mifflin Harcourt. p. </value><value>214</value><value>. </value><value>ISBN</value><value> </value><value>978-0-547-48316-0</value><value>.</value><value>
+</value><value>External links</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);display:flow-root}.mw-parser-output .infobox .side-box{font-size:100%}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</value><value>@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}</value><value>
+</value><value>
+</value><value>
+</value><value>Wikimedia Commons has media related to </value><value>Anki</value><value>.</value><value>
+</value><value>
+</value><value>Official website</value><value> </value><value>
+</value><value>AnkiMobile Flashcards on the App Store</value><value>
+</value><value>SM2 Algorithm</value><value>
+</value><value>Anki Algorithm</value><value>
+</value><value>AnkiDroid</value><value> Android package at the </value><value>F-Droid</value><value> repository</value><value>
+</value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr&gt;.navbox-abovebelow,.mw-parser-output tr+tr&gt;.navbox-group,.mw-parser-output tr+tr&gt;.navbox-image,.mw-parser-output tr+tr&gt;.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</value><value>.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a&gt;span,.mw-parser-output .navbar a&gt;abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</value><value>v</value><value>t</value><value>e</value><value>Spaced repetition</value><value>Concepts</value><value>
+</value><value>Spaced repetition</value><value>
+</value><value>Spacing effect</value><value>
+</value><value>Testing effect</value><value>
+</value><value>Forgetting curve</value><value>
+</value><value>Flashcard</value><value>
+</value><value>Memory</value><value>
+</value><value>Leitner system</value><value>
+</value><value>Incremental reading</value><value>
+</value><value>Study software</value><value>
+</value><value>Anki</value><value>
+</value><value>Cobocards</value><value>
+</value><value>Course Hero</value><value>
+</value><value>Cram</value><value>
+</value><value>Cram.com</value><value>
+</value><value>Duolingo</value><value>
+</value><value>eSpindle Learning</value><value>
+</value><value>Hello English</value><value>
+</value><value>Kahoot!</value><value>
+</value><value>Lingopie</value>
