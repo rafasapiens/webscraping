@@ -33231,4 +33231,1345 @@ The GitHub service was developed by </value><value>Chris Wanstrath</value><value
 </value><value>
 </value><value>↑</value><value> </value><value> </value><value>Welcome to Funtoo Linux</value><value>.</value><value>
 </value><value>
-</value><value>↑</value><value> </value><value> 
+</value><value>↑</value><value> </value><value> <?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><url>https://en.wikipedia.org/wiki/Benevolent_dictator_for_life</url><title>None</title><text><value>
+</value><value>Title given to a small number of open-source software development leaders</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>For the political term, see </value><value>Benevolent dictatorship</value><value>.</value><value>
+</value><value>.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</value><value>This article </value><value>relies excessively on </value><value>references</value><value> to </value><value>primary sources</value><value>.</value><value> Please improve this article by adding </value><value>secondary or tertiary sources</value><value>. </value><value>Find sources:</value><value> </value><value>"Benevolent dictator for life"</value><value> – </value><value>news</value><value> </value><value>·</value><value> </value><value>newspapers</value><value> </value><value>·</value><value> </value><value>books</value><value> </value><value>·</value><value> </value><value>scholar</value><value> </value><value>·</value><value> </value><value>JSTOR</value><value>  </value><value>(</value><value>January 2025</value><value>)</value><value> (</value><value>Learn how and when to remove this message</value><value>)</value><value>
+</value><value>Benevolent dictator for life</value><value> (</value><value>BDFL</value><value>) is a </value><value>tongue-in-cheek</value><value> title given to a small number of </value><value>open-source software development</value><value> leaders, typically project founders who retain the final say in disputes or arguments within the community. It was first used in 1995 for </value><value>Guido van Rossum</value><value>, the creator of the </value><value>Python programming language</value><value>.</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>History</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Shortly after Van Rossum joined the </value><value>Corporation for National Research Initiatives</value><value>, the term appeared in a follow-up mail by Ken Manheimer to a meeting trying to create a semi-formal group that would oversee Python development and workshops; this initial use included an additional joke of naming Van Rossum the "First Interim BDFL". The title was initially coined as "Benevolent Dictator" by Ken Manheimer; later Barry Warsaw suggested it would be "Benevolent Dictator for Life".</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>In July 2018, van Rossum announced that he would be stepping down as BDFL of Python without appointing a successor, effectively eliminating the title within the Python community structure.</value><value>[</value><value>4</value><value>]</value><value> That remains an unusual move. In 2025, </value><value>Mastodon</value><value> developer </value><value>Eugen Rochko</value><value> stepped down, transferring ownership to a non-profit structure.</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>
+</value><value>Usage</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>BDFL should not be confused with the more common term for open-source leaders, "benevolent dictator", which was popularized by </value><value>Eric S. Raymond</value><value>'s essay "</value><value>Homesteading the Noosphere</value><value>" (1999).</value><value>[</value><value>6</value><value>]</value><value>[</value><value>clarification needed</value><value>]</value><value>
+</value><value>Among other topics related to </value><value>hacker culture</value><value>, Raymond elaborates on how the nature of open source forces the "dictatorship" to keep itself benevolent, since a strong disagreement can lead to the </value><value>forking</value><value> of the project under the rule of new leaders.</value><value>[</value><value>citation needed</value><value>]</value><value>  Most open source software development projects utilize </value><value>distributed version control</value><value> systems, in which contributors submit </value><value>pull requests</value><value> to the project's maintainer, who may merge or reject the submission.  Other distributed copies of the software are then based on that maintainer's repo.  The position of BDFL is a consequence of </value><value>network effect</value><value>; they become stewards of the overall project on account of being the repo that the rest of the community is subscribed to and submits changes to.
+</value><value>
+</value><value>Referent candidates</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>Key
+</value><value>
+</value><value>
+</value><value>†
+</value><value>
+</value><value>Deceased
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>Name
+</value><value>
+</value><value>Project
+</value><value>
+</value><value>Type
+</value><value>
+</value><value>Ref.</value><value>
+</value><value>
+</value><value>
+</value><value>Sylvain Benner
+</value><value>
+</value><value>Spacemacs</value><value>
+</value><value>
+</value><value>Community-driven </value><value>Emacs</value><value> distribution
+</value><value>
+</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Vitalik Buterin</value><value>
+</value><value>
+</value><value>Ethereum</value><value>
+</value><value>
+</value><value>Blockchain-based cryptocurrency
+</value><value>
+</value><value>[</value><value>8</value><value>]</value><value>[</value><value>better source needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Dries Buytaert</value><value>
+</value><value>
+</value><value>Drupal</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>François Chollet</value><value>
+</value><value>
+</value><value>Keras</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan Czaplicki
+</value><value>
+</value><value>Elm</value><value>
+</value><value>
+</value><value>Front-end web programming language
+</value><value>
+</value><value>[</value><value>11</value><value>]</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Laurent Destailleur
+</value><value>
+</value><value>Dolibarr ERP CRM</value><value>
+</value><value>
+</value><value>Software suite for </value><value>enterprise resource planning</value><value> and </value><value>customer relationship management</value><value>
+</value><value>
+</value><value>[</value><value>13</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>David Heinemeier Hansson</value><value>
+</value><value>
+</value><value>Ruby on Rails</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Rich Hickey</value><value>
+</value><value>
+</value><value>Clojure</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>15</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Adrian Holovaty</value><value> </value><value>and Jacob Kaplan-Moss
+</value><value>
+</value><value>Django</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Andrew Kelley
+</value><value>
+</value><value>Zig</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>17</value><value>]</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Xavier Leroy</value><value>
+</value><value>
+</value><value>OCaml</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>19</value><value>]</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Haoyuan Li</value><value>
+</value><value>
+</value><value>Alluxio</value><value>
+</value><value>
+</value><value>Data Orchestration System
+</value><value>
+</value><value>[</value><value>21</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Miles Lubin</value><value>
+</value><value>
+</value><value>JuMP</value><value>
+</value><value>
+</value><value>Mathematical optimization modeling language in Julia
+</value><value>
+</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Yukihiro Matsumoto (Matz)</value><value>
+</value><value>
+</value><value>Ruby</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>23</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Wes McKinney</value><value>
+</value><value>
+</value><value>Pandas</value><value>
+</value><value>
+</value><value>Python data analysis library
+</value><value>
+</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gavin Mendel-Gleason</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>
+</value><value>TerminusDB</value><value>
+</value><value>
+</value><value>Open-source graph database for knowledge graph representation
+</value><value>
+</value><value>[</value><value>25</value><value>]</value><value>[</value><value>26</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Moolenaar</value><value>†
+</value><value>
+</value><value>Vim</value><value>
+</value><value>
+</value><value>Text editor
+</value><value>
+</value><value>[</value><value>27</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Matt Mullenweg</value><value>[</value><value>b</value><value>]</value><value>
+</value><value>
+</value><value>WordPress</value><value>
+</value><value>
+</value><value>Content management framework
+</value><value>
+</value><value>[</value><value>28</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Odersky</value><value>
+</value><value>
+</value><value>Scala</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Taylor Otwell
+</value><value>
+</value><value>Laravel</value><value>
+</value><value>
+</value><value>Web framework
+</value><value>
+</value><value>[</value><value>30</value><value>]</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Theo de Raadt</value><value>
+</value><value>
+</value><value>OpenBSD</value><value>
+</value><value>
+</value><value>A </value><value>Unix-like</value><value> operating system
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Arnold Robbins</value><value>
+</value><value>
+</value><value>Awk</value><value>, Gawk
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ton Roosendaal</value><value>[</value><value>c</value><value>]</value><value>
+</value><value>
+</value><value>Blender</value><value>
+</value><value>
+</value><value>3D computer graphics software
+</value><value>
+</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sébastien Ros
+</value><value>
+</value><value>Orchard Project</value><value>
+</value><value>
+</value><value>Content management system
+</value><value>
+</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Mark Shuttleworth</value><value>[</value><value>d</value><value>]</value><value>
+</value><value>
+</value><value>Ubuntu</value><value>
+</value><value>
+</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Soller
+</value><value>
+</value><value>Redox</value><value>
+</value><value>
+</value><value>Operating system
+</value><value>
+</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Don Syme</value><value>[</value><value>e</value><value>]</value><value>
+</value><value>
+</value><value>F#</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>37</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Linus Torvalds</value><value>[</value><value>f</value><value>]</value><value>
+</value><value>
+</value><value>Linux</value><value>
+</value><value>
+</value><value>Operating system kernel
+</value><value>
+</value><value>[</value><value>14</value><value>]</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>José Valim
+</value><value>
+</value><value>Elixir</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>39</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Pauli Virtanen
+</value><value>
+</value><value>SciPy</value><value>
+</value><value>
+</value><value>Python</value><value> library used for scientific and technical computing
+</value><value>
+</value><value>[</value><value>40</value><value>]</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Patrick Volkerding</value><value>
+</value><value>
+</value><value>Slackware</value><value>
+</value><value>
+</value><value>GNU</value><value>/</value><value>Linux</value><value> distribution
+</value><value>
+</value><value>[</value><value>42</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Nathan Voxland
+</value><value>
+</value><value>Liquibase</value><value>
+</value><value>
+</value><value>Database schema management
+</value><value>
+</value><value>[</value><value>43</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jimmy Wales</value><value>
+</value><value>
+</value><value>Wikimedia Foundation</value><value>
+</value><value>
+</value><value>Collaborative knowledge project
+</value><value>
+</value><value>[</value><value>44</value><value>]</value><value>[</value><value>i</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Jeremy Walker
+</value><value>
+</value><value>Exercism</value><value>
+</value><value>
+</value><value>Open-source programming education platform
+</value><value>
+</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Shaun Walker
+</value><value>
+</value><value>DotNetNuke</value><value>
+</value><value>
+</value><value>Web application framework
+</value><value>
+</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Larry Wall</value><value>
+</value><value>
+</value><value>Perl</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>47</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Evan You</value><value>
+</value><value>
+</value><value>Vue.js</value><value>
+</value><value>
+</value><value>JavaScript MVVM framework for building user interfaces and single-page applications.
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Soumith Chintala
+</value><value>
+</value><value>PyTorch</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Martin Traverso, Dain Sundstrom, David Phillips
+</value><value>
+</value><value>Trino</value><value>
+</value><value>
+</value><value>SQL query engine
+</value><value>
+</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Kohsuke Kawaguchi</value><value>
+</value><value>
+</value><value>Jenkins</value><value>
+</value><value>
+</value><value>Automation server
+</value><value>
+</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Gabor de Mooij
+</value><value>
+</value><value>RedBeanPHP</value><value>
+</value><value>
+</value><value>Database object relational mapper
+</value><value>
+</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bram Cohen</value><value>
+</value><value>
+</value><value>BitTorrent</value><value>
+</value><value>
+</value><value>Peer-to-peer file sharing protocol
+</value><value>
+</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Walter Bright</value><value>
+</value><value>
+</value><value>D (programming language)</value><value>
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>citation needed</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ritchie Vink
+</value><value>
+</value><value>Polars
+</value><value>
+</value><value>Data analysis framework
+</value><value>
+</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>William Falcon
+</value><value>
+</value><value>PyTorch Lightning</value><value>
+</value><value>
+</value><value>Deep learning framework
+</value><value>
+</value><value>[</value><value>54</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Lars Hvam
+</value><value>
+</value><value>abapGit
+</value><value>
+</value><value>Git client for ABAP
+</value><value>
+</value><value>[</value><value>55</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Sebastián Ramírez
+</value><value>
+</value><value>FastAPI</value><value>
+</value><value>
+</value><value>Web framework for building APIs with </value><value>Python</value><value>
+</value><value>
+</value><value>[</value><value>56</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Bill Hall (gingerBill)
+</value><value>
+</value><value>Odin
+</value><value>
+</value><value>Programming language
+</value><value>
+</value><value>[</value><value>57</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Damien Elmes (dae)
+</value><value>
+</value><value>Anki</value><value>
+</value><value>
+</value><value>Spaced repetition</value><value> system
+</value><value>
+</value><value>[</value><value>58</value><value>]</value><value>[</value><value>59</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Ryan Cramer
+</value><value>
+</value><value>ProcessWire
+</value><value>
+</value><value>Free content management system (CMS) and framework (CMF)
+</value><value>
+</value><value>[</value><value>60</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Salvatore Sanfilippo</value><value>
+</value><value>
+</value><value>Redis</value><value>
+</value><value>
+</value><value>In memory key-value database
+</value><value>
+</value><value>[</value><value>61</value><value>]</value><value>
+</value><value>
+</value><value>Organizational positions</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}body.skin-vector-2022 .mw-parser-output .reflist-columns-2{column-width:27em}body.skin-vector-2022 .mw-parser-output .reflist-columns-3{column-width:22.5em}.mw-parser-output .references[data-mw-group=upper-alpha]{list-style-type:upper-alpha}.mw-parser-output .references[data-mw-group=upper-roman]{list-style-type:upper-roman}.mw-parser-output .references[data-mw-group=lower-alpha]{list-style-type:lower-alpha}.mw-parser-output .references[data-mw-group=lower-greek]{list-style-type:lower-greek}.mw-parser-output .references[data-mw-group=lower-roman]{list-style-type:lower-roman}.mw-parser-output div.reflist-liststyle-upper-alpha .references{list-style-type:upper-alpha}.mw-parser-output div.reflist-liststyle-upper-roman .references{list-style-type:upper-roman}.mw-parser-output div.reflist-liststyle-lower-alpha .references{list-style-type:lower-alpha}.mw-parser-output div.reflist-liststyle-lower-greek .references{list-style-type:lower-greek}.mw-parser-output div.reflist-liststyle-lower-roman .references{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CTO of </value><value>TerminusDB</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Lead Developer at the WordPress Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chairman of the </value><value>Blender Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CEO of </value><value>Canonical Ltd.</value><value> until December 2009, again since July 2017</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Technical Advisor at the </value><value>F# Software Foundation</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Sponsee of the </value><value>Linux Foundation</value><value>. Also holds the trademark for Linux.</value><value>
+</value><value>
+</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Design by dictator</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Disputed by Wales; </value><value>"I am not the benevolent dictator of anything"</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>Guido van Rossum (2008-07-31). </value><value>"Origin of BDFL"</value><value>. Artima.com. </value><value>Archived</value><value> from the original on 2012-07-21</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Python Creator Scripts Inside Google"</value><value>. </value><value>eWeek</value><value>. 2006-03-06. </value><value>Archived</value><value> from the original on 2018-08-09</value><value>. Retrieved </value><value>2008-05-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>CultRepo (formerly Honeypot) (2025-08-28). </value><value>Python: The Documentary | An origin story</value><value>. Retrieved </value><value>2025-08-31</value><value> – via YouTube.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Van Rossum, Guido (July 12, 2018). </value><value>"Transfer of power"</value><value>. </value><value>mail.python.org</value><value>. </value><value>Archived</value><value> from the original on July 12, 2018</value><value>. Retrieved </value><value>August 9,</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Perez, Sarah (2025-11-18). </value><value>"Mastodon CEO steps down as the social network restructures"</value><value>. </value><value>TechCrunch</value><value>. Retrieved </value><value>2025-12-12</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Raymond, Eric S. (2000). </value><value>"Homesteading the Noosphere § Project Structures and Ownership"</value><value>. </value><value>Eric S. Raymond's Home Page</value><value>. </value><value>Archived</value><value> from the original on 2012-07-01</value><value>. Retrieved </value><value>2008-08-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Spacemacs COMMUNITY.org"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-08-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Pearson, Jordan (24 April 2017). </value><value>"Ethereum's Boy King Is Thinking About Giving Up the Mantle"</value><value>. </value><value>Vice</value><value>. Retrieved </value><value>5 September</value><value> 2023</value><value>. </value><value>One participant called him a benevolent dictator.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Fay, Randy</value><value>. </value><value>"How Do Open Source Communities Govern Themselves? | RandyFay.comties Govern Themselves?"</value><value>. </value><value>randyfay.com</value><value>. Retrieved </value><value>27 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Keras API Special Interest Group, Leadership"</value><value>. </value><value>GitHub</value><value>. December 21, 2021.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"56: Ember vs. Elm: The Showdown with Philip Poots | The Frontside Podcast"</value><value>. </value><value>The Frontside Podcast</value><value>. Archived from </value><value>the original</value><value> on November 16, 2018</value><value>. Retrieved </value><value>2017-08-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>elm-conf (2016-09-19), </value><value>"Code is the Easy Part" by Evan Czaplicki</value><value>, retrieved </value><value>2017-08-14</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Dolibarr project organization, different roles of actors"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Constine, Josh (December 7, 2012). </value><value>"Dropbox Hires Away Google's Guido Van Rossum, The Father Of Python"</value><value>. TechCrunch</value><value>. Retrieved </value><value>June 1,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Clojure JIRA Workflow"</value><value>. Archived from </value><value>the original</value><value> on November 13, 2015</value><value>. Retrieved </value><value>3 October</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Adrian and Jacob retiring as Django BDFLs"</value><value>. Adrian Holovaty. January 12, 2014</value><value>. Retrieved </value><value>June 14,</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal: Create a standard process for proposals"</value><value>. </value><value>GitHub</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Interfacing with Zig, a BDFL-run Project"</value><value>. </value><value>Loris Cro's Blog</value><value>. December 10, 2021</value><value>. Retrieved </value><value>April 14,</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A History of OCaml | OCaml.org"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"OCaml Infrastructure mailing list"</value><value>. Retrieved </value><value>2015-09-18</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Introducing Alluxio Open Source Project Governance "</value><value>[1]</value><value>"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Governance Structure: JuMP"</value><value>. Retrieved </value><value>2023-09-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"A Ruby Design Process"</value><value>. Retrieved </value><value>2016-04-17</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"pandas 0.20.3 documentation: Tutorials"</value><value>. Retrieved </value><value>2017-07-24</value><value>.</value><value> "Wes McKinney's (pandas BDFL) blog"</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB, Twitter"</value><value>. May 6, 2020</value><value>. Retrieved </value><value>May 6,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"TerminusDB — what's in a name?"</value><value>. TerminusDB. August 21, 2019</value><value>. Retrieved </value><value>May 8,</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Why Neovim is Better than Vim"</value><value>. January 15, 2015</value><value>. Retrieved </value><value>30 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Thesis, Automattic, and WordPress | Post Status"</value><value>. July 24, 2015</value><value>. Retrieved </value><value>2015-07-24</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Programming in Scala Leaps onto the World Stage!"</value><value>. Retrieved </value><value>2015-11-25</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Twitter"</value><value>. Taylor Otwell. October 9, 2014</value><value>. Retrieved </value><value>October 9,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Taylor Otwell, Creator of the Laravel PHP Framework"</value><value>. </value><value>Facebook</value><value>. August 5, 2014</value><value>. Retrieved </value><value>August 5,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Robbins, Arnold (March 2014). </value><value>"The GNU Project and Me: 27 Years with GNU AWK"</value><value> </value><value>(PDF)</value><value>. </value><value>skeeve.com</value><value>. </value><value>Archived</value><value> </value><value>(PDF)</value><value> from the original on October 6, 2014</value><value>. Retrieved </value><value>August 11,</value><value> 2023</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Developer Intro/Overview"</value><value>. Retrieved </value><value>20 July</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Orchard Project Steering Committee"</value><value>. Archived from </value><value>the original</value><value> on August 12, 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Ubuntu carves niche in Linux landscape"</value><value>. </value><value>CNET</value><value>. Archived from </value><value>the original</value><value> on 6 November 2015.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"CONTRIBUTING.md · master · redox-os / redox"</value><value>. July 8, 2023.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Contributing to the F# Language and Compiler"</value><value>. Archived from </value><value>the original</value><value> on 21 December 2019</value><value>. Retrieved </value><value>29 September</value><value> 2015</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Dee-Ann LeBlanc (31 July 2006). </value><value>Linux For Dummies</value><value> (7th ed.). John Wiley &amp; Sons. p. 15. </value><value>ISBN</value><value> </value><value>978-0-470-04793-4</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Elixir Companies"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-11-01</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy 1.0.0"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SciPy project governance"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2017-10-27</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Stories of Linux: A Look at Slackware Linux"</value><value>. </value><value>linux.com</value><value>. Archived from </value><value>the original</value><value> on October 30, 2014</value><value>. Retrieved </value><value>September 21,</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"User and Developer Community | Post Status"</value><value>. Retrieved </value><value>2015-08-13</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chozick, Amy (June 27, 2013). </value><value>"Jimmy Wales is Not an Internet Billionaire"</value><value>. </value><value>The New York Times</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Jeremy Walker on Being the BDFL of Exercism by Humans of Open Source • A podcast on Anchor"</value><value>. </value><value>Anchor</value><value>. Retrieved </value><value>2021-03-26</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Book: Building Websites with DotNetNuke 5, Michael Washington and Ian Lackey, Packt Publishing. Page 14 "The core team comprises individuals invited to join the team by Shaun Walker, whom they affectionately call the "Benevolent Dictator".</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Art of Ballistic Programming"</value><value>. Archived from </value><value>the original</value><value> on June 17, 2013.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"PyTorch Governance | Maintainers — PyTorch 2.0 documentation"</value><value>. </value><value>pytorch.org</value><value>. Retrieved </value><value>2023-03-21</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Trino and the BDFL model </value><value>https://trino.io/blog/2023/04/06/trino-bdfl-focus.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Jenkins Enhancement Proposal #1: BDFL </value><value>https://github.com/jenkinsci/jep/blob/master/jep/1/README.adoc#bdfl</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>RedBeanPHP index page </value><value>https://redbeanphp.com/index.php?p=/welcome#sponsor</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>BitTorrent Enhancement Proposal #1: The BEP Process </value><value>https://www.bittorrent.org/beps/bep_0001.html</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Polars - About us"</value><value>. 2024-04-07. </value><value>Archived</value><value> from the original on 2024-03-24.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Lightning Governance — PyTorch Lightning 2.3.0dev documentation"</value><value>. </value><value>lightning.ai</value><value>. Retrieved </value><value>2024-04-10</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Addressing the Future of ABAP: The Power of Open Source"</value><value>. 2024-06-06.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"GitHub FastAPI"</value><value>. 2024-07-30.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Proposal Process"</value><value>. 2019-03-31.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"ankitects Github organization"</value><value>. </value><value>GitHub</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Anki development discussion"</value><value>. </value><value>Reddit</value><value>. Retrieved </value><value>2024-09-14</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>ProcessWire index page </value><value>https://www.processwire.com/</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Antirez Redis repository </value><value>https://github.com/antirez/redis</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Benevolent_dictator_for_life&amp;oldid=1331824659</value><value>"</value></text><lastUpdated> 8 January 2026, at 11:20</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Main_Page</url><title>Welcome to </title><text><value>
+</value><value>.mw-parser-output .mp-box{border:1px solid #aaa;padding:0 0.5em 0.5em;margin-top:4px}.mw-parser-output .mp-h2,body.skin-timeless .mw-parser-output .mp-h2{border:1px solid #aaa;margin:0.5em 0;padding:0.2em 0.4em;font-size:120%;font-weight:bold;font-family:inherit}.mw-parser-output .mp-later{font-size:85%;font-weight:normal}.mw-parser-output #mp-welcomecount{text-align:center;margin:0.4em}.mw-parser-output #mp-welcome{font-size:162%;padding:0.1em}.mw-parser-output #mp-welcome h1,.mw-parser-output #mp-welcome .mw-heading1{font-size:inherit;font-family:inherit;display:inline;border:none}.mw-parser-output #mp-free{font-size:95%}.mw-parser-output #articlecount{font-size:85%}.mw-parser-output #articlecount&gt;ul{margin:0;padding:0}.mw-parser-output #articlecount&gt;ul&gt;li{margin:0;display:inline}.mw-parser-output #articlecount&gt;ul&gt;li::after{content:" · ";font-weight:bold}.mw-parser-output #articlecount&gt;ul&gt;li:last-child::after{content:""}.mw-parser-output #mp-banner{text-align:center;padding-top:0.5em}.mw-parser-output .mp-contains-float::after{content:"";display:block;clear:both}@media(max-width:875px){.mw-parser-output #mp-tfp table,.mw-parser-output #mp-tfp tr,.mw-parser-output #mp-tfp td,.mw-parser-output #mp-tfp tbody{display:block!important;width:100%!important;box-sizing:border-box}.mw-parser-output #mp-tfp tr:first-child td:first-child a.mw-file-description{text-align:center;display:table;margin:0 auto}.mw-parser-output #articlecount&gt;ul&gt;li::after{content:"";font-weight:normal}.mw-parser-output #articlecount&gt;ul&gt;li{display:block}}@media(min-width:875px){.mw-parser-output #mp-upper{display:flex}.mw-parser-output #mp-left{flex:1 1 55%;margin-right:2px}.mw-parser-output #mp-right{flex:1 1 45%;margin-left:2px}}@media screen{.mw-parser-output #mp-topbanner{background-color:#f9f9f9;border-color:#ddd}.mw-parser-output #mp-banner{background-color:#fffaf5;border-color:#f2e0ce}.mw-parser-output #mp-left{background-color:#f5fffa;border-color:#cef2e0}.mw-parser-output #mp-left .mp-h2{background-color:#cef2e0;border-color:#a3bfb1}.mw-parser-output #mp-right{background-color:#f5faff;border-color:#cedff2}.mw-parser-output #mp-right .mp-h2{background-color:#cedff2;border-color:#a3b0bf}.mw-parser-output #mp-middle{background-color:#fff5fa;border-color:#f2cedd}.mw-parser-output #mp-middle .mp-h2{background-color:#f2cedd;border-color:#bfa3af}.mw-parser-output #mp-lower{background-color:#faf5ff;border-color:#ddcef2}.mw-parser-output #mp-lower .mp-h2{background-color:#ddcef2;border-color:#afa3bf}.mw-parser-output #mp-bottom{border-color:#e2e2e2}.mw-parser-output #mp-bottom .mp-h2{background-color:#eee;border-color:#ddd}html.skin-theme-clientpref-night .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-banner{background-color:#331a00;border-color:#663428}html.skin-theme-clientpref-night .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-night .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-night .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-night .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-night .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-night .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-night .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-night .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-night .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output #mp-topbanner{background-color:#171a1d;border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-banner{background-color:#331a00;border-color:#663428}html.skin-theme-clientpref-os .mw-parser-output #mp-left{background-color:#0b1e1c;border-color:#104437}html.skin-theme-clientpref-os .mw-parser-output #mp-left .mp-h2{background-color:#104437;border-color:#2f4d41}html.skin-theme-clientpref-os .mw-parser-output #mp-right{background-color:#0d1a27;border-color:#082849}html.skin-theme-clientpref-os .mw-parser-output #mp-right .mp-h2{background-color:#082849;border-color:#a3b0bf}html.skin-theme-clientpref-os .mw-parser-output #mp-middle{background-color:#270e1a;border-color:#882c43}html.skin-theme-clientpref-os .mw-parser-output #mp-middle .mp-h2{background-color:#882c43;border-color:#926c80}html.skin-theme-clientpref-os .mw-parser-output #mp-lower{background-color:#130e20;border-color:#7545ab}html.skin-theme-clientpref-os .mw-parser-output #mp-lower .mp-h2{background-color:#7545ab;border-color:#afa3bf}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom{border-color:#676767}html.skin-theme-clientpref-os .mw-parser-output #mp-bottom .mp-h2{background-color:#3d3d3d;border-color:#676767}}</value><value>
+</value><value>
+</value><value>
+</value><value>Welcome to </value><value>Wikipedia</value><value>,</value><value>
+</value><value>the </value><value>free</value><value> </value><value>encyclopedia</value><value> that </value><value>anyone can edit</value><value>.</value><value>
+</value><value>267,090</value><value> active editors</value><value> </value><value>7,123,994</value><value> articles in </value><value>English</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>The </value><value>English-language Wikipedia</value><value> is celebrating its 25th birthday! </value><value>Learn how you can take part</value><value> in the encyclopedia's continued improvement.</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>From today's featured article</value><value>
+</value><value>
+</value><value>
+</value><value>Edward III outside a walled town</value><value>
+</value><value>
+</value><value>King Edward III of England led a campaign</value><value> in the </value><value>Duchy of Brittany</value><value> in 1342 and 1343. </value><value>England</value><value>, at war with </value><value>France</value><value> since 1337 in the </value><value>Hundred Years' War</value><value>, had sided with </value><value>John of Montfort</value><value>'s faction in the </value><value>Breton Civil War</value><value> soon after it broke out in 1341. An English fleet broke the </value><value>blockade of Brest</value><value> on 18 August, and on 30 September a numerically inferior English army inflicted a heavy defeat on the French at the </value><value>battle of Morlaix</value><value>. After logistical difficulties, </value><value>Edward</value><value> abandoned his </value><value>siege train</value><value> and landed in Brittany on 26 October after a storm-wracked three-week passage. The English then advanced on the major Breton town of </value><value>Vannes</value><value>. The French garrison repelled an immediate assault and the English </value><value>began a siege</value><value>. English raiding parties devastated large parts of eastern Brittany, but attempts to reinforce or supply Edward from England failed. </value><value>Philip VI of France</value><value> moved his court to Brittany and entered into negotiations with Edward; they rapidly agreed the </value><value>Truce of Malestroit</value><value>, which is widely seen as favouring the English. </value><value>(</value><value>Full article...</value><value>)</value><value>
+</value><value>
+</value><value>
+Recently featured: </value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"\a0 · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>
+</value><value>2017 Africa Cup of Nations final</value><value>
+</value><value>Frank Hague</value><value>
+</value><value>Batman Returns</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>More featured articles</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>Did you know ...</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Wiley Griffon with his streetcar</value><value>
+</value><value>
+</value><value>... that </value><value>Wiley Griffon</value><value> </value><value>(pictured with streetcar)</value><value> became the first streetcar operator in Eugene, Oregon, despite Black settlers being outlawed in the state?</value><value>
+</value><value>... that </value><value>Martin Luther King Jr.'s speech "The Other America"</value><value> is thought to have been influenced by </value><value>a post-Keynesian economist</value><value> and </value><value>a democratic socialist</value><value>?</value><value>
+</value><value>... that </value><value>Dorothy Homer</value><value> declared her library was "dedicated to the principles of Democracy which cherish books while Dictatorships burn them"?</value><value>
+</value><value>... that </value><value>a 2004 ballot measure to repeal Jim Crow laws in Alabama</value><value> failed after opponents claimed that taxes would spike?</value><value>
+</value><value>... that </value><value>Ira L. Cooper</value><value> was the first African-American detective in St. Louis?</value><value>
+</value><value>... that an owner of </value><value>a Chicago radio station</value><value> attempted to destroy records of a documentary covering a race riot?</value><value>
+</value><value>... that Quaker abolitionist </value><value>John Vickers</value><value> hid fugitive slaves in the kiln where he made pottery?</value><value>
+</value><value>... that both </value><value>The Artist &amp; The Pervert</value><value> and </value><value>Black Exhibition</value><value> are described as significant works in the academic study of race and BDSM?</value><value>
+</value><value>... that </value><value>more than 90 percent of Connecticut voters in 1876 agreed</value><value> to repeal the requirement of being white to vote?</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>Start a new article</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>In the news</value><value>
+</value><value>.mw-parser-output .itn-img{float:right;margin-left:0.5em;margin-top:0.2em}</value><value>
+</value><value>
+</value><value>Yoweri Museveni</value><value>
+</value><value>
+</value><value>A ceasefire agreement is reached between </value><value>the transitional government</value><value> and the </value><value>Democratic Autonomous Administration of North and East Syria</value><value>, following </value><value>a government-led offensive in the northeastern region</value><value>.</value><value>
+</value><value>Yoweri Museveni</value><value> </value><value>(pictured)</value><value> </value><value>is re-elected</value><value> for a seventh term as </value><value>President of Uganda</value><value> amid </value><value>protests over contested results</value><value>.</value><value>
+</value><value>A coalition supportive of Benin's </value><value>president</value><value> </value><value>Patrice Talon</value><value>, consisting of </value><value>Progressive Union Renewal</value><value> and </value><value>Republican Bloc</value><value>, wins all seats in </value><value>the parliamentary elections</value><value>.</value><value>
+</value><value>Thousands </value><value>are killed</value><value> during </value><value>protests against the Iranian regime</value><value>.</value><value>
+</value><value>Thirty people are killed when </value><value>a crane falls onto a passenger train</value><value> in </value><value>Sikhio district</value><value>, Thailand.</value><value>
+</value><value>
+</value><value>Ongoing</value><value>: </value><value>
+</value><value>Russo-Ukrainian war</value><value>
+</value><value>timeline</value><value>
+</value><value>Sudanese civil war</value><value>
+</value><value>timeline</value><value>
+</value><value>Recent deaths</value><value>: </value><value>
+</value><value>Iqbal Athas</value><value>
+</value><value>Rick Garcia</value><value>
+</value><value>Miroslava Pešíková</value><value>
+</value><value>Louis E. Brus</value><value>
+</value><value>Isaiah Jackson</value><value>
+</value><value>Guy Moon</value><value>
+</value><value>
+</value><value>More current events</value><value>
+</value><value>Nominate an article</value><value>
+</value><value>
+</value><value>On this day</value><value>
+</value><value>
+</value><value>January 19</value><value>: </value><value>Martin Luther King Jr. Day</value><value> in the United States (2026) 
+</value><value>
+</value><value>
+</value><value>
+</value><value>Depiction of the aftermath of the Siege of Mirandola</value><value>
+</value><value>
+</value><value>1511</value><value> – </value><value>War of the League of Cambrai</value><value>: Troops led by </value><value>Pope Julius II</value><value> </value><value>captured Mirandola</value><value> </value><value>(depicted)</value><value> after a brief siege.</value><value>
+</value><value>1915</value><value> – </value><value>World War I</value><value>: The first major attack of the </value><value>German bombing campaign</value><value> against Britain took place when </value><value>Zeppelins</value><value> bombed several towns in </value><value>Norfolk</value><value>.</value><value>
+</value><value>1972</value><value> – The French newspaper </value><value>L'Aurore</value><value> revealed that the former Nazi </value><value>SS</value><value> officer </value><value>Klaus Barbie</value><value>, the "Butcher of Lyon", had been found to be living in Peru.</value><value>
+</value><value>1975</value><value> – </value><value>An earthquake</value><value> registering </value><value>6.8 </value><value>M</value><value>s</value><value> struck northern </value><value>Himachal Pradesh</value><value> in India, causing extensive damage to the region.</value><value>
+</value><value>2007</value><value> – A four-man team, using only </value><value>skis and kites</value><value>, completed a 1,093-mile (1,759 km) trek to reach the </value><value>Southern Pole of Inaccessibility</value><value>, the first people to get there since 1967, and the first to do so on foot.</value><value>
+</value><value>Marcus Gheeraerts the Younger</value><value>  (</value><value>d.</value><value> 1636)</value><value>Herbert Chapman</value><value>  (</value><value>b.</value><value> 1878)</value><value>Dennis Taylor</value><value>  (</value><value>b.</value><value> 1949)</value><value>Francesca Woodman</value><value>  (</value><value>d.</value><value> 1981)</value><value>
+</value><value>
+More anniversaries: </value><value>
+</value><value>January 18</value><value>
+</value><value>January 19</value><value>
+</value><value>January 20</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>By email</value><value>
+</value><value>List of days of the year</value><value>
+</value><value>About</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>From today's featured list</value><value>
+</value><value>English actor </value><value>Josette Simon's first theatrical role</value><value> was as a chorus member in the </value><value>Leicester Haymarket Theatre</value><value> production of </value><value>Joseph and the Amazing Technicolor Dreamcoat</value><value>, which was followed by several minor roles in other productions at the same venue. Her first television role was as </value><value>Dayna Mellanby</value><value> in the third and fourth series of the </value><value>television sci-fi</value><value> series </value><value>Blake's 7</value><value> from 1980 to 1981. In 1984 she starred as Dorcas Ableman in </value><value>Golden Girls</value><value>, directed by </value><value>Barry Kyle</value><value>, which became a </value><value>breakthrough role</value><value> for her. Later that year she landed her first leading role at the </value><value>Royal Shakespeare Company</value><value>, the first for a black actress, when she was cast by Kyle as Rosaline in </value><value>Love's Labour's Lost</value><value>. She won the </value><value>Evening Standard</value><value>'s</value><value> Best Actress award</value><value>, a </value><value>Critics' Circle Theatre Award</value><value>, and </value><value>Plays and Players</value><value> Critic Awards for </value><value>Arthur Miller</value><value>'s </value><value>After the Fall</value><value>, in which she played Maggie, thought to have been based on </value><value>Marilyn Monroe</value><value>. (</value><value>Full list...</value><value>)
+</value><value>
+Recently featured: </value><value>
+</value><value>Heteromyids</value><value>
+</value><value>Green Bay Packers draft picks (1936–1969)</value><value>
+</value><value>Awards and nominations received by Kim Seon-ho</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>More featured lists</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Today's featured picture</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>The </value><value>Lingnan School</value><value> was an art movement active in the late </value><value>Qing dynasty</value><value> and </value><value>Republic of China</value><value> that sought to modernize </value><value>Chinese painting</value><value> through borrowing from other artistic traditions. Established by the brothers </value><value>Gao Jianfu</value><value> and </value><value>Gao Qifeng</value><value>, together with </value><value>Chen Shuren</value><value>, the Lingnan School has been considered one of the major art movements of 20th-century Chinese painting. Stylistically, the Lingnan School was marked by a blending of traditional Chinese approaches and Western techniques, as mediated by Japanese understandings. These included matters of lighting and atmosphere, as well as depictions of subjects rarely found in earlier Chinese works. This 1916 work is by Gao Qifeng and is titled </value><value>The Roar of the Tiger</value><value>.
+</value><value>
+</value><value>Painting credit: </value><value>Gao Qifeng</value><value>
+</value><value>
+Recently featured: </value><value>
+</value><value>His Girl Friday</value><value>
+</value><value>Aglais io</value><value>
+</value><value>Narbonne Cathedral</value><value>
+</value><value>
+</value><value>
+</value><value>Archive</value><value>
+</value><value>More featured pictures</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Other areas of Wikipedia</value><value>
+</value><value>
+</value><value>Community portal</value><value> – The central hub for editors, with resources, links, tasks, and announcements.</value><value>
+</value><value>Village pump</value><value> – Forum for discussions about Wikipedia itself, including policies and technical issues.</value><value>
+</value><value>Site news</value><value> – Sources of news about Wikipedia and the broader Wikimedia movement.</value><value>
+</value><value>Teahouse</value><value> – Ask basic questions about using or editing Wikipedia.</value><value>
+</value><value>Help desk</value><value> – Ask questions about using or editing Wikipedia.</value><value>
+</value><value>Reference desk</value><value> – Ask research questions about encyclopedic topics.</value><value>
+</value><value>Content portals</value><value> – A unique way to navigate the encyclopedia.</value><value>
+</value><value>
+</value><value>Wikipedia's sister projects</value><value>
+</value><value>.mw-parser-output #sister-projects-list{display:flex;flex-wrap:wrap}.mw-parser-output #sister-projects-list li{display:inline-block}.mw-parser-output #sister-projects-list li span{font-weight:bold}.mw-parser-output #sister-projects-list li&gt;div{display:inline-block;vertical-align:middle;padding:6px 4px}.mw-parser-output #sister-projects-list li&gt;div:first-child{text-align:center}.mw-parser-output .sister-projects-wikt-icon-dark{display:none}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}html.skin-theme-clientpref-night .mw-parser-output .sister-projects-wikt-icon-light{display:none}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-dark{display:inline}html.skin-theme-clientpref-os .mw-parser-output .sister-projects-wikt-icon-light{display:none}}@media(min-width:360px){.mw-parser-output #sister-projects-list li{width:33%;min-width:20em;white-space:nowrap;flex:1 0 25%}.mw-parser-output #sister-projects-list li&gt;div:first-child{min-width:50px}}</value><value>
+</value><value>Wikipedia is written by volunteer editors and hosted by the </value><value>Wikimedia Foundation</value><value>, a non-profit organization that also hosts a range of other volunteer </value><value>projects</value><value>:
+</value><value>
+</value><value>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Commons</value><value>Free media repository</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>MediaWiki</value><value>Wiki software development</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Meta-Wiki</value><value>Wikimedia project coordination</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikibooks</value><value>Free textbooks and manuals</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikidata</value><value>Free knowledge base</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikinews</value><value>Free-content news</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiquote</value><value>Collection of quotations</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikisource</value><value>Free-content library</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikispecies</value><value>Directory of species</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikiversity</value><value>Free learning tools</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wikivoyage</value><value>Free travel guide</value><value>
+</value><value>
+</value><value>
+  </value><value>
+  </value><value>Wiktionary</value><value>Dictionary and thesaurus</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Wikipedia languages</value><value>
+</value><value>.mw-parser-output .wikipedia-languages ul{margin-left:0;padding-left:0}.mw-parser-output .wikipedia-languages ul a{white-space:nowrap}.mw-parser-output .wikipedia-languages&gt;ul{list-style:none;text-align:center;clear:both}.mw-parser-output .wikipedia-languages-count-container{width:90%;display:flex;justify-content:center;padding-top:1em;margin:0 auto}.mw-parser-output .wikipedia-languages-prettybars{width:100%;height:1px;margin:0.5em 0;background-color:#c8ccd1;flex-shrink:1;align-self:center}.mw-parser-output .wikipedia-languages-count{padding:0 1em;white-space:nowrap}</value><value>
+</value><value>
+</value><value>This Wikipedia is written in </value><value>English</value><value>. Many </value><value>other Wikipedias are available</value><value>; some of the largest are listed below.
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>1,000,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>العربية</value><value>
+</value><value>Deutsch</value><value>
+</value><value>Español</value><value>
+</value><value>فارسی</value><value>‎</value><value>
+</value><value>Français</value><value>
+</value><value>Italiano</value><value>
+</value><value>Nederlands</value><value>
+</value><value>日本語</value><value>
+</value><value>Polski</value><value>
+</value><value>Português</value><value>
+</value><value>Русский</value><value>
+</value><value>Svenska</value><value>
+</value><value>Українська</value><value>
+</value><value>Tiếng Việt</value><value>
+</value><value>中文</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>250,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Bahasa Indonesia</value><value>
+</value><value>Bahasa Melayu</value><value>
+</value><value>Bân-lâm-gú</value><value>
+</value><value>Български</value><value>
+</value><value>Català</value><value>
+</value><value>Čeština</value><value>
+</value><value>Dansk</value><value>
+</value><value>Eesti</value><value>
+</value><value>Ελληνικά</value><value>
+</value><value>Esperanto</value><value>
+</value><value>Euskara</value><value>
+</value><value>עברית</value><value>
+</value><value>Հայերեն</value><value>
+</value><value>한국어</value><value>
+</value><value>Magyar</value><value>
+</value><value>Norsk bokmål</value><value>
+</value><value>Română</value><value>
+</value><value>Simple English</value><value>
+</value><value>Slovenčina</value><value>
+</value><value>Srpski</value><value>
+</value><value>Srpskohrvatski</value><value>
+</value><value>Suomi</value><value>
+</value><value>Türkçe</value><value>
+</value><value>Oʻzbekcha</value><value>
+</value><value>
+</value><value>
+</value><value>
+  </value><value>
+    </value><value>
+    </value><value>50,000+ articles</value><value>
+    </value><value>
+  </value><value>
+</value><value>
+</value><value>Asturianu</value><value>
+</value><value>Azərbaycanca</value><value>
+</value><value>বাংলা</value><value>
+</value><value>Bosanski</value><value>
+</value><value>کوردی</value><value>
+</value><value>Frysk</value><value>
+</value><value>Gaeilge</value><value>
+</value><value>Galego</value><value>
+</value><value>Hrvatski</value><value>
+</value><value>ქართული</value><value>
+</value><value>Kurdî</value><value>
+</value><value>Latviešu</value><value>
+</value><value>Lietuvių</value><value>
+</value><value>മലയാളം</value><value>
+</value><value>Македонски</value><value>
+</value><value>မြန်မာဘာသာ</value><value>
+</value><value>Norsk nynorsk</value><value>
+</value><value>ਪੰਜਾਬੀ</value><value>
+</value><value>Shqip</value><value>
+</value><value>Slovenščina</value><value>
+</value><value>ไทย</value><value>
+</value><value>తెలుగు</value><value>
+</value><value>اردو</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Retrieved from "</value><value>https://en.wikipedia.org/w/index.php?title=Main_Page&amp;oldid=1332793203</value><value>"</value></text><lastUpdated> 13 January 2026, at 22:22</lastUpdated></item>
+<item><url>https://fr.wikipedia.org/wiki/Benevolent_Dictator_for_Life</url><title>None</title><text><value>
+</value><value>Ne doit pas être confondu avec </value><value>Dictateur bienveillant</value><value>.
+</value><value>
+</value><value>
+</value><value>Guido van Rossum</value><value>, est le créateur du langage de programmation </value><value>Python</value><value>. Il continue à travailler dessus en tant que BDFL.</value><value>
+</value><value>
+</value><value>Benevolent Dictator for Life</value><value> (</value><value>BDFL</value><value>) (littéralement « dictateur bienveillant à vie ») est le surnom donné à une personne respectée de la communauté de développement </value><value>open source</value><value> qui définit des orientations générales d'un projet donné. Ce nom est un jeu de mots entre </value><value>dictateur bienveillant</value><value> et </value><value>président à vie</value><value>.
+</value><value>
+</value><value>
+</value><value>Description</value><value>[</value><value>modifier</value><value> | </value><value>modifier le code</value><value>]</value><value>
+</value><value>Le BDFL est la personne qui détient effectivement des pouvoirs similaires à ceux d'un dictateur sur ce projet. Cependant, les autres développeurs et utilisateurs lui font confiance pour qu'il n'abuse pas de ses pouvoirs. Le terme est utilisé pour plaisanter, car les « sujets » du chef du projet contribuent volontairement, et le produit final pourra être utilisé par tout le monde. Dans ce contexte, un dictateur n'a du pouvoir que sur le processus, et ce uniquement tant que la confiance règne.
+</value><value>Une variante est </value><value>Self-Appointed Benevolent Dictator for Life</value><value> (</value><value>SABDFL</value><value>), littéralement « bienveillant dictateur à vie autoproclamé ».
+C'est le pseudonyme du milliardaire sud-africain </value><value>Mark Shuttleworth</value><value>, reflétant ainsi l'influence qu'il exerce sur la communauté </value><value>Ubuntu</value><value>.
+</value><value>Par extension, cette dénomination a également été donnée à certains fondateurs de </value><value>tiers-lieux</value><value>, lieux où la </value><value>culture libre</value><value> et l'absence de hiérarchie est mise en avant. 
+</value><value>Antoine Burret</value><value> </value><value>[</value><value>1</value><value>]</value><value>, auteur de </value><value>Tiers-lieux et plus si affinités</value><value> </value><value>[</value><value>2</value><value>]</value><value> insiste sur la différence avec un « chef », ou supérieur : </value><value>« Il y a une différence importante, c’est qu’il n’y a pas de lien hiérarchique. Celui qui ne veut pas suivre peut partir. J’insiste sur un point : il peut partir et reprendre le projet pour aller dans un autre sens que celui voulu par le premier promoteur. Le pouvoir n’appartient au dictateur bienveillant que dans la mesure où la communauté lui donne sa confiance. Chacun est libre. »</value><value> </value><value>[</value><value>3</value><value>]</value><value>
+</value><value>
+</value><value>Exemples</value><value>[</value><value>modifier</value><value> | </value><value>modifier le code</value><value>]</value><value>
+</value><value>Linus Torvalds</value><value>, le créateur du </value><value>noyau Linux</value><value> ;</value><value>
+</value><value>Guido van Rossum</value><value>, créateur de </value><value>Python</value><value>[</value><value>4</value><value>]</value><value>,</value><value>[</value><value>5</value><value>]</value><value> ;</value><value>
+</value><value>Larry Wall</value><value>, le créateur de </value><value>Perl</value><value> ;</value><value>
+</value><value>Theo de Raadt</value><value>, le créateur du système d'exploitation </value><value>OpenBSD</value><value> ;</value><value>
+</value><value>Patrick Volkerding</value><value>, le créateur de </value><value>Slackware</value><value>[</value><value>6</value><value>]</value><value> ;</value><value>
+</value><value>Matz</value><value>, le créateur de </value><value>Ruby</value><value> ;</value><value>
+</value><value>Bram Moolenaar</value><value>, auteur de </value><value>Vim</value><value>
+</value><value>Daniel Robbins</value><value>, le créateur de </value><value>Funtoo</value><value> ;</value><value>
+</value><value>Mark Shuttleworth</value><value> se donne lui-même le titre de « dictateur bienveillant à vie auto-proclamé » (</value><value>« </value><value>Self-Appointed Benevolent Dictator For Life</value><value> »</value><value>) et la communauté </value><value>Ubuntu</value><value> utilise souvent ce titre pour le désigner</value><value>[</value><value>7</value><value>]</value><value>,</value><value>[</value><value>8</value><value>]</value><value>.</value><value>
+</value><value>Eugen Rochko</value><value>, créateur de </value><value>Mastodon</value><value> ;</value><value>
+</value><value>Ton Roosendaal</value><value>, créateur du logiciel </value><value>Blender</value><value> ;</value><value>
+</value><value>Laurent Destailleur, pour le projet </value><value>Dolibarr ERP CRM</value><value>[</value><value>9</value><value>]</value><value>.</value><value>
+</value><value>Notes et références</value><value>[</value><value>modifier</value><value> | </value><value>modifier le code</value><value>]</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>« </value><value>Utilisateur:Antoine - Movilab.org</value><value> », sur </value><value>movilab.org</value><value> </value><value>(consulté le </value><value>15 octobre 2016</value><value>)</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>Antoine Burret, </value><value>Tiers-lieux et plus si affinités</value><value>, Limoges, FYP Editions - Collection Présence, </value><value>2016</value><value>, 175 </value><value>p.</value><value> </value><value>(</value><value>ISBN</value><value> </value><value>978-2-36405-126-3</value><value>, </value><value>présentation en ligne</value><value>)</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>master2dpaci</value><value>, « </value><value>Tiers-Lieux et plus si affinités d’Antoine Burret</value><value> », sur </value><value>MIND THE GAP - L’espace de documentation et de production des étudiants du Master 2 Développement de Projets Artistiques et Cultures Internationaux de l’Université Lumière Lyon 2</value><value>, </value><value>10 novembre 2015</value><value> </value><value>(consulté le </value><value>15 octobre 2016</value><value>)</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>« </value><value>The Four Hundred--Next Up on the System i: Python</value><value> », www.itjungle.com </value><value>(consulté le </value><value>13 mai 2008</value><value>)</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>Guido van Rossum </value><value>« </value><value>http://www.linuxformat.co.uk/modules.php?op=modload&amp;name=Sections&amp;file=index&amp;req=viewarticle&amp;artid=10</value><value> »</value><value>(</value><value>Archive.org</value><value> • </value><value>Wikiwix</value><value> • </value><value>Archive.is</value><value> • </value><value>Google</value><value> • </value><value>Que faire ?</value><value>)</value><value> </value><value>(consulté le </value><value>21 mars 2013</value><value>)</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>« </value><value>The Slackware Linux Project : About This Site</value><value> », sur </value><value>slackware.com</value><value> </value><value>(consulté le </value><value>31 mai 2023</value><value>)</value><value>.</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>« </value><value>ubuntu.com/community/processes…</value><value> »</value><value>(</value><value>Archive.org</value><value> • </value><value>Wikiwix</value><value> • </value><value>Archive.is</value><value> • </value><value>Google</value><value> • </value><value>Que faire ?</value><value>)</value><value>.</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>« </value><value>Ubuntu founder defuses rumors of impending Microsoft deal</value><value> », arstechnica.com </value><value>(consulté le </value><value>13 mai 2008</value><value>)</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>« </value><value>Le projet Dolibarr et ses acteurs</value><value> »</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Annexes</value><value>[</value><value>modifier</value><value> | </value><value>modifier le code</value><value>]</value><value>
+</value><value>Articles connexes</value><value>[</value><value>modifier</value><value> | </value><value>modifier le code</value><value>]</value><value>
+</value><value>Logiciel libre</value><value>
+</value><value>Open source</value><value>
+</value><value>Liens externes</value><value>[</value><value>modifier</value><value> | </value><value>modifier le code</value><value>]</value><value>
+</value><value>Les dictateurs dans les logiciels libres et open source</value><value>
+</value><value> </value><value>Portail de l’informatique</value><value> </value><value> </value><value> </value><value>Portail des logiciels libres</value><value> </value><value>                   </value><value> 
+</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Ce document provient de « </value><value>https://fr.wikipedia.org/w/index.php?title=Benevolent_Dictator_for_Life&amp;oldid=227474771</value><value> ».</value></text><lastUpdated> La dernière modification de cette page a été faite le 22 juillet 2025 à 06:06.</lastUpdated></item>
+<item><url>https://en.wikipedia.org/wiki/Vitalik_Buterin</url><title>None</title><text><value>
+</value><value>Russian-Canadian programmer (born 1994)</value><value>
+</value><value>.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}</value><value>In this name that follows </value><value>East Slavic naming customs</value><value>, the </value><value>patronymic</value><value> is </value><value> Dmitrievich</value><value> and the </value><value>family name</value><value> is </value><value> Buterin</value><value>.</value><value>
+</value><value>
+
+</value><value>
+</value><value>.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent;color:inherit}.mw-parser-output .infobox-3cols-child{margin:-3px}.mw-parser-output .infobox .navbar{font-size:100%}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme)&gt;div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table&gt;caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table&gt;tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</value><value>Vitalik Buterin</value><value>.mw-parser-output .nobold{font-weight:normal}</value><value>Виталик Бутерин</value><value>Buterin in 2015</value><value>Born</value><value>Vitaly Dmitrievich Buterin</value><value> (</value><value>1994-01-31</value><value>) </value><value>31 January 1994</value><value> (age 31)</value><value>Kolomna</value><value>, Russia</value><value>Education</value><value>University of Waterloo</value><value>Known for</value><value>Ethereum</value><value>, </value><value>Bitcoin Magazine</value><value>Awards</value><value>Thiel Fellowship</value><value>Scientific career</value><value>Fields</value><value>Digital contracts</value><value>, </value><value>digital currencies</value><value>, </value><value>game theory</value><value>
+</value><value>Website</value><value>Personal website</value><value>
+</value><value>Vitaly Dmitrievich Buterin</value><value> (</value><value>Russian</value><value>: </value><value>Вита́лий Дми́триевич Буте́рин</value><value>; born 31 January</value><value>[</value><value>1</value><value>]</value><value> 1994), better known as </value><value>Vitalik Buterin</value><value> (Russian: </value><value>Вита́лик Буте́рин</value><value>), is a Russian-Canadian computer programmer and philanthropist best known for co-founding </value><value>Ethereum</value><value>. Buterin became involved with </value><value>cryptocurrency</value><value> early in its inception, co-founding </value><value>Bitcoin Magazine</value><value> in 2011.</value><value>[</value><value>2</value><value>]</value><value>[</value><value>3</value><value>]</value><value> In 2015, Buterin deployed the Ethereum </value><value>blockchain</value><value> with </value><value>Gavin Wood</value><value>, </value><value>Charles Hoskinson</value><value>, </value><value>Anthony Di Iorio</value><value>, and </value><value>Joseph Lubin</value><value>.</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>
+</value><value>
+</value><value>Early life and education</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Buterin was born in </value><value>Kolomna</value><value>, Russia, to a Russian family.</value><value>[</value><value>5</value><value>]</value><value>[</value><value>6</value><value>]</value><value> His father, Dmitry, was a </value><value>computer scientist</value><value>.</value><value>[</value><value>5</value><value>]</value><value> He and his parents lived in the area until the age of six, when his parents </value><value>emigrated to Canada</value><value> in search of better employment opportunities.</value><value>[</value><value>7</value><value>]</value><value> While in grade three of elementary school in Canada, Buterin was placed into a class for gifted children and was drawn to mathematics, programming, and economics.</value><value>[</value><value>8</value><value>]</value><value> Buterin then attended </value><value>The Abelard School</value><value>, a private high school in Toronto.</value><value>[</value><value>9</value><value>]</value><value> Buterin learned about </value><value>Bitcoin</value><value> from his father at the age of 17.</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>After high school, Buterin attended the </value><value>University of Waterloo</value><value>. There, he took advanced courses and was a research assistant for </value><value>cryptographer</value><value> </value><value>Ian Goldberg</value><value>, who co-created </value><value>Off-the-Record Messaging</value><value> and was the former board of directors' chairman of </value><value>the Tor Project</value><value>.</value><value>[</value><value>10</value><value>]</value><value>[</value><value>11</value><value>]</value><value> In 2012, Buterin won a bronze medal in the </value><value>International Olympiad in Informatics</value><value> in Italy.</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>In 2013, he visited developers in other countries who shared his enthusiasm for code. He returned to Toronto later that year and published a </value><value>white paper</value><value> proposing Ethereum.</value><value>[</value><value>13</value><value>]</value><value>[</value><value>14</value><value>]</value><value> He dropped out of university in 2014 when he was awarded with a grant of US$100,000 (equivalent to $132,823 in 2024)</value><value>[</value><value>15</value><value>]</value><value> from the </value><value>Thiel Fellowship</value><value>, a scholarship created by venture capitalist </value><value>Peter Thiel</value><value> and went to work on Ethereum full-time.</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>On 30 November 2018, Buterin received an honorary doctorate from the Faculty of Business and Economics of the </value><value>University of Basel</value><value>.</value><value>[</value><value>17</value><value>]</value><value>
+</value><value>
+</value><value>Career</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Bitcoin Magazine</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Main article: </value><value>Bitcoin Magazine</value><value>
+</value><value>In 2011, Buterin began writing for a publication called </value><value>Bitcoin Weekly</value><value> after meeting a person on a bitcoin forum with the aim of earning bitcoin.</value><value>[</value><value>18</value><value>]</value><value> The owner offered five </value><value>bitcoin</value><value> (about $3.50 at the time) to anyone who would write an article for him.</value><value>[</value><value>19</value><value>]</value><value> Buterin wrote for the site until it shut down soon thereafter due to insufficient revenue.</value><value>[</value><value>20</value><value>]</value><value> In September 2011, Mihai Alisie reached out to Buterin about starting a new print publication called </value><value>Bitcoin Magazine</value><value>, a position which Buterin would accept as the first co-founder and contribute to as a leading writer.</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>Bitcoin Magazine</value><value> in 2012 later began publishing a print edition and has been referred to as the first serious publication dedicated to </value><value>cryptocurrencies</value><value>.</value><value>[</value><value>21</value><value>]</value><value> While working for </value><value>Bitcoin Magazine</value><value>, Buterin reached out to </value><value>Jed McCaleb</value><value> for a job at </value><value>Ripple</value><value> who accepted.</value><value>[</value><value>22</value><value>]</value><value> However, their proposed employment fell apart after Ripple was unable to support a U.S. visa for Buterin.</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>In addition, he was from 2016 to 2024 a member of the editorial board of </value><value>Ledger</value><value>,</value><value>[</value><value>23</value><value>]</value><value> a peer-reviewed scholarly journal that publishes full-length original research articles on the subjects of cryptocurrency and blockchain technology.</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>Ethereum</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Main article: </value><value>Ethereum</value><value>
+</value><value>Buterin is the inventor of </value><value>Ethereum</value><value>, described as a "decentralised mining network and software development platform rolled into one"</value><value>[</value><value>25</value><value>]</value><value> that facilitates the creation of new cryptocurrencies and programs that share a single </value><value>blockchain</value><value> (a cryptographic transaction ledger).</value><value>[</value><value>26</value><value>]</value><value>[</value><value>27</value><value>]</value><value>[</value><value>28</value><value>]</value><value>
+</value><value>Buterin first described Ethereum in a white paper in November 2013.</value><value>[</value><value>29</value><value>]</value><value> Buterin had argued that bitcoin needed a scripting language for application development. But when he failed to gain agreement, he proposed development of a new platform with a more general scripting language.</value><value>[</value><value>30</value><value>]</value><value>: 88 </value><value>
+</value><value>The Ethereum white paper was circulated, and interest grew in the new protocol in late 2013 and early 2014. Buterin announced Ethereum more publicly at the North American Bitcoin Conference in </value><value>Miami</value><value> on 26 January. Buterin delivered a 25-minute speech, describing the general-purpose global computer operating on a decentralized permissionless network, ending with potential uses for Ethereum that ranged from crop insurance to </value><value>decentralized exchanges</value><value> to </value><value>DAOs</value><value>.</value><value>[</value><value>31</value><value>]</value><value>[</value><value>32</value><value>]</value><value>: 92, 110–130 </value><value>[</value><value>33</value><value>]</value><value> 
+</value><value>About the Ethereum Project, Buterin said in 2020: "I am truly grateful to have the opportunity to work in such an interesting and interdisciplinary area of industry, where I have the chance to interact with cryptographers, mathematicians and economists prominent in their fields, to help build software and tools that already affect tens of thousands of people around the world, and to work on advanced problems in computer science, economics and philosophy every week."</value><value>[</value><value>34</value><value>]</value><value> However, in a 2018 </value><value>New Yorker</value><value> article, his father suggested that Buterin was trying to avoid the focus on him as the </value><value>philosopher king</value><value> of the blockchain world, stating "He is trying to focus his time on research. He's not too excited that the community assigns so much importance to him. He wants the community to be more resilient."</value><value>[</value><value>4</value><value>]</value><value>
+</value><value>
+Buterin has stated that he was driven to create decentralized money because his </value><value>World of Warcraft</value><value> character was </value><value>nerfed</value><value>, specifically by patch 3.1.0. He went on to say in his about.me bio:</value><value>I happily played World of Warcraft during 2007–2010, but one day </value><value>Blizzard</value><value> removed the damage component from my beloved warlock's Siphon Life spell. I cried myself to sleep, and on that day I realized what horrors centralized services can bring. I soon decided to quit.</value><value>[</value><value>35</value><value>]</value><value>[</value><value>36</value><value>]</value><value>
+</value><value>Open-source software</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Buterin has contributed as a developer to other open-source software projects.</value><value>[</value><value>2</value><value>]</value><value> He also contributed to DarkWallet</value><value>[</value><value>37</value><value>]</value><value> by </value><value>Cody Wilson</value><value>, Bitcoin </value><value>Python</value><value> libraries,</value><value>[</value><value>38</value><value>]</value><value> and the cryptocurrency marketplace site Egora.</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>
+</value><value>Ethereum Russia</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>As Buterin was recognizing the economic and political relevance of the Ethereum enterprise for his native Russia, he met with President </value><value>Vladimir Putin</value><value> on 2 June 2017, at the </value><value>St. Petersburg International Economic Forum</value><value> (SPIEF). Putin stated that he "supported the idea of establishing ties with possible Russian partners".</value><value>[</value><value>39</value><value>]</value><value>
+</value><value>
+</value><value>Work with Glen Weyl</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Buterin came into contact with economist </value><value>Glen Weyl</value><value> after tweeting about Weyl's proposal for a new </value><value>wealth tax</value><value>.</value><value>[</value><value>40</value><value>]</value><value> The two then wrote a manifesto </value><value>Liberation Through Radical Decentralization</value><value>, where they highlighted the common ground between Buterin's work on cryptocurrencies and Weyl's work on market-based solutions to social problems.</value><value>[</value><value>41</value><value>]</value><value> Collaborating with Zoe Hitzig, a PhD student at </value><value>Harvard</value><value>, they published a paper in 2019 entitled </value><value>A Flexible Design for Funding Public Goods</value><value>. The paper sets out a method for optimal provision of public goods, using a version of </value><value>quadratic voting</value><value>.</value><value>[</value><value>42</value><value>]</value><value> As of August 2022, quadratic funding had been used to allocate over $20 million to open-source software projects, primarily through Gitcoin Grants.</value><value>[</value><value>43</value><value>]</value><value>
+</value><value>
+</value><value>Artificial intelligence</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>In May 2021, Buterin donated $665 million to the </value><value>Future of Life Institute</value><value>, a nonprofit which, amongst other things, seeks to mitigate the </value><value>existential risk from artificial intelligence</value><value>. Buterin worries that AI could become the new dominant species on Earth, and may "end humanity for good".</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>
+</value><value>Awards and recognition</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Thiel Fellowship</value><value>, 2014</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>World Technology Award in the IT Software category, 2014</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>Fortune</value><value> </value><value>40 under 40</value><value> list, 2016</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>Forbes</value><value> </value><value>30 under 30</value><value> list, 2018</value><value>[</value><value>47</value><value>]</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>Fortune</value><value> the ledger 40 under 40 list, 2018</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>University of Basel</value><value> Honorary doctorate, 2018</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>Time</value><value> 100</value><value>, 2021</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>Philanthropy</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Donation of $763,970 of Ether to the </value><value>Machine Intelligence Research Institute</value><value> in 2017.</value><value>[</value><value>52</value><value>]</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>Donation of $2.4 million of Ether to the </value><value>SENS Research Foundation</value><value> in 2018, for the research on </value><value>rejuvenation</value><value> biotechnologies and human </value><value>life extension</value><value>.</value><value>[</value><value>54</value><value>]</value><value>[</value><value>55</value><value>]</value><value>[</value><value>56</value><value>]</value><value>[</value><value>57</value><value>]</value><value>
+</value><value>Donation of $50,000 to the </value><value>SENS Research Foundation</value><value> in 2020. Together with </value><value>Sam Bankman-Fried</value><value> and Haseeb Qureshi, a total of $150,000 was donated the SENS Research Foundation to combat aging and aging-related diseases at the choice of users of Twitter through open voting.</value><value>[</value><value>58</value><value>]</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>Buterin donated $1.14 billion USD worth of </value><value>SHIBA coins</value><value>, which had previously been gifted to him, to </value><value>India's Crypto Covid relief fund</value><value> in 2021.</value><value>[</value><value>59</value><value>]</value><value>[</value><value>60</value><value>]</value><value>[</value><value>61</value><value>]</value><value> This donation was 5% of the coin in circulation and caused a 50% crash in the price at the time.</value><value>[</value><value>62</value><value>]</value><value>[</value><value>63</value><value>]</value><value>
+</value><value>Donation of $336 million worth of Dogelon Mars ($ELON), which had previously been gifted to him, to the </value><value>Methuselah Foundation</value><value>, which focuses on extending human lifespan, on 12 May 2021.</value><value>[</value><value>64</value><value>]</value><value> Buterin's donation of the </value><value>memecoin</value><value> caused a 70% drop in its value.</value><value>[</value><value>59</value><value>]</value><value>
+</value><value>Founding donation (amount undisclosed) to nonprofit biomedical research organization </value><value>Arc Institute</value><value> in 2021.</value><value>[</value><value>65</value><value>]</value><value>
+</value><value>Donation of $665 million to the </value><value>Future of Life Institute</value><value> in 2021.</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>Donation of $760,000 of Ether to two messaging apps, </value><value>SimpleX Chat</value><value> and </value><value>Session</value><value> in 2025.</value><value>[</value><value>66</value><value>]</value><value>
+</value><value>Philanthropic efforts against the 2022 Russian invasion of Ukraine</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Buterin spoke out in support of Ukraine amid its </value><value>invasion by Russia in 2022</value><value>. On the first day of the invasion, Buterin tweeted that "Ethereum is neutral, but I am not",</value><value>[</value><value>67</value><value>]</value><value>[</value><value>68</value><value>]</value><value> and that the attack was a crime against both the Ukrainian and the Russian peoples.</value><value>[</value><value>69</value><value>]</value><value>[</value><value>70</value><value>]</value><value> A few days later, he responded to a tweet by </value><value>RT</value><value>'s editor-in-chief </value><value>Margarita Simonyan</value><value> with "</value><value>иди на хуй</value><value>" </value><value>'</value><value>go fuck yourself</value><value>'</value><value>. She had claimed that people who said they were ashamed to be Russians because of Moscow's actions against Ukraine were, in fact, not Russians at all ("</value><value>Если вам сейчас стыдно, что вы русские, не волнуйтесь, вы - не русские.</value><value>").</value><value>[</value><value>71</value><value>]</value><value> 
+</value><value>Buterin has donated crypto to projects supporting the country and endorsed projects helping Ukraine through "cryptophilanthropy". These include Ukraine DAO,</value><value>[</value><value>72</value><value>]</value><value>[</value><value>73</value><value>]</value><value> in which his father Dmitry is one of the key-holders on its multi-signature crypto safe.</value><value>[</value><value>74</value><value>]</value><value>
+</value><value>
+</value><value>Books</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Vitalik Buterin. </value><value>Proof of Stake: The Making of Ethereum and the Philosophy of Blockchains</value><value>. </value><value>Seven Stories Press</value><value>, 2022. С. 384. </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</value><value>ISBN</value><value> </value><value>978-1644212486</value><value>.</value><value>
+</value><value>See also</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>List of University of Waterloo people</value><value>
+</value><value>List of people in blockchain technology</value><value>
+</value><value>List of transhumanists</value><value>
+</value><value>List of philanthropists</value><value>
+</value><value>References</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Citations</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}body.skin-vector-2022 .mw-parser-output .reflist-columns-2{column-width:27em}body.skin-vector-2022 .mw-parser-output .reflist-columns-3{column-width:22.5em}.mw-parser-output .references[data-mw-group=upper-alpha]{list-style-type:upper-alpha}.mw-parser-output .references[data-mw-group=upper-roman]{list-style-type:upper-roman}.mw-parser-output .references[data-mw-group=lower-alpha]{list-style-type:lower-alpha}.mw-parser-output .references[data-mw-group=lower-greek]{list-style-type:lower-greek}.mw-parser-output .references[data-mw-group=lower-roman]{list-style-type:lower-roman}.mw-parser-output div.reflist-liststyle-upper-alpha .references{list-style-type:upper-alpha}.mw-parser-output div.reflist-liststyle-upper-roman .references{list-style-type:upper-roman}.mw-parser-output div.reflist-liststyle-lower-alpha .references{list-style-type:lower-alpha}.mw-parser-output div.reflist-liststyle-lower-greek .references{list-style-type:lower-greek}.mw-parser-output div.reflist-liststyle-lower-roman .references{list-style-type:lower-roman}</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Dmitry Buterin [@BlockGeekDima] (31 January 2022). </value><value>"28 years ago, at 21, i became a father. What a beautiful messy complicated journey is being a parent! So much love, fear, conflict, joy, suffering, growth in that amazing human experience!! Happy birthday to a wonderful sensitive funny smart human @VitalikButerin 🥳🕺❤️🐥🔆"</value><value> (</value><value>Tweet</value><value>)</value><value>. Retrieved </value><value>3 April</value><value> 2023</value><value> – via </value><value>Twitter</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Finley, Klint (27 January 2014). </value><value>"Out in the open: Teenage hacker transforms web into one giant Bitcoin network"</value><value>. </value><value>Wired</value><value>. </value><value>Archived</value><value> from the original on 12 February 2014</value><value>. Retrieved </value><value>7 February</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Melendez, Steven (10 February 2014). </value><value>"Could this 20-Year-Old kid make Bitcoin obsolete?"</value><value>. </value><value>Fast Company</value><value>. </value><value>Archived</value><value> from the original on 1 March 2014</value><value>. Retrieved </value><value>22 February</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Paumgarten, Nick (15 October 2018). </value><value>"The Prophets of Cryptocurrency Survey the Boom and Bust"</value><value>. </value><value>The New Yorker</value><value>. </value><value>Archived</value><value> from the original on 9 January 2020.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Brownell, Claire (27 June 2017). </value><value>"Vitalik Buterin: The cryptocurrency prophet"</value><value>. </value><value>Financial Post</value><value>. </value><value>Archived</value><value> from the original on 8 March 2018</value><value>. Retrieved </value><value>8 March</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Chow, Andrew R. (18 March 2022). </value><value>"The Man Behind Ethereum Is Worried About Crypto's Future"</value><value>. </value><value>Time</value><value>. Retrieved </value><value>14 September</value><value> 2022</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Peck, Morgen (13 June 2016). </value><value>"The Uncanny Mind That Built Ethereum"</value><value>. </value><value>Backchannel</value><value>. WIRED. </value><value>Archived</value><value> from the original on 13 July 2017</value><value>. Retrieved </value><value>15 June</value><value> 2016</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Snyder, Benjamin (23 June 2017). </value><value>"Meet Vitalik Buterin, the 23-year-old founder of bitcoin rival ethereum"</value><value>. </value><value>CNBC</value><value>. </value><value>Archived</value><value> from the original on 29 January 2018</value><value>. Retrieved </value><value>8 March</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Leising 2020</value><value>, pp. 35–40.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Russo 2020</value><value>, p. 29.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"The Uncanny Mind That Built Ethereum | WIRED"</value><value>. </value><value>Wired</value><value>. 13 July 2017. Archived from </value><value>the original</value><value> on 13 July 2017.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Results | IOI 2012"</value><value>. </value><value>www.ioi2012.org</value><value>. </value><value>Archived</value><value> from the original on 4 March 2016</value><value>. Retrieved </value><value>21 July</value><value> 2016</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Ethereum co-founder Vitalik Buterin on good and bad ways to deal with crypto, and Spore's approach</value><value> on </value><value>YouTube</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Braga, Matthew (13 October 2016). </value><value>"Change Agents 2016: Vitalik Buterin, Ethereum"</value><value>. </value><value>Canadian Business</value><value>. </value><value>Archived</value><value> from the original on 7 June 2017</value><value>. Retrieved </value><value>6 June</value><value> 2017</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>1634–1699: </value><value>McCusker, J. J.</value><value> (1997). </value><value>How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States: Addenda et Corrigenda</value><value> </value><value>(PDF)</value><value>. </value><value>American Antiquarian Society</value><value>.</value><value> 1700–1799: </value><value>McCusker, J. J.</value><value> (1992). </value><value>How Much Is That in Real Money? A Historical Price Index for Use as a Deflator of Money Values in the Economy of the United States</value><value> </value><value>(PDF)</value><value>. </value><value>American Antiquarian Society</value><value>.</value><value> 1800–present: </value><value>Federal Reserve Bank of Minneapolis. </value><value>"Consumer Price Index (estimate) 1800–"</value><value>. Retrieved </value><value>29 February</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Elliot, Josh (2 July 2014). </value><value>"Why a 20-year-old Toronto drop-out accepted $100,000 to stay out of school"</value><value>. </value><value>CTV</value><value>. Archived from </value><value>the original</value><value> on 1 June 2016</value><value>. Retrieved </value><value>25 April</value><value> 2016</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Vitalik Buterin receives Honorary Doctorate"</value><value>. </value><value>cif.unibas.ch</value><value>. Archived from </value><value>the original</value><value> on 3 July 2019</value><value>. Retrieved </value><value>3 July</value><value> 2019</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Russo 2020</value><value>, p. 25.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Russo 2020</value><value>, p. 55.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Interview with Vitalik Buterin"</value><value>. Bitcorati, Inc. 10 January 2014. </value><value>Archived</value><value> from the original on 17 February 2015</value><value>. Retrieved </value><value>3 June</value><value> 2017</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Vigna, Paul; Casey, Michael J. (2015). </value><value>"Community"</value><value>. </value><value>The Age of Cryptocurrency: How Bitcoin and the Blockchain Are Challenging ..</value><value>. </value><value>Macmillan Publishers</value><value>. p. 88. </value><value>ISBN</value><value> </value><value>978-1-250-06563-6</value><value>. </value><value>Archived</value><value> from the original on 5 August 2021</value><value>. Retrieved </value><value>18 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Russo 2020</value><value>, p. 35.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Editorial Team"</value><value>. </value><value>ledger.pitt.edu</value><value>. Archived from </value><value>the original</value><value> on 15 March 2024.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"</value><value>'Ledger' Becomes First Academic Journal Dedicated To Blockchain – The Technology Behind Bitcoin"</value><value>. </value><value>90.5 WESA</value><value>. 11 April 2017</value><value>. Retrieved </value><value>18 May</value><value> 2025</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Benstead, Sam (19 May 2021). </value><value>"What is ethereum and how does it differ from Bitcoin?"</value><value>. </value><value>The Telegraph</value><value>. </value><value>Archived</value><value> from the original on 6 November 2020</value><value>. Retrieved </value><value>19 October</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Aron, Jacob (6 February 2014). </value><value>"Bitcoin: How its core technology will change the world"</value><value>. </value><value>New Scientist</value><value>. No. 2955. </value><value>Archived</value><value> from the original on 22 February 2014</value><value>. Retrieved </value><value>22 February</value><value> 2014</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Vitalik Buterin on Ethereum and The Decentralized Future"</value><value>. </value><value>Future Thinkers Podcast</value><value>. 21 April 2015. </value><value>Archived</value><value> from the original on 18 May 2016</value><value>. Retrieved </value><value>13 May</value><value> 2016</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Jain, Aman (17 August 2021). </value><value>"Founders' Fork: The Ethereum Architects Now Locked in Battle"</value><value>. </value><value>Entrepreneur</value><value>. Archived from </value><value>the original</value><value> on 18 August 2021</value><value>. Retrieved </value><value>19 August</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Leising 2020</value><value>, pp. 110.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Tapscott, Don; Tapscott, Alex (7 May 2016). </value><value>The Blockchain Revolution: How the Technology Behind Bitcoin is Changing Money, Business, and the World</value><value>. Portfolio. </value><value>ISBN</value><value> </value><value>978-0-670-06997-2</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Leising 2020</value><value>, p. 129.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Leising 2020</value><value>, p. 313.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Vitalik Buterin reveals Ethereum at Bitcoin Miami 2014</value><value> on </value><value>YouTube</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Alumni"</value><value>. </value><value>Abelard School</value><value>. </value><value>Archived</value><value> from the original on 28 September 2020</value><value>. Retrieved </value><value>7 February</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Peck, Morgen. </value><value>"The Uncanny Mind That Built Ethereum"</value><value>. </value><value>WIRED</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Good, Owen (4 October 2021). </value><value>"NFT mastermind says he created Ethereum because Warcraft nerfed his character"</value><value>. </value><value>Polygon</value><value>. Retrieved </value><value>6 October</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Kelly, Brian (2015). </value><value>"Smart Money, set it and forget it"</value><value>. </value><value>The Bitcoin Big Bang: How Alternative Currencies Are About to Change the World</value><value>. </value><value>Wiley Publishing</value><value>. p. 156. </value><value>ISBN</value><value> </value><value>978-1-118-96366-1</value><value>. </value><value>Archived</value><value> from the original on 5 August 2021</value><value>. Retrieved </value><value>18 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Antonopoulos, Andreas M. (20 December 2014). </value><value>"#4. Keys, Addresses, and Wallets"</value><value>. </value><value>Mastering Bitcoin: Unlocking Digital Cryptocurrencies</value><value>. </value><value>O'Reilly Media</value><value>. p. 82. </value><value>ISBN</value><value> </value><value>978-1-4493-7404-4</value><value>. </value><value>Archived</value><value> from the original on 5 August 2021</value><value>. Retrieved </value><value>18 November</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Sebastian, Clare (Nov 2017) </value><value>"Russia eyes cryptocurrency dominance"</value><value> </value><value>Archived</value><value> 20 July 2018 at the </value><value>Wayback Machine</value><value> </value><value>CNN Tech</value><value>. Retrieved 20 July 2018.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Gian Volpicelli (14 June 2018). </value><value>"This economist wants to abolish private property using blockchain"</value><value>. </value><value>Wired</value><value>. </value><value>Archived</value><value> from the original on 27 January 2021</value><value>. Retrieved </value><value>4 January</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Vitalik Buterin and Glen Weyl (21 May 2018). </value><value>"Liberation Through Radical Decentralization"</value><value>. </value><value>Archived</value><value> from the original on 26 February 2021</value><value>. Retrieved </value><value>4 January</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Vitalik Buterin; Zoe Hitzig; Glen Weyl (2 July 2019). </value><value>"A Flexible Design for Funding Public Goods"</value><value>. </value><value>Management Science</value><value>. </value><value>65</value><value> (11): </value><value>5171–</value><value>5187. </value><value>arXiv</value><value>:</value><value>1809.06421</value><value>. </value><value>doi</value><value>:</value><value>10.1287/mnsc.2019.3337</value><value>. </value><value>S2CID</value><value> </value><value>198858039</value><value>. </value><value>Archived</value><value> from the original on 5 August 2021</value><value>. Retrieved </value><value>4 January</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Gitcoin Grants – Quadratic Funding for the World | Gitcoin Blog"</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"The little-known AI group that got $660 million"</value><value>. </value><value>POLITICO</value><value>. 26 March 2024</value><value>. Retrieved </value><value>9 January</value><value> 2025</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Self Published (2014). </value><value>"2014 World Technology Awards * USAID Philanthropy Awareness Activity Winners"</value><value>. </value><value>www.wtn.net</value><value>. The World Technology Network. </value><value>Archived</value><value> from the original on 9 August 2018</value><value>. Retrieved </value><value>11 April</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>40 under 40: Vitalik Buterin, 22</value><value> </value><value>Archived</value><value> 25 September 2016 at the </value><value>Wayback Machine</value><value>, </value><value>Fortune</value><value>, September 2016.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Forbes 30 under 30</value><value> </value><value>Archived</value><value> 1 December 2017 at the </value><value>Wayback Machine</value><value>, </value><value>Forbes</value><value>, November 2017.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Stankovic, Stefan (29 January 2018). </value><value>"Who is Vitalik Buterin, The Mastermind Behind Ethereum?"</value><value>. </value><value>Unblock</value><value>. </value><value>Archived</value><value> from the original on 11 April 2018</value><value>. Retrieved </value><value>11 April</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Fortune The Ledger 40 under 40: Vitalik Buterin"</value><value>. </value><value>Fortune</value><value>. 29 July 2018. </value><value>Archived</value><value> from the original on 29 July 2018</value><value>. Retrieved </value><value>29 July</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Dies Academicus of the University of Basel: Honorary doctorates for Hansjörg Schneider and Vitalik Buterin"</value><value>. 30 November 2018. </value><value>Archived</value><value> from the original on 5 December 2018</value><value>. Retrieved </value><value>4 December</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Robertson, Harry (16 September 2021). </value><value>"Ethereum cofounder Vitalik Buterin joins Joe Biden and Billie Eilish on Time's 100 most influential people list"</value><value>. </value><value>Business Insider</value><value>. Retrieved </value><value>15 November</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Fundraising success!"</value><value>. </value><value>Machine Intelligence Research Institute</value><value> (Press release). 10 January 2018. </value><value>Archived</value><value> from the original on 7 July 2018</value><value>. Retrieved </value><value>27 July</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>Tsakanikas, Nick (21 March 2019). </value><value>"Vitalik Buterin Cashed Out Large Sums of ETH During 2017 Crypto Frenzy"</value><value>. </value><value>CCN</value><value>. </value><value>Archived</value><value> from the original on 24 June 2019</value><value>. Retrieved </value><value>3 May</value><value> 2024</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SENS Research Foundation Receives $2.4 Million Ethereum Donation From Vitalik Buterin"</value><value> (Press release). SENS Research Foundation. 2 February 2018. </value><value>Archived</value><value> from the original on 21 April 2021</value><value>. Retrieved </value><value>27 March</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Elena, Milova (20 March 2018). </value><value>"Vitalik Buterin: The Best Thing to Donate Money to is The Fight Against Aging"</value><value>. LIFE EXTENSION ADVOCACY FOUNDATION. </value><value>Archived</value><value> from the original on 22 March 2018</value><value>. Retrieved </value><value>21 March</value><value> 2018</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Анна ДОБРЮХА (20 March 2018). </value><value>"</value><value>"Король Эфириума" Виталик Бутерин: лучшее, на что стоит жертвовать деньги — это борьба со старением"</value><value> [«King of Ethereum» Vitalik Buterin: the best thing to donate money for is the fight against aging] (in Russian). </value><value>Komsomolskaya Pravda</value><value>. </value><value>Archived</value><value> from the original on 11 April 2021</value><value>. Retrieved </value><value>27 March</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"SENS Research Foundation 2018 Annual Report"</value><value> </value><value>(PDF)</value><value>. </value><value>Archived</value><value> </value><value>(PDF)</value><value> from the original on 21 April 2021</value><value>. Retrieved </value><value>27 March</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Effective Altruism: Giving in Crypto"</value><value> (Press release). 17 December 2020. </value><value>Archived</value><value> from the original on 18 December 2020</value><value>. Retrieved </value><value>23 December</value><value> 2020</value><value>.</value><value>
+</value><value>
+</value><value>^ </value><value>a</value><value> </value><value>b</value><value> </value><value>"Ethereum Creator, Vitalik Buterin, Donates Over $1B to India COVID Relief"</value><value>. TheStreet. 12 May 2021. </value><value>Archived</value><value> from the original on 2 June 2021</value><value>. Retrieved </value><value>29 May</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Vigna, Caitlin Ostroff and Paul (13 May 2021). </value><value>"Ethereum Luminary Makes $1 Billion Covid-19 Gift—in Shiba Inu Coin"</value><value>. </value><value>Wall Street Journal</value><value>. </value><value>ISSN</value><value> </value><value>0099-9660</value><value>. </value><value>Archived</value><value> from the original on 13 May 2021</value><value>. Retrieved </value><value>13 May</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Schleifer, Theodore (12 May 2021). </value><value>"The world of crypto philanthropy is about to get weird"</value><value>. </value><value>Vox</value><value>. </value><value>Archived</value><value> from the original on 12 May 2021</value><value>. Retrieved </value><value>13 May</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Mazumdar, Ronojoy; Ghosh, Suvashree (27 July 2021). </value><value>"Here's What's Become of the $1 Billion India Covid Aid Crypto Donation"</value><value>. Bloomberg.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Ethereum creator donates $1 billion worth of meme coins to India"</value><value>. 12 May 2021. </value><value>Archived</value><value> from the original on 14 May 2021</value><value>. Retrieved </value><value>14 May</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Vitalik Buterin Donates More than $2 Million to the Methuselah Foundation"</value><value> (Press release). Fight Aging!. 17 May 2021. </value><value>Archived</value><value> from the original on 19 May 2021</value><value>. Retrieved </value><value>28 May</value><value> 2021</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"About Arc Institute"</value><value>. Retrieved </value><value>1 April</value><value> 2025</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Katte, Stephen (27 November 2025). </value><value>"Buterin donates to 2 projects pushing 'next steps' of digital privacy"</value><value>. </value><value>Cointelegraph</value><value>. </value><value>Archived</value><value> from the original on 27 November 2025</value><value>. Retrieved </value><value>1 January</value><value> 2026</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Buterin, Vitalik [@VitalikButerin] (24 February 2022). </value><value>"Reminder: Ethereum is neutral, but I am not"</value><value> (</value><value>Tweet</value><value>) – via </value><value>Twitter</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Laurent, Lionel (3 March 2022). </value><value>"When War Hits, Even Crypto Can't Stay Neutral"</value><value>. Bloomberg.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Buterin, Vitalik [@VitalikButerin] (24 February 2022). </value><value>"Очень расстроен решением Путина отказаться от возможности мирного решения спора с Украиной и вместо этого начать войну. Это преступление против украинского и русского народа"</value><value> [Very upset by Putin's decision to abandon the possibility of a peaceful resolution to the dispute with Ukraine and instead go to war. This is a crime against the Ukrainian and Russian people.] (</value><value>Tweet</value><value>) – via </value><value>Twitter</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>"Ukraine raises over $15 mn in crypto post Russian invasion"</value><value>. Business Standard. 27 February 2022.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Buterin, Vitalik [@VitalikButerin] (27 February 2022). </value><value>"иди на хуй"</value><value> (</value><value>Tweet</value><value>) – via </value><value>Twitter</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Buterin, Vitalik [@VitalikButerin] (26 February 2022). </value><value>"An opportunity to support Ukrainians here! Proceeds go to civilian efforts helping Ukrainians suffering from the war"</value><value> (</value><value>Tweet</value><value>) – via </value><value>Twitter</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Urian, B. (27 February 2022). </value><value>"Binance Announces $10 Million Donation to Ukraine: Ethereum Creator Vitalik Announces UkraineDAO"</value><value>. </value><value>Tech Times</value><value>.</value><value>
+</value><value>
+</value><value>^</value><value> </value><value>Locke, Taylor (31 March 2022). </value><value>"Ethereum's Russian-born cofounder has been quietly supporting a DAO that raised $8 million in crypto for Ukraine. His dad is even more involved"</value><value>. </value><value>Fortune</value><value>. Archived from </value><value>the original</value><value> on 28 November 2022</value><value>. Retrieved </value><value>28 November</value><value> 2022</value><value>.</value><value>
+</value><value>
+</value><value>
+</value><value>Works cited</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Leising, Matthew (2020). </value><value>Out of the Ether: the amazing story of Ethereum and the $55 million heist that almost destroyed it all</value><value>. </value><value>Wiley</value><value>. </value><value>ISBN</value><value> </value><value>978-1-119-60293-4</value><value>.</value><value>
+</value><value>Russo, Camila (14 July 2020). </value><value>The infinite machine: how an army of crypto-hackers is building the next internet with Ethereum</value><value> (First ed.). New York, NY. </value><value>ISBN</value><value> </value><value>978-0-06-288614-9</value><value>.</value><value>{{</value><value>cite book</value><value>}}</value><value>:  CS1 maint: location missing publisher (</value><value>link</value><value>)</value><value>
+</value><value>External links</value><value>[</value><value>edit</value><value>]</value><value>
+</value><value>Official website</value><value>
+</value><value>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"\a0 · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol&gt;li{counter-increment:listitem}.mw-parser-output .hlist ol&gt;li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol&gt;li:first-child::before,.mw-parser-output .hlist dt ol&gt;li:first-child::before,.mw-parser-output .hlist li ol&gt;li:first-child::before{content:" ("counter(listitem)"\a0 "}</value><value>.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd;color:inherit}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr&gt;.navbox-abovebelow,.mw-parser-output tr+tr&gt;.navbox-group,.mw-parser-output tr+tr&gt;.navbox-image,.mw-parser-output tr+tr&gt;.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf;color:inherit}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf;color:inherit}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff;color:inherit}.mw-parser-output .navbox-even{background-color:#f7f7f7;color:inherit}.mw-parser-output .navbox-odd{background-color:transparent;color:inherit}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</value><value>.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a&gt;span,.mw-parser-output .navbar a&gt;abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}</value><value>v</value><value>t</value><value>e</value><value>Ethereum</value><value>People</value><value>
+</value><value>Vitalik Buterin</value><value>
+</value><value>Anthony Di Iorio</value><value>
+</value><value>William Entriken</value><value>
+</value><value>Taylor Gerring</value><value>
+</value><value>Virgil Griffith</value><value>
+</value><value>Charles Hoskinson</value><value>
+</value><value>Joseph Lubin</value><value>
+</value><value>Kevin O'Leary</value><value>
+</value><value>Pak</value><value>
+</value><value>Paul Sebastien</value><value>
+</value><value>Mike Winkelmann</value><value>
+</value><value>Gavin Wood</value><value>
+</value><value>History</value><value>
+</value><value>2018 cryptocurrency crash</value><value>
+</value><value>Impact of non-fungible tokens on traditional businesses</value><value>
+</value><value>Technologies</value><value>
+</value><value>Blockchain</value><value>
+</value><value>Cryptocurrency</value><value>
+</value><value>Cryptocurrency wallet</value><value>
+</value><value>ECDSA</value><value>
+</value><value>P2P</value><value>
+</value><value>Proof of stake</value><value>
+</value><value>SegWit</value><value>
+</value><value>SHA-2</value><value>
+</value><value>Layer 2 blockchains</value><value>
+</value><value>Base</value><value>
+</value><value>World</value><value>
+</value><value>Protocols</value><value>Marketplaces and exchanges</value><value>
+</value><value>Aave</value><value>
+</value><value>OpenSea</value><value>
+</value><value>PancakeSwap</value><value>
+</value><value>Uniswap</value><value>
+</value><value>World Liberty Financial</value><value>
+</value><value>Gaming</value><value>
+</value><value>Axie Infinity</value><value>
+</value><value>CryptoKitties</value><value>
+</value><value>CryptoZoo</value><value>
+</value><value>Decentraland</value><value>
+</value><value>Ember Sword</value><value>
+</value><value>The Sandbox</value><value>
+</value><value>Memecoins</value><value>
+</value><value>Pawthereum</value><value>
+</value><value>Shiba Inu</value><value>
+</value><value>Stablecoins</value><value>
+</value><value>Dai</value><value>
+</value><value>USDT</value><value>
+</value><value>USDC</value><value>
+</value><value>Others</value><value>
+</value><value>Augur</value><value>
+</value><value>Aventus</value><value>
+</value><value>Chainlink</value><value>
+</value><value>NFTs</value><value>
+</value><value>AfroDroids</value><value>
+</value><value>Bitchcoin</value><value>
+</value><value>Bored Ape</value><value>
+</value><value>CryptoPunks</value><value>
+</value><value>Curio Cards</value><value>
+</value><value>EtherRock</value><value>
+</value><value>Everydays: the First 5000 Days</value><value>
+</value><value>First Wikipedia edit</value><value>
+</value><value>La Caldera</value><value>
+</value><value>Pudgy Penguins</value><value>
+</value><value>Forks</value><value>
+</value><value>Ethereum Classic</value><value>
+</value><value>DAOs</value><value>
+</value><value>The DAO</value><value>
+</value><value>Wallets</value><value>
+</value><value>MetaMask</value><value>
+</value><value>Trust Wallet</value><value>
+</value><value>Programming language</value><value>
+</value><value>Solidity</value><value>
+</value><value>
+</value><value> </value><value>Category</value><value>
+</value><value> </value><value>Commons</value><value>
+</value><value>
+</value><value>
