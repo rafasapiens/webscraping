@@ -1094,4 +1094,512 @@ DotNetNuke 5, Michael Washington and Ian Lackey, Packt Publishing. Page 14 "The 
 </value><value>↑</value><value> </value><value>Lucas, Michael. </value><value>"Absolute OpenBSD"</value><value>. </value><value>No Starch Press</value><value>. Archived from </value><value>the original</value><value> on 2 فوریه 2014</value><value>. Retrieved </value><value>28 April</value><value> 2014</value><value>. </value><value>Theo de Raadt started OpenBSD in 1995 and still coordinates the project. He is the final word on how the system works, what is included in the system and who gets direct access to the repository. He resolves all disputes that contributors and committers cannot resolve amongst themselves. Theo takes whatever actions are necessary to keep the OpenBSD Project running smoothly.</value><value>
 </value><value>↑</value><value> </value><value>"Community Members"</value><value>. Archived from </value><value>the original</value><value> on 23 نوامبر 2013</value><value>. Retrieved 22 مه 2014</value><value>.</value><value>
 </value><value>↑</value><value> </value><value>"The king is dead. Long live the king! Meet Node's newest leader"</value><value>.</value><value>
+</value><value>↑</value><value> </value><value><?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><url>https://pl.wikipedia.org/wiki/Benevolent_Dictator_for_Life</url><title>None</title><text><value>
+</value><value>Guido van Rossum</value><value>
+</value><value>Benevolent Dictator for Life</value><value> (</value><value>BDFL</value><value>)</value><value> (Dobrotliwy Dożywotni Dyktator) – nieformalny tytuł nadawany osobom zaangażowanym w ruch </value><value>Open Source</value><value>, które cieszą się powszechnym poważaniem środowiska i mają istotny wkład w rozwój określonych dziedzin. Dyktator nadaje, mocą swojego niekwestionowanego autorytetu, ogólne kierunki działania i podejmuje kluczowe decyzje, gdy osiągnięcie konsensusu jest trudne lub niemożliwe.</value><value>
+
+</value><value>Tytuł pochodzi z 1995 roku. Miał odniesienie do </value><value>Guido van Rossuma</value><value>, twórcy języka programowania </value><value>Python</value><value>.</value><value>[</value><value>1</value><value>]</value><value>
+
+</value><value>Wybrane osoby określane tym tytułem:</value><value>
+</value><value>
+</value><value>
+</value><value>Osoba</value><value>
+</value><value>Projekt</value><value>
+</value><value>Rodzaj</value><value>
+</value><value>
+</value><value>David Heinemeier Hansson</value><value>
+</value><value>Ruby on Rails</value><value>
+</value><value>framework</value><value>
+</value><value>
+</value><value>Theo de Raadt</value><value>
+</value><value>OpenBSD</value><value>
+</value><value>system operacyjny</value><value>
+</value><value>
+</value><value>Linus Torvalds</value><value>
+</value><value>Linux</value><value>
+</value><value>jądro systemu operacyjnego</value><value>
+</value><value>
+</value><value>Patrick Volkerding</value><value>
+</value><value>Slackware</value><value>
+</value><value>dystrybucja Linuksa</value><value>
+</value><value>
+</value><value>Mark Shuttleworth</value><value>
+</value><value>Ubuntu</value><value>
+</value><value>dystrybucja Linuksa</value><value>
+</value><value>
+</value><value>Larry Wall</value><value>
+</value><value>Perl</value><value>
+</value><value>język programowania</value><value>
+</value><value>
+</value><value>Ton Roosendaal</value><value>
+</value><value>Blender</value><value>
+</value><value>program do grafiki 3d</value><value>
+</value><value>
+</value><value>Rich Hickey</value><value>
+</value><value>Clojure</value><value>
+</value><value>język programowania</value><value>
+</value><value>
+</value><value>Martin Odersky</value><value>
+</value><value>Scala</value><value>
+</value><value>język programowania</value><value>
+</value><value>
+</value><value>Yukihiro Matsumoto (Matz)</value><value>
+</value><value>Ruby</value><value>
+</value><value>język programowania</value><value>
+</value><value>
+
+</value><value>Przypisy</value><value>[</value><value>edytuj</value><value> | </value><value>edytuj kod</value><value>]</value><value>
+</value><value>↑</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation i&gt;em{font-style:normal}.mw-parser-output .cite-name-before{display:none!important}.mw-parser-output .cite-name-after{display:inline!important}.mw-parser-output .cite-name-full{display:none!important}.mw-parser-output .cite-name-initials{display:inline!important}.mw-parser-output .references .cite-name-before{display:inline!important}.mw-parser-output .references .cite-name-after{display:none!important}.mw-parser-output .references .cite-name-full{display:inline!important}.mw-parser-output .references .cite-name-initials{display:none!important}.mw-parser-output .cite-at-al{display:inline!important}.mw-parser-output .citation.pmid .issn,.mw-parser-output .citation.doi .issn,.mw-parser-output .citation.pmc .issn,.mw-parser-output .citation.nourl .accessdate{display:none}.mw-parser-output .citation.open-access::before,.mw-parser-output .citation.closed-access::before,.mw-parser-output .citation.registered-access::before,.mw-parser-output .citation.limited-access::before{content:"";background-repeat:no-repeat;background-position:left center;padding-right:1em}.mw-parser-output .citation.open-access::before{background-image:url("https://upload.wikimedia.org/wikipedia/commons/9/91/Open_Access_logo_green_alt2.svg");background-size:8px}.mw-parser-output .citation.closed-access::before{background-image:url("https://upload.wikimedia.org/wikipedia/commons/c/c1/Closed_Access_logo_alternative.svg");background-size:8px}.mw-parser-output .citation.registered-access::before{background-image:url("https://upload.wikimedia.org/wikipedia/commons/b/b4/Lock-blue-alt-2.svg");background-size:8px}.mw-parser-output .citation.limited-access::before{background-image:url("https://upload.wikimedia.org/wikipedia/commons/b/b4/Lock-blue-alt-2.svg");background-size:8px}</value><value>Origin of BDFL</value><value> [online], www.artima.com</value><value> [dostęp 2021-05-04]</value><value> </value><value>.</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Źródło: „</value><value>https://pl.wikipedia.org/w/index.php?title=Benevolent_Dictator_for_Life&amp;oldid=78723779</value><value>”</value></text><lastUpdated> Tę stronę ostatnio edytowano 6 sty 2026 o 20:11.</lastUpdated></item>
+<item><url>https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B4%D1%83%D1%88%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B6%D0%B8%D0%B7%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B8%D0%BA%D1%82%D0%B0%D1%82%D0%BE%D1%80</url><title>None</title><text><value>«</value><value>Великодушный пожизненный диктатор</value><value>» (</value><value>англ.</value><value> </value><value>Benevolent Dictator For Life</value><value>, сокр. </value><value>BDFL</value><value>) — в контексте разработки </value><value>свободного ПО</value><value> полуюмористический термин, обозначающий главу или основателя проекта, который сохраняет за собой право принимать окончательные решения. Впервые термин использовался по отношению к </value><value>Гвидо ван Россуму</value><value>, создателю языка </value><value>Python</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>.</value><value>
+
+</value><value>В своем эссе «</value><value>Заселяя ноосферу</value><value>[англ.]</value><value>» </value><value>Эрик Рэймонд</value><value>, в частности, обсуждает феномен «великодушной диктатуры» в сообществе свободного ПО. Согласно Рэймонду, «диктатор» свободного проекта обязан быть </value><value>великодушным</value><value>, поскольку, если набирается достаточно разработчиков, не согласных с решениями «диктатора», они в любой момент могут уйти из проекта или создать </value><value>форк</value><value>.</value><value>
+
+</value><value>Примеры «великодушных пожизненных диктаторов»</value><value>[</value><value>править</value><value> | </value><value>править код</value><value>]</value><value>
+</value><value>
+</value><value>Ключ</value><value>
+</value><value>
+</value><value>
+</value><value>Умерший</value><value>
+</value><value>
+</value><value>
+</value><value>
+</value><value>Имя</value><value>
+</value><value>Проект</value><value>
+</value><value>Тип</value><value>
+</value><value>Примечания</value><value>
+</value><value>
+</value><value>Сильвен Беннер</value><value>
+</value><value>Spacemacs</value><value>
+</value><value>Дистрибутив </value><value>Emacs</value><value>, созданный на основе сообщества</value><value>
+</value><value>[</value><value>3</value><value>]</value><value>
+</value><value>
+</value><value>Виталик Бутерин</value><value>
+</value><value>Ethereum</value><value>
+</value><value>Криптовалюта на основе блокчейна</value><value>
+</value><value>[</value><value>4</value><value>]</value><value>.mw-parser-output .ts-fix-template{font-style:normal;font-weight:normal;white-space:nowrap}.mw-parser-output .ts-fix-error{font-size:inherit}@media screen{.mw-parser-output .ts-fix-text{border:1px solid var(--border-color-base,#a2a9b1);box-decoration-break:clone;margin:0 -0.1em;padding:0 0.1em;transition:background 0.1s}.mw-parser-output .ts-fix-text:hover{background:#fee7e6}html.skin-theme-clientpref-night .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .ts-fix-text:hover{background:#4f1312}}@media screen and (hover:hover){.mw-parser-output .ts-fix-comment,.mw-parser-output .ts-fix-commented&gt;a:not(:hover){border-bottom:1px dotted;text-decoration:none}}</value><value>[</value><value>нужен лучший источник</value><value>]</value><value>
+</value><value>
+</value><value>Дрис Бёйтарт</value><value>
+</value><value>Drupal</value><value>
+</value><value>Фреймворк управления контентом</value><value>
+</value><value>[</value><value>5</value><value>]</value><value>
+</value><value>
+</value><value>Франсуа Шолле</value><value>
+</value><value>Keras</value><value>
+</value><value>Фреймворк глубокого обучения</value><value>
+</value><value>[</value><value>6</value><value>]</value><value>
+</value><value>
+</value><value>Эван Чаплицки</value><value>
+</value><value>Elm</value><value>
+</value><value>Язык программирования для фронтенд-разработки веб-приложений</value><value>
+</value><value>[</value><value>7</value><value>]</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>
+</value><value>Лоран Дестайлер</value><value>
+</value><value>Dolibarr ERP CRM</value><value>
+</value><value>Программный комплекс для </value><value>планирования ресурсов предприятия</value><value> и </value><value>управления взаимоотношениями с клиентами</value><value>
+</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>
+</value><value>Давид Хейнемейер Ханссон</value><value>
+</value><value>Ruby on Rails</value><value>
+</value><value>Веб-фреймворк</value><value>
+</value><value>[</value><value>10</value><value>]</value><value>
+</value><value>
+</value><value>Ричард Хикки</value><value>
+</value><value>Clojure</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>11</value><value>]</value><value>
+</value><value>
+</value><value>Адриан Головатый</value><value> </value><value>и Джейкоб Каплан-Мосс</value><value>
+</value><value>Django</value><value>
+</value><value>Веб-фреймворк</value><value>
+</value><value>[</value><value>12</value><value>]</value><value>
+</value><value>
+</value><value>Эндрю Келли</value><value>
+</value><value>Zig</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>13</value><value>]</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>
+</value><value>Ксавье Леруа</value><value>
+</value><value>OCaml</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>15</value><value>]</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>
+</value><value>Хаоюань Ли</value><value>
+</value><value>Alluxio</value><value>
+</value><value>Система оркестрации данных</value><value>
+</value><value>[</value><value>17</value><value>]</value><value>
+</value><value>
+</value><value>Майлз Любин</value><value>
+</value><value>JuMP</value><value>
+</value><value>Язык моделирования математической оптимизации на языке Julia</value><value>
+</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>
+</value><value>Юкихиро Мацумото (Matz)</value><value>
+</value><value>Ruby</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>
+</value><value>Уэс Маккинни</value><value>
+</value><value>Pandas</value><value>
+</value><value>Библиотека Python для анализа данных</value><value>
+</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>
+</value><value>Гавин Мендель-Глеасон</value><value>[</value><value>a</value><value>]</value><value>
+</value><value>TerminusDB</value><value>
+</value><value>Графовая база данных с открытым исходным кодом для представления графов знаний</value><value>
+</value><value>[</value><value>21</value><value>]</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>
+</value><value>Брам Моленар</value><value>
+</value><value>Vim</value><value>
+</value><value>Текстовый редактор</value><value>
+</value><value>[</value><value>23</value><value>]</value><value>
+</value><value>
+</value><value>Мэтт Мулленвег</value><value>[</value><value>b</value><value>]</value><value>
+</value><value>WordPress</value><value>
+</value><value>Фреймворк управления контентом</value><value>
+</value><value>[</value><value>24</value><value>]</value><value>
+</value><value>
+</value><value>Мартин Одерски</value><value>
+</value><value>Scala</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>25</value><value>]</value><value>
+</value><value>
+</value><value>Тэйлор Отвел</value><value>
+</value><value>Laravel</value><value>
+</value><value>Веб-фреймворк</value><value>
+</value><value>[</value><value>26</value><value>]</value><value>[</value><value>27</value><value>]</value><value>
+</value><value>
+</value><value>Тео де Раадт</value><value>
+</value><value>OpenBSD</value><value>
+</value><value>Unix-подобная</value><value> операционная система</value><value>
+</value><value>[</value><value>источник</value><value> </value><value>не указан 2107 дней</value><value>]</value><value>
+</value><value>
+</value><value>Арнольд Роббинс</value><value>
+</value><value>AWK</value><value>, Gawk</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>28</value><value>]</value><value>
+</value><value>
+</value><value>Тон Розендаль</value><value>[</value><value>c</value><value>]</value><value>
+</value><value>Blender</value><value>
+</value><value>Программное обеспечение для 3D-компьютерной графики</value><value>
+</value><value>[</value><value>29</value><value>]</value><value>
+</value><value>
+</value><value>Себастиен Рос</value><value>
+</value><value>Orchard Project</value><value>
+</value><value>Система управления контентом</value><value>
+</value><value>[</value><value>30</value><value>]</value><value>
+</value><value>
+</value><value>Марк Шаттлворт</value><value>[</value><value>d</value><value>]</value><value>
+</value><value>Ubuntu</value><value>
+</value><value>Дистрибутив </value><value>Linux</value><value>
+</value><value>[</value><value>31</value><value>]</value><value>
+</value><value>
+</value><value>Джереми Соллер</value><value>
+</value><value>Redox</value><value>
+</value><value>Операционная система</value><value>
+</value><value>[</value><value>32</value><value>]</value><value>
+</value><value>
+</value><value>Дон Сайм</value><value>[</value><value>e</value><value>]</value><value>
+</value><value>F#</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>33</value><value>]</value><value>
+</value><value>
+</value><value>Линус Торвальдс</value><value>[</value><value>f</value><value>]</value><value>
+</value><value>Linux</value><value>
+</value><value>Ядро операционной системы</value><value>
+</value><value>[</value><value>10</value><value>]</value><value>[</value><value>34</value><value>]</value><value>
+</value><value>
+</value><value>Жозе Валим</value><value>
+</value><value>Elixir</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>35</value><value>]</value><value>
+</value><value>
+</value><value>Паули Виртанен</value><value>
+</value><value>SciPy</value><value>
+</value><value>Библиотека </value><value>Python</value><value>, используемая для научных и технических вычислений.</value><value>
+</value><value>[</value><value>36</value><value>]</value><value>[</value><value>37</value><value>]</value><value>
+</value><value>
+</value><value>Патрик Фолькердинг</value><value>
+</value><value>Slackware</value><value>
+</value><value>Дистрибутив </value><value>GNU</value><value>/</value><value>Linux</value><value>
+</value><value>[</value><value>38</value><value>]</value><value>
+</value><value>
+</value><value>Натан Воксланд</value><value>
+</value><value>Liquibase</value><value>
+</value><value>Управление схемой базы данных</value><value>
+</value><value>[</value><value>39</value><value>]</value><value>
+</value><value>
+</value><value>Джимми Уэйлс</value><value>
+</value><value>Фонд Викимедиа</value><value>
+</value><value>Проект по обмену знаниями на основе сотрудничества</value><value>
+</value><value>[</value><value>40</value><value>]</value><value>[</value><value>g</value><value>]</value><value>
+</value><value>
+</value><value>Джереми Уокер</value><value>
+</value><value>Exercism</value><value>
+</value><value>Платформа для обучения программированию с открытым исходным кодом</value><value>
+</value><value>[</value><value>41</value><value>]</value><value>
+</value><value>
+</value><value>Шон Уокер</value><value>
+</value><value>DotNetNuke</value><value>
+</value><value>Фреймворк для веб-приложений</value><value>
+</value><value>[</value><value>42</value><value>]</value><value>
+</value><value>
+</value><value>Ларри Уолл</value><value>
+</value><value>Perl</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>43</value><value>]</value><value>
+</value><value>
+</value><value>Эван Ю</value><value>
+</value><value>Vue.js</value><value>
+</value><value>JavaScript MVVM-фреймворк для создания пользовательских интерфейсов и одностраничных приложений.</value><value>
+</value><value>[</value><value>источник</value><value> </value><value>не указан 1681 день</value><value>]</value><value>
+</value><value>
+</value><value>Сумит Чинтала</value><value>
+</value><value>PyTorch</value><value>
+</value><value>Фреймворк глубокого обучения</value><value>
+</value><value>[</value><value>44</value><value>]</value><value>
+</value><value>
+</value><value>Мартин Траверсо, Дейн Сундстром, Дэвид Филлипс</value><value>
+</value><value>Trino</value><value>
+</value><value>Механизм SQL-запросов</value><value>
+</value><value>[</value><value>45</value><value>]</value><value>
+</value><value>
+</value><value>Косукэ Кавагути</value><value>
+</value><value>Jenkins</value><value>
+</value><value>Сервер автоматизации</value><value>
+</value><value>[</value><value>46</value><value>]</value><value>
+</value><value>
+</value><value>Габор де Моодж</value><value>
+</value><value>RedBeanPHP</value><value>
+</value><value>Объектно-реляционный сопоставитель базы данных</value><value>
+</value><value>[</value><value>47</value><value>]</value><value>
+</value><value>
+</value><value>Брэм Коэн</value><value>
+</value><value>BitTorrent</value><value>
+</value><value>Протокол пирингового файлообмена</value><value>
+</value><value>[</value><value>48</value><value>]</value><value>
+</value><value>
+</value><value>Уолтер Брайт</value><value>
+</value><value>D (язык программирования)</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>источник</value><value> </value><value>не указан 1165 дней</value><value>]</value><value>
+</value><value>
+</value><value>Ричи Винк</value><value>
+</value><value>Polars</value><value>
+</value><value>Фреймворк анализа данных</value><value>
+</value><value>[</value><value>49</value><value>]</value><value>
+</value><value>
+</value><value>Уильям Фолкон</value><value>
+</value><value>PyTorch Lightning</value><value>
+</value><value>Фреймворк глубокого обучения</value><value>
+</value><value>[</value><value>50</value><value>]</value><value>
+</value><value>
+</value><value>Ларс Хвам</value><value>
+</value><value>abapGit</value><value>
+</value><value>Клиент Git для ABAP</value><value>
+</value><value>[</value><value>51</value><value>]</value><value>
+</value><value>
+</value><value>Себастьян Рамирес</value><value>
+</value><value>FastAPI</value><value>
+</value><value>Веб-фреймворк для создания API с использованием </value><value>Python</value><value>
+</value><value>[</value><value>52</value><value>]</value><value>
+</value><value>
+</value><value>Билл Холл (gingerBill)</value><value>
+</value><value>Odin</value><value>
+</value><value>Язык программирования</value><value>
+</value><value>[</value><value>53</value><value>]</value><value>
+</value><value>
+</value><value>Дэмиен Элмс (dae)</value><value>
+</value><value>Anki</value><value>
+</value><value>Система </value><value>интервального повторения</value><value>
+</value><value>[</value><value>54</value><value>]</value><value>[</value><value>55</value><value>]</value><value>
+</value><value>
+</value><value>Райан Крамер</value><value>
+</value><value>ProcessWire</value><value>
+</value><value>Свободная система управления контентом (CMS) и фреймворк (CMF)</value><value>
+</value><value>[</value><value>56</value><value>]</value><value>
+</value><value>
+</value><value>Сальваторе Санфилиппо</value><value>
+</value><value>Redis</value><value>
+</value><value>База данных типа «ключ-значение» в оперативной памяти</value><value>
+</value><value>[</value><value>57</value><value>]</value><value>
+</value><value>
+
+</value><value>Примечания</value><value>[</value><value>править</value><value> | </value><value>править код</value><value>]</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>Guido van Rossum.</value><value> </value><value>Origin of BDFL</value><value> </value><value>(англ.)</value><value>.</value><value> </value><value>Artima</value><value> </value><value>(31 июля 2008).</value><value> </value><value>Дата обращения: 7 июня 2026.</value><value> </value><value>Архивировано</value><value> 12 декабря 2025 года.</value><value>
+</value><value>↑</value><value> </value><value>Python Creator Scripts Inside Google</value><value> </value><value>(англ.)</value><value>.</value><value> </value><value>eWeek</value><value>.</value><value> </value><value>Дата обращения: 7 июня 2026.</value><value> </value><value>Архивировано</value><value> 31 июля 2012 года.</value><value>
+</value><value>↑</value><value> </value><value>Spacemacs COMMUNITY.org</value><value> </value><value>.</value><value> </value><value>GitHub</value><value>.</value><value> </value><value>Дата обращения: 24 августа 2017.</value><value>
+</value><value>↑</value><value> </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"«""»""„""“"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</value><value>Pearson, Jordan (24 апреля 2017). </value><value>Ethereum's Boy King Is Thinking About Giving Up the Mantle</value><value>. </value><value>Vice</value><value> </value><value>(англ.)</value><value>. Дата обращения: 5 сентября 2023</value><value>. </value><value>One participant called him a benevolent dictator.</value><value>.</value><value>
+</value><value>↑</value><value> </value><value>Fay, Randy.</value><value> </value><value>How Do Open Source Communities Govern Themselves? | RandyFay.comties Govern Themselves?</value><value> </value><value>(англ.)</value><value>.</value><value> </value><value>RandyFay.com</value><value>.</value><value> </value><value>Дата обращения: 27 ноября 2020.</value><value>
+</value><value>↑</value><value> </value><value>Keras API Special Interest Group, Leadership</value><value> </value><value>.</value><value> </value><value>GitHub</value><value> </value><value>(21 декабря 2021).</value><value>
+</value><value>↑</value><value> </value><value>56: Ember vs. Elm: The Showdown with Philip Poots | The Frontside Podcast</value><value> </value><value>.</value><value> </value><value>The Frontside Podcast</value><value>.</value><value> </value><value>Дата обращения: 14 августа 2017.</value><value> </value><value>Архивировано из </value><value>оригинала</value><value> 16 ноября 2018 года.</value><value>
+</value><value>↑</value><value> </value><value>elm-conf (19 сентября 2016), </value><value>"Code is the Easy Part" by Evan Czaplicki</value><value>, Дата обращения: 14 августа 2017</value><value>
+</value><value>↑</value><value> </value><value>Dolibarr project organization, different roles of actors</value><value> </value><value>.</value><value>
+</value><value>1</value><value> </value><value>2</value><value> </value><value>Constine, Josh.</value><value> </value><value>Dropbox Hires Away Google's Guido Van Rossum, The Father Of Python</value><value> </value><value>.</value><value> </value><value>TechCrunch</value><value> </value><value>(7 декабря 2012).</value><value> </value><value>Дата обращения: 1 июня 2015.</value><value>
+</value><value>↑</value><value> </value><value>Clojure JIRA Workflow</value><value> </value><value>.</value><value> </value><value>Дата обращения: 3 октября 2015.</value><value> </value><value>Архивировано из </value><value>оригинала</value><value> 13 ноября 2015 года.</value><value>
+</value><value>↑</value><value> </value><value>Adrian and Jacob retiring as Django BDFLs</value><value> </value><value>.</value><value> </value><value>Adrian Holovaty</value><value> </value><value>(12 января 2014).</value><value> </value><value>Дата обращения: 14 июня 2015.</value><value>
+</value><value>↑</value><value> </value><value>Proposal: Create a standard process for proposals.</value><value> </value><value> </value><value>GitHub</value><value>.</value><value>
+</value><value>↑</value><value> </value><value>Interfacing with Zig, a BDFL-run Project</value><value> </value><value>.</value><value> </value><value>Loris Cro's Blog</value><value> </value><value>(10 декабря 2021).</value><value> </value><value>Дата обращения: 14 апреля 2024.</value><value>
+</value><value>↑</value><value> </value><value>A History of OCaml | OCaml.org</value><value> </value><value>.</value><value> </value><value>Дата обращения: 18 сентября 2015.</value><value>
+</value><value>↑</value><value> </value><value>OCaml Infrastructure mailing list</value><value> </value><value>.</value><value> </value><value>Дата обращения: 18 сентября 2015.</value><value>
+</value><value>↑</value><value> </value><value>Introducing Alluxio Open Source Project Governance "</value><value>"</value><value>
+</value><value>↑</value><value> </value><value>Governance Structure: JuMP</value><value> </value><value>.</value><value> </value><value>Дата обращения: 13 сентября 2023.</value><value>
+</value><value>↑</value><value> </value><value>A Ruby Design Process</value><value> </value><value>.</value><value> </value><value>Дата обращения: 17 апреля 2016.</value><value>
+</value><value>↑</value><value> </value><value>pandas 0.20.3 documentation: Tutorials</value><value> </value><value>.</value><value> </value><value>Дата обращения: 24 июля 2017.</value><value> "Wes McKinney's (pandas BDFL) blog"</value><value>
+</value><value>↑</value><value> </value><value>TerminusDB, Twitter</value><value> </value><value> </value><value>(6 мая 2020).</value><value> </value><value>Дата обращения: 6 мая 2020.</value><value>
+</value><value>↑</value><value> </value><value>TerminusDB — what's in a name?</value><value> </value><value> </value><value>TerminusDB</value><value> </value><value>(21 августа 2019).</value><value> </value><value>Дата обращения: 8 мая 2020.</value><value>
+</value><value>↑</value><value> </value><value>Why Neovim is Better than Vim</value><value> </value><value> </value><value>(15 января 2015).</value><value> </value><value>Дата обращения: 30 сентября 2015.</value><value>
+</value><value>↑</value><value> </value><value>Thesis, Automattic, and WordPress | Post Status</value><value> </value><value> </value><value>(24 июля 2015).</value><value> </value><value>Дата обращения: 24 июля 2015.</value><value>
+</value><value>↑</value><value> </value><value>Programming in Scala Leaps onto the World Stage!</value><value> </value><value> </value><value>Дата обращения: 25 ноября 2015.</value><value>
+</value><value>↑</value><value> </value><value>Taylor Otwell, Twitter</value><value> </value><value>.</value><value> </value><value>Taylor Otwell</value><value> </value><value>(9 октября 2014).</value><value> </value><value>Дата обращения: 9 октября 2014.</value><value>
+</value><value>↑</value><value> </value><value>Taylor Otwell, Creator of the Laravel PHP Framework</value><value> </value><value>.</value><value> </value><value>Facebook</value><value> </value><value>(5 августа 2014).</value><value> </value><value>Дата обращения: 5 августа 2014.</value><value>
+</value><value>↑</value><value> </value><value>Robbins, Arnold.</value><value> </value><value>The GNU Project and Me: 27 Years with GNU AWK</value><value> </value><value>.</value><value> </value><value>skeeve.com</value><value> </value><value>(март 2014).</value><value> </value><value>Дата обращения: 11 августа 2023.</value><value> </value><value>Архивировано</value><value> 6 октября 2014 года.</value><value>
+</value><value>↑</value><value> </value><value>Developer Intro/Overview</value><value> </value><value>.</value><value> </value><value>Дата обращения: 20 июля 2018.</value><value>
+</value><value>↑</value><value> </value><value>Orchard Project Steering Committee</value><value> </value><value>.</value><value> </value><value>Архивировано из </value><value>оригинала</value><value> 12 августа 2015 года.</value><value>
+</value><value>↑</value><value> </value><value>Ubuntu carves niche in Linux landscape</value><value>. </value><value>CNET</value><value>. </value><value>Архивировано</value><value> 6 ноября 2015.</value><value>
+</value><value>↑</value><value> </value><value>CONTRIBUTING.md · master · redox-os / redox</value><value> </value><value> </value><value>(8 июля 2023).</value><value>
+</value><value>↑</value><value> </value><value>Contributing to the F# Language and Compiler</value><value> </value><value>.</value><value> </value><value>Дата обращения: 29 сентября 2015.</value><value> </value><value>Архивировано из </value><value>оригинала</value><value> 21 декабря 2019 года.</value><value>
+</value><value>↑</value><value> </value><value>Dee-Ann LeBlanc.</value><value> </value><value>Linux For Dummies</value><value>.</value><value> </value><value>— 7th.</value><value> </value><value>— John Wiley &amp; Sons, 31 July 2006.</value><value> </value><value>— P.</value><value> </value><value>15.</value><value> </value><value>— </value><value>ISBN 978-0-470-04793-4</value><value>.</value><value>
+</value><value>↑</value><value> </value><value>Elixir Companies</value><value> </value><value>.</value><value> </value><value>GitHub</value><value>.</value><value> </value><value>Дата обращения: 1 ноября 2017.</value><value>
+</value><value>↑</value><value> </value><value>SciPy 1.0.0</value><value> </value><value>.</value><value> </value><value>GitHub</value><value>.</value><value> </value><value>Дата обращения: 27 октября 2017.</value><value>
+</value><value>↑</value><value> </value><value>SciPy project governance</value><value> </value><value>.</value><value> </value><value>GitHub</value><value>.</value><value> </value><value>Дата обращения: 27 октября 2017.</value><value>
+</value><value>↑</value><value> </value><value>Stories of Linux: A Look at Slackware Linux</value><value> </value><value>.</value><value> </value><value>linux.com</value><value>.</value><value> </value><value>Дата обращения: 21 сентября 2014.</value><value> </value><value>Архивировано из </value><value>оригинала</value><value> 30 октября 2014 года.</value><value>
+</value><value>↑</value><value> </value><value>User and Developer Community | Post Status</value><value> </value><value>.</value><value> </value><value>Дата обращения: 13 августа 2015.</value><value>
+</value><value>↑</value><value> </value><value>Chozick, Amy (27 июня 2013). </value><value>Jimmy Wales is Not an Internet Billionaire</value><value>. </value><value>The New York Times</value><value>.</value><value>
+</value><value>↑</value><value> </value><value>Jeremy Walker on Being the BDFL of Exercism by Humans of Open Source • A podcast on Anchor</value><value> </value><value>(англ.)</value><value>.</value><value> </value><value>Anchor</value><value>.</value><value> </value><value>Дата обращения: 26 марта 2021.</value><value>
+</value><value>↑</value><value> </value><value>Book: Building Websites with DotNetNuke 5, Michael Washington and Ian Lackey, Packt Publishing. Page 14 "The core team comprises individuals invited to join the team by Shaun Walker, whom they affectionately call the "Benevolent Dictator".</value><value>
+</value><value>↑</value><value> </value><value>The Art of Ballistic Programming</value><value> </value><value>.</value><value> </value><value>Архивировано из </value><value>оригинала</value><value> 17 июня 2013 года.</value><value>
+</value><value>↑</value><value> </value><value>PyTorch Governance | Maintainers — PyTorch 2.0 documentation</value><value> </value><value>.</value><value> </value><value>pytorch.org</value><value>.</value><value> </value><value>Дата обращения: 21 марта 2023.</value><value>
+</value><value>↑</value><value> </value><value>Trino and the BDFL model </value><value>https://trino.io/blog/2023/04/06/trino-bdfl-focus.html</value><value>
+</value><value>↑</value><value> </value><value>Jenkins Enhancement Proposal #1: BDFL </value><value>https://github.com/jenkinsci/jep/blob/master/jep/1/README.adoc#bdfl</value><value>
+</value><value>↑</value><value> </value><value>RedBeanPHP index page </value><value>https://redbeanphp.com/index.php?p=/welcome#sponsor</value><value>
+</value><value>↑</value><value> </value><value>BitTorrent Enhancement Proposal #1: The BEP Process </value><value>https://www.bittorrent.org/beps/bep_0001.html</value><value>
+</value><value>↑</value><value> </value><value>Polars - About us</value><value> </value><value> </value><value>(7 апреля 2024).</value><value> </value><value>Архивировано</value><value> 24 марта 2024 года.</value><value>
+</value><value>↑</value><value> </value><value>Lightning Governance — PyTorch Lightning 2.3.0dev documentation</value><value> </value><value>.</value><value> </value><value>lightning.ai</value><value>.</value><value> </value><value>Дата обращения: 10 апреля 2024.</value><value>
+</value><value>↑</value><value> </value><value>Addressing the Future of ABAP: The Power of Open Source</value><value> </value><value> </value><value>(6 июня 2024).</value><value>
+</value><value>↑</value><value> </value><value>GitHub FastAPI</value><value> </value><value> </value><value>(30 июля 2024).</value><value>
+</value><value>↑</value><value> </value><value>Proposal Process</value><value> </value><value> </value><value>(31 марта 2019).</value><value>
+</value><value>↑</value><value> </value><value>ankitects Github organization</value><value> </value><value>.</value><value> </value><value>GitHub</value><value>.</value><value> </value><value>Дата обращения: 14 сентября 2024.</value><value>
+</value><value>↑</value><value> </value><value>Anki development discussion</value><value> </value><value>.</value><value> </value><value>Reddit</value><value>.</value><value> </value><value>Дата обращения: 14 сентября 2024.</value><value>
+</value><value>↑</value><value> </value><value>ProcessWire index page </value><value>https://www.processwire.com/</value><value>
+</value><value>↑</value><value> </value><value>Antirez Redis repository </value><value>https://github.com/antirez/redis</value><value>
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>
+</value><value>↑</value><value> </value><value>CTO of </value><value>TerminusDB</value><value>
+</value><value>↑</value><value> </value><value>Lead Developer at the WordPress Foundation</value><value>
+</value><value>↑</value><value> </value><value>Председатель </value><value>Blender Foundation</value><value>
+</value><value>↑</value><value> </value><value>Генеральный директор </value><value>Canonical</value><value> до декабря 2009 года, затем снова с июля 2017 года</value><value>
+</value><value>↑</value><value> </value><value>Технический консультант в </value><value>F# Software Foundation</value><value>
+</value><value>↑</value><value> </value><value>Спонсор </value><value>The Linux Foundation</value><value>. Также владеет товарным знаком Linux.</value><value>
+</value><value>↑</value><value> </value><value>Disputed by Wales; </value><value>"I am not the benevolent dictator of anything"</value><value>
+</value><value>Ошибка в сносках</value><value>?</value><value>: Для существующих тегов </value><value>&lt;ref&gt;</value><value> группы «lower-alpha» не найдено соответствующего тега </value><value>&lt;references group="lower-alpha"/&gt;</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Источник — </value><value>https://ru.wikipedia.org/w/index.php?title=Великодушный_пожизненный_диктатор&amp;oldid=153448579</value></text><lastUpdated> Страница в последний раз была отредактирована 7 июня 2026 года в 16:19.</lastUpdated></item>
+<item><url>https://no.wikipedia.org/wiki/Benevolent_Dictator_For_Life</url><title>None</title><text><value>Benevolent Dictator For Life (BDFL)</value><value> er en tittel som blir gitt til et lite antall av personer som leder utviklingen av et prosjekt med </value><value>fri og åpen programvare</value><value>. Tittelen blir typisk gitt til prosjektgrunnleggere som har det siste ord når det oppstår uenigheter og argumenter innenfor samfunnet av utviklere.</value><value>
+
+</value><value>Begrepet oppstod i </value><value>1995</value><value> med referanse til </value><value>Guido van Rossum</value><value>, som var skaperen av </value><value>programmeringsspråket</value><value> </value><value>Python</value><value>.</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>
+
+</value><value>Referanser</value><value>[</value><value>rediger</value><value> | </value><value>rediger kilde</value><value>]</value><value>
+</value><value>↑</value><value> </value><value>Guido van Rossum (31. juli 2008). </value><value>«Origin of BDFL»</value><value>. Besøkt 1. august 2008</value><value>.</value><value> </value><value>
+</value><value>↑</value><value> </value><value>«Python Creator Scripts Inside Google»</value><value>. www.eweek.com</value><value>. Besøkt 13. mai 2008</value><value>.</value><value> </value><value>
+</value><value>
+
+</value><value>.mw-parser-output .spire{clear:both;border:1px solid var(--border-color-base,#a2a9b1);border-radius:2px;padding:0.325rem;padding-left:3rem;margin:0.5rem 0;font-size:0.8125rem;background-color:var(--background-color-neutral-subtle,#f8f9fa);background-image:url("https://upload.wikimedia.org/wikipedia/commons/2/2d/Stub_W.svg"),url("https://upload.wikimedia.org/wikipedia/commons/c/ce/Emojione_1F331.svg"),url("https://upload.wikimedia.org/wikipedia/commons/7/7a/Grass_compartment.svg");background-repeat:no-repeat;background-position:0.5rem center,bottom right 0.5rem,bottom -2.1rem right -4rem;background-size:2rem,1.8rem,10rem;padding-right:3rem;text-align:start}</value><value>Denne artikkelen er en </value><value>spire</value><value>. Du kan hjelpe Wikipedia ved å </value><value>utvide den</value><value>.   </value><value>
+</value><value>Autoritetsdata</value><value>
+
+</value><value>
+</value><value>
+</value><value>
+</value><value>
+
+</value><value>
+
+</value><value>
+
+</value><value>
+</value><value>
+</value><value>Hentet fra «</value><value>https://no.wikipedia.org/w/index.php?title=Benevolent_Dictator_For_Life&amp;oldid=24100681</value><value>»</value></text><lastUpdated> Denne siden ble sist redigert 5. des. 2023 kl. 23:22.</lastUpdated></item>
+<item><url>https://ja.wikipedia.org/wiki/%E5%84%AA%E3%81%97%E3%81%84%E7%B5%82%E8%BA%AB%E3%81%AE%E7%8B%AC%E8%A3%81%E8%80%85</url><title>None</title><text><value>優しい終身の独裁者</value><value>（やさしいしゅうしんのどくさいしゃ、</value><value>Benevolent Dictator For Life</value><value>、省略形</value><value>BDFL</value><value>、より直訳的には「</value><value>慈悲深き終身の</value><value>独裁官</value><value>」）とは、</value><value>オープンソース</value><value>ソフトウェア開発プロジェクトの少数の</value><value>リーダー</value><value>に与えられる</value><value>称号</value><value>である。一般的には、コミュニティ内で論議、論争が発生した際に最終的な仲裁を行う権利を持つプロジェクト創設者であることが多い。独裁者という言葉から勘違いされることがあるが、あくまで論争が発生したときに仲裁を行うのであって、ソフトウェアの仕様の最終決定者のことではなく、ソフトウェアの権利を独占している者のことでもない。</value><value>
+
+</value><value>この用語は</value><value>1995年</value><value>に誕生し、</value><value>Pythonプログラミング言語</value><value>作者の</value><value>グイド・ヴァンロッサム</value><value>を指していた</value><value>[</value><value>1</value><value>]</value><value>[</value><value>2</value><value>]</value><value>。ヴァンロッサムは、</value><value>CNRI</value><value>（</value><value>英語版</value><value>）</value><value>に雇用されて間もなく、Python開発とワークショップの監督を行う準公式グループを設立することを企画するミーティングについて</value><value>電子メール</value><value>でやり取りを行っていた。その電子メールに返信した</value><value>ケン・マンハイマー</value><value>（</value><value>英語版</value><value>）</value><value>のメールにこの用語が登場する</value><value>[</value><value>1</value><value>]</value><value>。</value><value>
+
+</value><value>BDFLは、オープンソースのリーダーに対するより良く知られた用語、「</value><value>優しい独裁者(benevolent dictator)</value><value>（</value><value>英語版</value><value>）</value><value>」</value><value>[</value><value>3</value><value>]</value><value>と混同すべきではない。こちらは</value><value>エリック・レイモンド</value><value>のエッセイ、「</value><value>ノウアスフィアの開墾</value><value>（</value><value>英語版</value><value>）</value><value>」で普及した</value><value>[</value><value>4</value><value>]</value><value>。</value><value>ハッカー文化</value><value>にまつわる話題のひとつとして、レイモンドは、いかにして、オープンソースの性質のせいで「独裁制」というものが慈悲深くなければならないのかを詳しく調べている。なぜなら、意見が完全に違ってしまえば、新しいリーダーがプロジェクトを</value><value>フォーク</value><value>することにつながるからである。</value><value>
+
+</value><value>優しい終身の独裁者と時折見なされる人物の例</value><value>[</value><value>編集</value><value>]</value><value>
+</value><value>グイド・ヴァンロッサム</value><value>、</value><value>Python</value><value>作者</value><value>[</value><value>5</value><value>]</value><value>[</value><value>6</value><value>]</value><value>
+</value><value>リーナス・トーバルズ</value><value>、</value><value>Linux</value><value>作者</value><value>[</value><value>7</value><value>]</value><value>
+</value><value>ラリー・ウォール</value><value>、</value><value>Perl</value><value>創始者</value><value>
+</value><value>パトリック・フォルカーディング</value><value>、</value><value>Slackware</value><value>作者</value><value>[</value><value>8</value><value>]</value><value>
+</value><value>ファビオ・エルクリアーニ</value><value>（</value><value>英語版</value><value>）</value><value>、</value><value>Sabayon Linux</value><value>作者</value><value>[</value><value>9</value><value>]</value><value>
+</value><value>マーティン・ドージャマス</value><value>（</value><value>英語版</value><value>）</value><value>、</value><value>Moodle</value><value>作者</value><value>
+</value><value>マーク・シャトルワース</value><value>は自分自身を「自ら任命した優しい終身の独裁者」（"Self-Appointed Benevolent Dictator For Life"、省略形SABDFL）と呼んでいる。そして、</value><value>Ubuntu</value><value>コミュニティでは、しばしば彼を指してこの名称を使う</value><value>[</value><value>10</value><value>]</value><value>[</value><value>11</value><value>]</value><value>[</value><value>12</value><value>]</value><value>。</value><value>
+</value><value>Django</value><value>の</value><value>エイドリアン・ホロヴァティ</value><value>（</value><value>英語版</value><value>）</value><value>とジェイコブ・カプラン=モス（Jacob Kaplan-Moss）</value><value>[</value><value>13</value><value>]</value><value>[</value><value>14</value><value>]</value><value>
+</value><value>ドリース・ボイタールト</value><value>（</value><value>英語版</value><value>）</value><value>（</value><value>アントウェルペン</value><value>出身）、</value><value>Drupal</value><value>プロジェクトの創設者兼リーダー</value><value>[</value><value>15</value><value>]</value><value>[</value><value>16</value><value>]</value><value>
+</value><value>ライアン・ダール（Ryan Dahl）、</value><value>Node.js</value><value>の作者</value><value>[</value><value>17</value><value>]</value><value>
+</value><value>スティーブ・コースト</value><value>、</value><value>オープン・ストリート・マップ</value><value>の創設者</value><value>[</value><value>18</value><value>]</value><value>
+</value><value>トニー・ロッケ（Tony Locke）、</value><value>Chellow</value><value>（</value><value>英語版</value><value>）</value><value>作者 </value><value>[</value><value>要出典</value><value>]</value><value>
+</value><value>ラスマス・ラードフ</value><value>、</value><value>PHP</value><value>作者</value><value>[</value><value>19</value><value>]</value><value>
+</value><value>まつもとゆきひろ</value><value>（Matz）、</value><value>Ruby</value><value>作者</value><value>[</value><value>20</value><value>]</value><value>
+</value><value>テオ・デ・ラート</value><value>、</value><value>OpenBSD</value><value>創設者</value><value>[</value><value>要出典</value><value>]</value><value>
+</value><value>リッチ・ヒッキー（Rich Hickey）、</value><value>Clojure</value><value>作者</value><value>[</value><value>21</value><value>]</value><value>
+</value><value>トン・ローセンダール</value><value>、</value><value>Blender</value><value>作者</value><value>[</value><value>要出典</value><value>]</value><value>
+</value><value>ジミー・ウェールズ</value><value>、</value><value>ウィキペディア</value><value>創設者</value><value>[</value><value>22</value><value>]</value><value>
+</value><value>マット・マレンウェッグ</value><value>、</value><value>WordPress</value><value>創設者</value><value>[</value><value>23</value><value>]</value><value>
+
+</value><value>脚注</value><value>[</value><value>編集</value><value>]</value><value>
+</value><value>
+</value><value>1</value><value> </value><value>2</value><value> </value><value>
+</value><value>Guido van Rossum</value><value> </value><value>(2008年7月31日).</value><value> </value><value>“</value><value>Origin of BDFL</value><value>”.</value><value> </value><value>2008年8月1日閲覧。</value><value>
 </value><value>↑</value><value> </value><value>
+</value><value>“</value><value>Python Creator Scripts Inside Google</value><value>”.</value><value> </value><value>  eWeek</value><value> </value><value>(2006年3月6日).</value><value> </value><value>2008年5月13日閲覧。</value><value>
+</value><value>↑</value><value> </value><value>
+こちらはオープンソースに限らず政治用語としても一般的に使われており、例えば、</value><value>開発独裁</value><value>を主導した</value><value>シンガポール</value><value>の首相、</value><value>リー・クアンユー</value><value>なども</value><value>慈悲深き独裁者</value><value>と呼ばれる。
+</value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>Eric S. Raymond.</value><value> </value><value>“</value><value>Homesteading the Noosphere</value><value>”.</value><value> </value><value>2008年8月1日閲覧。</value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>Timothy Prickett Morgan</value><value> </value><value>(2006年4月17日).</value><value> </value><value>“</value><value>The Four Hundred--Next Up on the System i: Python</value><value>”.</value><value> </value><value>  www.itjungle.com.</value><value> </value><value>2008年5月13日閲覧。</value><value>
+</value><value>↑</value><value> </value><value>
+Guido van Rossum </value><value>.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"“""”""‘""’"}.mw-parser-output .citation.cs-ja1 q,.mw-parser-output .citation.cs-ja2 q{quotes:"「""」""『""』"}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .cs1-ws-icon.cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/auto 1em no-repeat;padding-right:1em}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:var(--color-success,#177860);margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}}</value><value>“Benevolent dictator for life”</value><value>. </value><value>Linux Format</value><value>. 2005年2月1日. 2006年10月1日時点の</value><value>オリジナル</value><value>よりアーカイブ</value><value>. 2007年11月1日閲覧</value><value>.</value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>Ingo,</value><value> </value><value>Henrik</value><value> </value><value>(2006).</value><value> </value><value>“Benevolent dictator”</value><value>.</value><value> </value><value>Open Life: The Philosophy of Open Source</value><value>.</value><value> </value><value>ISBN</value><value> </value><value>978-1-84728-611-6</value><value>.</value><value> </value><value>http://openlife.cc/onlinebook/benevolent-dictator</value><value> </value><value>2011年3月5日閲覧。</value><value> </value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>“</value><value>Slackware's "About" page</value><value>”.</value><value> </value><value>2011年4月29日閲覧。</value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>“</value><value>Sabayon Website</value><value>”.</value><value> </value><value>2011年9月29日閲覧。</value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>“</value><value>About Ubuntu: Governance</value><value>”.</value><value> </value><value>  Canonical Ltd.</value><value> </value><value>2011年3月5日閲覧。</value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>Ryan Paul.</value><value> </value><value>“</value><value>Ubuntu founder defuses rumors of impending Microsoft deal</value><value>”.</value><value> </value><value>  </value><value>Ars Technica</value><value>.</value><value> </value><value>2008年5月13日閲覧。</value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>“</value><value>フリーソフトウェア/オープンソースに最も貢献した10人</value><value>”.</value><value> </value><value>  </value><value>OSDN</value><value> Magazine</value><value> </value><value>(2009年4月20日).</value><value> </value><value>2011年4月29日閲覧。</value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>“</value><value>Django committers</value><value>”.</value><value> </value><value>2011年4月29日閲覧。</value><value>
+</value><value>↑</value><value> </value><value>
+</value><value>Clint Ecker.</value>
