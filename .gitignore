@@ -1,0 +1,23 @@
+
+# Caches do Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Arquivos de dados e fotos (CSV, JSON, XML e imagens)
+*.csv
+*.json
+*.xml
+*.png
+*.jpg
+*.jpeg
+
+# Pastas de dados específicos
+cams/
+obituary/
+veleiros/
+
+articles.xml
+*.xml
